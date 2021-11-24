@@ -1,129 +1,67 @@
 # 20 Mediaset
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/1e7b81af-a714-4f6e-851c-5e5c6745c140/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|00:40:30|01:44:30|S6 Ep5 Tutti sospettati - Il processo inizia e le cose non sembrano mettersi bene per Walt, specialmente dopo che un omicidio vedra' come principali sospettati Vic e Walt.
-
 |![Icon](https://guidatv.sky.it/uuid/3ed49676-4aeb-4a0d-8afa-b931ddd2414e/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|01:45:17|02:38:17|S6 Ep6 Il nuovo Hector - Uno spacciatore viene ritrovato morto in casa sua, trafitto da molte frecce. Il tutto lascia supporre la presenza di un nuovo Hector.
-
 |![Icon](https://guidatv.sky.it/uuid/e96f7f2e-fefe-4029-9a5f-0d61a31ec450/cover?md5ChecksumParam=b44b83119d43baaa505c1e594293d959)|Renegade|02:38:51|03:17:51|S1 Ep19 Riabilitazione - Reno giunge in una fattoria gestita da una cooperativa di ex detenuti, che cercano di rifarsi una vita. La pacifica comunita' e' minacciata da un gruppo di teppisti.
-
 |![Icon](https://guidatv.sky.it/uuid/5e3e7762-14ff-482a-af9c-7021a8e19409/cover?md5ChecksumParam=b44b83119d43baaa505c1e594293d959)|Renegade|03:18:16|03:58:16|S1 Ep20 Vendetta trasversale - La figlia di un vice-procuratore capo lascia la casa paterna per andare a stare con un cantante rock di dubbia fama. Suo padre chiede l'aiuto di Reno.
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Show reel rete 20 2021|03:58:17|04:10:17|Show reel rete 20 2021
-
 |![Icon](https://guidatv.sky.it/uuid/60950110-385e-4dc4-803a-d9f1c1d1a240/cover?md5ChecksumParam=ce58c00a850078fa7c3d48f2f33ba46e)|Squadra Antimafia - Palermo oggi|04:10:17|05:06:17|S4 Ep18 - Il Vice Questore Calcaterra, deciso ad incastrare i fratelli Mezzanotte e i narcotrafficanti talebani, e' costretto ad agire in clandestinita'.
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Show reel rete 20 2021|05:06:19|05:19:19|Show reel rete 20 2021
-
 |![Icon](https://guidatv.sky.it/uuid/3ed49676-4aeb-4a0d-8afa-b931ddd2414e/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|05:19:19|06:12:19|S6 Ep6 Il nuovo Hector - Uno spacciatore viene ritrovato morto in casa sua, trafitto da molte frecce. Il tutto lascia supporre la presenza di un nuovo Hector.
-
 |![Icon](https://guidatv.sky.it/uuid/aeb53964-20dd-49ed-8d9d-4d3e12ac74c9/cover?md5ChecksumParam=ac5fffb2c52e2a3a37addb4172653ecc)|Lucifer|06:12:53|06:53:53|S3 Ep7 In via confidenziale - Reese, ex marito di Linda, si risveglia dal coma. Vuole rimediare ai suoi errori e riconquistarla; credendo che Lucifer sia l'amante di sua moglie, prova a rovinarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/8a7c13b0-b38c-4e86-84d5-261ae40ecdf2/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|06:54:29|07:43:29|S3 Ep8 Chloe contro Lucifer - Chloe indaga sull'omicidio di una ragazza che apparentemente conduceva una vita piatta e monotona. Intanto Lucifer e' impegnato in una partita a Monopoli.
-
 |![Icon](https://guidatv.sky.it/uuid/84a908ae-bab4-4427-95c1-fb2a268804d1/cover?md5ChecksumParam=03359beaaca09698ee818e3215dcda7a)|Chuck|07:44:12|08:38:12|S4 Ep24 Chuck vs. Decker - Sarah, colpita da un potente veleno, sta per morire. Serve subito l'antidoto. Chuck e Casey vanno nel carcere dove e' rinchiuso Volkoff.
-
 |![Icon](https://guidatv.sky.it/uuid/538014c4-2bfc-4b07-9216-54a6dd93867b/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|08:39:09|09:37:09|S5 Ep1 Chuck vs. lo zoom - Chuck e la sua squadra sono alle prese con una nuova missione: devono recuperare dei soldi che un abile truffatore ha fatto sparire.
-
 |![Icon](https://guidatv.sky.it/uuid/2aead514-5e5f-4e70-a92b-e480d744fbeb/cover?md5ChecksumParam=1ee54bdd3db06bb869e7014221912ac3)|Chicago Fire|09:37:49|10:25:49|S3 Ep1 Sempre - La morte di Shay ha sconvolto tutti e non e' facile tornare alla vita di prima. Dawson combatte con i sensi di colpa, mentre Severide medita di lasciare la caserma.
-
 |![Icon](https://guidatv.sky.it/uuid/187d2e98-2ee7-4455-b656-3cb94c7964bb/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|10:26:41|10:51:41|S4 Ep5 L'emanazione empirica dell'angoscia - Leonard e' depresso quando realizza che tutti i suoi amici hanno una ragazza e lui no.
-
 |![Icon](https://guidatv.sky.it/uuid/e6ec69c1-82ee-42ef-a297-6ddfd9ce8f3b/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|10:52:06|11:15:06|S4 Ep6 La formulazione del pub irlandese - Arriva la sorella di Raj e il ragazzo e' preoccupato che gli amici possano importunarla.
-
 |![Icon](https://guidatv.sky.it/uuid/7fd54889-9b0e-4e5a-b6f0-30dc3fced85a/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|11:15:51|12:09:51|S2 Ep12 Tar-Pit - L'esplosione dell'acceleratore trasforma in un mostro di bitume Joey, un criminale gettato dai propri complici in una pozza di catrame bollente.
-
 |![Icon](https://guidatv.sky.it/uuid/adaa97c3-91a9-4be6-b7d7-8c65498006ab/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|12:09:56|12:59:56|S2 Ep13 Benvenuti su Terra-due - Wells, Barry e Cisco partono per Terra-Due per salvare Jesse, la figlia di Wells. Arrivati, vedono che molte cose sono diverse.
-
 |![Icon](https://guidatv.sky.it/uuid/aeb53964-20dd-49ed-8d9d-4d3e12ac74c9/cover?md5ChecksumParam=ac5fffb2c52e2a3a37addb4172653ecc)|Lucifer|13:00:03|13:53:03|S3 Ep7 In via confidenziale - Reese, ex marito di Linda, si risveglia dal coma. Vuole rimediare ai suoi errori e riconquistarla; credendo che Lucifer sia l'amante di sua moglie, prova a rovinarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/8a7c13b0-b38c-4e86-84d5-261ae40ecdf2/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|13:53:58|14:41:58|S3 Ep8 Chloe contro Lucifer - Chloe indaga sull'omicidio di una ragazza che apparentemente conduceva una vita piatta e monotona. Intanto Lucifer e' impegnato in una partita a Monopoli.
-
 |![Icon](https://guidatv.sky.it/uuid/84a908ae-bab4-4427-95c1-fb2a268804d1/cover?md5ChecksumParam=03359beaaca09698ee818e3215dcda7a)|Chuck|14:42:21|15:38:21|S4 Ep24 Chuck vs. Decker - Sarah, colpita da un potente veleno, sta per morire. Serve subito l'antidoto. Chuck e Casey vanno nel carcere dove e' rinchiuso Volkoff.
-
 |![Icon](https://guidatv.sky.it/uuid/538014c4-2bfc-4b07-9216-54a6dd93867b/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|15:38:21|16:31:21|S5 Ep1 Chuck vs. lo zoom - Chuck e la sua squadra sono alle prese con una nuova missione: devono recuperare dei soldi che un abile truffatore ha fatto sparire.
-
 |![Icon](https://guidatv.sky.it/uuid/7fd54889-9b0e-4e5a-b6f0-30dc3fced85a/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|16:31:49|17:21:49|S2 Ep12 Tar-Pit - L'esplosione dell'acceleratore trasforma in un mostro di bitume Joey, un criminale gettato dai propri complici in una pozza di catrame bollente.
-
 |![Icon](https://guidatv.sky.it/uuid/adaa97c3-91a9-4be6-b7d7-8c65498006ab/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|17:22:31|18:16:31|S2 Ep13 Benvenuti su Terra-due - Wells, Barry e Cisco partono per Terra-Due per salvare Jesse, la figlia di Wells. Arrivati, vedono che molte cose sono diverse.
-
 |![Icon](https://guidatv.sky.it/uuid/2aead514-5e5f-4e70-a92b-e480d744fbeb/cover?md5ChecksumParam=1ee54bdd3db06bb869e7014221912ac3)|Chicago Fire|18:17:13|19:08:13|S3 Ep1 Sempre - La morte di Shay ha sconvolto tutti e non e' facile tornare alla vita di prima. Dawson combatte con i sensi di colpa, mentre Severide medita di lasciare la caserma.
-
 |![Icon](https://guidatv.sky.it/uuid/187d2e98-2ee7-4455-b656-3cb94c7964bb/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|19:09:08|19:40:08|S4 Ep5 L'emanazione empirica dell'angoscia - Leonard e' depresso quando realizza che tutti i suoi amici hanno una ragazza e lui no.
-
 |![Icon](https://guidatv.sky.it/uuid/e6ec69c1-82ee-42ef-a297-6ddfd9ce8f3b/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|19:40:28|20:14:28|S4 Ep6 La formulazione del pub irlandese - Arriva la sorella di Raj e il ragazzo e' preoccupato che gli amici possano importunarla.
-
 |![Icon](https://guidatv.sky.it/uuid/88214538-7685-4e13-add9-56b2247f6371/cover?md5ChecksumParam=f6b5525aca3b6bc1b10b4bb29fb45249)|Into the Sun|20:15:05|22:15:05|Il governatore di Tokyo viene assassinato e per scoprire i moventi ed i mandanti dell'omicidio viene incaricato l'agente della CIA Travis Hunter. Con S. Seagal. Regia di Mink; USA 2005
-
 |![Icon](https://guidatv.sky.it/uuid/d171d142-d40c-4feb-acfa-cbb8814ba194/cover?md5ChecksumParam=6c9d4f663aef2d2f48b1114c3d68b414)|Viaggio nell'isola misteriosa|22:15:11|00:11:11|La fantastica e rocambolesca avventura del giovane Sean, alla ricerca dell'isola misteriosa in cui e' scomparso il nonno 10 anni prima. Con Dwayne Johnson (&quot;The Rock&quot;). Regia di B. Peyton; USA 2012
-
 |![Icon](https://guidatv.sky.it/uuid/1d0ce3f1-1ffb-4a37-bb6c-a1ffc83c5221/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|00:12:10|01:16:10|S6 Ep7 Droghe e farmaci - A quanto pare Eddie Harp non e' morto davvero. E' lui che ha impersonato Hector.
-
 |![Icon](https://guidatv.sky.it/uuid/0bc19bfb-349d-4dea-86e0-2be4763af755/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|01:16:27|02:18:27|S6 Ep8 Il rapinatore - Ferg e' convinto che l'ex ragazzo di Meg sia Cowboy Bill, il noto rapinatore di banche, ma sbaglia.
-
 |![Icon](https://guidatv.sky.it/uuid/73d56e75-5bce-488a-8162-b70fa758f79c/cover?md5ChecksumParam=b44b83119d43baaa505c1e594293d959)|Renegade|02:18:38|03:01:38|S1 Ep21 Lotta per la vita - I parte - Reno viene a sapere che Mitch, il fratello che credeva morto in Cambogia, e' vivo. Quando si incontrano, Cal muore tra le sue braccia, colpito da un killer.
-
 |![Icon](https://guidatv.sky.it/uuid/8fe7639a-44dc-4031-9f11-638612fb7eb9/cover?md5ChecksumParam=b44b83119d43baaa505c1e594293d959)|Renegade|03:01:45|03:41:45|S1 Ep22 Lotta per la vita - II parte - Cheyenne scopre che Brackett e' ormai in pensione e che il suo nome e' legato a un misterioso club di Hollywood.
-
 |![Icon](https://guidatv.sky.it/uuid/60950110-385e-4dc4-803a-d9f1c1d1a240/cover?md5ChecksumParam=ce58c00a850078fa7c3d48f2f33ba46e)|Squadra Antimafia - Palermo oggi|03:42:14|03:42:14|S4 Ep18 - Il Vice Questore Calcaterra, deciso ad incastrare i fratelli Mezzanotte e i narcotrafficanti talebani, e' costretto ad agire in clandestinita'.
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Show reel rete 20 2021|03:42:24|04:11:24|Show reel rete 20 2021
-
 |![Icon](https://guidatv.sky.it/uuid/7f0e180d-1b71-4f7c-bcff-fa5ba955dc5d/cover?md5ChecksumParam=ce58c00a850078fa7c3d48f2f33ba46e)|Squadra Antimafia - Palermo oggi|04:12:09|04:58:09|S4 Ep19 - Rosy Abate deve continuare a lottare contro il tempo e contro la volonta' del magistrato Antonucci, per riuscire nella difficile impresa di salvare Calcaterra.
-
 |![Icon](https://guidatv.sky.it/uuid/1d0ce3f1-1ffb-4a37-bb6c-a1ffc83c5221/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|04:58:48|05:05:48|S6 Ep7 Droghe e farmaci - A quanto pare Eddie Harp non e' morto davvero. E' lui che ha impersonato Hector.
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Show reel rete 20 2021|05:06:37|05:13:37|Show reel rete 20 2021
-
 |![Icon](https://guidatv.sky.it/uuid/0bc19bfb-349d-4dea-86e0-2be4763af755/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|05:13:37|05:39:37|S6 Ep8 Il rapinatore - Ferg e' convinto che l'ex ragazzo di Meg sia Cowboy Bill, il noto rapinatore di banche, ma sbaglia.
-
 |![Icon](https://guidatv.sky.it/uuid/81136953-68c0-4b94-9ad8-ec3bd144511f/cover?md5ChecksumParam=0fca8effec38ddf0684c936bdbecb9eb)|Longmire|05:40:24|06:15:24|S6 Ep9 Un piccolo dipartimento - Vic riceve una visita a sorpresa dal padre che, dopo aver saputo della sparatoria, vuole convincerla a tornare a Philadelphia.
-
 |![Icon](https://guidatv.sky.it/uuid/5ef9e231-abc9-4e52-b172-1a4499b737c0/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|06:15:48|07:01:48|S3 Ep9 Il peccatore - Lucifer concede un favore a un ragazzo che viene ucciso dal Peccatore. La stessa dinamica si ripete con una donna. Lucifer crede che siano messaggi destinati a lui.
-
 |![Icon](https://guidatv.sky.it/uuid/e941cd05-cedc-455d-b5d8-dc7bc6a293d7/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|07:02:10|07:56:10|S3 Ep10 Il cestino dei peccati - Una ragazza viene rapita. Dietro il crimine si nasconde il Peccatore quindi l'unico modo per salvarla e' farlo uscire allo scoperto.
-
 |![Icon](https://guidatv.sky.it/uuid/831fd52a-4646-4175-bc70-afd26c69e0ec/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|07:56:32|08:44:32|S5 Ep2 Chuck vs. il bandito barbuto - Morgan, grazie all'Intersect, si sente un po' come un supereroe, quindi Sarah suggerisce a Chuck di fargli da addestratore per evitare di trovarsi in guai seri.
-
 |![Icon](https://guidatv.sky.it/uuid/dc3d3a49-f126-4f96-9a07-1a0d1bcc1808/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|08:45:25|09:37:25|S5 Ep3 Chuck vs. la zip drive - L'Intersect sta cambiando Morgan molto velocemente. Chuck e gli altri scoprono che ha deciso di lavorare per la loro piu' grande rivale, la Verbanski Corporation.
-
 |![Icon](https://guidatv.sky.it/uuid/18926aa3-e60d-4da6-9832-8aca89d053bf/cover?md5ChecksumParam=1ee54bdd3db06bb869e7014221912ac3)|Chicago Fire|09:38:01|10:25:01|S3 Ep2 Sorprendimi - Dawson non vede l'ora di prendere servizio alla 105 ma, quando sembra tutto pronto, riceve una brutta notizia. Intanto Casey le chiede nuovamente di sposarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/e2b64f10-6473-4cd1-8ce0-e89298bd64c3/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|10:25:19|10:49:19|S4 Ep7 L'insufficienza delle scuse - I ragazzi vengono intervistati da un agente dell'FBI per la certificazione sulla sicurezza, ma Sheldon si lascia scappare qualche informazione di troppo.
-
 |![Icon](https://guidatv.sky.it/uuid/9954f8c6-732f-4626-bc81-f19dd7443439/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|10:49:41|11:17:41|S4 Ep8 L'eccitazione dei 21 secondi - I ragazzi si accampano fuori dal cinema per prendere i biglietti per il film &quot;I predatori dell'arca perduta&quot;.
-
 |![Icon](https://guidatv.sky.it/uuid/092f58ff-9681-43e0-94ed-1ac6019e1146/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|11:18:24|12:06:24|S2 Ep14 Fuga da Terra-due - Su Terra Uno, Jay e Caitlin affrontano Geomancer e riescono a fermarlo grazie anche al nuovo siero della velocita' di Caitlin.
-
 |![Icon](https://guidatv.sky.it/uuid/1640df7b-4410-4710-aeda-b2fa2b7c1038/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|12:07:17|13:04:17|S2 Ep15 King Shark - Mentre i tre reduci da Terra-Due decidono di non rivelare i fatti vissuti nella realta' alternativa, King Shark evade dalla prigione e raggiunge Central City per uccidere Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/5ef9e231-abc9-4e52-b172-1a4499b737c0/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|13:04:27|13:52:27|S3 Ep9 Il peccatore - Lucifer concede un favore a un ragazzo che viene ucciso dal Peccatore. La stessa dinamica si ripete con una donna. Lucifer crede che siano messaggi destinati a lui.
-
 |![Icon](https://guidatv.sky.it/uuid/e941cd05-cedc-455d-b5d8-dc7bc6a293d7/cover?md5ChecksumParam=5c32ec357bcbf12eaed23e6357a08d04)|Lucifer|13:52:40|14:42:40|S3 Ep10 Il cestino dei peccati - Una ragazza viene rapita. Dietro il crimine si nasconde il Peccatore quindi l'unico modo per salvarla e' farlo uscire allo scoperto.
-
 |![Icon](https://guidatv.sky.it/uuid/831fd52a-4646-4175-bc70-afd26c69e0ec/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|14:43:04|15:33:04|S5 Ep2 Chuck vs. il bandito barbuto - Morgan, grazie all'Intersect, si sente un po' come un supereroe, quindi Sarah suggerisce a Chuck di fargli da addestratore per evitare di trovarsi in guai seri.
-
 |![Icon](https://guidatv.sky.it/uuid/dc3d3a49-f126-4f96-9a07-1a0d1bcc1808/cover?md5ChecksumParam=00056dc02042bc44d89ef178b622a37c)|Chuck|15:33:36|16:28:36|S5 Ep3 Chuck vs. la zip drive - L'Intersect sta cambiando Morgan molto velocemente. Chuck e gli altri scoprono che ha deciso di lavorare per la loro piu' grande rivale, la Verbanski Corporation.
-
 |![Icon](https://guidatv.sky.it/uuid/092f58ff-9681-43e0-94ed-1ac6019e1146/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|16:28:45|17:25:45|S2 Ep14 Fuga da Terra-due - Su Terra Uno, Jay e Caitlin affrontano Geomancer e riescono a fermarlo grazie anche al nuovo siero della velocita' di Caitlin.
-
 |![Icon](https://guidatv.sky.it/uuid/1640df7b-4410-4710-aeda-b2fa2b7c1038/cover?md5ChecksumParam=4a176dab04c86b0e0010540df95335a9)|The Flash|17:26:22|18:14:22|S2 Ep15 King Shark - Mentre i tre reduci da Terra-Due decidono di non rivelare i fatti vissuti nella realta' alternativa, King Shark evade dalla prigione e raggiunge Central City per uccidere Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/18926aa3-e60d-4da6-9832-8aca89d053bf/cover?md5ChecksumParam=1ee54bdd3db06bb869e7014221912ac3)|Chicago Fire|18:14:54|19:12:54|S3 Ep2 Sorprendimi - Dawson non vede l'ora di prendere servizio alla 105 ma, quando sembra tutto pronto, riceve una brutta notizia. Intanto Casey le chiede nuovamente di sposarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/e2b64f10-6473-4cd1-8ce0-e89298bd64c3/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|19:13:15|19:40:15|S4 Ep7 L'insufficienza delle scuse - I ragazzi vengono intervistati da un agente dell'FBI per la certificazione sulla sicurezza, ma Sheldon si lascia scappare qualche informazione di troppo.
-
 |![Icon](https://guidatv.sky.it/uuid/9954f8c6-732f-4626-bc81-f19dd7443439/cover?md5ChecksumParam=ff2aa1663505cf45765fa920870bc764)|Big Bang Theory|19:40:48|20:11:48|S4 Ep8 L'eccitazione dei 21 secondi - I ragazzi si accampano fuori dal cinema per prendere i biglietti per il film &quot;I predatori dell'arca perduta&quot;.
-
 |![Icon](https://guidatv.sky.it/uuid/c724f693-212b-4ab6-8370-93af48749e23/cover?md5ChecksumParam=bb6e3568db65abbc6280f76e189a1020)|La partita nel fango - Un giorno nella vita di Maradona|20:12:01|21:01:01|.. vita di Maradona - Omaggio al &quot;pibe de oro&quot; nell'anniversario della sua scomparsa. Il ricordo della storica partita giocata ad Acerra, nel fango, per aiutare un bambino malato. ITA 2021
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Silenzio, parla diego - speciale editato|21:01:37|22:05:37|Speciale dedicato a Maradona, con la voce dell'indimenticabile numero 10 di Napoli e Argentina saranno ripercorsi la vita, , i successi e gli eccessi di una delle piu' grandi icone del... ITA 2021
-
 |![Icon](https://guidatv.sky.it/uuid/88214538-7685-4e13-add9-56b2247f6371/cover?md5ChecksumParam=f6b5525aca3b6bc1b10b4bb29fb45249)|Into the Sun|22:06:15|00:04:15|Il governatore di Tokyo viene assassinato e per scoprire i moventi ed i mandanti dell'omicidio viene incaricato l'agente della CIA Travis Hunter. Con S. Seagal. Regia di Mink; USA 2005
 
 

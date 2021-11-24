@@ -1,141 +1,73 @@
 # Premium Crime
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/8baca5af-3011-4abf-84f3-0427329935d2/cover?md5ChecksumParam=6bd99994b4aa4a900205d11161f371c9)|Rush Hour|00:34:38|01:15:38|S1 Ep4 Boom immobiliare - Carter e Lee indagano su due attentati dinamitardi in cui perdono la vita un consigliere comunale e un surfista.
-
 |![Icon](https://guidatv.sky.it/uuid/b9615448-41d5-4eb1-a4e0-322c46b51734/cover?md5ChecksumParam=6bd99994b4aa4a900205d11161f371c9)|Rush Hour|01:15:39|01:56:39|S1 Ep5 Il figlio del dragone - Kim fa visita a Lee e lo informa che la Quantou sta per far arrivare un carico di donne a Los Angeles. Le indagini portano a un trafficante internazionale.
-
 |![Icon](https://guidatv.sky.it/uuid/7f0d459e-f90b-4e76-b3f9-3557f5faf473/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|01:57:10|02:42:10|S10 Ep3 Dissidio insanabile - Ariane e Torben, separati, si disputano ferocemente l'affidamento della figlia Lucie di cinque anni. Dopo l'ennesima lite a cui deve assistere, la bimba fugge.
-
 |![Icon](https://guidatv.sky.it/uuid/6f66ce9a-6253-43c0-a2b5-a83ac29b449b/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|02:42:17|03:24:17|S5 Ep21 Il segreto rosso - Alcuni ladri riescono a scassinare la cassaforte di LaRoche, il quale chiede aiuto a Jane per ritrovare una misteriosa scatola che si trovava al suo interno.
-
 |![Icon](https://guidatv.sky.it/uuid/d7f20904-9763-468c-bbe9-b9d1ea94f478/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|03:24:54|04:07:54|S5 Ep4 Rock and Roll - Grazie alla testimonianza di un uomo, all'epoca bambino, viene riaperto il caso di un giovane cantautore ucciso il 13 Aprile 1953.
-
 |![Icon](https://guidatv.sky.it/uuid/754d4873-b97c-4a4e-8bd6-0f9e5f5683e9/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|04:08:03|04:48:03|S4 Ep1 Una famiglia unita - Mentre partecipa a una parata commemorativa, la senatrice Erica Humphrey Miller, figlia di un ex senatore, viene assassinata da un cecchino.
-
 |![Icon](https://guidatv.sky.it/uuid/b614240a-9fd6-43f6-8e9a-44cf561fc1ff/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|04:48:27|05:29:27|S5 Ep17 Goccia mortale - Il cadavere di Felix Hanson, un noto trafficante di droga, viene trovato su un albero di dodici metri. Incidente o omicidio?
-
 |![Icon](https://guidatv.sky.it/uuid/6c09652d-8ce2-41d8-8d47-2bd6dc8999ef/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|05:30:08|06:15:08|S10 Ep4 Pirata della strada - Carina, una bambina di otto anni, viene investita e ferita gravemente da un'auto pirata che andava a folle velocita'. Mattes e Melanie si occupano del caso.
-
 |![Icon](https://guidatv.sky.it/uuid/6f66ce9a-6253-43c0-a2b5-a83ac29b449b/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|06:16:06|06:57:06|S5 Ep21 Il segreto rosso - Alcuni ladri riescono a scassinare la cassaforte di LaRoche, il quale chiede aiuto a Jane per ritrovare una misteriosa scatola che si trovava al suo interno.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|06:57:31|07:40:31|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|07:41:08|08:26:08|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/754d4873-b97c-4a4e-8bd6-0f9e5f5683e9/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|08:26:49|09:07:49|S4 Ep1 Una famiglia unita - Mentre partecipa a una parata commemorativa, la senatrice Erica Humphrey Miller, figlia di un ex senatore, viene assassinata da un cecchino.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|09:08:12|09:51:12|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/b9615448-41d5-4eb1-a4e0-322c46b51734/cover?md5ChecksumParam=6bd99994b4aa4a900205d11161f371c9)|Rush Hour|09:51:51|10:33:51|S1 Ep5 Il figlio del dragone - Kim fa visita a Lee e lo informa che la Quantou sta per far arrivare un carico di donne a Los Angeles. Le indagini portano a un trafficante internazionale.
-
 |![Icon](https://guidatv.sky.it/uuid/6c09652d-8ce2-41d8-8d47-2bd6dc8999ef/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|10:34:11|11:20:11|S10 Ep4 Pirata della strada - Carina, una bambina di otto anni, viene investita e ferita gravemente da un'auto pirata che andava a folle velocita'. Mattes e Melanie si occupano del caso.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|11:20:47|12:03:47|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|12:04:30|12:50:30|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|12:50:47|13:32:47|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/91ac4be5-a232-495d-97f3-cfdfc3f8cf64/cover?md5ChecksumParam=6bd99994b4aa4a900205d11161f371c9)|Rush Hour|13:33:36|14:14:36|S1 Ep6 Poliziotti a scuola - Lee e Carter indagano sull'omicidio di una studentessa che frequentava una scuola dove, settimane prima, un'altra ragazza era morta per overdose.
-
 |![Icon](https://guidatv.sky.it/uuid/6c09652d-8ce2-41d8-8d47-2bd6dc8999ef/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|14:15:32|15:00:32|S10 Ep4 Pirata della strada - Carina, una bambina di otto anni, viene investita e ferita gravemente da un'auto pirata che andava a folle velocita'. Mattes e Melanie si occupano del caso.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|15:01:31|15:45:31|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|15:45:50|16:30:50|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|16:31:31|17:14:31|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/6c09652d-8ce2-41d8-8d47-2bd6dc8999ef/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|17:14:53|18:00:53|S10 Ep4 Pirata della strada - Carina, una bambina di otto anni, viene investita e ferita gravemente da un'auto pirata che andava a folle velocita'. Mattes e Melanie si occupano del caso.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|18:01:24|18:45:24|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|18:45:42|19:30:42|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|19:31:21|20:14:21|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/70bf84a4-f833-4ade-8686-686f866093d5/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|20:14:55|20:56:55|S5 Ep18 Cattivo sangue - Una agente e' colpita mortalmente con un oggetto in cui e' incastonato il suo distintivo da poliziotto. Provenza era stato suo compagno di corso all'Accademia di Polizia.
-
 |![Icon](https://guidatv.sky.it/uuid/55816d9c-7c5f-4f08-b1d0-2c9de50d95aa/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|20:57:47|21:39:47|S5 Ep19 L' incrocio - Will Sax viene ucciso da un'auto pirata mentre tornava a casa in bicicletta. La Crimini Maggiori si rende conto che non si e' trattato di un incidente, ma di un omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/dcda1589-707f-4434-ac12-7f002681c5ea/cover?md5ChecksumParam=1e5d0126160926de38f380f6e40aa7a3)|The Closer|21:40:44|22:23:44|S7 Ep14 Posto di blocco - Flynn, tornando a casa dopo una conferenza all'universita', assiste ad un incidente stradale nel quale una ragazza di 19 anni viene investita da un pirata della strada.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|22:24:12|23:08:12|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|23:08:28|23:53:28|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|23:54:09|00:37:09|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/b614240a-9fd6-43f6-8e9a-44cf561fc1ff/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|00:37:34|01:17:34|S5 Ep17 Goccia mortale - Il cadavere di Felix Hanson, un noto trafficante di droga, viene trovato su un albero di dodici metri. Incidente o omicidio?
-
 |![Icon](https://guidatv.sky.it/uuid/70bf84a4-f833-4ade-8686-686f866093d5/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|01:17:51|01:57:51|S5 Ep18 Cattivo sangue - Una agente e' colpita mortalmente con un oggetto in cui e' incastonato il suo distintivo da poliziotto. Provenza era stato suo compagno di corso all'Accademia di Polizia.
-
 |![Icon](https://guidatv.sky.it/uuid/6c09652d-8ce2-41d8-8d47-2bd6dc8999ef/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|01:58:17|02:41:17|S10 Ep4 Pirata della strada - Carina, una bambina di otto anni, viene investita e ferita gravemente da un'auto pirata che andava a folle velocita'. Mattes e Melanie si occupano del caso.
-
 |![Icon](https://guidatv.sky.it/uuid/0def3826-3028-4c0d-a749-b87b0b8a35e9/cover?md5ChecksumParam=77c124d96561851566bba27ed1264038)|The Mentalist|02:41:46|03:22:46|S5 Ep22 Le regole di John il Rosso - Una donna viene trovata morta in un motel. E la moglie del nipote di un vecchio amico di Jane.Ci sara' la mano di John il Rosso anche dietro a questo caso?
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|03:22:50|04:05:50|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|04:06:00|04:46:00|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/dcda1589-707f-4434-ac12-7f002681c5ea/cover?md5ChecksumParam=1e5d0126160926de38f380f6e40aa7a3)|The Closer|04:46:22|05:29:22|S7 Ep14 Posto di blocco - Flynn, tornando a casa dopo una conferenza all'universita', assiste ad un incidente stradale nel quale una ragazza di 19 anni viene investita da un pirata della strada.
-
 |![Icon](https://guidatv.sky.it/uuid/9ac0af6a-2bc2-4d86-a89d-a1e9101d87ec/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|05:30:08|06:14:08|S10 Ep5 Insoliti sospetti - Mattes e Melanie indagano sul tentato omicidio di Lukas, un ragazzo che realizza graffiti. Le indagini non sono semplici, a causa della diffidenza dei writers.
-
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|06:14:41|06:58:41|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
-
 |![Icon](https://guidatv.sky.it/uuid/a5919fe2-63f0-4718-a702-7f1d5708d6ef/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|06:59:05|07:42:05|S5 Ep5 L' ultima truffa - Dopo essere stata in coma per diciotto anni, una donna muore improvvisamente. Lilly decide allora di far luce sulla sconosciuta, rimasta senza nome dal 1998.
-
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|07:42:15|08:27:15|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
-
 |![Icon](https://guidatv.sky.it/uuid/5d2ddde9-2462-4af8-ba6d-c082a73be40c/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|08:27:56|09:07:56|S4 Ep2 Un cadavere nell'oceano - L'oceano restituisce il cadavere di una ragazza. La giovane ha segni di percosse ed e' priva di documenti: si tratta sicuramente di omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|09:08:17|09:51:17|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
-
 |![Icon](https://guidatv.sky.it/uuid/70bf84a4-f833-4ade-8686-686f866093d5/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|09:51:18|10:34:18|S5 Ep18 Cattivo sangue - Una agente e' colpita mortalmente con un oggetto in cui e' incastonato il suo distintivo da poliziotto. Provenza era stato suo compagno di corso all'Accademia di Polizia.
-
 |![Icon](https://guidatv.sky.it/uuid/9ac0af6a-2bc2-4d86-a89d-a1e9101d87ec/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|10:34:18|11:20:18|S10 Ep5 Insoliti sospetti - Mattes e Melanie indagano sul tentato omicidio di Lukas, un ragazzo che realizza graffiti. Le indagini non sono semplici, a causa della diffidenza dei writers.
-
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|11:20:48|12:04:48|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
-
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|12:05:20|12:50:20|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
-
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|12:51:02|13:33:02|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
-
 |![Icon](https://guidatv.sky.it/uuid/55816d9c-7c5f-4f08-b1d0-2c9de50d95aa/cover?md5ChecksumParam=cec936cce28693bbae334a31b43dcf4c)|Major Crimes|13:33:52|14:16:52|S5 Ep19 L' incrocio - Will Sax viene ucciso da un'auto pirata mentre tornava a casa in bicicletta. La Crimini Maggiori si rende conto che non si e' trattato di un incidente, ma di un omicidio.
-
 |![Icon](https://guidatv.sky.it/uuid/9ac0af6a-2bc2-4d86-a89d-a1e9101d87ec/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|14:16:55|15:01:55|S10 Ep5 Insoliti sospetti - Mattes e Melanie indagano sul tentato omicidio di Lukas, un ragazzo che realizza graffiti. Le indagini non sono semplici, a causa della diffidenza dei writers.
-
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|15:02:47|15:46:47|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
-
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|15:47:20|16:32:20|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
-
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|16:33:01|17:15:01|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
-
 |![Icon](https://guidatv.sky.it/uuid/9ac0af6a-2bc2-4d86-a89d-a1e9101d87ec/cover?md5ChecksumParam=24aa8f0b6346cc730616ef2029337a1c)|Hamburg - Distretto 21|17:15:49|18:00:49|S10 Ep5 Insoliti sospetti - Mattes e Melanie indagano sul tentato omicidio di Lukas, un ragazzo che realizza graffiti. Le indagini non sono semplici, a causa della diffidenza dei writers.
-
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|18:01:35|18:45:35|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
-
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|18:46:00|19:31:00|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
-
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|19:31:38|20:14:38|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
-
 |![Icon](https://guidatv.sky.it/uuid/02781a26-8ebc-465d-a5b6-190ee0191d61/cover?md5ChecksumParam=1e5d0126160926de38f380f6e40aa7a3)|The Closer|20:15:13|20:57:13|S7 Ep15 Partner silenzioso - In un'auto viene trovato il cadavere di un ragazzo di una gang della zona. La Crimini Maggiori scopre che l'auto e' intestata ad una vecchia conoscenza di Brenda.
-
 |![Icon](https://guidatv.sky.it/uuid/8e668049-d0f7-4854-a590-8f7e376469fb/cover?md5ChecksumParam=1e5d0126160926de38f380f6e40aa7a3)|The Closer|20:58:06|21:40:06|S7 Ep16 Testimone ostile - Brenda e' convinta di riuscire a chiudere un caso ma le indagini la condurranno ad un punto in cui rischiera' di mettere pericolosamente a repentaglio il suo lavoro.
-
 |![Icon](https://guidatv.sky.it/uuid/29be735c-5225-4270-9dd3-023d6a238a20/cover?md5ChecksumParam=97031f7d2996333bf2468e17ed6682ba)|Animal Kingdom|21:41:03|22:28:03|S5 Ep7 Separarsi - Craig e' ancora arrabbiato con Deran perche' ha coinvolto Renn nel furto della cassaforte. Renn vuole continuare a fare colpi con loro, ma Craig rifiuta.
-
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|22:28:05|23:13:05|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
-
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|23:13:11|23:58:11|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
-
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|23:58:51|00:41:51|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
 
 

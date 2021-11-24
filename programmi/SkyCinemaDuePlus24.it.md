@@ -1,61 +1,33 @@
 # Sky Cinema Due +24
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/ac698605-ae5b-4691-acd2-63abd83459de/cover?md5ChecksumParam=b5e25046d71dc828edc993bfc638abb4)|The Departed - Il bene e il male|02:10:00|04:40:00|4 Oscar a un thriller di Martin Scorsese con Leonardo DiCaprio, Matt Damon e Jack Nicholson. Un agente lavora sotto copertura in un clan mafioso, ma anche tra gli sbirri c'e' un infiltrato (USA 2006)
-
 |![Icon](https://guidatv.sky.it/uuid/3c056d0b-83e6-45b7-944f-94ce88d82ff2/cover?md5ChecksumParam=7b1c4194b9099b6a0dabb78d2c0271fb)|Questo o quello - Speciale|04:40:00|04:55:00|Francesco Castelnuovo e Gianni Canova ci portano alla scoperta della programmazione dedicata a Claudio Bisio, disponibile su Sky Cinema Collection da sabato 27 a martedi' 30 novembre.
-
 |![Icon](https://guidatv.sky.it/uuid/78e73191-4de4-4d1a-a1e8-0c775805521b/cover?md5ChecksumParam=c0855897dc5929bd31a4a8c48d507de1)|La versione di Barney|04:55:00|07:15:00|Paul Giamatti, Rosamund Pike e Dustin Hoffman nella commedia tratta dall'omonimo bestseller. L'eccentrico Barney racconta la propria vita, scandita da tormentate avventure sentimentali (CAN/ITA 2010)
-
 |![Icon](https://guidatv.sky.it/uuid/ee0841a0-44a3-4e16-a029-c5db57fbfa78/cover?md5ChecksumParam=d84c8761526e03a2f5afe04fce80b610)|Paradise Hills|07:15:00|08:50:00|Emma Roberts e Milla Jovovich in un film in chiave fantastica sull'emancipazione femminile. Dopo il rifiuto di un matrimonio forzato, Uma viene spedita in un collegio su un'isola sperduta (USA 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/fafb829c-dc11-4a74-a5fe-0a146d933010/cover?md5ChecksumParam=efdce5001d369caee845c00e4cc12def)|Habemus papam|08:50:00|10:35:00|Nanni Moretti dirige e interpreta, con Michel Piccoli e Margherita Buy, una pellicola su un'inaspettata crisi esistenziale. Il nuovo Papa, assalito dall'ansia, rinuncia alla sua missione (ITA 2011)
-
 |![Icon](https://guidatv.sky.it/uuid/693e4603-dd9c-43a8-9806-8d810f3a4cfe/cover?md5ChecksumParam=e93207ca1f24cb4ad315fb927e7f5959)|Il Cinemaniaco incontra|10:35:00|11:05:00|Pif e Ilenia Pastorelli - Gianni Canova ha incontrato il regista e interprete e la protagonista della commedia Sky Original con Fabio De Luigi, dal 29 novembre su Sky Cinema.
-
 |![Icon](https://guidatv.sky.it/uuid/d4754568-4cd4-4723-97ee-2350f46bcfaf/cover?md5ChecksumParam=d50e51c60d0af39a01904283c59d358b)|Fukushima|11:05:00|13:10:00|Ken Watanabe in un film che ripercorre il disastro di Fukushima Dai-ichi. Giappone, 2011. I lavoratori rischiano la vita rimanendo nella centrale nucleare per prevenirne la distruzione (JPN 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/6ddf6325-654a-44bf-b762-bd1ca47686a6/cover?md5ChecksumParam=fcdcc4e30e60bab6ed22fbbe4a558cad)|Genius|13:10:00|14:55:00|Jude Law, Colin Firth e Nicole Kidman nel biopic che racconta la speciale amicizia e il fertile sodalizio fra il prodigioso scrittore Thomas Wolfe e l'editore Max Perkins (USA/GBR 2016)
-
 |![Icon](https://guidatv.sky.it/uuid/718e8dcf-acb9-420e-be39-aec1a921f992/cover?md5ChecksumParam=c571b70612ef4fba9aba45e7324505aa)|Rifkin's Festival|14:55:00|16:35:00|Woody Allen dirige Gina Gershon e Louis Garrel in una commedia che racconta le vicissitudini di un ex insegnante di cinema, al seguito della moglie al Festival di San Sebastian (USA/SPA 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/4fd8e05c-221d-4200-9945-60cd039dad53/cover?md5ChecksumParam=cfcbbf0d75bb4d47235f7d77b0663ec5)|Le conseguenze dell'amore|16:35:00|18:20:00|Toni Servillo nel capolavoro che ha consacrato Paolo Sorrentino. Un uomo misterioso vive da anni in un hotel in Svizzera. L'attrazione per una donna fara' emergere il suo indicibile segreto (ITA 2004)
-
 |![Icon](https://guidatv.sky.it/uuid/cad515c4-f2d4-4308-9089-63e5fc955042/cover?md5ChecksumParam=35cae951330cd67a3d2a93b2e7ea6d04)|L'ombra delle spie|18:20:00|20:15:00|Benedict Cumberbatch in un thriller targato Sky Original tratto da una storia vera. 1960: un uomo d'affari inglese, spia per conto della CIA, viene coinvolto in un intrigo internazionale (GBR 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/78e73191-4de4-4d1a-a1e8-0c775805521b/cover?md5ChecksumParam=c0855897dc5929bd31a4a8c48d507de1)|La versione di Barney|20:15:00|22:30:00|Paul Giamatti, Rosamund Pike e Dustin Hoffman nella commedia tratta dall'omonimo bestseller. L'eccentrico Barney racconta la propria vita, scandita da tormentate avventure sentimentali (CAN/ITA 2010)
-
 |![Icon](https://guidatv.sky.it/uuid/f380ea8c-e6b7-4d99-8c35-2b5174edaebc/cover?md5ChecksumParam=e102199aa8a014c9379da85ea53db9c3)|Come pietra paziente - Syngue' sabour|22:30:00|00:20:00|Golshifteh Farahani nell'intenso film tratto dal libro del regista Atiq Rahimi. Guerra civile afghana: una donna, povera e madre di due bambine, si confessa al marito in coma (FRA/GER/AFG 2012)
-
 |![Icon](https://guidatv.sky.it/uuid/4d795234-b7c3-455d-b63e-9474a236aa75/cover?md5ChecksumParam=f08592a2cdf0e28d18ecbbba0da7be1f)|L'amico di famiglia|00:20:00|02:05:00|Paolo Sorrentino dirige Fabrizio Bentivoglio, Giacomo Rizzo e Laura Chiatti. Uno sgradevole usuraio entra nella vita di una coppia bisognosa di soldi per organizzare le nozze della figlia (ITA 2006)
-
 |![Icon](https://guidatv.sky.it/uuid/bca05fc0-1801-46f3-9cd8-38218c6c3ce1/cover?md5ChecksumParam=3b9a44b2f4e596a26f42f1d65efa4d25)|Il Padrino|02:05:00|05:00:00|3 Oscar al primo capitolo della saga di Francis F. Coppola, con Marlon Brando e Al Pacino. Dopo l'attentato al padre, Mike comincia l'ascesa nella malavita a capo della famiglia Corleone (USA 1972)
-
 |![Icon](https://guidatv.sky.it/uuid/0d95c591-d96f-4348-8568-9a61604ef0cf/cover?md5ChecksumParam=a41e0dbf4598eb453a81459e770bad17)|Anna Rosenberg|05:00:00|06:40:00|Claudia Gerini e' la protagonista di una pellicola sul femminicidio. In un commissariato francese, la disputa tra una donna e un poliziotto ostile degenera fino a tragiche conseguenze (FRA 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/6cd22794-d24c-4002-b856-3286dab22fe2/cover?md5ChecksumParam=54abffa4ba59ea69a25351c7ff435c9f)|Somewhere|06:40:00|08:20:00|Leone d'Oro a Venezia al film di Sofia Coppola con Stephen Dorff, Elle Fanning e Benicio Del Toro. Hollywood: la visita della figlia sconvolge la vita dissoluta di un divo del cinema (USA 2010)
-
 |![Icon](https://guidatv.sky.it/uuid/ebd205c6-1943-4d6c-9281-98a8d6ec9f24/cover?md5ChecksumParam=64406118c5fdd619759078b9380e027f)|Babyteeth - Tutti i colori di Milla|08:20:00|10:20:00|Tragicommedia con Eliza Scanlen, Ben Mendelsohn e Toby Wallace, premiato come miglior attore esordiente a Venezia. Una quindicenne molto malata s'innamora di un giovane tossicodipendente (AUS 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/f9003ed1-09ea-4562-8bf5-e40461cb1cec/cover?md5ChecksumParam=1d435e4794b351d27d44d6263e1b9552)|Un divano a Tunisi|10:20:00|11:50:00|Golshifteh Farahani nel primo film di Manele Labidi. All'indomani della Primavera araba, una psicanalista parigina apre uno studio nella natia Tunisi, affrontando mille pregiudizi (FRA 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/78e73191-4de4-4d1a-a1e8-0c775805521b/cover?md5ChecksumParam=c0855897dc5929bd31a4a8c48d507de1)|La versione di Barney|11:50:00|14:10:00|Paul Giamatti, Rosamund Pike e Dustin Hoffman nella commedia tratta dall'omonimo bestseller. L'eccentrico Barney racconta la propria vita, scandita da tormentate avventure sentimentali (CAN/ITA 2010)
-
 |![Icon](https://guidatv.sky.it/uuid/ade753ca-01eb-45f2-a2f7-405b3ffc6ba4/cover?md5ChecksumParam=fe7a340cca4cf89be5308ba0e4aee284)|Quasi amici|14:10:00|16:10:00|Omar Sy e Francois Cluzet nella commedia campione d'incassi. Un miliardario paralizzato stringe una grande amicizia con il suo badante: un ragazzo senegalese appena uscito dal carcere (FRA 2011)
-
 |![Icon](https://guidatv.sky.it/uuid/44ee7414-ebac-42db-b102-8869bb00520c/cover?md5ChecksumParam=773f8786a519ead1fbaf62324f27bee6)|Burn after reading - A prova di spia|16:10:00|17:50:00|Commedia dei Fratelli Coen con Brad Pitt e George Clooney. Per vendicarsi del licenziamento, un agente della CIA scrive le sue memorie top secret. Finiranno nelle mani sbagliate (USA/FRA/GBR 2008)
-
 |![Icon](https://guidatv.sky.it/uuid/cinema_cover_fw80PnTFw.png)|100X100Cinema|17:50:00|18:10:00|Marco D'Amore e Ivana Lotito ci parlano di 'Gomorra - Stagione finale'. Inoltre, 'E noi come stronzi rimanemmo a guardare', film Sky Original di e con Pif, Fabio De Luigi e Ilenia Pastorelli (29/11).
-
 |![Icon](https://guidatv.sky.it/uuid/f9ad1c4c-3e2a-4178-b15f-a23b0f08c766/cover?md5ChecksumParam=b711a4a8db12772bd06d86820fbcf5d2)|L'ultimo Vermeer|18:10:00|20:15:00|Biopic prodotto da Ridley Scott con Guy Pearce e Claes Bang. 1945: un ex ufficiale olandese indaga su un artista accusato di aver venduto un dipinto di Jan Vermeer ai nazisti (USA 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/0d95c591-d96f-4348-8568-9a61604ef0cf/cover?md5ChecksumParam=a41e0dbf4598eb453a81459e770bad17)|Anna Rosenberg|20:15:00|22:00:00|Claudia Gerini e' la protagonista di una pellicola sul femminicidio. In un commissariato francese, la disputa tra una donna e un poliziotto ostile degenera fino a tragiche conseguenze (FRA 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/1d9cd124-08c9-4003-b7cb-737f8168f8dd/cover?md5ChecksumParam=2c55f8b81ac63f32ce98b00cc3c8a9d0)|Il profeta|22:00:00|00:40:00|Gran Premio della Giuria a Cannes al regista Jacques Audiard per un avvincente dramma carcerario. Un ragazzo si adatta alla violenta realta' del carcere diventando un potente gangster (FRA/ITA 2009)
 
 

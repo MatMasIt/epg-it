@@ -23,10 +23,10 @@ function epgDateToUnix($date)
 function mdGen($channel)
 {
     $fin = "# " . $channel["title"];
-    $fin .= "\n\n> Programmazione di " . ITDate(time());
-    $fin .= "\n\n||Programma|Inizio|Fine|Descrizione|\n\n|---|---|---|---|---|";
+    $fin .= "\n> Programmazione di " . ITDate(time());
+    $fin .= "\n\n||Programma|Inizio|Fine|Descrizione|\n|---|---|---|---|---|";
     foreach ($channel["programmes"] as $programma) {
-        $fin .= "\n\n|![Icon](" . ($programma["icon"]) . ")|" . htmlentities($programma["title"]) . "|" . htmlentities(date("H:i:s", $programma["start"])) . "|" . htmlentities(date("H:i:s", $programma["end"])) . "|" . htmlentities($programma["description"]);
+        $fin .= "\n|![Icon](" . ($programma["icon"]) . ")|" . htmlentities($programma["title"]) . "|" . htmlentities(date("H:i:s", $programma["start"])) . "|" . htmlentities(date("H:i:s", $programma["end"])) . "|" . htmlentities($programma["description"]);
     }
     $fin .= "\n\n\n\n > epg-it 0.1.0, MatMasIt - Dati epg SKY";
     return $fin;

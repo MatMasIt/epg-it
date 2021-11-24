@@ -1,133 +1,69 @@
 # Discovery Channel Italia +1
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/3b43f90d-9f54-44dd-aa73-352155250099/cover?md5ChecksumParam=252fe3993daeb69171a31f053edeb2bb)|Chi cerca trova: super restauri|00:45:00|01:40:00|S4 Ep17 - Drew chiede a Michael e Maria di sistemare un raro robot scozzese. Inoltre, a Ray viene chiesto di occuparsi di una sedia del periodo edoardiano.
-
 |![Icon](https://guidatv.sky.it/uuid/beb68538-5787-4b20-932a-25d1ff8ac862/cover?md5ChecksumParam=01f807d77f1b6c659d38776acdc330b7)|Avventure impossibili con Josh...|01:40:00|02:30:00|S6 Ep10 Misteri alle Bermuda - Josh Gates indaga sui misteri del Triangolo delle Bermuda. L'esperto analizza l'oceano e il cielo per scoprire di piu' sulle misteriose sparizioni.
-
 |![Icon](https://guidatv.sky.it/uuid/dfc82e50-7bb2-4d74-8a73-1ec3979e959c/cover?md5ChecksumParam=01f807d77f1b6c659d38776acdc330b7)|Avventure impossibili con Josh...|02:30:00|04:05:00|S6 Ep12 D-Day - Josh arriva in Normandia per indagare sulle battaglie che si sono svolte su terra, aria e mare in questi luoghi. La spedizione porta alla scoperta di un enorme bunker tedesco.
-
 |![Icon](https://guidatv.sky.it/uuid/92f1af89-4694-44fc-85b0-9263f6a83fa9/cover?md5ChecksumParam=afc8697cd298a0008a5d843260a9e7bc)|Come e' fatto|04:05:00|04:30:00|S23 Ep19 - Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano tra cui gli acciaini, l'accumulatore a sacca, i tavoli da stiro e le pagaie per il kayak.
-
 |![Icon](https://guidatv.sky.it/uuid/ceeb45b2-489e-492c-ac10-44dc65eb57e8/cover?md5ChecksumParam=983ea92682b62462f46a69bde188db1d)|Come e' fatto|04:30:00|04:50:00|S8 Ep6 - Gli oggetti comuni a finire sotto la lente d'ingrandimento sono sempre piu' numerosi: vediamo come sono fatti i pistoni, i rulli, i paracaduti e i camini.
-
 |![Icon](https://guidatv.sky.it/uuid/e55d0772-c284-4297-8fab-30f989f1b54d/cover?md5ChecksumParam=afc8697cd298a0008a5d843260a9e7bc)|Come e' fatto|04:50:00|05:15:00|S23 Ep20 - Scopriamo come vengono realizzati i migliori champagne, i sistemi di tubi pneumatici, le macchinette per il caffe' espresso e i forni per la pizza.
-
 |![Icon](https://guidatv.sky.it/uuid/5086073c-8519-4f75-9f8f-9592151bb00f/cover?md5ChecksumParam=26e638cca8ee9d9e3d1368425bc5cc52)|Chi cerca trova|05:15:00|06:00:00|S5 Ep7 - Continuando la loro caccia al tesoro in luoghi sempre piu' lontani, Drew e Tee si dirigono al museo di moto sull'isola di Man, dove sperano che la sua singolare storia riservi loro moltissime sorprese.
-
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Chi cerca trova|06:00:00|06:55:00|S14 Ep7 - Drew va a una fiera di oggetti recuperati. A Newcastle, incontra un commerciante che propone dei mobili del XX secolo. Poi, lui e Tee si occupano di una collezione d'arte a Hastings.
-
 |![Icon](https://guidatv.sky.it/uuid/c9aa09a5-942a-4bac-96ee-f701ed6feb11/cover?md5ChecksumParam=46fb8a89d6c1c16c5269a0a955d49580)|Chi cerca trova|06:55:00|07:50:00|S4 Ep8 - A Reading, Drew incontra il proprietario di un grande magazzino che ha deciso di giocare duro, poi visita una tenuta nel West Sussex in cui e' custodito un reperto dell'Arciduca Francesco Ferdinando.
-
 |![Icon](https://guidatv.sky.it/uuid/7bc01101-24ac-47c8-bdda-fde7c72d1e97/cover?md5ChecksumParam=03af8f4260fc15cfaee39bd6f078f617)|Come e' fatto|07:50:00|08:15:00|S25 Ep9 - Scopriamo come vengono realizzati alcuni oggetti e cibi di uso quotidiano tra cui il liquore alla cannella e i coltellini fatti in casa.
-
 |![Icon](https://guidatv.sky.it/uuid/227d8bad-fded-4000-90f3-add02c3116a6/cover?md5ChecksumParam=2a3ccb2f01756fd6303f6a728f2d7927)|Come e' fatto|08:15:00|08:40:00|S14 Ep9 - Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatti gli erogatori, le cuffie e le lampade per i riflettori.
-
 |![Icon](https://guidatv.sky.it/uuid/45c45ce5-27f3-406d-9563-b74783300478/cover?md5ChecksumParam=e3fa2fd86cdc5cb71cade7adb0df55b1)|Come e' fatto|08:40:00|09:10:00|S17 Ep5 - Vi siete mai chiesti come sono fatti e prodotti gli oggetti di uso quotidiano, come: kayak pieghevoli, pinatas, camion della spazzatura e dischi per freni.
-
 |![Icon](https://guidatv.sky.it/uuid/c18e5200-ede2-4cc4-805b-3a8ab290f213/cover?md5ChecksumParam=cd036370efb629a7888fc26f186c0ea5)|Come e' fatto|09:10:00|09:40:00|S19 Ep5 - Come sono fatte le zolle erbose, la carne di manzo essiccata, le sminuzzatrici per il legno e i birilli da bowling? Scopriamolo insieme.
-
 |![Icon](https://guidatv.sky.it/uuid/424f2bd1-a8d0-4956-bcb4-d1c77c2516a3/cover?md5ChecksumParam=2a3ccb2f01756fd6303f6a728f2d7927)|Come e' fatto|09:40:00|10:05:00|S14 Ep10 - Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatti i rocchetti per la pesca, le vernici, i telai e le macchine per i gelati.
-
 |![Icon](https://guidatv.sky.it/uuid/5e7e029d-9ade-41c5-bc2d-995298c23275/cover?md5ChecksumParam=03af8f4260fc15cfaee39bd6f078f617)|Come e' fatto|10:05:00|10:35:00|S25 Ep10 - Scopriamo come vengono realizzati alcuni oggetti e cibi di uso quotidiano tra cui berretti, l'aperitivo Pastis e le cyclette.
-
 |![Icon](https://guidatv.sky.it/uuid/e40afcce-0d70-48b9-916a-bbcd2d850866/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|10:35:00|11:30:00|S10 Ep10 Argine rotto - La stagione di Rick e' in pericolo quando un disastro rischia di bloccare le operazioni. Parker investe su un nuovo territorio e Tony avvia un terzo progetto.
-
 |![Icon](https://guidatv.sky.it/uuid/f7d079ef-be3c-491a-8ee8-29152ca045b3/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|11:30:00|12:30:00|S10 Ep11 L'ascesa delle macchine - Rick si affida troppo ai computer ma, con l'aggiornamento di un software, una pompa dell'acqua non funziona piu'. Parker spende un sacco per un nuovo 'giocattolo'.
-
 |![Icon](https://guidatv.sky.it/uuid/95ed0375-830a-42f7-b7e9-67a8148bec33/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|12:30:00|13:30:00|S10 Ep13 Pepite o fallimento - Tony deve affrontare un problema catastrofico. Intanto, Parker rischia molto quando assume un amico che non ha esperienza per aiutare la squadra.
-
 |![Icon](https://guidatv.sky.it/uuid/eeba6a03-7d41-4e1f-83d2-cacadb5d3b51/cover?md5ChecksumParam=0438dc8519a70491e0befba5573e4d28)|Chi cerca trova|13:30:00|14:20:00|S15 Ep11 - Drew e Tee si occupano di una collezione privata con oggetti legati al rock and roll. Drew e' entusiasta di trovare alcune cose rare dei Led Zeppelin e dei Motorhead.
-
 |![Icon](https://guidatv.sky.it/uuid/6417a383-5683-4bd2-856b-2903261470cb/cover?md5ChecksumParam=b36d56401d51f20bf058a65e0994b00b)|Chi cerca trova|14:20:00|15:20:00|S9 Ep8 Oxfordshire - Drew si concentra su una lampada a olio vittoriana dall'aspetto vissuto e su un vecchio cartello americano a Londra. Inoltre, incontra un aristocratico dell'Oxfordshire.
-
 |![Icon](https://guidatv.sky.it/uuid/d36a2ca4-8ea6-429c-9e5e-3d4b8e1e7537/cover?md5ChecksumParam=51355284da34f9c0c784ae649c6aab21)|Chi cerca trova|15:20:00|16:15:00|S7 Ep8 - Drew Pritchard e il suo partner Tee sono in Germania per affari. I due dovranno negoziare con conti e baroni e incontrare personaggi eccentrici, esattamente come i pezzi d'antiquariato che potenzialmente devono vendere.
-
 |![Icon](https://guidatv.sky.it/uuid/ccdd94a0-068d-44e6-9973-f8db97d339bf/cover?md5ChecksumParam=b36d56401d51f20bf058a65e0994b00b)|Chi cerca trova|16:15:00|17:10:00|S9 Ep9 Nottinghamshire - A Londra, Drew da' un'occhiata a una macabra collezione di antiche attrezzature mediche. A Nottinghamshire, visita un magazzino pieno di articoli americani vintage.
-
 |![Icon](https://guidatv.sky.it/uuid/530e81be-f43b-489f-97c4-10f823dec49f/cover?md5ChecksumParam=b248cc79130b8853b259491f3b7d27f2)|Chi cerca trova|17:10:00|18:10:00|S13 Ep9 - Drew arriva in Cornovaglia per acquistare altri oggetti. A Penzance contratta con un uomo che gestisce un deposito. Inoltre, si reca nella casa d'aste piu' attiva della contea.
-
 |![Icon](https://guidatv.sky.it/uuid/e8d0df1f-c56e-4766-87da-85956f581a93/cover?md5ChecksumParam=4f87041ec5e3329a7549acc9b9bd7f13)|La febbre dell'oro: la sfida di Parker|18:10:00|19:05:00|S2 Ep3 Il risveglio della giungla - Parker e la squadra vengono inseguiti da un caimano e morsi dai piranha. Il tentativo di trascinare l'imbarcazione su una cascata finisce in modo disastroso.
-
 |![Icon](https://guidatv.sky.it/uuid/01863465-75d7-414a-94ee-1a71f4652aeb/cover?md5ChecksumParam=4f87041ec5e3329a7549acc9b9bd7f13)|La febbre dell'oro: la sfida di Parker|19:05:00|20:00:00|S2 Ep4 La montagna dell'oro - Parker e la squadra sono a Marudi, luogo fondamentale per la corsa all'oro del 21esimo secolo. Gli uomini esplorano una rete di tunnel nella 'montagna dell'oro'.
-
 |![Icon](https://guidatv.sky.it/uuid/61282133-92cb-400d-9f7d-ca00f0d6092e/cover?md5ChecksumParam=4f87041ec5e3329a7549acc9b9bd7f13)|La febbre dell'oro: la sfida di Parker|20:00:00|21:00:00|S2 Ep5 La giungla colpisce ancora - Parker e il suo team hanno ripristinato la loro vecchia miniera a Marudi. Ma i loro sogni sono in pericolo a causa di una disputa terriera che rischia di diventare violenta.
-
 |![Icon](https://guidatv.sky.it/uuid/e0044531-8c7d-4ba9-976f-878635a0afae/cover?md5ChecksumParam=fe5891ea0374482777fc9d0b3407bf90)|Moonshiners|21:00:00|21:55:00|S7 Ep1 Serpi - In Appalachia e' arrivata la primavera. Tom continua a dare ordini e la sua distilleria funziona a pieno regime. Josh chiede aiuto a un vecchio amico quando la sua operazione e' in crisi.
-
 |![Icon](https://guidatv.sky.it/uuid/6811561d-d57b-4749-8726-87885a55538c/cover?md5ChecksumParam=73afaa453935efc210fe4db7a94d3842)|Oro degli abissi|21:55:00|22:50:00|S10 Ep20 - Tre cercatori d'oro si immergono nelle profondita' glaciali dell'oceano per ricavare l'oro e accaparrarsi qualsiasi tesoro che riusciranno a trovare.
-
 |![Icon](https://guidatv.sky.it/uuid/8cbf63f5-9e2b-448e-8320-100b82ce77ac/cover?md5ChecksumParam=34529e2fae04a60ab4253d58d30444ea)|La febbre dell'oro|22:50:00|23:50:00|S12 Ep4 Errore milionario - Tony deve affrontare una notizia che lo manda in tilt, mentre Frank deposita in banca il primo carico della stagione. La squadra di Parker e' ferma all'Airstrip.
-
 |![Icon](https://guidatv.sky.it/uuid/3366c92a-5b02-45b3-8ad3-870361aac58d/cover?md5ChecksumParam=0e9402482c795b8148bfbdc5faff3267)|Moonshiners: la sfida|23:50:00|00:50:00|S2 Ep1 Il Gin - Alcuni distillatori, autorizzati e clandestini, si sfidano per creare il gin, prodotto ancora particolarmente apprezzato. A valutarli, saranno i giudici Mark, Digger e Tim.
-
 |![Icon](https://guidatv.sky.it/uuid/e4dc5881-7fce-44bd-9860-f4f95850ef49/cover?md5ChecksumParam=0e9402482c795b8148bfbdc5faff3267)|Moonshiners: la sfida|00:50:00|01:45:00|S2 Ep2 Spirito del sud - I distillatori competono per realizzare il brandy alla pesca, un tempo popolare nel Sud degli Stati Uniti. A giudicare le loro creazioni saranno Mark, Digger e Tim.
-
 |![Icon](https://guidatv.sky.it/uuid/bebaf2a3-6e02-4c74-80fa-35dca39ff90c/cover?md5ChecksumParam=01f807d77f1b6c659d38776acdc330b7)|Avventure impossibili con Josh...|01:45:00|02:40:00|S6 Ep13 Misteri svelati - Un mistero chiave di un caso sul quale Josh Gates indaga da anni, potrebbe essere svelato. La soluzione si trova proprio nella sua citta' natale?
-
 |![Icon](https://guidatv.sky.it/uuid/1ed6594c-a20b-4fbe-b38b-30b4b8fd25b7/cover?md5ChecksumParam=01f807d77f1b6c659d38776acdc330b7)|Avventure impossibili con Josh...|02:40:00|03:35:00|S6 Ep11 Il triangolo no! - Per concludere le sue epiche indagini, Josh Gates usa la moderna tecnologia per indagare sulla scomparsa di navi e aerei nel famigerato Triangolo delle Bermuda.
-
 |![Icon](https://guidatv.sky.it/uuid/c1064722-bf89-4d8c-be9f-0daa88ac2955/cover?md5ChecksumParam=01f807d77f1b6c659d38776acdc330b7)|Avventure impossibili con Josh...|03:35:00|04:25:00|S6 Ep16 La regina guerriera - Josh Gates attraversa l'Inghilterra alla ricerca di antichi tesori che appartenevano alla leggendaria regina celtica Boudicca.
-
 |![Icon](https://guidatv.sky.it/uuid/4b3339c0-a78b-4eaf-92b1-7174c1009f75/cover?md5ChecksumParam=afc8697cd298a0008a5d843260a9e7bc)|Come e' fatto|04:25:00|04:50:00|S23 Ep21 - Scopriamo come vengono realizzati alcuni oggetti tra cui un particolare tipo di porta scorrevole, il vaporetto, le pizze arrotolate e le spazzole elettriche.
-
 |![Icon](https://guidatv.sky.it/uuid/9d061f48-5d17-4a82-88fb-9eb48c949f56/cover?md5ChecksumParam=983ea92682b62462f46a69bde188db1d)|Come e' fatto|04:50:00|05:05:00|S8 Ep8 - Passiamo altri oggetti d'uso quotidiano sotto la lente d'ingrandimento e scopriamo come sono fatte le tute da hockey, i tapis roulant e i palmari.
-
 |![Icon](https://guidatv.sky.it/uuid/9752fbea-8776-4567-a678-b773fb91eb2b/cover?md5ChecksumParam=afc8697cd298a0008a5d843260a9e7bc)|Come e' fatto|05:05:00|05:30:00|S23 Ep22 - Scopriamo come vengono realizzati gli oggetti di uso quotidiano tra cui le rotelle industriali, le torte nuziali e i catamarani per le gare. Inoltre, analizziamo la spettroscopia al terahertz.
-
 |![Icon](https://guidatv.sky.it/uuid/a8672512-3324-47b4-988d-c1f0b1a221cb/cover?md5ChecksumParam=983ea92682b62462f46a69bde188db1d)|Come e' fatto|05:30:00|06:00:00|S8 Ep9 - Esaminiamo da vicino altri oggetti di uso quotidiano e scopriamo come sono fatte le motociclette, le pipe di terracotta, le bacchette del tamburo e i fischietti.
-
 |![Icon](https://guidatv.sky.it/uuid/8cd818dd-4477-4401-b973-5f397c30b6ab/cover?md5ChecksumParam=df643dadfae1b2c71bc1107a59f12e83)|Chi cerca trova|06:00:00|06:50:00|S14 Ep8 - Drew e Tee partono per l'Ungheria. A Budapest, visitano uno dei piu' grandi mercati d'antiquariato del paese. In seguito, scoprono dei tesori in una vecchia fabbrica.
-
 |![Icon](https://guidatv.sky.it/uuid/52bc87f8-502b-407c-8c71-f7f738251e6b/cover?md5ChecksumParam=46fb8a89d6c1c16c5269a0a955d49580)|Chi cerca trova|06:50:00|07:40:00|S4 Ep9 - Drew e' affascinato da una biblioteca di Manchester, poi incontra un collega rivenditore di Chorley e si concentra su una sedia in cattive condizioni che sembra avere un certo valore.
-
 |![Icon](https://guidatv.sky.it/uuid/8cd818dd-4477-4401-b973-5f397c30b6ab/cover?md5ChecksumParam=df643dadfae1b2c71bc1107a59f12e83)|Chi cerca trova|07:40:00|08:30:00|S14 Ep9 - Drew arriva in un enorme mercato, dove scopre alcuni oggetti dal design classico. Nel Devon, visita il piu' grande deposito di giostre d'epoca d'Europa.
-
 |![Icon](https://guidatv.sky.it/uuid/46d15fa9-f79a-439a-b06a-aaa51a7dffe5/cover?md5ChecksumParam=61ebe1076816f4f6a72e47e8fdb0c959)|Come e' fatto|08:30:00|09:00:00|S25 Ep11 - Scopriamo come vengono realizzati alcuni oggetti e cibi di uso quotidiano tra cui le luci di bambu' in ceramica e i compattatori per l'asfalto.
-
 |![Icon](https://guidatv.sky.it/uuid/36a4ac13-c340-46e7-915f-cbc401bcd265/cover?md5ChecksumParam=2a3ccb2f01756fd6303f6a728f2d7927)|Come e' fatto|09:00:00|09:25:00|S14 Ep11 - Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatti i clarinetti, le mine per matite e gli effetti speciali.
-
 |![Icon](https://guidatv.sky.it/uuid/6bacab74-f13c-48b9-b851-031e1e12eb96/cover?md5ChecksumParam=cd036370efb629a7888fc26f186c0ea5)|Come e' fatto|09:25:00|09:50:00|S19 Ep6 - Come sono fatti gli strumenti multiuso della Leatherman, l'olio di jojoba e i vari tipi di marionette? Scopriamolo insieme.
-
 |![Icon](https://guidatv.sky.it/uuid/1c1794c3-1bfd-47b0-8d08-4af057f5e60e/cover?md5ChecksumParam=e3fa2fd86cdc5cb71cade7adb0df55b1)|Come e' fatto|09:50:00|10:15:00|S17 Ep6 - Vi siete mai chiesti come sono fatti e prodotti gli oggetti di uso quotidiano, come wafer arrotolati, pellet in legno e anelli di laurea.
-
 |![Icon](https://guidatv.sky.it/uuid/096c3581-c3b1-4c87-b2f2-41581949b32e/cover?md5ChecksumParam=2a3ccb2f01756fd6303f6a728f2d7927)|Come e' fatto|10:15:00|10:40:00|S14 Ep12 - Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatti gli airboat, le cipolle, la tecnica del 3D printing e le porte ricurve per i mobiletti.
-
 |![Icon](https://guidatv.sky.it/uuid/b2763113-b21a-4427-9383-63a132ff7e0f/cover?md5ChecksumParam=61ebe1076816f4f6a72e47e8fdb0c959)|Come e' fatto|10:40:00|11:05:00|S25 Ep12 - Scopriamo come vengono realizzati alcuni oggetti e cibi di uso quotidiano tra cui il tradizionale prosciutto basco e un particolare tipo di bombetta.
-
 |![Icon](https://guidatv.sky.it/uuid/773864dd-be5a-4871-af6c-392c7fb8272d/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|11:05:00|11:55:00|S10 Ep14 All'angolo - Rick e' disperato e testa diversi tipi di terreno per salvare la sua stagione. La squadra di Parker cerca di guadagnare il piu' possibile prima del blocco.
-
 |![Icon](https://guidatv.sky.it/uuid/950e7e3a-faa7-4fcf-8bfe-726fd10acee3/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|11:55:00|12:45:00|S10 Ep15 Fuori strada - La stagione e' quasi finita e Rick Ness e la sua squadra stanno recuperando il tempo perso. Inoltre, Tony si avventura lungo altri percorsi alla ricerca di oro.
-
 |![Icon](https://guidatv.sky.it/uuid/6ddfbb37-f639-451e-a6b4-1dbb6138a3c0/cover?md5ChecksumParam=ea3051980d6a19957312fd7815a22bd0)|La febbre dell'oro|12:45:00|13:35:00|S10 Ep16 Raddoppio - Rick e Tony hanno dei problemi meccanici che non possono proprio permettersi in una stagione gia' di per se' pessima. Parker tenta di far funzionare un altro impianto di lavaggio.
-
 |![Icon](https://guidatv.sky.it/uuid/41aa0743-3ae2-4770-a69a-4cc6fbf50e99/cover?md5ChecksumParam=b248cc79130b8853b259491f3b7d27f2)|Chi cerca trova|13:35:00|14:25:00|S13 Ep10 - Nel Sussex, Drew e' incredibilmente fortunato quando gli viene offerto di acquistare diversi oggetti di origine francese. Nel Kent, l'esperto esplora una storica ferrovia.
-
 |![Icon](https://guidatv.sky.it/uuid/0916d87d-eae0-41df-bebc-664c6bbca4c6/cover?md5ChecksumParam=b36d56401d51f20bf058a65e0994b00b)|Chi cerca trova|14:25:00|15:20:00|S9 Ep10 Galles - Drew tratta con il responsabile di una casa padronale in stile elisabettiano. Inoltre, resta sbalordito da un esoreattore in un museo del Galles e incontra un vecchio amico di Sheffield.
-
 |![Icon](https://guidatv.sky.it/uuid/8b35b807-b12b-4f70-9f8a-5a1643d77b80/cover?md5ChecksumParam=51355284da34f9c0c784ae649c6aab21)|Chi cerca trova|15:20:00|16:15:00|S7 Ep9 - L'esperto cacciatore di tesori Drew Pritchard e' nel Wirral per visitare una casa signorile usata anche come un negozio di antiquariato. Ma questa offerta cosi' grande comportera' una spesa esagerata?
-
 |![Icon](https://guidatv.sky.it/uuid/009d0e72-b584-4657-b881-75756c678edb/cover?md5ChecksumParam=b36d56401d51f20bf058a65e0994b00b)|Chi cerca trova|16:15:00|17:10:00|S9 Ep11 Tyne e Wear - Presso la Contea del Tyne and Wear, Drew cerca di soddisfare le aspettative di un cliente amante dell'eleganza tipica degli anni '50. Inoltre, resta molto colpito da un ex convento di frati.
-
 |![Icon](https://guidatv.sky.it/uuid/e7dea66f-6b31-4adf-a834-8ba66da94411/cover?md5ChecksumParam=b248cc79130b8853b259491f3b7d27f2)|Chi cerca trova|17:10:00|18:10:00|S13 Ep11 - In un enorme granaio nel Sussex, Drew scopre una vasta collezione di curiosita' e oggetti legati agli animali. A Cardiff, scopriamo la vera passione di Drew.
-
 |![Icon](https://guidatv.sky.it/uuid/fc4c0296-684c-47c6-ad8d-bc435cdbcfd0/cover?md5ChecksumParam=de71aa405ef0985815146a9ea833ad90)|La febbre dell'oro: la sfida di Parker|18:10:00|19:05:00|S3 Ep1 Profondita' - In Papua Nuova Guinea, un pericoloso percorso nella giungla conduce Parker e la squadra a una rete di tunnel abbandonati dalla II Guerra Mondiale ma trovano una brutta sorpresa.
-
 |![Icon](https://guidatv.sky.it/uuid/0d8b57ea-d3d8-4635-a21e-a837a289462f/cover?md5ChecksumParam=de71aa405ef0985815146a9ea833ad90)|La febbre dell'oro: la sfida di Parker|19:05:00|20:00:00|S3 Ep2 Frana mortale - Parker e la squadra aiutano una famiglia del luogo a scavare nelle pianure. Ma una frana mortale potrebbe mostrargli il lato oscuro di questo paradiso remoto.
-
 |![Icon](https://guidatv.sky.it/uuid/553e757f-da3f-4fd1-a306-48d1706269a0/cover?md5ChecksumParam=de71aa405ef0985815146a9ea833ad90)|La febbre dell'oro: la sfida di Parker|20:00:00|21:00:00|S3 Ep3 Mercurio - Il mercurio tossico usato dai minatori in un villaggio spinge Parker a costruire una strada alternativa per evitare il propagarsi dei fumi. Ma un'inondazione arriva a sorpresa.
-
 |![Icon](https://guidatv.sky.it/uuid/785f2f6e-798f-40d3-a67e-c86ff25e57ba/cover?md5ChecksumParam=2b3cfa67c0e84d4fb138ea93d3cdf429)|Una famiglia fuori dal mondo|21:00:00|21:55:00|S6 Ep5 La tempesta - Una tempesta e' in arrivo e il viaggio del gruppo e' a rischio. Una notizia sorprendente da parte di Billy spinge tutti a incontrare nuovamente un vecchio amico.
-
 |![Icon](https://guidatv.sky.it/uuid/c0ff380a-02d9-4a6a-8803-3a088b41e14f/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|21:55:00|22:50:00|S7 Ep7 Il ghiaccio - Atz Lee e Charlotte si affrettano per salvare una mucca prima che sia troppo tardi. Un viaggio alla ricerca di gamberetti tra padre e figlio diventa mortale a causa di un enorme ghiacciaio.
-
 |![Icon](https://guidatv.sky.it/uuid/c19c39d0-ce29-47cf-bab8-082bbb73236a/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|22:50:00|23:50:00|S7 Ep8 Il Giorno del Ringraziamento - I Kilcher mostrano le nuove modifiche al rifugio per il Giorno del Ringraziamento. La famiglia spiega le nuove aggiunte organizzando una festa e condividendo dei bei momenti.
-
 |![Icon](https://guidatv.sky.it/uuid/cc0d44fb-7775-42d9-b600-c64084abd14e/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|23:50:00|00:45:00|S7 Ep9 Gli zombie - Otto e August sono alla rischiosa ricerca di un'enorme gru. Charlotte, Eivin e Eve lottano contro la marea per salvare una mucca. Lee e Jane vanno a pesca in kayak.
 
 

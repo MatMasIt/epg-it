@@ -1,153 +1,79 @@
 # Sky Sport Moto GP
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/bd5f40a6-b3c1-4362-81a2-bab3b269ad3e/cover?md5ChecksumParam=b8c254e910c237e62262b6b0c90eda46)|GP Barcellona: Moto2|00:05:00|01:00:00|GP Barcellona: Moto2 Race 1 - A Barcelona, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/97b838f2-e5e8-4b5f-8942-7120576208bb/cover?md5ChecksumParam=71270206a682fd47c23aed184b9f2f6d)|Paddock Live speciale Rossi|01:00:00|01:30:00|Il paddock e gli addetti ai lavori si preparano all'ultima gara di Valentino Rossi nella MotoGP.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|01:30:00|01:45:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/96812601-86d4-4a6e-8b43-e3945f703f21/cover?md5ChecksumParam=f5bc1ad66973d68db33c247a2dc88cd9)|GP Doha|01:45:00|03:05:00|Replica - Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della MotoGP. In prima fila Martin, Zarco e Vinales. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/3197c893-0c32-4c1a-ae74-fc620d0efbf6/cover?md5ChecksumParam=e3f508cd942a1fffc7ae0e926704a2fd)|GP Doha. Gara|03:05:00|03:30:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto3. In prima fila Masia, Garcia e Alcoba. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/8445de2d-cd68-48ec-9940-70e6037e2095/cover?md5ChecksumParam=4a15b6a5e3c8bca477b5bde8bf0ecef8)|GP Doha. Gara|03:30:00|04:00:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Bezzecchi. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/d920d390-6c6a-47a9-8e4c-85f7432f985d/cover?md5ChecksumParam=788bc28664980f49338038a065c05ec8)|Gaaas!|04:00:00|04:15:00|Rosario Triolo affronta nuove sfide a tutto 'gaaas' con compagni d'eccezione come Enea Bastianini, Marco Grana e Tommaso Marcon.
-
 |![Icon](https://guidatv.sky.it/uuid/94f1238d-aa1c-4caa-b4de-acc1507ac539/cover?md5ChecksumParam=77f097eb4e5ba93a0d9bece103b1538e)|Luca Montezemolo|04:15:00|04:45:00|Luca Montezemolo - Guido Meda e Luca Cordero di Montezemolo percorrono la mitica strada che porta da Bologna al passo della Futa, rievocando gli anni d'oro dell'ex uomo simbolo della Ferrari.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|04:45:00|05:00:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/87d6d9f5-59b7-4ddc-b32e-1be95b8a8e6a/cover?md5ChecksumParam=698c11b4af62a837e2a0a8451845e01a)|GP Tormo: Moto2. Gara|05:00:00|06:00:00|GP Tormo: Moto2 Gara - Sul circuito Ricardo Tormo di Valencia, ritorna il CEV - campionato europeo velocita' - della Moto2. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/bd5f40a6-b3c1-4362-81a2-bab3b269ad3e/cover?md5ChecksumParam=b8c254e910c237e62262b6b0c90eda46)|GP Barcellona: Moto2|06:00:00|07:00:00|GP Barcellona: Moto2 Race 1 - A Barcelona, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/97b838f2-e5e8-4b5f-8942-7120576208bb/cover?md5ChecksumParam=71270206a682fd47c23aed184b9f2f6d)|Paddock Live speciale Rossi|07:00:00|07:30:00|Il paddock e gli addetti ai lavori si preparano all'ultima gara di Valentino Rossi nella MotoGP.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|07:30:00|07:45:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/96812601-86d4-4a6e-8b43-e3945f703f21/cover?md5ChecksumParam=f5bc1ad66973d68db33c247a2dc88cd9)|GP Doha|07:45:00|09:00:00|Replica - Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della MotoGP. In prima fila Martin, Zarco e Vinales. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/3197c893-0c32-4c1a-ae74-fc620d0efbf6/cover?md5ChecksumParam=e3f508cd942a1fffc7ae0e926704a2fd)|GP Doha. Gara|09:00:00|09:30:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto3. In prima fila Masia, Garcia e Alcoba. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/8445de2d-cd68-48ec-9940-70e6037e2095/cover?md5ChecksumParam=4a15b6a5e3c8bca477b5bde8bf0ecef8)|GP Doha. Gara|09:30:00|10:00:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Bezzecchi. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/d920d390-6c6a-47a9-8e4c-85f7432f985d/cover?md5ChecksumParam=788bc28664980f49338038a065c05ec8)|Gaaas!|10:00:00|10:15:00|Rosario Triolo affronta nuove sfide a tutto 'gaaas' con compagni d'eccezione come Enea Bastianini, Marco Grana e Tommaso Marcon.
-
 |![Icon](https://guidatv.sky.it/uuid/94f1238d-aa1c-4caa-b4de-acc1507ac539/cover?md5ChecksumParam=77f097eb4e5ba93a0d9bece103b1538e)|Luca Montezemolo|10:15:00|10:45:00|Luca Montezemolo - Guido Meda e Luca Cordero di Montezemolo percorrono la mitica strada che porta da Bologna al passo della Futa, rievocando gli anni d'oro dell'ex uomo simbolo della Ferrari.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|10:45:00|11:05:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/87d6d9f5-59b7-4ddc-b32e-1be95b8a8e6a/cover?md5ChecksumParam=698c11b4af62a837e2a0a8451845e01a)|GP Tormo: Moto2. Gara|11:05:00|12:10:00|GP Tormo: Moto2 Gara - Sul circuito Ricardo Tormo di Valencia, ritorna il CEV - campionato europeo velocita' - della Moto2. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/bd5f40a6-b3c1-4362-81a2-bab3b269ad3e/cover?md5ChecksumParam=b8c254e910c237e62262b6b0c90eda46)|GP Barcellona: Moto2|12:10:00|13:00:00|GP Barcellona: Moto2 Race 1 - A Barcelona, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/97b838f2-e5e8-4b5f-8942-7120576208bb/cover?md5ChecksumParam=71270206a682fd47c23aed184b9f2f6d)|Paddock Live speciale Rossi|13:00:00|13:30:00|Il paddock e gli addetti ai lavori si preparano all'ultima gara di Valentino Rossi nella MotoGP.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|13:30:00|13:45:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/96812601-86d4-4a6e-8b43-e3945f703f21/cover?md5ChecksumParam=f5bc1ad66973d68db33c247a2dc88cd9)|GP Doha|13:45:00|15:00:00|Replica - Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della MotoGP. In prima fila Martin, Zarco e Vinales. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/3197c893-0c32-4c1a-ae74-fc620d0efbf6/cover?md5ChecksumParam=e3f508cd942a1fffc7ae0e926704a2fd)|GP Doha. Gara|15:00:00|15:30:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto3. In prima fila Masia, Garcia e Alcoba. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/8445de2d-cd68-48ec-9940-70e6037e2095/cover?md5ChecksumParam=4a15b6a5e3c8bca477b5bde8bf0ecef8)|GP Doha. Gara|15:30:00|16:00:00|Secondo appuntamento del mondiale 2021: da Doha in Qatar, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Bezzecchi. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/d920d390-6c6a-47a9-8e4c-85f7432f985d/cover?md5ChecksumParam=788bc28664980f49338038a065c05ec8)|Gaaas!|16:00:00|16:15:00|Rosario Triolo affronta nuove sfide a tutto 'gaaas' con compagni d'eccezione come Enea Bastianini, Marco Grana e Tommaso Marcon.
-
 |![Icon](https://guidatv.sky.it/uuid/94f1238d-aa1c-4caa-b4de-acc1507ac539/cover?md5ChecksumParam=77f097eb4e5ba93a0d9bece103b1538e)|Luca Montezemolo|16:15:00|16:45:00|Luca Montezemolo - Guido Meda e Luca Cordero di Montezemolo percorrono la mitica strada che porta da Bologna al passo della Futa, rievocando gli anni d'oro dell'ex uomo simbolo della Ferrari.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|16:45:00|17:05:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/e9a80905-9632-423f-b9f6-0ddd80fbc3c0/cover?md5ChecksumParam=1b7bdca46a639a0f1f807cec2a3da135)|GP Barcellona: Moto2|17:05:00|18:00:00|GP Barcellona: Moto2 Race 2 - Sul circuito di Montmelo' in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/1ce3ab53-88bf-48dd-bbe8-b301f4348e47/cover?md5ChecksumParam=0d666d9e94d6a534ee6fa0eab5b3156d)|GP Algarve: Moto2|18:00:00|19:00:00|GP Algarve: Moto2 Race 1 - In Portogallo, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|19:00:00|19:45:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/fdf6c97e-58ae-4955-a78e-055e4203d33b/cover?md5ChecksumParam=2ec2d573f7df865393d3e1116f5394b9)|GP Portogallo|19:45:00|21:05:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della MotoGP. In prima fila Quartararo, Rins e Zarco. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/c24b7af1-a076-4f20-9206-3958247e802c/cover?md5ChecksumParam=fe2b4da931789e8449433bde6ee13719)|GP Portogallo. Gara|21:05:00|21:35:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto3. In prima fila Migno, Foggia e Alcoba. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/6170d46c-69c4-4da4-b87a-e724e907c989/cover?md5ChecksumParam=1c248fea5c83f8a79d2c9d37e46af30f)|GP Portogallo. Gara|21:35:00|22:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Vierge. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|22:00:00|22:20:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|22:20:00|23:05:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9a80905-9632-423f-b9f6-0ddd80fbc3c0/cover?md5ChecksumParam=1b7bdca46a639a0f1f807cec2a3da135)|GP Barcellona: Moto2|23:05:00|00:00:00|GP Barcellona: Moto2 Race 2 - Sul circuito di Montmelo' in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/1ce3ab53-88bf-48dd-bbe8-b301f4348e47/cover?md5ChecksumParam=0d666d9e94d6a534ee6fa0eab5b3156d)|GP Algarve: Moto2|00:00:00|01:00:00|GP Algarve: Moto2 Race 1 - In Portogallo, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/1ce3ab53-88bf-48dd-bbe8-b301f4348e47/cover?md5ChecksumParam=0d666d9e94d6a534ee6fa0eab5b3156d)|GP Algarve: Moto2|00:00:00|01:00:00|GP Algarve: Moto2 Race 1 - In Portogallo, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|01:00:00|01:45:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/fdf6c97e-58ae-4955-a78e-055e4203d33b/cover?md5ChecksumParam=2ec2d573f7df865393d3e1116f5394b9)|GP Portogallo|01:45:00|03:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della MotoGP. In prima fila Quartararo, Rins e Zarco. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/c24b7af1-a076-4f20-9206-3958247e802c/cover?md5ChecksumParam=fe2b4da931789e8449433bde6ee13719)|GP Portogallo. Gara|03:00:00|03:30:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto3. In prima fila Migno, Foggia e Alcoba. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/6170d46c-69c4-4da4-b87a-e724e907c989/cover?md5ChecksumParam=1c248fea5c83f8a79d2c9d37e46af30f)|GP Portogallo. Gara|03:30:00|04:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Vierge. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|04:00:00|04:15:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|04:15:00|05:00:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9a80905-9632-423f-b9f6-0ddd80fbc3c0/cover?md5ChecksumParam=1b7bdca46a639a0f1f807cec2a3da135)|GP Barcellona: Moto2|05:00:00|06:00:00|GP Barcellona: Moto2 Race 2 - Sul circuito di Montmelo' in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/1ce3ab53-88bf-48dd-bbe8-b301f4348e47/cover?md5ChecksumParam=0d666d9e94d6a534ee6fa0eab5b3156d)|GP Algarve: Moto2|06:00:00|07:00:00|GP Algarve: Moto2 Race 1 - In Portogallo, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|07:00:00|07:45:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/fdf6c97e-58ae-4955-a78e-055e4203d33b/cover?md5ChecksumParam=2ec2d573f7df865393d3e1116f5394b9)|GP Portogallo|07:45:00|09:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della MotoGP. In prima fila Quartararo, Rins e Zarco. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/c24b7af1-a076-4f20-9206-3958247e802c/cover?md5ChecksumParam=fe2b4da931789e8449433bde6ee13719)|GP Portogallo. Gara|09:00:00|09:30:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto3. In prima fila Migno, Foggia e Alcoba. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/6170d46c-69c4-4da4-b87a-e724e907c989/cover?md5ChecksumParam=1c248fea5c83f8a79d2c9d37e46af30f)|GP Portogallo. Gara|09:30:00|10:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Vierge. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|10:00:00|10:15:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|10:15:00|11:00:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9a80905-9632-423f-b9f6-0ddd80fbc3c0/cover?md5ChecksumParam=1b7bdca46a639a0f1f807cec2a3da135)|GP Barcellona: Moto2|11:00:00|12:00:00|GP Barcellona: Moto2 Race 2 - Sul circuito di Montmelo' in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Triolo-Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/1ce3ab53-88bf-48dd-bbe8-b301f4348e47/cover?md5ChecksumParam=0d666d9e94d6a534ee6fa0eab5b3156d)|GP Algarve: Moto2|12:00:00|13:00:00|GP Algarve: Moto2 Race 1 - In Portogallo, ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che dominano la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|13:00:00|13:45:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/fdf6c97e-58ae-4955-a78e-055e4203d33b/cover?md5ChecksumParam=2ec2d573f7df865393d3e1116f5394b9)|GP Portogallo|13:45:00|15:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della MotoGP. In prima fila Quartararo, Rins e Zarco. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/c24b7af1-a076-4f20-9206-3958247e802c/cover?md5ChecksumParam=fe2b4da931789e8449433bde6ee13719)|GP Portogallo. Gara|15:00:00|15:30:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto3. In prima fila Migno, Foggia e Alcoba. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/6170d46c-69c4-4da4-b87a-e724e907c989/cover?md5ChecksumParam=1c248fea5c83f8a79d2c9d37e46af30f)|GP Portogallo. Gara|15:30:00|16:00:00|Terzo appuntamento del mondiale 2021: dall'Algarve in Portogallo, si accendono i motori per la gara della Moto2. In prima fila Lowes, Gardner e Vierge. TC: Triolo-Aliverti.
-
 |![Icon](https://guidatv.sky.it/uuid/024a3fa9-7c86-4f13-9942-0efc4f34e091/cover?md5ChecksumParam=52dae77402ffb69f5f3fc9e46fd810c1)|Ep. 34|16:00:00|16:15:00|Ep. 34 - Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/6c27fd86-0599-4708-ae25-d6d02094c36a/cover?md5ChecksumParam=e4f6edb4d3ac43fe9ae824b7e41f5b9e)|Indonesia|16:15:00|17:00:00|Indonesia - Ripercorriamo il weekend di gara della Superbike attraverso le immagini piu' significative e le parole dei piloti.
-
 |![Icon](https://guidatv.sky.it/uuid/e95cb158-c8fd-436d-8586-1e1976d0cecb/cover?md5ChecksumParam=c6e449d8da02dfbe10e4f2fc0f4340f0)|GP Algarve: Moto2|17:00:00|18:00:00|GP Algarve: Moto2 Race 2 - Sul circuito di Algarve in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/fb9d99cf-b9e9-4d4e-84ac-2d53de279310/cover?md5ChecksumParam=d712d95f9d03452874304c50eb99ec3a)|GP Aragona: Moto2|18:00:00|19:00:00|GP Aragona: Moto2 Race 1 - Ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che continuano a dominare la classifica. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/9671afdf-9a63-4420-a215-f4503c41968b/cover?md5ChecksumParam=789e04113812dd9a5639989d4063279e)|Terra, Acqua, Moto speciale Dainese|19:00:00|19:45:00|Uno scenario unico, tra terra e mare, quello che ha visto Guido Meda, Jack Miller e Max Sirena protagonisti di una esperienza davvero unica: la Dainese Expedition Masters in Sardegna.
-
 |![Icon](https://guidatv.sky.it/uuid/19636709-1953-40f2-9f0a-70ea89d46d6c/cover?md5ChecksumParam=d9cc797104cc9956c56f5784cf51d023)|GP Spagna|19:45:00|21:00:00|Quarto appuntamento del mondiale 2021: da Jerez in Spagna, la gara della MotoGP. In prima fila Quartararo, Morbidelli e Miller. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/2d617e23-55a5-4868-8577-67d8d97461b9/cover?md5ChecksumParam=623784887ab17dd82ee45ec2b590f0cb)|GP Spagna. Gara|21:00:00|21:30:00|Quarto appuntamento del mondiale 2021: da Jerez in Spagna, la gara della Moto3. In prima fila Suzuki, Alcoba e Migno. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/cb74c8c0-0ec0-4e5f-80e8-1a4b7073c664/cover?md5ChecksumParam=895be2d596700e09db3eaad116123cb4)|GP Spagna. Gara|21:30:00|22:00:00|Quarto appuntamento del mondiale 2021: da Jerez in Spagna, la gara della Moto2. In prima fila Gardner, Di Giannantonio e Bezzecchi. TC: Triolo-Pasini.
-
 |![Icon](https://guidatv.sky.it/uuid/ca0c5fcb-b730-4215-ac68-e1af26f28b49/cover?md5ChecksumParam=5e7a8066decbec8bcbeabfb4a81f8b29)|GP Spagna - Gara|22:00:00|22:30:00|GP Spagna - Gara - Sul circuito di Jerez de la Frontera parte la nuova stagione di MotoE. TC: Meda-Sanchini.
-
 |![Icon](https://guidatv.sky.it/uuid/b4cd3bb2-852c-4883-953d-5f7dc412ed70/cover?md5ChecksumParam=cc0944c91363ff3c832760d07ba42b3e)|Brembo, un mito per tutti|22:30:00|23:00:00|Andiamo alla scoperta di una straordinaria realta' industriale tutta italiana, ricca di passione e di tecnologia.
-
 |![Icon](https://guidatv.sky.it/uuid/e95cb158-c8fd-436d-8586-1e1976d0cecb/cover?md5ChecksumParam=c6e449d8da02dfbe10e4f2fc0f4340f0)|GP Algarve: Moto2|23:00:00|00:00:00|GP Algarve: Moto2 Race 2 - Sul circuito di Algarve in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Rosario Triolo e Paolo Beltramo.
-
 |![Icon](https://guidatv.sky.it/uuid/fb9d99cf-b9e9-4d4e-84ac-2d53de279310/cover?md5ChecksumParam=d712d95f9d03452874304c50eb99ec3a)|GP Aragona: Moto2|00:00:00|01:00:00|GP Aragona: Moto2 Race 1 - Ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che continuano a dominare la classifica. TC: Rosario Triolo e Paolo Beltramo.
 
 

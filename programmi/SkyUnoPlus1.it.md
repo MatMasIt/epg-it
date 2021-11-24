@@ -1,99 +1,52 @@
 # Sky Uno +1
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/e137c903-1bff-412d-b796-079528718e5d/cover?md5ChecksumParam=7d52601b175cfabeb68fbaf6142a22ae)|X Factor|00:50:00|03:10:00|S15 Ep10 Live 4 - Una nuova doppia eliminazione mette a rischio i concorrenti di Mika, Manuel Agnelli, Emma e Hell Raton. Ospiti della puntata: J Lord, Young Miles e Shari.
-
 |![Icon](https://guidatv.sky.it/uuid/6d984cd5-b158-494a-95ba-4323298b5422/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|03:10:00|03:50:00|S15 Ep23 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/1ad29e93-a804-4388-8b19-fd1790dd35d0/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|03:50:00|05:05:00|S7 Ep17 - Sono trascorse tre settimane dall'incontro delle coppie. La cena della sera precedente porta con se' degli strascichi e gli sposi riflettono su quanto e' stato rivelato.
-
 |![Icon](https://guidatv.sky.it/uuid/efdbf3a6-5cc1-4cf7-9baa-f9e857048e2d/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|05:05:00|06:00:00|S13 Ep37 - Gli aspiranti chef incontrano Alla Wolf-Tasker, sostenitrice del cibo regionale e proprietaria di un ristorante. I concorrenti che hanno perso il test precedente si ritrovano in sfida.
-
 |![Icon](https://guidatv.sky.it/uuid/242db78c-1aeb-4dbd-9f34-e1c656ce6fc3/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:00:00|06:25:00|Ep. 14 - Entriamo nelle case di lusso, piene di stravaganze inimmaginabili e fortune enormi. Inoltre, incontriamo alcune delle persone piu' ricche del pianeta: come hanno raggiunto il successo?
-
 |![Icon](https://guidatv.sky.it/uuid/6fc7c967-0902-44fe-bf7a-570a8017b3f8/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:25:00|07:00:00|Ep. 15 - Entriamo nelle case di lusso, piene di stravaganze inimmaginabili e fortune enormi. Inoltre, incontriamo alcune delle persone piu' ricche del pianeta: come hanno raggiunto il successo?
-
 |![Icon](https://guidatv.sky.it/uuid/bd6b50f2-c122-40ea-90a4-ccf942d4ebdf/cover?md5ChecksumParam=08dd8ae0c27ee3a9f28f43a5b16cbae4)|Alessandro Borghese Kitchen Sound|07:00:00|07:05:00|S7 Ep47 - I maestri della lievitazione Renato Bosco, Stefano Laghi ed Ezio Rocchi svelano i segreti della panificazione e forniscono preziosi consigli per preparare una pizza perfetta.
-
 |![Icon](https://guidatv.sky.it/uuid/6d984cd5-b158-494a-95ba-4323298b5422/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|07:05:00|07:45:00|S15 Ep23 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/1ad29e93-a804-4388-8b19-fd1790dd35d0/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|07:45:00|09:10:00|S7 Ep17 - Sono trascorse tre settimane dall'incontro delle coppie. La cena della sera precedente porta con se' degli strascichi e gli sposi riflettono su quanto e' stato rivelato.
-
 |![Icon](https://guidatv.sky.it/uuid/efdbf3a6-5cc1-4cf7-9baa-f9e857048e2d/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|09:10:00|10:10:00|S13 Ep37 - Gli aspiranti chef incontrano Alla Wolf-Tasker, sostenitrice del cibo regionale e proprietaria di un ristorante. I concorrenti che hanno perso il test precedente si ritrovano in sfida.
-
 |![Icon](https://guidatv.sky.it/uuid/3feaee22-dd68-4214-9249-673a356681d9/cover?md5ChecksumParam=964788792347d1174ac1872040adbed4)|MasterChef Italia|10:10:00|11:25:00|S10 Ep13 - Protagonista della Mystery Box e' un ingrediente iconico: la pancetta. L'ospite dell'Invention sara' Karime Lopez, executive chef dell'Osteria Gucci di Massimo Bottura a Firenze.
-
 |![Icon](https://guidatv.sky.it/uuid/486d5f18-6eb1-4bb2-90e7-5c9e23963d48/cover?md5ChecksumParam=964788792347d1174ac1872040adbed4)|MasterChef Italia|11:25:00|12:45:00|S10 Ep14 - E' il momento del secondo Skill Test, con una prova tecnica che mette sotto pressione gli aspiranti chef. Ad accoglierli, ci sara' uno storico amico di MasterChef: Iginio Massari.
-
 |![Icon](https://guidatv.sky.it/uuid/90c7789f-65dd-4751-bccf-8941383d5a45/cover?md5ChecksumParam=08dd8ae0c27ee3a9f28f43a5b16cbae4)|Alessandro Borghese Kitchen Sound|12:45:00|12:50:00|S7 Ep48 - I maestri della lievitazione Renato Bosco, Stefano Laghi ed Ezio Rocchi svelano i segreti della panificazione e forniscono preziosi consigli per preparare una pizza perfetta.
-
 |![Icon](https://guidatv.sky.it/uuid/4803eee1-b262-4607-ba83-12b930a50dfc/cover?md5ChecksumParam=8f38c5abc31394809e18bc98ef3c8336)|Alessandro Borghese - 4 Ristoranti Ep.2|12:50:00|14:00:00|S5 Ep5 Castelli Romani - Alessandro e' nella patria della porchetta e della romanella alla ricerca della migliore fraschetta. Chi tra Romina, Giorgia, Fabrizio e Marco riuscira' a vincere i 5000 euro?
-
 |![Icon](https://guidatv.sky.it/uuid/ee36be77-0491-4cd2-ac1c-6bd77f9b7b9d/cover?md5ChecksumParam=573dd648a8f51dc40cd44cdeb0873845)|Quattro matrimoni|14:00:00|15:10:00|S5 Ep7 - Costantino della Gherardesca mette in sfida 4 spose under 30, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle proprie avversarie.
-
 |![Icon](https://guidatv.sky.it/uuid/656b5d56-ac3f-413f-9f05-537fbfbf9439/cover?md5ChecksumParam=573dd648a8f51dc40cd44cdeb0873845)|Quattro matrimoni|15:10:00|16:15:00|S5 Ep6 - Costantino della Gherardesca mette in sfida quattro spose da favola, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle avversarie.
-
 |![Icon](https://guidatv.sky.it/uuid/6d984cd5-b158-494a-95ba-4323298b5422/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|16:15:00|16:55:00|S15 Ep23 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/cd59cfbe-098b-432d-a747-c165d2a22c49/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|16:55:00|18:30:00|S7 Ep18 - A meta' dell'esperimento, gli esperti formano una nuova coppia. Tra i nuovi partecipanti c'e' una vecchia conoscenza. Intanto, gli sposi continuano a vivere la loro quotidianita'.
-
 |![Icon](https://guidatv.sky.it/uuid/6505ae53-621f-4827-9415-fba758fbc1b7/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|18:30:00|19:30:00|S13 Ep38 - Il viaggio degli aspiranti chef continua nel cuore di Melbourne. I concorrenti dovranno cogliere le sfumature della citta' e realizzare un piatto che rappresenti la metropoli.
-
 |![Icon](https://guidatv.sky.it/uuid/af61e590-91ec-4d38-8695-7fdf044fd783/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|19:30:00|20:10:00|S15 Ep24 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/094382af-2ca3-430a-afcd-3fb19270cde9/cover?md5ChecksumParam=8f38c5abc31394809e18bc98ef3c8336)|Alessandro Borghese - 4 Ristoranti Ep.2|20:10:00|21:15:00|S5 Ep6 Riviera dei Fiori - A Sanremo, Alessandro e' alla ricerca del migliore ristorante a conduzione familiare. Chi tra Chiara, Valeria, Raffaele e Diego si aggiudichera' l'ambito premio?
-
 |![Icon](https://guidatv.sky.it/uuid/b67f34ba-6355-4101-b550-b00d0e094562/cover?md5ChecksumParam=4a47bb271eab316dbb0766eced2354e6)|X Factor 2021 - The Road to X Factor|21:15:00|22:55:00|...Factor. S15 Ep5 - Il percorso dei concorrenti di X Factor 2021 dal quarto al quinto live: il rewatch delle esibizioni, l'assegnazione del brano, le prove in sala, fino all'arrivo sul palco per le prove.
-
 |![Icon](https://guidatv.sky.it/uuid/b67f34ba-6355-4101-b550-b00d0e094562/cover?md5ChecksumParam=4a47bb271eab316dbb0766eced2354e6)|X Factor 2021 - The Road to X Factor|22:55:00|00:40:00|S15 Ep5 - Il percorso dei concorrenti di X Factor 2021 dal quarto al quinto live: il rewatch delle esibizioni, l'assegnazione del brano, le prove in sala, fino all'arrivo sul palco per le prove.
-
 |![Icon](https://guidatv.sky.it/uuid/e137c903-1bff-412d-b796-079528718e5d/cover?md5ChecksumParam=7d52601b175cfabeb68fbaf6142a22ae)|X Factor|00:40:00|03:05:00|S15 Ep10 Live 4 - Una nuova doppia eliminazione mette a rischio i concorrenti di Mika, Manuel Agnelli, Emma e Hell Raton. Ospiti della puntata: J Lord, Young Miles e Shari.
-
 |![Icon](https://guidatv.sky.it/uuid/af61e590-91ec-4d38-8695-7fdf044fd783/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|03:05:00|03:40:00|S15 Ep24 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/cd59cfbe-098b-432d-a747-c165d2a22c49/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|03:40:00|05:05:00|S7 Ep18 - A meta' dell'esperimento, gli esperti formano una nuova coppia. Tra i nuovi partecipanti c'e' una vecchia conoscenza. Intanto, gli sposi continuano a vivere la loro quotidianita'.
-
 |![Icon](https://guidatv.sky.it/uuid/6505ae53-621f-4827-9415-fba758fbc1b7/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|05:05:00|06:00:00|S13 Ep38 - Il viaggio degli aspiranti chef continua nel cuore di Melbourne. I concorrenti dovranno cogliere le sfumature della citta' e realizzare un piatto che rappresenti la metropoli.
-
 |![Icon](https://guidatv.sky.it/uuid/6fc7c967-0902-44fe-bf7a-570a8017b3f8/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:00:00|06:25:00|Ep. 15 - Entriamo nelle case di lusso, piene di stravaganze inimmaginabili e fortune enormi. Inoltre, incontriamo alcune delle persone piu' ricche del pianeta: come hanno raggiunto il successo?
-
 |![Icon](https://guidatv.sky.it/uuid/c400edcd-bf3d-4607-b877-171b31a60aaa/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:25:00|06:50:00|Ep. 16 - Entriamo nelle case di lusso, piene di stravaganze inimmaginabili e fortune enormi. Inoltre, incontriamo alcune delle persone piu' ricche del pianeta: come hanno raggiunto il successo?
-
 |![Icon](https://guidatv.sky.it/uuid/90c7789f-65dd-4751-bccf-8941383d5a45/cover?md5ChecksumParam=08dd8ae0c27ee3a9f28f43a5b16cbae4)|Alessandro Borghese Kitchen Sound|06:50:00|07:00:00|S7 Ep48 - I maestri della lievitazione Renato Bosco, Stefano Laghi ed Ezio Rocchi svelano i segreti della panificazione e forniscono preziosi consigli per preparare una pizza perfetta.
-
 |![Icon](https://guidatv.sky.it/uuid/af61e590-91ec-4d38-8695-7fdf044fd783/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|07:00:00|07:35:00|S15 Ep24 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/cd59cfbe-098b-432d-a747-c165d2a22c49/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|07:35:00|09:05:00|S7 Ep18 - A meta' dell'esperimento, gli esperti formano una nuova coppia. Tra i nuovi partecipanti c'e' una vecchia conoscenza. Intanto, gli sposi continuano a vivere la loro quotidianita'.
-
 |![Icon](https://guidatv.sky.it/uuid/6505ae53-621f-4827-9415-fba758fbc1b7/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|09:05:00|10:10:00|S13 Ep38 - Il viaggio degli aspiranti chef continua nel cuore di Melbourne. I concorrenti dovranno cogliere le sfumature della citta' e realizzare un piatto che rappresenti la metropoli.
-
 |![Icon](https://guidatv.sky.it/uuid/b03484fd-1e16-4ec2-a195-d28599e03b2f/cover?md5ChecksumParam=a5ec77fb7c3ba08cdbb717ec045387af)|Alessandro Borghese Kitchen Sound Menu'|10:10:00|10:55:00|S7 Ep8 - Dalle ricette per i piu' piccoli ai grandi classici, un viaggio all'insegna della grande cucina e della buona musica in compagnia di Alessandro Borghese.
-
 |![Icon](https://guidatv.sky.it/uuid/48c96b5a-a003-4d93-bbeb-b54af404c7ea/cover?md5ChecksumParam=964788792347d1174ac1872040adbed4)|MasterChef Italia|10:55:00|12:10:00|S10 Ep15 - I concorrenti si confrontano con gli elementi cardinali della natura: acqua, aria, terra, fuoco. Il vincitore otterra' un vantaggio nell'Invention Test. Ospite lo chef Terry Giacomello.
-
 |![Icon](https://guidatv.sky.it/uuid/d1746bba-e177-4aef-b374-93b75327c0da/cover?md5ChecksumParam=08dd8ae0c27ee3a9f28f43a5b16cbae4)|Alessandro Borghese Kitchen Sound|12:10:00|12:20:00|S7 Ep49 - I maestri della lievitazione Renato Bosco, Stefano Laghi ed Ezio Rocchi svelano i segreti della panificazione e forniscono preziosi consigli per preparare una pizza perfetta.
-
 |![Icon](https://guidatv.sky.it/uuid/094382af-2ca3-430a-afcd-3fb19270cde9/cover?md5ChecksumParam=8f38c5abc31394809e18bc98ef3c8336)|Alessandro Borghese - 4 Ristoranti Ep.2|12:20:00|13:20:00|S5 Ep6 Riviera dei Fiori - A Sanremo, Alessandro e' alla ricerca del migliore ristorante a conduzione familiare. Chi tra Chiara, Valeria, Raffaele e Diego si aggiudichera' l'ambito premio?
-
 |![Icon](https://guidatv.sky.it/uuid/b67f34ba-6355-4101-b550-b00d0e094562/cover?md5ChecksumParam=4a47bb271eab316dbb0766eced2354e6)|X Factor 2021 - The Road to X Factor|13:20:00|15:00:00|S15 Ep5 - Il percorso dei concorrenti di X Factor 2021 dal quarto al quinto live: il rewatch delle esibizioni, l'assegnazione del brano, le prove in sala, fino all'arrivo sul palco per le prove.
-
 |![Icon](https://guidatv.sky.it/uuid/ee36be77-0491-4cd2-ac1c-6bd77f9b7b9d/cover?md5ChecksumParam=573dd648a8f51dc40cd44cdeb0873845)|Quattro matrimoni|15:00:00|16:05:00|S5 Ep7 - Costantino della Gherardesca mette in sfida 4 spose under 30, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle proprie avversarie.
-
 |![Icon](https://guidatv.sky.it/uuid/af61e590-91ec-4d38-8695-7fdf044fd783/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|16:05:00|16:35:00|S15 Ep24 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/f1497eb8-e701-4012-9907-936cc91605ac/cover?md5ChecksumParam=a91257bb3db35ca02e87dedde8eb63cb)|Matrimonio a prima vista Australia|16:35:00|17:40:00|S7 Ep19 - Le nuove coppie partono per la luna di miele, mentre per le altre inizia una nuova settimana dell'esperimento. Le voci di un tradimento diventano sempre piu' insistenti.
-
 |![Icon](https://guidatv.sky.it/uuid/6505ae53-621f-4827-9415-fba758fbc1b7/cover?md5ChecksumParam=09d4cf5c6f2ee1be20e81481adca56a2)|MasterChef Australia|17:40:00|19:30:00|S13 Ep39 - Quattro concorrenti hanno la possibilita' di guadagnarsi l'immunita' settimanale. Andy li accoglie alla Lune Croissanterie di Melbourne e la prova vertera' sulla pasticceria.
-
 |![Icon](https://guidatv.sky.it/uuid/5bb044bb-afe5-4acf-8962-d7fa1f241265/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|19:30:00|20:10:00|S15 Ep25 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
-
 |![Icon](https://guidatv.sky.it/uuid/ee36be77-0491-4cd2-ac1c-6bd77f9b7b9d/cover?md5ChecksumParam=573dd648a8f51dc40cd44cdeb0873845)|Quattro matrimoni|20:10:00|21:15:00|S5 Ep7 - Costantino della Gherardesca mette in sfida 4 spose under 30, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle proprie avversarie.
-
 |![Icon](https://guidatv.sky.it/uuid/babc2250-7482-40d0-b079-691626a79d57/cover?md5ChecksumParam=7d52601b175cfabeb68fbaf6142a22ae)|X Factor|21:15:00|00:10:00|S15 Ep11 Live 5 - Sul palco di X Factor, prosegue la sfida dei concorrenti rimasti in gara di Mika, Manuel Agnelli, Emma e Hell Raton. Super ospite della puntata: Ed Sheeran.
 
 

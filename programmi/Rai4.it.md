@@ -1,121 +1,63 @@
 # Rai 4
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Vikings|01:15:00|01:55:00|S6 Ep3 Il segnale - I problemi in mare aumentano le divisioni sulle coste islandesi. Intanto l'avvento del Venerdi' Santo diventa occasione di dissidio tra i Rus.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Vikings|01:55:00|02:40:00|S6 Ep4 Anime perdute - Il principe Igor riceve un'accoglienza da eroe a Novgorod, memtre a Kiev l'atmosfera e' ben piu' cupa: il principe Oleg non rinuncera' alla battaglia.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|02:40:00|03:25:00|S4 Ep20 Un angelo per Harrigan - La Starrett Electronics, compagnia di assicurazioni di Paul Starrett, e' oggetto di due rapine. Viene richiesto percio' l'aiuto degli Angeli.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|The Dark Side|03:25:00|04:05:00|Il Casale di Collerotto - Regia di D. Marani. Il mistero della Strega della Bardana, una storia che ha radici lontane nel tempo, legata a molte morti inspiegabili e a un luogo isolato, il Casale di Collerotto.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|The Dark Side|04:05:00|04:35:00|Il manicomio di Volterra - Regia di D. Marani. Un posto abbandonato da decenni, con ancora al suo interno barelle, sedie a rotelle, vasche da bagno. Chi o cosa e' rimasto ad abitare l'Ex Manicomio di Volterra?
-
 |![Icon](https://guidatv.sky.it/uuid/e1575a2a-2236-4401-a006-c39df2c12b80/cover?md5ChecksumParam=ac9bbb966480863437c4a6a8716594ec)|Delitti in Paradiso|04:35:00|05:30:00|S8 Ep7 Omicidio in diretta - Durante la registrazione del suo programma, un dee-jay viene assassinato all'interno di una stanza chiusa a chiave. Il caso e' molto piu' complesso del previsto.
-
 |![Icon](https://guidatv.sky.it/uuid/4679d281-82c9-491a-b6ca-af2c24db9b48/cover?md5ChecksumParam=ac9bbb966480863437c4a6a8716594ec)|Delitti in Paradiso|05:30:00|06:35:00|S8 Ep8 Delitto a cavallo - Una tempesta improvvisa costringe tre campeggiatori a trovare un rifugio. La mattina seguente all'interno della stazione di polizia avviene un macabro ritrovamento.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anica Appuntamento al cinema|06:35:00|06:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|06:40:00|07:30:00|S2 Ep1 - A Joanna Chang viene affidato il caso di un giovane e brillante attivista per la privacy sul web. Intanto, a Millwood, Billy affronta le conseguenze della causa Matheson Steel.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|07:30:00|08:15:00|S2 Ep2 - Joanna ha subito una grave e pericolosa invasione della sua privacy. Intanto, a Millwood, Billy prende in considerazione l'idea di suo fratello Shane di salvare la citta'.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|08:15:00|09:00:00|S2 Ep5 Ripeti l'ultima frase - Il team Bravo ha il compito di salvare un gruppo di studenti americani tenuti in ostaggio a Mumbai...
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|09:00:00|09:50:00|S2 Ep6 Caccia al cartello - Il team Bravo collabora con i marines messicani per cacciare il capo di uno dei piu' potenti e letali cartelli della droga in Messico.
-
 |![Icon](https://guidatv.sky.it/uuid/866ab600-f1f4-4655-9436-948b3adba106/cover?md5ChecksumParam=11ba9e8da53b21b6234c804cb26af91b)|MacGyver|09:50:00|10:30:00|S3 Ep20 Giochi pericolosi - Due turisti americani, impegnati in una caccia al tesoro internazionale, scompaiono misteriosamente. Il team Phoenix, per ritrovarli, inizia a operare sotto copertura.
-
 |![Icon](https://guidatv.sky.it/uuid/27a01989-c474-4aa1-a1dc-aa34ee21c37b/cover?md5ChecksumParam=11ba9e8da53b21b6234c804cb26af91b)|MacGyver|10:30:00|11:15:00|S3 Ep21 Passeggeri - Quando un'organizzazione criminale rapisce la moglie e la figlia, Ethan chiede aiuto all'ex moglie Matty. Intanto Riley va in missione a Parigi insieme a Billy e Mama Colton.
-
 |![Icon](https://guidatv.sky.it/uuid/b076f164-208e-423e-bb98-e74038f1da1e/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|11:15:00|12:30:00|S9 Ep1 La maschera del diavolo - Durante il capodanno una donna viene accoltellata da un uomo mascherato. Poco dopo anche il cognato della vittima subisce un'aggressione.
-
 |![Icon](https://guidatv.sky.it/uuid/9e871f88-a099-40a8-8c45-e90688bc8c8e/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|12:30:00|13:35:00|S9 Ep2 Ritratto di un omicidio - Una nota artista viene avvelenata in circostanze davvero difficili da spiegare. La squadra di Mooney indaga.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|13:35:00|14:20:00|S2 Ep3 - Lovand inizia una campagna diffamatoria contro Noah. Mentre Billy e Gerrilynn aspettano una risposta per la loro causa, un visitatore inaspettato si presenta a Millwood con un'offerta.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|14:20:00|15:05:00|S2 Ep4 - Tornata a Millwood dopo aver appreso della morte di una persona cara, Joanna dovra' immediatamente affrontare la polizia, che da subito sospetta di Gerrilynn Spence.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|15:05:00|16:05:00|S4 Ep15 Un bambino per un angelo - Kelly si ritrova nel mezzo di una rapina, in cui perde la vita un agente. Il secondo agente, sfoga la sua rabbia per il tragico evento, picchiando suo figlio.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|16:05:00|16:55:00|S4 Ep16 L'angelo scomparso - L'agenzia di Charlie scopre che Ray Devlin, un famoso ladro di gioielli, e' fuggito in Arizona. Gli Angeli si mettono subito all'opera per ritrovarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/b44969c3-3313-45fa-9c29-4dac3c22305c/cover?md5ChecksumParam=11ba9e8da53b21b6234c804cb26af91b)|MacGyver|16:55:00|17:40:00|S3 Ep22 Tra male e peggio - I piani di un nuovo avversario costringono Mac Gyver ad una scelta impossibile: salvare la vita di un amico oppure le vite di molti innocenti...
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|MacGyver|17:40:00|18:30:00|S4 Ep1 - L'ex agente dell'MI6 Russ Taylor recluta gli ex membri della Phoenix Foundation: dovranno trovare un'arma biologica che sta per essere lanciata contro una metropoli americana.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|18:30:00|19:10:00|S2 Ep7 Fuori dalla base - Il team Bravo continua a seguire i suggerimenti che porteranno Andres Doza a capo di uno dei piu' potenti e letali cartelli della droga in Messico...
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|19:10:00|19:55:00|S2 Ep8 Parallasse - Jason e Mandy si recano in coppia sotto copertura in un night club di lusso a Citta' del Messico per rintracciare uno dei membri del cartello di Andres Doza.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Just for Laughs|19:55:00|20:25:00|S17 Ep9 - Una telecamera nascosta osserva i comportamenti di persone comuni coinvolte in situazioni surreali e bizzarre. Variante in salsa canadese dello statunitense Candid Camera.
-
 |![Icon](https://guidatv.sky.it/uuid/837b20de-a3d6-4db2-95bf-4fcc789fce86/cover?md5ChecksumParam=89546433b0582524c5838e9c650eebdf)|World Invasion|20:25:00|22:25:00|Regia di J. Liebesman, con A.Eckhart, M.Rodriguez; USA 2011. Gli alieni invadono la Terra e distruggono ogni citta'. Solo Los Angeles resiste all'attacco spaziale, ergendosi a baluardo dell'umanita'.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Space Walks|22:25:00|23:05:00|Ep. 1 - Un viaggio unico: dalla progettazione di razzi e satelliti spaziali agli spettacolari filmati della Nasa, dell'Esa, fino agli incontri con i piu' famosi astronauti italiani di ieri e di oggi.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Trek It!|23:05:00|00:05:00|Regia di R. Baldassarri, con G.Mongini; ITA 2020. La storia dei Trekker, gli appassionati di 'Star Trek', la saga di fantascienza nata dalla serie degli anni 60.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Vikings|00:05:00|01:00:00|S6 Ep5 Un mare di incertezze - L'inizio di una guerra in Groenlandia significa nuovi pericoli per Ubbe e i suoi. Nel frattempo, una morte a Kiev diventa foriera di cambiamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Vikings|01:00:00|01:40:00|S6 Ep6 La goccia che fa traboccare il vaso - In mare aperto, Ubbe e i coloni sono in balia dei venti. Nel frattempo, Ivar e Hvitserk fanno ritorno a Kattegat.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|01:40:00|02:25:00|S1 Ep21 Ballando al buio - Una ricca vedova viene ricattata dopo una breve relazione con un gigolo'. Gli Angeli di Charlie vengono incaricate di smascherare il ricattatore.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|02:25:00|03:10:00|S1 Ep22 Mi ricorderanno - Gli Angeli cercano di scoprire chi stia terrorizzando una famosa attrice. Sabrina diventa la sua segretaria, Kelly si fa assumere sul set e Jill si traveste da reporter.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|The Dark Side|03:10:00|04:10:00|Il manicomio di Volterra - Regia di D. Marani. Un posto abbandonato da decenni, con ancora al suo interno barelle, sedie a rotelle, vasche da bagno. Chi o cosa e' rimasto ad abitare l'Ex Manicomio di Volterra?
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|The Dark Side|04:10:00|04:30:00|Il castello di Belveglio, detto di Malamorte - Regia di D. Marani. Eretto tra l'XI e il XII secolo, il Castello di Belveglio sorge in un luogo teatro di battaglie sanguinose, chiamato anticamente 'Malamorte'.
-
 |![Icon](https://guidatv.sky.it/uuid/b076f164-208e-423e-bb98-e74038f1da1e/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|04:30:00|05:30:00|S9 Ep1 La maschera del diavolo - Durante il capodanno una donna viene accoltellata da un uomo mascherato. Poco dopo anche il cognato della vittima subisce un'aggressione.
-
 |![Icon](https://guidatv.sky.it/uuid/9e871f88-a099-40a8-8c45-e90688bc8c8e/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|05:30:00|06:35:00|S9 Ep2 Ritratto di un omicidio - Una nota artista viene avvelenata in circostanze davvero difficili da spiegare. La squadra di Mooney indaga.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|06:35:00|07:25:00|S2 Ep3 - Lovand inizia una campagna diffamatoria contro Noah. Mentre Billy e Gerrilynn aspettano una risposta per la loro causa, un visitatore inaspettato si presenta a Millwood con un'offerta.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|07:25:00|08:10:00|S2 Ep4 - Tornata a Millwood dopo aver appreso della morte di una persona cara, Joanna dovra' immediatamente affrontare la polizia, che da subito sospetta di Gerrilynn Spence.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|08:10:00|08:55:00|S1 Ep7 Confini - Jason e tutto il team SEAL devono salvare un agente della CIA sotto copertura, catturato da un gruppo di terroristi. Intanto, Clay affronta l'ennesima prova.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|08:55:00|09:40:00|S1 Ep8 Lo scambio - Salvare un soldato americano, catturato dopo aver disertato, e' la nuova missione della squadra. Purtroppo, questa volta, il team affronta il dovere con grande difficolta'.
-
 |![Icon](https://guidatv.sky.it/uuid/b44969c3-3313-45fa-9c29-4dac3c22305c/cover?md5ChecksumParam=11ba9e8da53b21b6234c804cb26af91b)|MacGyver|09:40:00|10:25:00|S3 Ep22 Tra male e peggio - I piani di un nuovo avversario costringono Mac Gyver ad una scelta impossibile: salvare la vita di un amico oppure le vite di molti innocenti...
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|MacGyver|10:25:00|11:10:00|S4 Ep1 - L'ex agente dell'MI6 Russ Taylor recluta gli ex membri della Phoenix Foundation: dovranno trovare un'arma biologica che sta per essere lanciata contro una metropoli americana.
-
 |![Icon](https://guidatv.sky.it/uuid/1ba96e11-5787-468b-8b64-f7c915765271/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|11:10:00|12:20:00|S9 Ep3 Gara fatale - Il cadavere di un ciclista trovato in un burrone durante il Tour des Antilles fa scattare le indagini: si e' trattato di un incidente? Jack vuole che Anna resti a Saint Marie.
-
 |![Icon](https://guidatv.sky.it/uuid/509bc921-dea0-4811-994b-74f22609e02e/cover?md5ChecksumParam=67d015e09e3e135cb4a107d73003bcf3)|Delitti in Paradiso|12:20:00|13:25:00|S9 Ep4 Un nuovo inizio - Il team indaga su un cadavere trovato in una barca al largo. Nel frattempo, Jack deve prendere un'importante decisione che potrebbe sconvolgergli la vita.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|13:25:00|14:15:00|S2 Ep5 - Mentre Joanna e Billy cercano di far uscire Luna di prigione, un testimone a sorpresa si presenta con nuove informazioni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Burden of Truth|14:15:00|15:00:00|S2 Ep6 - Mentre affronta il suo dolore, Joanna deve rimanere lucida per l'imminente processo contro Luna. Intanto Billy trova nuove prove per un'ipotesi alternativa.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|15:00:00|15:55:00|S4 Ep17 E' caduta una stella - Gli Angeli indagano sulla scomparsa di Seth Jeffers, fidanzato di Bess Murdock, protagonista di film pornografici.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Charlie's Angels|15:55:00|16:50:00|S4 Ep18 Case dolci case - Una ricca coppia di Beverly Hills viene derubata di un prezioso tesoro artistico egiziano. Gli Angeli sospettano del barone Barry Kingsbrook.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|MacGyver|16:50:00|17:35:00|S4 Ep2 - Un generale da' a Phoenix una possibilita' di riscatto: rubare un chip all'interno di un laboratorio militare al fine di testarne la sicurezza. Ma le cose non vanno come previsto.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|MacGyver|17:35:00|18:20:00|S4 Ep3 - MacGyver e il suo team salgono a bordo di un aereo, ma, durante il volo, il pilota ha un attacco di cuore. Scopriranno che il malore e' stato provocato intenzionalmente.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|18:20:00|19:10:00|S1 Ep9 Cassa di birra - La squadra deve intervenire per salvare uno scienziato russo e sua moglie in Afghanistan. Intanto, Clay affronta il suo primo giorno con l'unita' di Jason.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Seal Team|19:10:00|19:55:00|S1 Ep10 Il reclutatore - Per localizzare un cellulare collegato a una rete terroristica, Jason e la squadra sono costretti a introdursi in una casa in Yemen.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Just for Laughs|19:55:00|20:20:00|S17 Ep10 - Una telecamera nascosta osserva i comportamenti di persone comuni coinvolte in situazioni surreali e bizzarre. Variante in salsa canadese dello statunitense Candid Camera.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Alone|20:20:00|22:05:00|Regia di J. Hyams, con J.Willcox, M.Menchaca; ITA 2020. Una donna, rimasta vedova, viene rapita da un losco individuo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Revolutions|22:05:00|23:10:00|Il robot - Le storie di sei oggetti iconici mostrano come l'evoluzione del pensiero umano ha mutato, nel corso del tempo, il modo di agire e di pensare.
-
 |![Icon](https://guidatv.sky.it/uuid/f0e3fe86-69cd-4b40-8ea7-805ce95dcab9/cover?md5ChecksumParam=ec21018e544e989eeeff22d05a13d464)|Countdown|23:10:00|00:50:00|Regia di J. Dec, con E.Lail, J.Calloway; USA 2019. Una ragazza scarica una nuova app, Countdown, che le dice quanto le resta da vivere. Purtroppo per lei si tratta solo di poche ore e...
 
 

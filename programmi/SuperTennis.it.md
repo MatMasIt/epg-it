@@ -1,67 +1,36 @@
 # Super Tennis
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Maestra 2021 Muguruza - Kontaveit...|03:15:00|05:15:00|La Maestra 2021 Muguruza - Krejcikova Dubai 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ATP Washington 2021 Sinner - Korda|05:15:00|07:00:00|ATP Washington 2021 Sinner - Korda - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Story Del Potro - Cilic 2016|07:00:00|09:00:00|Davis Cup Story Nadal - Shapovalov 2019 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Il Maestro 2021 Zverev - Dimitrov...|09:00:00|11:00:00|Il Maestro 2021 Zverev - Murray Indian Wells 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reloaded Davis Cup|11:00:00|12:00:00|Reloaded Davis Cup - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Story Del Potro - Cilic 2016|12:00:00|13:45:00|Davis Cup Story Fognini - Opelka 2019 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Maestra 2021 Muguruza - Kontaveit...|15:15:00|16:00:00|La Maestra 2021 Muguruza - Kontaveit Finals Guadalajara 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis TG|16:00:00|16:15:00|Supertennis TG - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Story Del Potro - Cilic 2016|17:30:00|20:00:00|Davis Cup Story Del Potro - Cilic 2016 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis TG|20:00:00|20:15:00|Supertennis TG - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ATP Magazine|20:15:00|20:45:00|ATP Magazine - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Il Maestro 2021 Zverev - Dimitrov...|20:45:00|23:15:00|Il Maestro 2021 Zverev - Dimitrov Parigi Bercy 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reloaded Davis Cup|23:15:00|00:15:00|Reloaded Davis Cup - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Story Del Potro - Cilic 2016|00:15:00|02:00:00|Davis Cup Story Fognini - Opelka 2019 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Maestra 2021 Muguruza - Kontaveit...|02:00:00|03:30:00|La Maestra 2021 Muguruza - Kontaveit Finals Guadalajara 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Story Del Potro - Cilic 2016|04:45:00|08:15:00|Davis Cup Story Del Potro - Cilic 2016 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ATP Magazine|08:15:00|08:45:00|ATP Magazine - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|WTA Montreal 2021 Finale Giorgi...|08:45:00|10:30:00|WTA Montreal 2021 Finale Giorgi - Pliskova - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Il Maestro 2021 Zverev - Dimitrov...|10:30:00|13:30:00|Il Maestro 2021 Zverev - Dimitrov Parigi Bercy 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reloaded Davis Cup|13:30:00|14:30:00|Reloaded Davis Cup - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|14:30:00|15:00:00|Supertennis Today - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Finals 2021|15:00:00|16:45:00|Davis Cup Finals 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|16:45:00|17:00:00|Supertennis Today - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Finals 2021|17:00:00|18:45:00|Davis Cup Finals 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|18:45:00|19:00:00|Supertennis Today - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Finals 2021|19:00:00|21:00:00|Davis Cup Finals 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|21:00:00|22:00:00|Supertennis Today - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Finals 2021|22:00:00|00:00:00|Davis Cup Finals 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Davis Cup Finals 2021|00:00:00|02:00:00|Davis Cup Finals 2021 - Il tennis a trecentosessanta gradi. I grandi tornei, i grandi campioni, le emozioni della Coppa Davis e della Fed Cup, le news, la tecnica di gioco.
 
 

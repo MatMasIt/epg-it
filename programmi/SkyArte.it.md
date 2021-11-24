@@ -1,225 +1,115 @@
 # Sky Arte
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/b862ecd9-2798-4bd7-9512-ec06e766c6a8/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Oggetti di culto - Alcuni santi sono divenuti oggetti di culto, a volte per il loro operato in vita altre per la particolarita' delle loro reliquie... Prox Ep. 25 nov 0:50. Rep. 21 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/ff2488df-26c0-40d3-9b11-b64a3cc2ac8f/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|00:55:00|01:55:00|...the Road - Ricordi e storie dei pionieri e di coloro che ancora oggi catturano, con la fotografia, la magia della musica dal vivo. Prox Ep. 24 nov 02:55. Rep. 29 nov 03:15
-
 |![Icon](https://guidatv.sky.it/uuid/5db94ff9-239e-438c-8e1d-462a9e2285ac/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|01:55:00|02:55:00|...dischi - Art director, musicisti e fotografi musicali ci mostrano le radici e l'evoluzione della fotografia da copertina di alcuni degli album piu' iconici del mondo. Prox Ep. 25 nov 02:50. Rep. 1 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/71792057-4c54-4ee2-8f74-c97d9c50394f/cover?md5ChecksumParam=8b0068bc4f717ce6baf33e9952301b70)|Sky Arte Sessions - Ex-Otago|02:55:00|03:40:00|Gli Ex-Otago suonano per Sky Arte i brani che li hanno consacrati come band dall'indubitabile gusto per la scrittura musicale. Da 'I giovani d'oggi' a 'Quando sono con te' ascoltiamo insieme questa tracklist esclusiva. Prox Ep. 25 nov 03:50. Rep. 28 nov 04:25
-
 |![Icon](https://guidatv.sky.it/uuid/ce57b415-4fb5-43c3-9cfd-25b186fad9a2/cover?md5ChecksumParam=d11ec4e37f2127a4cdfd571967aa9c29)|Joe Bastianich On the Road|03:40:00|04:30:00|...Venezia Giulia - Un viaggio alla ricerca di canzoni e volti di un'Italia misteriosa. Il protagonista? Joe Bastianich. Nelle inedite vesti di musicista, Joe percorre la penisola, per scoprire artisti che conservano la memoria storica e musicale. In questa puntata, torna alle sue origini nel Friuli. Prox ed ultimo Ep. 29 nov 05:05.
-
 |![Icon](https://guidatv.sky.it/uuid/bbaa6464-e982-4406-af85-d920042d2fe0/cover?md5ChecksumParam=8d8ff4047ace6983d8edf301fa2da714)|Dante - La Visione Dell'arte|04:30:00|05:00:00|Una grande mostra a Forli' sull'intimo rapporto tra Dante e l'arte, attraverso le opere di artisti che hanno reso in immagini la potenza visionaria del poeta toscano. Rep. 25 nov 02:15
-
 |![Icon](https://guidatv.sky.it/uuid/84cb90ba-c112-4a31-b517-ba5bafa61a42/cover?md5ChecksumParam=5b52253c43ba36f23ab12c6c5638c8fa)|Love, Cecil|05:00:00|06:45:00|Regia di L. Immordino Vreeland. Regista, scenografo, fotografo, scrittore, pittore e premio Oscar: Cecil Beaton ha incarnato i cambiamenti culturali e politici del XX secolo.
-
 |![Icon](https://guidatv.sky.it/uuid/d92058c9-7a1c-4786-b98b-f39b36d78328/cover?md5ChecksumParam=4e42fc5bd859a58e683dac064f7ab4e8)|Escher - Viaggio nell'infinito|06:45:00|08:10:00|Sono la voce e le parole di Escher, prese da piu' di sue 1000 lettere, diari e lezioni scritte, a portarci nel mondo dell'artista: la sua vita, la politica, il lavoro (NLD 2018)
-
 |![Icon](https://guidatv.sky.it/uuid/2dfc6237-93d6-48b0-b7e3-11ff533b5346/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|08:10:00|08:25:00|S1 Ep4 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Nathan Never si lascia andare al flusso di coscienza. Prox Ep. 25 nov 16:00.
-
 |![Icon](https://guidatv.sky.it/uuid/ca547783-c0e9-4fa0-95d9-0f623d80ca57/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|08:25:00|09:20:00|Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Alice ci racconta 'Il sole nella pioggia'. Prox Ep. 24 nov 10:20. Rep. 3 dic 10:05
-
 |![Icon](https://guidatv.sky.it/uuid/36ad8825-93d5-43a1-9245-d5c349c0c0c5/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|09:20:00|10:15:00|...senza fili - Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Edoardo Bennato racconta 'Burattino senza fili'. Prox Ep. 25 nov 10:40. Rep. 25 nov 09:45
-
 |![Icon](https://guidatv.sky.it/uuid/c9c8ed2c-683e-47bc-81fc-0d6668a2c7ca/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|10:15:00|11:10:00|L'immagine di Tupac Shakur e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 25 nov 11:35. Rep. 8 dic 13:30
-
 |![Icon](https://guidatv.sky.it/uuid/5739c299-a8fc-44f3-97d1-bfab62ea6e02/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:10:00|11:45:00|Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio: esploriamo le catacombe e altre complesse architetture sotterranee di Roma. Prox Ep. 24 nov 12:45.
-
 |![Icon](https://guidatv.sky.it/uuid/7cab2120-6a97-4520-9284-7f3dab6fc6dc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:45:00|12:25:00|...Sant'Angelo - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploreremo Castel Sant'Angelo e la sua storia. Prox Ep. 25 nov 13:05. Rep. 25 nov 12:30
-
 |![Icon](https://guidatv.sky.it/uuid/e6bddfbc-9bc8-4552-94c9-fd0cab34d2f6/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|12:25:00|13:15:00|...Triade Capitolina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Triade Capitolina. Prox ed ultimo Ep. 25 nov 13:40. Rep. 26 nov 0:45
-
 |![Icon](https://guidatv.sky.it/uuid/d60ea56d-52a3-41ee-845e-3d960ae69c96/cover?md5ChecksumParam=229b6aa15a86042094e016fc5fed6554)|Aalto|13:15:00|15:00:00|Regia di V. Suutari. Il documentario racconta con materiali d'archivio inediti la vita e l'attivita' di Alvar Aalto e della sua prima moglie Aino: una coppia che ha definito il segno del design scandinavo. Rep. 25 nov 06:00
-
 |![Icon](https://guidatv.sky.it/uuid/481d72a0-782e-4388-9add-689439cca055/cover?md5ChecksumParam=85de1e56e8fd8c89e49d8fdc1c0f8ca2)|Queen - A Night at the Opera|15:00:00|15:55:00|Il quarto album dei Queen 'A Night at the Opera' e' un mix di hard rock, pop, opera e musica folk: riscopriamo attraverso interviste, performance acustiche e soprattutto tanta grandissima musica.
-
 |![Icon](https://guidatv.sky.it/uuid/91976837-db4a-4d53-b57c-477eb5e282ac/cover?md5ChecksumParam=0336a193d806c270b79d4094e55f5bda)|Queen - Hungarian Rhapsody Live in...|15:55:00|17:35:00|...Budapest - E' il 27 luglio 1986 e i Queen si esibiscono al Nepstadium di Budapest in uno dei loro live piu' famosi, nel tentativo di adattare il rock al gusto dell'Europa dell'Est. Tra le hit, 'Bohemian Rhapsody'. Rep. 25 dic 04:30
-
 |![Icon](https://guidatv.sky.it/uuid/9104a1ec-2c2d-4d8b-b6b6-77a996548cfa/cover?md5ChecksumParam=46a64439c092b96d45b62b12849b9f24)|Queen: Rock the World|17:35:00|18:40:00|Regia di C. Bird. Il presentatore musicale di BBC music Bob Harris segue i Queen - dalla registrazione del disco fino al tour - durante la realizzazione del loro sesto album: News of the World.
-
 |![Icon](https://guidatv.sky.it/uuid/56a95e21-554c-488a-86f3-28b2dd7f548a/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|18:40:00|19:40:00|L'immagine di Freddie Mercury e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 5 dic 11:05. Rep. 4 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/64edf017-307c-478e-9bfd-73d1b0d38ce1/cover?md5ChecksumParam=44df019bd9c63ad7ac51d51852147b47)|B.E.V.I.|19:40:00|20:15:00|Il tempio del Chianti classico - I Marchesi Antinori hanno legato il proprio nome all'eccellenza vinicola e alla tradizione mecenatistica, a sostegno dell'arte contemporanea. Prox Ep. 1 dic 20:40. Rep. 28 nov 10:35
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|20:15:00|21:15:00|BMS / Banco del Mutuo Soccorso - Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 24 nov 23:10
-
 |![Icon](https://guidatv.sky.it/uuid/562f3abe-c26a-4888-9076-b8145723aeaf/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|21:15:00|22:10:00|Ci sono album che hanno segnato la storia della musica italiana. Sky Arte vi porta alla scoperta dei loro segreti. Nella puntata: Fiorella Mannoia con Sud. Prox Ep. 24 nov 23:10. Rep. 25 nov 15:30
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|22:10:00|23:10:00|Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 25 nov 14:30
-
 |![Icon](https://guidatv.sky.it/uuid/074f3472-9e82-45da-9719-5c09777b6450/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|23:10:00|00:00:00|...Dea di Morgantina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Dea di Morgantina. Prox Ep. 26 nov 0:45. Rep. 27 nov 22:05
-
 |![Icon](https://guidatv.sky.it/uuid/13f05dd5-492d-4222-b4c2-59ad3c961bb6/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Il prezzo della fede - Quattro storie di santi che hanno generato devozione o ricerche scientifiche, ispirato grandi artisti e sono stati oggetto di trame criminali. Prox Ep. 26 nov 01:35. Rep. 22 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/13f05dd5-492d-4222-b4c2-59ad3c961bb6/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Il prezzo della fede - Quattro storie di santi che hanno generato devozione o ricerche scientifiche, ispirato grandi artisti e sono stati oggetto di trame criminali. Prox Ep. 26 nov 01:35. Rep. 22 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/e2a16925-1c3d-44f9-aec3-4ca5a2d561c3/cover?md5ChecksumParam=77de32a77b45735b54eabd4312cc0c87)|Tech.Emotion|00:55:00|01:30:00|Una serie per ispirare il pubblico attraverso grandi storie di leader. Nell'episodio: Brunello Cucinelli, Sheryl Sandberg, Marc Benioff, Jodi Halpern, il Dalai Lama. Prox Ep. 29 nov 13:20. Rep. 27 nov 09:10
-
 |![Icon](https://guidatv.sky.it/uuid/bbaa6464-e982-4406-af85-d920042d2fe0/cover?md5ChecksumParam=8d8ff4047ace6983d8edf301fa2da714)|Dante - La Visione Dell'arte|01:30:00|02:00:00|Una grande mostra a Forli' sull'intimo rapporto tra Dante e l'arte, attraverso le opere di artisti che hanno reso in immagini la potenza visionaria del poeta toscano. Rep. 26 nov 02:30
-
 |![Icon](https://guidatv.sky.it/uuid/3a9e78f9-44ae-4d66-b45d-55a19ff2de38/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|02:00:00|02:45:00|...copertina - Giornalisti, musicisti, pubblicisti e fotografi musicali raccontano le storie dietro alle fotografie da copertina e l'importanza delle riviste musicali. Prox Ep. 26 nov 03:05. Rep. 2 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/b6acc746-9391-49b0-9858-b5da2f1ba8f6/cover?md5ChecksumParam=65742c8e2dcf820a222c7bb5b177e5cb)|Sky Arte Sessions - Ex-Otago|02:45:00|03:45:00|Levante suona in esclusiva per Sky Arte una tracklist di brani ri-arrangiati con l'utilizzo di archi e strumenti acustici. Dai suoi pezzi piu' classici a quelli tratti dal suo ultimo disco Nel caos di stanze stupefacenti. Prox ed ultimo Ep. 26 nov 04:05. Rep. 29 nov 04:20
-
 |![Icon](https://guidatv.sky.it/uuid/882c26e6-5649-4fc8-94a4-fb2d6f4d3deb/cover?md5ChecksumParam=10b5d0c683d6a1db2b6a9c9800c066c0)|Joe Bastianich On the Road|03:45:00|04:45:00|Napoli - Un viaggio alla ricerca di canzoni e volti di un'Italia misteriosa. Il protagonista? Joe Bastianich. Nelle inedite vesti di musicista, Bastianich percorre tutta la penisola, per scoprire artisti che conservano la memoria storica e musicale della nazione. In questa puntata, Napoli. Prox Ep. 26 nov 05:10.
-
 |![Icon](https://guidatv.sky.it/uuid/6f9216af-cfe5-4eaf-8d50-769769a8e4da/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|04:45:00|05:00:00|S1 Ep1 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Tex si presenta per discutere la sceneggiatura del mese. Prox Ep. 26 nov 17:20.
-
 |![Icon](https://guidatv.sky.it/uuid/d60ea56d-52a3-41ee-845e-3d960ae69c96/cover?md5ChecksumParam=229b6aa15a86042094e016fc5fed6554)|Aalto|05:00:00|06:45:00|Regia di V. Suutari. Il documentario racconta con materiali d'archivio inediti la vita e l'attivita' di Alvar Aalto e della sua prima moglie Aino: una coppia che ha definito il segno del design scandinavo.
-
 |![Icon](https://guidatv.sky.it/uuid/b03ae8b1-69ad-47a0-b2fb-ff5039df4782/cover?md5ChecksumParam=fcfe6542880e552c74b7fb1c362d37f6)|David Hockney dalla Royal Academy of...|06:45:00|08:15:00|...Arts - Visitiamo le mostre che la Royal Academy of Arts ha dedicato a David Hockney, uno degli artisti britannici piu' famosi al mondo, simbolo della pop art inglese (GBR 2017)
-
 |![Icon](https://guidatv.sky.it/uuid/4b72c55d-037f-472c-b926-334dfb3e613f/cover?md5ChecksumParam=fb2beb01e0870eac7bb498fa279427f1)|Romantic Italia|08:15:00|08:45:00|Viaggio tra le canzoni d'amore italiane per riscoprire valori e momenti che tanti artisti hanno cantato. In questa puntata ascolteremo canzoni con tema: addio.
-
 |![Icon](https://guidatv.sky.it/uuid/36ad8825-93d5-43a1-9245-d5c349c0c0c5/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|08:45:00|09:40:00|...senza fili - Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Edoardo Bennato racconta 'Burattino senza fili'. Prox Ep. 25 nov 10:40. Rep. 6 dic 10:00
-
 |![Icon](https://guidatv.sky.it/uuid/e6c4cb3e-2bd5-4027-9982-618405bc1936/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|09:40:00|10:35:00|...batteria, il contrabbasso, eccetera - Scopriamo gli album che hanno segnato la storia della musica italiana. Esperti e musicisti ci raccontano l'album di Lucio Battisti. Prox Ep. 26 nov 10:40. Rep. 26 nov 09:45
-
 |![Icon](https://guidatv.sky.it/uuid/b1b0f355-4caf-4be5-b83d-6ce039db5692/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|10:35:00|11:30:00|L'immagine di Muhammad Ali e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 26 nov 11:35. Rep. 27 nov 17:40
-
 |![Icon](https://guidatv.sky.it/uuid/7cab2120-6a97-4520-9284-7f3dab6fc6dc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:30:00|12:05:00|...Sant'Angelo - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploreremo Castel Sant'Angelo e la sua storia. Prox Ep. 25 nov 13:05.
-
 |![Icon](https://guidatv.sky.it/uuid/c3333ca8-8f91-47ba-aeb2-7cb7fa2f63cc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|12:05:00|12:40:00|...il Campo Marzio - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploriamo il Pantheon e la sua maestosa cupola. Prox Ep. 26 nov 13:05. Rep. 26 nov 12:30
-
 |![Icon](https://guidatv.sky.it/uuid/f85a9142-cf15-4d72-9fdf-8cb2929a2038/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|12:40:00|13:30:00|...vaso di Assteas - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio il Vaso di Assteas. Prox Ep. 26 nov 13:40. Rep. 27 nov 0:00
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|13:30:00|14:30:00|Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 28 nov 18:40
-
 |![Icon](https://guidatv.sky.it/uuid/562f3abe-c26a-4888-9076-b8145723aeaf/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|14:30:00|15:00:00|Ci sono album che hanno segnato la storia della musica italiana. Sky Arte vi porta alla scoperta dei loro segreti. Nella puntata: Fiorella Mannoia con Sud. Prox Ep. 28 nov 18:40. Rep. 27 nov 18:40
-
 |![Icon](https://guidatv.sky.it/uuid/e0a1630d-9766-4ae7-936a-e95b3c8094b6/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|15:00:00|15:20:00|S1 Ep6 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Dylan ha un problema che lo affligge con il suo smartphone. Prox Ep. 4 dic 05:45.
-
 |![Icon](https://guidatv.sky.it/uuid/14302ab6-107e-4cc5-9d25-f8128e8255fd/cover?md5ChecksumParam=ebf7ff5850e8d98215061fa9ff34d532)|Altamira - Alle origini della pittura|15:20:00|17:00:00|Regia di J. Lopez-Linares. Riscopriamo la grotta di Altamira. Alcuni dei suoi dipinti, che hanno stupito il mondo 138 anni fa, fanno di Altamira il 'Museo della Preistoria del Prado'.
-
 |![Icon](https://guidatv.sky.it/uuid/1e398892-aee9-4532-bb14-843705b028a6/cover?md5ChecksumParam=937b8637e7de750200275d3344a33bba)|Nick Drake - Songs in a Conversation|17:00:00|18:00:00|Regia di G. Testi. Roberto Angelini e Rodrigo d'Erasmo ci conducono nella musica e nelle parole di Nick Drake, in un tributo intenso all'eredita' artistica del cantautore inglese.
-
 |![Icon](https://guidatv.sky.it/uuid/8f4129ae-6ac2-44e0-94be-f6c851ce0755/cover?md5ChecksumParam=3c0815afbe11750d125f6e2e4519f3bc)|Sulle tracce di Goethe in Sicilia|18:00:00|19:40:00|Il regista Peter Stein ripercorre il viaggio in Sicilia che Goethe compi' nel 1787. E si chiede: cosa rimane della Sicilia che ha visitato Goethe? Come sopravvive la cultura? (ITA 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Square - Spazio alla cultura|19:40:00|20:15:00|Ep. 1 - Torna la serie che racconta l'arte e la cultura in tutte le sue forme. Nella puntata: Roberta Tenconi, Isabella Rossellini, i finalisti del MAXXI Bulgari Prize, la rubrica Crazy Times. Rep. 26 nov 09:10
-
 |![Icon](https://guidatv.sky.it/uuid/ab70d737-158f-4c48-bb4c-d55d9aca9660/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|20:15:00|20:50:00|Signorelli fu un pittore che attinse a numerose influenze e diverse scuole pittoriche, cercando uno stile proprio e originale, che si nota nella pittura dei corpi nudi. Prox Ep. 2 dic 21:15. Rep. 25 nov 22:15
-
 |![Icon](https://guidatv.sky.it/uuid/7176592e-2b70-45f4-8e83-8f920c8e3a43/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|20:50:00|21:15:00|Correggio e' stato uno dei protagonisti dell'arte del primo Cinquecento e la sua pittura, debitrice della lezione di Leonardo da Vinci, e' straordinariamente luminosa e vibrante. Prox Ep. 25 nov 22:15. Rep. 26 nov 15:00
-
 |![Icon](https://guidatv.sky.it/uuid/ab70d737-158f-4c48-bb4c-d55d9aca9660/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|21:15:00|22:05:00|Signorelli fu un pittore che attinse a numerose influenze e diverse scuole pittoriche, cercando uno stile proprio e originale, che si nota nella pittura dei corpi nudi. Prox Ep. 2 dic 21:15. Rep. 26 nov 14:30
-
 |![Icon](https://guidatv.sky.it/uuid/882298db-756c-4c8e-84ae-47e90e71d83c/cover?md5ChecksumParam=5f5652e977a10536fb161a777f7de2ab)|Tintoretto - Un Ribelle A Venezia|22:05:00|23:45:00|La voce di S. Accorsi ci accompagna alla scoperta di Tintoretto, prolifico artista della Venezia del '500. Una produzione internazionale Sky Arte ideata da M.G. Mazzucco (ITA 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/e6bddfbc-9bc8-4552-94c9-fd0cab34d2f6/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|23:45:00|00:35:00|...Triade Capitolina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Triade Capitolina. Prox ed ultimo Ep. 27 nov 0:00. Rep. 27 nov 23:00
-
 |![Icon](https://guidatv.sky.it/uuid/b862ecd9-2798-4bd7-9512-ec06e766c6a8/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Oggetti di culto - Alcuni santi sono divenuti oggetti di culto, a volte per il loro operato in vita altre per la particolarita' delle loro reliquie... Prox Ep. 25 nov 0:50. Rep. 21 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/ff2488df-26c0-40d3-9b11-b64a3cc2ac8f/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|00:55:00|01:55:00|...the Road - Ricordi e storie dei pionieri e di coloro che ancora oggi catturano, con la fotografia, la magia della musica dal vivo. Prox Ep. 24 nov 02:55. Rep. 29 nov 03:15
-
 |![Icon](https://guidatv.sky.it/uuid/5db94ff9-239e-438c-8e1d-462a9e2285ac/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|01:55:00|02:55:00|...dischi - Art director, musicisti e fotografi musicali ci mostrano le radici e l'evoluzione della fotografia da copertina di alcuni degli album piu' iconici del mondo. Prox Ep. 25 nov 02:50. Rep. 1 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/71792057-4c54-4ee2-8f74-c97d9c50394f/cover?md5ChecksumParam=8b0068bc4f717ce6baf33e9952301b70)|Sky Arte Sessions - Ex-Otago|02:55:00|03:40:00|Gli Ex-Otago suonano per Sky Arte i brani che li hanno consacrati come band dall'indubitabile gusto per la scrittura musicale. Da 'I giovani d'oggi' a 'Quando sono con te' ascoltiamo insieme questa tracklist esclusiva. Prox Ep. 25 nov 03:50. Rep. 28 nov 04:25
-
 |![Icon](https://guidatv.sky.it/uuid/ce57b415-4fb5-43c3-9cfd-25b186fad9a2/cover?md5ChecksumParam=d11ec4e37f2127a4cdfd571967aa9c29)|Joe Bastianich On the Road|03:40:00|04:30:00|...Venezia Giulia - Un viaggio alla ricerca di canzoni e volti di un'Italia misteriosa. Il protagonista? Joe Bastianich. Nelle inedite vesti di musicista, Joe percorre la penisola, per scoprire artisti che conservano la memoria storica e musicale. In questa puntata, torna alle sue origini nel Friuli. Prox ed ultimo Ep. 29 nov 05:05.
-
 |![Icon](https://guidatv.sky.it/uuid/bbaa6464-e982-4406-af85-d920042d2fe0/cover?md5ChecksumParam=8d8ff4047ace6983d8edf301fa2da714)|Dante - La Visione Dell'arte|04:30:00|05:00:00|Una grande mostra a Forli' sull'intimo rapporto tra Dante e l'arte, attraverso le opere di artisti che hanno reso in immagini la potenza visionaria del poeta toscano. Rep. 25 nov 02:15
-
 |![Icon](https://guidatv.sky.it/uuid/84cb90ba-c112-4a31-b517-ba5bafa61a42/cover?md5ChecksumParam=5b52253c43ba36f23ab12c6c5638c8fa)|Love, Cecil|05:00:00|06:45:00|Regia di L. Immordino Vreeland. Regista, scenografo, fotografo, scrittore, pittore e premio Oscar: Cecil Beaton ha incarnato i cambiamenti culturali e politici del XX secolo.
-
 |![Icon](https://guidatv.sky.it/uuid/d92058c9-7a1c-4786-b98b-f39b36d78328/cover?md5ChecksumParam=4e42fc5bd859a58e683dac064f7ab4e8)|Escher - Viaggio nell'infinito|06:45:00|08:10:00|Sono la voce e le parole di Escher, prese da piu' di sue 1000 lettere, diari e lezioni scritte, a portarci nel mondo dell'artista: la sua vita, la politica, il lavoro (NLD 2018)
-
 |![Icon](https://guidatv.sky.it/uuid/2dfc6237-93d6-48b0-b7e3-11ff533b5346/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|08:10:00|08:25:00|S1 Ep4 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Nathan Never si lascia andare al flusso di coscienza. Prox Ep. 25 nov 16:00.
-
 |![Icon](https://guidatv.sky.it/uuid/ca547783-c0e9-4fa0-95d9-0f623d80ca57/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|08:25:00|09:20:00|Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Alice ci racconta 'Il sole nella pioggia'. Prox Ep. 24 nov 10:20. Rep. 3 dic 10:05
-
 |![Icon](https://guidatv.sky.it/uuid/36ad8825-93d5-43a1-9245-d5c349c0c0c5/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|09:20:00|10:15:00|...senza fili - Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Edoardo Bennato racconta 'Burattino senza fili'. Prox Ep. 25 nov 10:40. Rep. 25 nov 09:45
-
 |![Icon](https://guidatv.sky.it/uuid/c9c8ed2c-683e-47bc-81fc-0d6668a2c7ca/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|10:15:00|11:10:00|L'immagine di Tupac Shakur e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 25 nov 11:35. Rep. 8 dic 13:30
-
 |![Icon](https://guidatv.sky.it/uuid/5739c299-a8fc-44f3-97d1-bfab62ea6e02/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:10:00|11:45:00|Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio: esploriamo le catacombe e altre complesse architetture sotterranee di Roma. Prox Ep. 24 nov 12:45.
-
 |![Icon](https://guidatv.sky.it/uuid/7cab2120-6a97-4520-9284-7f3dab6fc6dc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:45:00|12:25:00|...Sant'Angelo - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploreremo Castel Sant'Angelo e la sua storia. Prox Ep. 25 nov 13:05. Rep. 25 nov 12:30
-
 |![Icon](https://guidatv.sky.it/uuid/e6bddfbc-9bc8-4552-94c9-fd0cab34d2f6/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|12:25:00|13:15:00|...Triade Capitolina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Triade Capitolina. Prox ed ultimo Ep. 25 nov 13:40. Rep. 26 nov 0:45
-
 |![Icon](https://guidatv.sky.it/uuid/d60ea56d-52a3-41ee-845e-3d960ae69c96/cover?md5ChecksumParam=229b6aa15a86042094e016fc5fed6554)|Aalto|13:15:00|15:00:00|Regia di V. Suutari. Il documentario racconta con materiali d'archivio inediti la vita e l'attivita' di Alvar Aalto e della sua prima moglie Aino: una coppia che ha definito il segno del design scandinavo. Rep. 25 nov 06:00
-
 |![Icon](https://guidatv.sky.it/uuid/481d72a0-782e-4388-9add-689439cca055/cover?md5ChecksumParam=85de1e56e8fd8c89e49d8fdc1c0f8ca2)|Queen - A Night at the Opera|15:00:00|15:55:00|Il quarto album dei Queen 'A Night at the Opera' e' un mix di hard rock, pop, opera e musica folk: riscopriamo attraverso interviste, performance acustiche e soprattutto tanta grandissima musica.
-
 |![Icon](https://guidatv.sky.it/uuid/91976837-db4a-4d53-b57c-477eb5e282ac/cover?md5ChecksumParam=0336a193d806c270b79d4094e55f5bda)|Queen - Hungarian Rhapsody Live in...|15:55:00|17:35:00|...Budapest - E' il 27 luglio 1986 e i Queen si esibiscono al Nepstadium di Budapest in uno dei loro live piu' famosi, nel tentativo di adattare il rock al gusto dell'Europa dell'Est. Tra le hit, 'Bohemian Rhapsody'. Rep. 25 dic 04:30
-
 |![Icon](https://guidatv.sky.it/uuid/9104a1ec-2c2d-4d8b-b6b6-77a996548cfa/cover?md5ChecksumParam=46a64439c092b96d45b62b12849b9f24)|Queen: Rock the World|17:35:00|18:40:00|Regia di C. Bird. Il presentatore musicale di BBC music Bob Harris segue i Queen - dalla registrazione del disco fino al tour - durante la realizzazione del loro sesto album: News of the World.
-
 |![Icon](https://guidatv.sky.it/uuid/56a95e21-554c-488a-86f3-28b2dd7f548a/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|18:40:00|19:40:00|L'immagine di Freddie Mercury e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 5 dic 11:05. Rep. 4 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/64edf017-307c-478e-9bfd-73d1b0d38ce1/cover?md5ChecksumParam=44df019bd9c63ad7ac51d51852147b47)|B.E.V.I.|19:40:00|20:15:00|Il tempio del Chianti classico - I Marchesi Antinori hanno legato il proprio nome all'eccellenza vinicola e alla tradizione mecenatistica, a sostegno dell'arte contemporanea. Prox Ep. 1 dic 20:40. Rep. 28 nov 10:35
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|20:15:00|21:15:00|BMS / Banco del Mutuo Soccorso - Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 24 nov 23:10
-
 |![Icon](https://guidatv.sky.it/uuid/562f3abe-c26a-4888-9076-b8145723aeaf/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|21:15:00|22:10:00|Ci sono album che hanno segnato la storia della musica italiana. Sky Arte vi porta alla scoperta dei loro segreti. Nella puntata: Fiorella Mannoia con Sud. Prox Ep. 24 nov 23:10. Rep. 25 nov 15:30
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|22:10:00|23:10:00|Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 25 nov 14:30
-
 |![Icon](https://guidatv.sky.it/uuid/074f3472-9e82-45da-9719-5c09777b6450/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|23:10:00|00:00:00|...Dea di Morgantina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Dea di Morgantina. Prox Ep. 26 nov 0:45. Rep. 27 nov 22:05
-
 |![Icon](https://guidatv.sky.it/uuid/13f05dd5-492d-4222-b4c2-59ad3c961bb6/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Il prezzo della fede - Quattro storie di santi che hanno generato devozione o ricerche scientifiche, ispirato grandi artisti e sono stati oggetto di trame criminali. Prox Ep. 26 nov 01:35. Rep. 22 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/13f05dd5-492d-4222-b4c2-59ad3c961bb6/cover?md5ChecksumParam=2a56c1501c57cdf69b54b578e40c6eb4)|Sacra bellezza - Storie di santi e reliquie|00:00:00|00:55:00|...reliquie: Il prezzo della fede - Quattro storie di santi che hanno generato devozione o ricerche scientifiche, ispirato grandi artisti e sono stati oggetto di trame criminali. Prox Ep. 26 nov 01:35. Rep. 22 dic 02:00
-
 |![Icon](https://guidatv.sky.it/uuid/e2a16925-1c3d-44f9-aec3-4ca5a2d561c3/cover?md5ChecksumParam=77de32a77b45735b54eabd4312cc0c87)|Tech.Emotion|00:55:00|01:30:00|Una serie per ispirare il pubblico attraverso grandi storie di leader. Nell'episodio: Brunello Cucinelli, Sheryl Sandberg, Marc Benioff, Jodi Halpern, il Dalai Lama. Prox Ep. 29 nov 13:20. Rep. 27 nov 09:10
-
 |![Icon](https://guidatv.sky.it/uuid/bbaa6464-e982-4406-af85-d920042d2fe0/cover?md5ChecksumParam=8d8ff4047ace6983d8edf301fa2da714)|Dante - La Visione Dell'arte|01:30:00|02:00:00|Una grande mostra a Forli' sull'intimo rapporto tra Dante e l'arte, attraverso le opere di artisti che hanno reso in immagini la potenza visionaria del poeta toscano. Rep. 26 nov 02:30
-
 |![Icon](https://guidatv.sky.it/uuid/3a9e78f9-44ae-4d66-b45d-55a19ff2de38/cover?md5ChecksumParam=4b0a1870c24e5dc80c838ea0bf2ed771)|Icon - La musica e la fotografia|02:00:00|02:45:00|...copertina - Giornalisti, musicisti, pubblicisti e fotografi musicali raccontano le storie dietro alle fotografie da copertina e l'importanza delle riviste musicali. Prox Ep. 26 nov 03:05. Rep. 2 dic 11:00
-
 |![Icon](https://guidatv.sky.it/uuid/b6acc746-9391-49b0-9858-b5da2f1ba8f6/cover?md5ChecksumParam=65742c8e2dcf820a222c7bb5b177e5cb)|Sky Arte Sessions - Ex-Otago|02:45:00|03:45:00|Levante suona in esclusiva per Sky Arte una tracklist di brani ri-arrangiati con l'utilizzo di archi e strumenti acustici. Dai suoi pezzi piu' classici a quelli tratti dal suo ultimo disco Nel caos di stanze stupefacenti. Prox ed ultimo Ep. 26 nov 04:05. Rep. 29 nov 04:20
-
 |![Icon](https://guidatv.sky.it/uuid/882c26e6-5649-4fc8-94a4-fb2d6f4d3deb/cover?md5ChecksumParam=10b5d0c683d6a1db2b6a9c9800c066c0)|Joe Bastianich On the Road|03:45:00|04:45:00|Napoli - Un viaggio alla ricerca di canzoni e volti di un'Italia misteriosa. Il protagonista? Joe Bastianich. Nelle inedite vesti di musicista, Bastianich percorre tutta la penisola, per scoprire artisti che conservano la memoria storica e musicale della nazione. In questa puntata, Napoli. Prox Ep. 26 nov 05:10.
-
 |![Icon](https://guidatv.sky.it/uuid/6f9216af-cfe5-4eaf-8d50-769769a8e4da/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|04:45:00|05:00:00|S1 Ep1 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Tex si presenta per discutere la sceneggiatura del mese. Prox Ep. 26 nov 17:20.
-
 |![Icon](https://guidatv.sky.it/uuid/d60ea56d-52a3-41ee-845e-3d960ae69c96/cover?md5ChecksumParam=229b6aa15a86042094e016fc5fed6554)|Aalto|05:00:00|06:45:00|Regia di V. Suutari. Il documentario racconta con materiali d'archivio inediti la vita e l'attivita' di Alvar Aalto e della sua prima moglie Aino: una coppia che ha definito il segno del design scandinavo.
-
 |![Icon](https://guidatv.sky.it/uuid/b03ae8b1-69ad-47a0-b2fb-ff5039df4782/cover?md5ChecksumParam=fcfe6542880e552c74b7fb1c362d37f6)|David Hockney dalla Royal Academy of...|06:45:00|08:15:00|...Arts - Visitiamo le mostre che la Royal Academy of Arts ha dedicato a David Hockney, uno degli artisti britannici piu' famosi al mondo, simbolo della pop art inglese (GBR 2017)
-
 |![Icon](https://guidatv.sky.it/uuid/4b72c55d-037f-472c-b926-334dfb3e613f/cover?md5ChecksumParam=fb2beb01e0870eac7bb498fa279427f1)|Romantic Italia|08:15:00|08:45:00|Viaggio tra le canzoni d'amore italiane per riscoprire valori e momenti che tanti artisti hanno cantato. In questa puntata ascolteremo canzoni con tema: addio.
-
 |![Icon](https://guidatv.sky.it/uuid/36ad8825-93d5-43a1-9245-d5c349c0c0c5/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|08:45:00|09:40:00|...senza fili - Viaggio alla scoperta degli album che hanno segnato la storia della musica italiana. Nella puntata Edoardo Bennato racconta 'Burattino senza fili'. Prox Ep. 25 nov 10:40. Rep. 6 dic 10:00
-
 |![Icon](https://guidatv.sky.it/uuid/e6c4cb3e-2bd5-4027-9982-618405bc1936/cover?md5ChecksumParam=9fa62c4f9c107f6f2fa4207255d3031d)|33 giri|09:40:00|10:35:00|...batteria, il contrabbasso, eccetera - Scopriamo gli album che hanno segnato la storia della musica italiana. Esperti e musicisti ci raccontano l'album di Lucio Battisti. Prox Ep. 26 nov 10:40. Rep. 26 nov 09:45
-
 |![Icon](https://guidatv.sky.it/uuid/b1b0f355-4caf-4be5-b83d-6ce039db5692/cover?md5ChecksumParam=dd0d43b33da0948240a18db23735e692)|Dieci fotografie|10:35:00|11:30:00|L'immagine di Muhammad Ali e' conosciuta in tutto il mondo. Eppure attraverso dieci scatti, da quelli iconici a quelli privati, sono emerse nuove verita'. Prox Ep. 26 nov 11:35. Rep. 27 nov 17:40
-
 |![Icon](https://guidatv.sky.it/uuid/7cab2120-6a97-4520-9284-7f3dab6fc6dc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|11:30:00|12:05:00|...Sant'Angelo - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploreremo Castel Sant'Angelo e la sua storia. Prox Ep. 25 nov 13:05.
-
 |![Icon](https://guidatv.sky.it/uuid/c3333ca8-8f91-47ba-aeb2-7cb7fa2f63cc/cover?md5ChecksumParam=cb023a3b7e015143f4132c95fcd6c8d1)|Sette meraviglie|12:05:00|12:40:00|...il Campo Marzio - Scopriamo le meraviglie di Roma, accompagnati dalla voce di Filippo Timi. Nell'episodio esploriamo il Pantheon e la sua maestosa cupola. Prox Ep. 26 nov 13:05. Rep. 26 nov 12:30
-
 |![Icon](https://guidatv.sky.it/uuid/f85a9142-cf15-4d72-9fdf-8cb2929a2038/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|12:40:00|13:30:00|...vaso di Assteas - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio il Vaso di Assteas. Prox Ep. 26 nov 13:40. Rep. 27 nov 0:00
-
 |![Icon](https://guidatv.sky.it/uuid/728c1e9c-b1b4-42f5-8195-887a2f7f8c5f/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|13:30:00|14:30:00|Ci sono album che hanno segnato la storia della musica italiana. Scopriamo i loro segreti. Nella puntata: il gruppo Banco del Mutuo Soccorso. Prox Ep. 1 dic 21:15. Rep. 28 nov 18:40
-
 |![Icon](https://guidatv.sky.it/uuid/562f3abe-c26a-4888-9076-b8145723aeaf/cover?md5ChecksumParam=b5ed17ea56b5e35c7160eead878bf8b9)|33 giri|14:30:00|15:00:00|Ci sono album che hanno segnato la storia della musica italiana. Sky Arte vi porta alla scoperta dei loro segreti. Nella puntata: Fiorella Mannoia con Sud. Prox Ep. 28 nov 18:40. Rep. 27 nov 18:40
-
 |![Icon](https://guidatv.sky.it/uuid/e0a1630d-9766-4ae7-936a-e95b3c8094b6/cover?md5ChecksumParam=b0fd72baed3a9e8d3c4420c01d8e6ea7)|The Editor Is In|15:00:00|15:20:00|S1 Ep6 - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. Dylan ha un problema che lo affligge con il suo smartphone. Prox Ep. 4 dic 05:45.
-
 |![Icon](https://guidatv.sky.it/uuid/14302ab6-107e-4cc5-9d25-f8128e8255fd/cover?md5ChecksumParam=ebf7ff5850e8d98215061fa9ff34d532)|Altamira - Alle origini della pittura|15:20:00|17:00:00|Regia di J. Lopez-Linares. Riscopriamo la grotta di Altamira. Alcuni dei suoi dipinti, che hanno stupito il mondo 138 anni fa, fanno di Altamira il 'Museo della Preistoria del Prado'.
-
 |![Icon](https://guidatv.sky.it/uuid/1e398892-aee9-4532-bb14-843705b028a6/cover?md5ChecksumParam=937b8637e7de750200275d3344a33bba)|Nick Drake - Songs in a Conversation|17:00:00|18:00:00|Regia di G. Testi. Roberto Angelini e Rodrigo d'Erasmo ci conducono nella musica e nelle parole di Nick Drake, in un tributo intenso all'eredita' artistica del cantautore inglese.
-
 |![Icon](https://guidatv.sky.it/uuid/8f4129ae-6ac2-44e0-94be-f6c851ce0755/cover?md5ChecksumParam=3c0815afbe11750d125f6e2e4519f3bc)|Sulle tracce di Goethe in Sicilia|18:00:00|19:40:00|Il regista Peter Stein ripercorre il viaggio in Sicilia che Goethe compi' nel 1787. E si chiede: cosa rimane della Sicilia che ha visitato Goethe? Come sopravvive la cultura? (ITA 2020)
-
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|The Square - Spazio alla cultura|19:40:00|20:15:00|Ep. 1 - Torna la serie che racconta l'arte e la cultura in tutte le sue forme. Nella puntata: Roberta Tenconi, Isabella Rossellini, i finalisti del MAXXI Bulgari Prize, la rubrica Crazy Times. Rep. 26 nov 09:10
-
 |![Icon](https://guidatv.sky.it/uuid/ab70d737-158f-4c48-bb4c-d55d9aca9660/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|20:15:00|20:50:00|Signorelli fu un pittore che attinse a numerose influenze e diverse scuole pittoriche, cercando uno stile proprio e originale, che si nota nella pittura dei corpi nudi. Prox Ep. 2 dic 21:15. Rep. 25 nov 22:15
-
 |![Icon](https://guidatv.sky.it/uuid/7176592e-2b70-45f4-8e83-8f920c8e3a43/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|20:50:00|21:15:00|Correggio e' stato uno dei protagonisti dell'arte del primo Cinquecento e la sua pittura, debitrice della lezione di Leonardo da Vinci, e' straordinariamente luminosa e vibrante. Prox Ep. 25 nov 22:15. Rep. 26 nov 15:00
-
 |![Icon](https://guidatv.sky.it/uuid/ab70d737-158f-4c48-bb4c-d55d9aca9660/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|21:15:00|22:05:00|Signorelli fu un pittore che attinse a numerose influenze e diverse scuole pittoriche, cercando uno stile proprio e originale, che si nota nella pittura dei corpi nudi. Prox Ep. 2 dic 21:15. Rep. 26 nov 14:30
-
 |![Icon](https://guidatv.sky.it/uuid/882298db-756c-4c8e-84ae-47e90e71d83c/cover?md5ChecksumParam=5f5652e977a10536fb161a777f7de2ab)|Tintoretto - Un Ribelle A Venezia|22:05:00|23:45:00|La voce di S. Accorsi ci accompagna alla scoperta di Tintoretto, prolifico artista della Venezia del '500. Una produzione internazionale Sky Arte ideata da M.G. Mazzucco (ITA 2019)
-
 |![Icon](https://guidatv.sky.it/uuid/e6bddfbc-9bc8-4552-94c9-fd0cab34d2f6/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|23:45:00|00:35:00|...Triade Capitolina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Triade Capitolina. Prox ed ultimo Ep. 27 nov 0:00. Rep. 27 nov 23:00
 
 

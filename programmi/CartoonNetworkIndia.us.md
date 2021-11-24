@@ -1,477 +1,241 @@
 # Cartoon Network India
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/56b5ae29-8e5e-40e1-8613-57d4d7013a9b/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:00:00|00:05:00|S1 Ep12 - Un problema di aggressivita' - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d3fe7f38-6c9e-4696-bdf8-17c4bbb5f86c/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:05:00|00:20:00|S1 Ep12 - Il Padre di Kurt - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/4da507bf-cf4a-46f7-8574-d953de6e5d16/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:20:00|00:30:00|S1 Ep13 - Le lacrime di Tommy - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/229d7d09-a5f5-49a3-8280-dee1e244ddc2/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:30:00|00:40:00|S1 Ep13 - Robot in Fuga - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/12fa6530-d280-44ca-a74c-71f8eeeea383/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:40:00|00:50:00|S1 Ep14 - Robotman - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/5897a250-00b0-4691-97d8-110012862423/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:50:00|01:05:00|S1 Ep14 - La storia di due geni del male - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d7ac7b82-1f69-489f-8388-04f19308d09d/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|01:05:00|01:15:00|S1 Ep12 - Il club - Gumball si rende conto di essere l'unico in famiglia a non appartenere a nessun club. Gli viene proposto di entrare nel Club degli Scarti.
-
 |![Icon](https://guidatv.sky.it/uuid/082d02aa-e4f8-4ef6-8301-131d8bd7e3a5/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|01:15:00|01:25:00|S1 Ep12 - La bacchetta magica - Gumball trova una bacchetta magica all'interno di una confezione di cereali e papa' la vuole subito. I due fratelli passano l'intera giornata a realizzare i desideri di papa' per non deluderlo
-
 |![Icon](https://guidatv.sky.it/uuid/0c941656-d01b-4c38-b200-d7f9a506b6e9/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|01:25:00|01:35:00|S1 Ep35 - Festa di compleanno - Mentre Zoe organizza la festa di compleanno di Cleo, Axel e la sua squadra cercano di tenere a bada un'intrusa gelosa, la Principessa Dolcesale.
-
 |![Icon](https://guidatv.sky.it/uuid/bfd8b95a-0662-44a1-99d5-31c9a5429145/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|01:35:00|01:50:00|S1 Ep36 - Missione di salvataggio - Axel, Barbarorso e Bobbie Blobby sottovalutano una sessione di addestramento e, in un istante di distrazione, un corvo rapisce Galileo! Devono salvarlo!
-
 |![Icon](https://guidatv.sky.it/uuid/2bbd4d94-823e-4a96-bd2c-3ca7316ae520/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|01:50:00|02:00:00|S1 Ep13 - Miss Simpatia - La signorina Scimmia vuole vincere il premio di insegnante piu' simpatica dell'anno e cerca di stringere amicizia con Darwin e Gumball. La perfida maestra non ha fatto i conti con la mamma.
-
 |![Icon](https://guidatv.sky.it/uuid/9c4cbb67-278d-451b-9153-86d6be91020a/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:00:00|02:10:00|S1 Ep13 - Il fantasma - Il matrimonio del signor Robinson e' in crisi. Gumball e Darwin cercano in tutti i modi di aiutarlo a riconciliarsi con la moglie.
-
 |![Icon](https://guidatv.sky.it/uuid/caa8585d-b075-43f5-b2e3-228095280a8d/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:10:00|02:20:00|S1 Ep14 - La bambola di Anais - Un compagno di Gumball getta dallo scuola-bus la bambola preferita di Anais e questa costringe i fratelli ad organizzare una vera missione di recupero.
-
 |![Icon](https://guidatv.sky.it/uuid/28f6280a-5a4d-466a-bce7-70c8908ea493/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:20:00|02:35:00|S1 Ep14 - Su' le mani! - Mentre Gumball e Darwin sono alla stazione di servizio per comprare un regalo di compleanno alla mamma avviene una rapina che presto finira' per coinvolgere l'intera famiglia dei nostri eroi.
-
 |![Icon](https://guidatv.sky.it/uuid/72705dc9-ba41-4d19-ad33-2d50220ea51a/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:35:00|02:45:00|S1 Ep15 - La macchina nuova - Darwin e Gumball convinti di essere stati coinvolti dal loro vicino in un nuovo gioco gli rendono la vita impossibile arrivando addirittura a distruggergli la macchina nuova.
-
 |![Icon](https://guidatv.sky.it/uuid/451e6feb-a9b7-4871-a0aa-971f648a346c/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:45:00|02:55:00|S1 Ep15 - Che sfortuna! - Dopo una serie di disgrazie Gumball e' convinto di essere vittima della malasorte. Anais cerca di convincerlo che si tratta solo di coincidenze ma Darwin lo rafforza in questa sua convinzione
-
 |![Icon](https://guidatv.sky.it/uuid/4db40d39-3265-45af-bda9-cfe0d9a579c3/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:55:00|03:05:00|S1 Ep16 - Il mostro Mangia-tutto - Gumball riesce a dar vita ad uno strano essere dall'appetito smodato.
-
 |![Icon](https://guidatv.sky.it/uuid/38de1ad9-9c58-4641-8b27-89484bb7780b/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:05:00|03:15:00|S1 Ep16 - Una mamma ficcanaso - Per essere piu' presente con i figli Nicole li accompagna anche nella vita all'interno della scuola causando situazioni molto imbarazzanti per i ragazzi.
-
 |![Icon](https://guidatv.sky.it/uuid/b2bee0bf-195f-4dea-b083-fd76878c7f0d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:15:00|03:25:00|S1 Ep15 - Un clone sensibile - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/b31a540f-0c9b-4e12-8875-051cdeff2002/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:25:00|03:40:00|S1 Ep15 - Ritorno a casa - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/f3ed1a13-0849-43ff-a44b-5681b16203be/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:40:00|03:50:00|S1 Ep16 - Una classe di cloni - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/3211cfef-b848-4b38-a90f-780293d6aba4/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:50:00|04:10:00|S1 Ep16 - Robotgirl - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/c3fad770-e20a-4c47-9577-5fdbbe187cb2/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|04:10:00|04:20:00|S1 Ep17 - L'elmetto - Gumball dopo essersi costruito un copricapo di carta stagnola colleziona una serie di colpi di fortuna.
-
 |![Icon](https://guidatv.sky.it/uuid/4e598673-0937-4dde-b499-39a6a2719aed/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|04:20:00|04:35:00|S1 Ep17 - Il duello - T-Rex ha un modo un po' troppo violento di scherzare con Gumball e Anais scambia la cosa per degli atti di bullismo.
-
 |![Icon](https://guidatv.sky.it/uuid/5d5e4e54-3841-4f34-8321-b110c28acdc6/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|04:35:00|04:45:00|S1 Ep18 - La fine del mondo - Tutti aspettano un'eclissi di sole e Gumball e Darwin sono convinti che stia per arrivare la fine del mondo. I nostri eroi si ritrovano in un bunker improvvisato ad attendere la fine.
-
 |![Icon](https://guidatv.sky.it/uuid/abe1e2d2-bb33-4de8-823f-7157446622f1/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|04:45:00|05:00:00|S1 Ep18 - Il dvd - Gumball prima dimentica di riconsegnare un DVD preso in affitto e poi lo distrugge inavvertitamente.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:00:00|05:10:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:10:00|05:25:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:25:00|05:35:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:35:00|05:45:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:45:00|06:00:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:00:00|06:10:00|S6 Ep5 - Bravate da granchi - Bibi sta con la sua famiglia, la Doom Patrol, quando lui, Robotman e Negative Girl decidono di andare a fare i ragazzacci e uscire con i granchi.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:10:00|06:25:00|S6 Ep6 - Frabot - Robotman conosce l'altro &quot;&quot;migliore amico&quot;&quot; di Bibi, Cyborg, e scopre che hanno molto in comune. Diventano migliori &quot;&quot;Frabot&quot;&quot;, ma la loro relazione e' dannosa?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:25:00|06:35:00|S6 Ep7 - Bibi torna a casa - La nuova squadra di Bibi si sforza di lasciarlo tornare a casa. Dopo che l'elaborato piano che prevede l'uso della realta' virtuale per tenerlo bloccato con loro va male, Bibi riuscira' a salvarli?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:35:00|06:45:00|S6 Ep12 - L'auto di seconda mano - I Titans stanno per apprendere l'arte dell'acquisto di una nuova auto!
-
 |![Icon](https://guidatv.sky.it/uuid/e21396e3-002c-4968-a0c5-b6ec6e53cab7/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|06:45:00|06:55:00|S1 Ep47 - Campeggio estremo - Chad porta Clarence a fare un campeggio nella natura, ma il ragazzino resta deluso dalle inaspettate comodita': riscaldamento, amaca, perfino una TV.
-
 |![Icon](https://guidatv.sky.it/uuid/090d7cda-3e08-4e2c-b3e2-b824c7d4ca8d/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|06:55:00|07:10:00|S1 Ep48 - Doppio compleanno - Jeff ha organizzato il suo compleanno al bowling dove sta festeggiando anche Gilben che gli ruba la scena. Gli invitati suggeriscono ai due di festeggiare insieme.
-
 |![Icon](https://guidatv.sky.it/uuid/190af7a1-2074-4616-9fb5-6918dbd42a01/cover?md5ChecksumParam=3a77c78695e9a9fa097b742b75ac7ff6)|Clarence|07:10:00|07:20:00|S1 Ep49 - Nemici per sempre - Uno stupido litigio tra Jeff e Sumo degenera fino al punto che i due si ripromettono di non rivolgersi mai piu' la parola.
-
 |![Icon](https://guidatv.sky.it/uuid/b1d93a36-8cad-4468-a876-ececb5d9d914/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|07:20:00|07:35:00|S1 Ep50 - Fuga dal sogno - Mentre guarda un programma televisivo sui sogni Clarence si addormenta ed entra in un mondo onirico che aleggia su Aberdale.
-
 |![Icon](https://guidatv.sky.it/uuid/4943afec-5223-46b8-80b2-78dbe7e193b4/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:35:00|07:45:00|S5 Ep13 - Il Vaso - Nonna Jojo' ha regalato a Nicole un orrendo vaso e la poveretta non sa come disfarsene. Cerca addirittura di convincere i figli a romperlo fingendo che sia stato un incidente.
-
 |![Icon](https://guidatv.sky.it/uuid/601a9c74-eb9b-4455-99e6-9686e3190def/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:45:00|07:55:00|S5 Ep14 - Lo Skate - Gumball si vanta di essere un grande esperto di skate ma la verita' e' che per paura di farsi male non e' mai neanche salito su una tavola.
-
 |![Icon](https://guidatv.sky.it/uuid/29025a09-95cf-4e2f-b6ef-1215d5de9333/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:55:00|08:00:00|S5 Ep15 - La Patata - Darwin grande divoratore di patate in tutte le salse - fritte lesse al forno in sformati e crocchette - prova in tutti i modi a liberarsi dalla sua dipendenza alimentare.
-
 |![Icon](https://guidatv.sky.it/uuid/51e44b6e-0681-4f86-a86e-e478598b7f06/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:00:00|08:15:00|S5 Ep17 - Il Videogioco - Gumball Anais e Darwin si ritroveranno catapultati in un vero e proprio videogioco dove si ritroveranno faccia a faccia con un cattivo e contro diversi pericoli da affrontare.
-
 |![Icon](https://guidatv.sky.it/uuid/e6a2746f-9adc-4941-81d8-474fd4ffd2de/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:15:00|08:25:00|S5 Ep18 - Nonno Frankie - La famiglia di Gumball va a trovare nonno Frankie che ha un atteggiamento sospetto. Tutti quanti deducono sia stato in prigione e accogliendolo in casa ricreano l'atmosfera.
-
 |![Icon](https://guidatv.sky.it/uuid/b09561e7-4d6e-4c5f-b29c-1e7c9b0a9f87/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:25:00|08:35:00|S5 Ep19 - I Sosia - Gumball e i suoi fratelli attuano varie strategie per cercare di eliminare una famigliola composta da padre madre e fratelli che cercano in tutti i modi di copiare la loro famiglia.
-
 |![Icon](https://guidatv.sky.it/uuid/2e09c64d-c16b-4566-9d2c-f4d84c07ad74/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:35:00|08:50:00|S5 Ep20 - False identita' - Nonno Louie attiva un profilo su Elmore Plus dal quale chiede l'amicizia a Gumball. Gumball vergognandosi un po' di avere tra i propri contatti online il nonno.
-
 |![Icon](https://guidatv.sky.it/uuid/df82f46b-349e-46ee-977e-da622faebda6/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|08:50:00|09:00:00|S1 Ep11 - Una mela concentrata - Onion vuole vincere un concorso di cucina, ma deve fare i conti con la mancanza di concentrazione di Apple.
-
 |![Icon](https://guidatv.sky.it/uuid/3b46a7f2-28f3-4215-b8cc-8ef8ef41a911/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:00:00|09:15:00|S1 Ep12 - Il tappeto elastico di Burger - Apple e Onion vogliono giocare con il tappeto elastico di Burger e per questo fingono di essere interessati alla sua amicizia.
-
 |![Icon](https://guidatv.sky.it/uuid/28c27dc7-464b-425e-8958-c1cc5602c9c3/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:15:00|09:25:00|S1 Ep13 - A tutto spasso - Nel locale di Pizza ogni settimana si elegge la &quot;&quot;persona piu' spassosa&quot;&quot;. Ovviamente Apple e Onion sono interessati al titolo.
-
 |![Icon](https://guidatv.sky.it/uuid/b9e827e0-ae2e-414e-8b31-032bd53c34b1/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:25:00|09:45:00|S1 Ep14 - Il chicco furioso - Apple e Onion organizzano una festa karaoke, ma commettono l'errore di invitare il burbero Chicco di Mais.
-
 |![Icon](https://guidatv.sky.it/uuid/e86b6beb-cbf2-413d-b0e1-5c3d698ed204/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|09:45:00|09:55:00|S4 Ep13 - Vita all'aria aperta - Clarence vuole essere una volpe e convince altri tre amici a vivere all'aria aperta con lui ma i problemi non tarderanno ad arrivare.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|09:55:00|10:10:00|S4 Ep14 - Avventura nelle fogne - Clarence convince Sumo a cercare Belson che e' andato a riprendere la cartuccia di un videogioco nei tunnel fognari.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:10:00|10:20:00|S4 Ep15 - Incubo ad Aberdale Street: la rivincita di Balance - Dopo una scorpacciata di dolci Clarence entra nei sogni dei suoi amici ma Balance e' in agguato. Per fortuna Jeremy lo aiutera'.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:20:00|10:35:00|S4 Ep16 - Il dog sitter - Clarence amico dei cani fa il dog sitter per il cane della signora Gale ma l'animale e' indisponente e aggressivo.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:35:00|10:45:00|S4 Ep7 - I Teen Titans Salvano il Natale - Babbo Natale ancora arrabbiato con i Titans perche' non gli hanno fatto conquistare Halloween decide di eliminare il Natale. I Titans pero' riescono a salvarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/0cd74056-020a-4810-91c1-14956684327c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|10:45:00|11:00:00|S4 Ep8 - Non cambiare chi sei - Stellarubia parla una lingua tutta sua e i Titans hanno difficolta' a capirla decide cosi' di baciare chiunque per apprendere piu' velocemente altri modi di parlare.
-
 |![Icon](https://guidatv.sky.it/uuid/a704684d-3965-4804-be74-cc52fce925ee/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:00:00|11:10:00|S4 Ep9 - La Stagione del Criminale ha inizio: Parte 1 - La stagione del crimine ha inizio: chi ferma cinquantadue crimini e' il vincitore. Robin spinge i Titans a dare il massimo fin quando ormai stanchi abbandonano Robin per unirsi a Kid Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/a704684d-3965-4804-be74-cc52fce925ee/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:10:00|11:20:00|S4 Ep10 - La Stagione del Criminale ha inizio: Parte 2 - Bibi aiuta Robin a formare una nuova squadra che include la Fatina dei Denti Babbo Natale e Sticky Joe. Ma Robin e' arrabbiato perche' pensa che perdera' di sicuro contro Kid Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/c269d3bc-b5b2-4171-b053-d1f5d0b0b3d2/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:20:00|11:30:00|S4 Ep11 - Serata Film - La TV si rompe e i Titans sono costretti ad andare in cantina a prendere l'altra.Una volta trovata iniziano a litigare per il telecomando. Bibi vince e mette una videocassetta di lui che balla.
-
 |![Icon](https://guidatv.sky.it/uuid/1da63994-b7b6-49ff-a22f-2f8507f6d17c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:30:00|11:40:00|S4 Ep12 - Curriculum Scolastico - I Titans tornano a scuola ma sono loro a insegnare scienze grammatica e chimica. Robin prende quattro segni di spunta e da grande vivra' in un cassonetto dell'immondizia.
-
 |![Icon](https://guidatv.sky.it/uuid/99cdec67-d390-4a38-9f94-769bcc72b65d/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:40:00|11:55:00|S4 Ep13 - Bibi Corvina: Parte 1 - Bibi e' innamorato di Corvina e scrive la canzone solo per lei per dimostrarle quanto sia grande il suo amore.
-
 |![Icon](https://guidatv.sky.it/uuid/88d65d94-52ea-41c6-88dc-8a1d82174855/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|11:55:00|12:05:00|S1 Ep1 - Nuove Amicizie Parte 1 - Barbara Gordon alias Batgirl non e' contenta di essersi dovuta trasferire a Metropolis ma per fortuna a scuola la aspettano delle nuove amiche molto speciali.
-
 |![Icon](https://guidatv.sky.it/uuid/092d97b4-9f07-4c0b-8a60-5361d41e2bb5/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|12:05:00|12:15:00|S1 Ep2 - Nuove Amicizie Parte 2 - Diana, alias Wonder Woman, accetta di addestrare Barbara e le altre a diventare supereroine. Loro in cambio le insegneranno a comportarsi da normale teenager.
-
 |![Icon](https://guidatv.sky.it/uuid/ab87b0f5-d607-449c-ae15-9d9b2b0d19d8/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|12:15:00|12:25:00|S1 Ep14 - Taz il gladiatore/La bandiera codarda/Pioggia, fulmini e saette - Bugs scava un tunnel fino a un'arena romana/Marvin su un nuovo pianeta/Willy ordina un kit per controllare il meteo.
-
 |![Icon](https://guidatv.sky.it/uuid/78ac56f5-6e30-4a71-8d11-3843ebf2a93f/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|12:25:00|12:40:00|S1 Ep15 - Vacanze in Irlanda/Restare sospesi/La nuova casa - In viaggio per le Hawaii Bugs si ritrova accidentalmente in Irlanda/Marvin su un nuovo pianeta/Porky acquista la nuova casa del futuro.
-
 |![Icon](https://guidatv.sky.it/uuid/bb79dfd4-f846-43f0-8a10-ba8b9b807313/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|12:40:00|12:50:00|S6 Ep11 - La confessione - Gumball e il preside fanno il patto di parlare dei loro problemi con le rispettive ragazze.
-
 |![Icon](https://guidatv.sky.it/uuid/bb9e936d-7694-4dca-819d-8de51dee17f1/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|12:50:00|13:05:00|S6 Ep13 - Il candidato - Un gruppo di ragazzi resta bloccato nella scuola dopo una festa di beneficenza per i loro genitori. Gumball viene eletto come leader ma succede il caos.
-
 |![Icon](https://guidatv.sky.it/uuid/ae21ff3f-b9c9-4511-ab27-36ebdd6b8adc/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:05:00|13:15:00|S6 Ep10 - Lo scambio - Per aiutarlo ad avere una vita emozionante Gumball convince Clayton a trasformarsi nelle altre persone ma la situazione sfugge di mano.
-
 |![Icon](https://guidatv.sky.it/uuid/1171a9c2-4890-4b0f-990a-b03619bcdd36/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:15:00|13:30:00|S6 Ep14 - Love Story - Sarah trova un quaderno magico e le storie d'amore che scrive sui cittadini di Elmore diventano vere. Gumball e Darwin provano a dipanare la matassa.
-
 |![Icon](https://guidatv.sky.it/uuid/1dd26d78-89c5-46bc-81aa-2da062380cae/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:30:00|13:40:00|S6 Ep16 - Il cattivo odore - Tra il signor Small e Gumball si scatena un dibattito sull'approccio 'verde' del professore che finisce per ritirarsi a vivere anche se per un solo giorno nei boschi...
-
 |![Icon](https://guidatv.sky.it/uuid/91e5c714-af5f-45ed-bfc2-b6d9a1f3e40d/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:40:00|13:55:00|S6 Ep17 - Il tema della settimana - La scuola di Gumball e Darwin dedica continuamente una settimana ai temi piu' disparati e soprattutto il primo ha delle serie difficolta' a tenere il passo...
-
 |![Icon](https://guidatv.sky.it/uuid/edc7dcd9-9155-4ea9-b201-0d039ca6930b/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|13:55:00|14:05:00|S1 Ep28 - La corsa del ruscello - Craig e i suoi amici partecipano a una gara di kart al ruscello con altri bambini. In palio c'e' un accesso esclusivo a una piscina interrata.
-
 |![Icon](https://guidatv.sky.it/uuid/7990d814-14a1-4f7e-a008-af74eb16f557/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:05:00|14:20:00|S1 Ep29 - Il Club Segreto del Libro - Kelsey vuole diffondere il suo amore per i libri. Quando la squadra di paintball minaccia i suoi amici, li salvera' svelando il suo Club Segreto del Libro.
-
 |![Icon](https://guidatv.sky.it/uuid/37f9715d-b2ab-4149-8397-1fb0c1630794/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:20:00|14:30:00|S1 Ep30 - JP l'extraterrestre - JP fa un rischioso numero di pattinaggio e rimane ferito. Quando sua sorella insinua che non sia umano, Jp comincia a chiedersi se non abbia ragione.
-
 |![Icon](https://guidatv.sky.it/uuid/df9b547a-fc60-459e-bb94-b29ca28916b9/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:30:00|14:45:00|S1 Ep31 - Missione d'asporto - Kelsey guida i suoi amici in una missione importantissima.
-
 |![Icon](https://guidatv.sky.it/uuid/fb313d32-78f8-45cd-a2f6-c9fc387d726b/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|14:45:00|14:55:00|S1 Ep9 - Cibo di Strada - Gli Orsi preparano un furgoncino da street-food. Hanno subito un grande successo specialmente tra gli animali che diventano i loro unici, un po' matti clienti.
-
 |![Icon](https://guidatv.sky.it/uuid/dfce06a3-fa88-4b95-83bc-5b9ad5049d19/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|14:55:00|15:10:00|S1 Ep10 - Ritorno alla Natura - Suggestionato da un programma televisivo in cui un personaggio esperto in tecniche di sopravvivenza vive a stretto contatto con la natura piu' selvaggia, Grizz porta i suoi fratelli nel bosco.
-
 |![Icon](https://guidatv.sky.it/uuid/6685a421-0d33-4e37-a956-6f3928648289/cover?md5ChecksumParam=c4403550bf501322bcbcf55066875f12)|Power Rangers: Dino Fury|15:10:00|15:35:00|S1 Ep16 - Vecchi Amici - Dietro la maschera del Gold Ranger si nasconde Aiyon, cavaliere di Rafkon e vecchio amico di Zayto. Tra i due c'e' grande tensione.
-
 |![Icon](https://guidatv.sky.it/uuid/bf0b5e1b-4a1f-4284-a67f-f12b77935c5b/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|15:35:00|15:45:00|S3 Ep15 - La ragazza dei giornali - Antonia, ragazza dei giornali, vuole lasciare il lavoro perche' non riesce a fare la differenza. Nelson, costernato, cerca di convincerla a non mollare.
-
 |![Icon](https://guidatv.sky.it/uuid/ed8aa4d2-3b25-4fb6-8bd3-598198ea493b/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|15:45:00|16:00:00|S3 Ep16 - Il Maestro del Mare - Benthomaar racconta a Nya la storia di Nyad. Intanto il Maestro Wu, Kai, Cole, Ray e Misako cercano di impedire che Kalmaar fugga con l'Amuleto della Tempesta.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:00:00|16:15:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:15:00|16:30:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:30:00|16:40:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:40:00|16:50:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:50:00|17:00:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/cd8f53d8-e301-4792-9b47-429d3f6cd107/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:00:00|17:15:00|S2 Ep11 - Il pony - Gumball e Darwin noleggiano un film su un pony ma sulla strada del ritorno troveranno degli ostacoli che rischieranno di mandare in fumo la visione del film.
-
 |![Icon](https://guidatv.sky.it/uuid/62672842-9668-4758-a8a5-8da3988fac33/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:15:00|17:25:00|S2 Ep3 - Il ritorno dei Ranger del Caprifoglio - Craig si ritrova ad avere a che fare di nuovo con i Ranger del Caprifoglio.Dovra' nascondere la mappa del ruscello affinche' loro non la prendano.
-
 |![Icon](https://guidatv.sky.it/uuid/62672842-9668-4758-a8a5-8da3988fac33/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:25:00|17:35:00|S2 Ep6 - Il fortino - Craig non puo' andare al ruscello cosi' lui e sua madre decidono di costruire il piu' grande fortino del mondo.
-
 |![Icon](https://guidatv.sky.it/uuid/71b42149-39d0-4ee5-b7c0-18966c52b92c/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:35:00|17:50:00|S2 Ep4 - Kelsey l'anziana - I 3 anziani del ruscello litigano e Kelsey sostituira' uno di loro per un gioco di ruolo. Ma scoprira' di non poter essere una degna sostituta.
-
 |![Icon](https://guidatv.sky.it/uuid/c0ec3418-ed08-4d13-bcef-f6f25b58ad2a/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|17:50:00|18:00:00|S3 Ep23 - Benvenuti a via Ruscello - Craig, JP, Kelsey e Bobby si costruiscono delle case di neve, ma la vita non e' tutta un gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/bb2cef09-b7da-42da-9430-40a83c237a4d/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|18:00:00|18:15:00|S3 Ep21 - Un'alleanza inaspettata - Craig e Selvaggia restano bloccati sull'isola della casetta abbandonata e per salvarsi dovranno per forza collaborare.
-
 |![Icon](https://guidatv.sky.it/uuid/78ac56f5-6e30-4a71-8d11-3843ebf2a93f/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|18:15:00|18:25:00|S1 Ep16 - I pantaloni scomparsi/La visita di controllo - Daffy fa un sogno strano in cui e' un detective incaricato di ritrovare i pantaloni di Porky/La nonna porta Titti alla clinica veterinaria.
-
 |![Icon](https://guidatv.sky.it/uuid/262ef895-daec-4c8a-a536-92ae9673999a/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|18:25:00|18:40:00|S1 Ep17 - Taddeo Terminator/Il pianeta spaccato/Anatra porta a porta - Taddeo costruisce un robot per prendere Bugs/Marvin su un nuovo pianeta/Daffy deve vendere un prodotto a tutti i costi.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:40:00|18:50:00|S5 Ep37 - Teen Titans Turbo: Parte 1 - I Titans si schiantano contro un esperimento segreto del governo e si trasformano in auto ogni volta che si bagnano. Da auto provano a sconfiggere il Dottor Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:50:00|19:10:00|S5 Ep38 - Teen Titans Turbo: Parte 2 - I Titans si recano da Chip amico tradito dal Dottor Militare per farsi aiutare a difendere la loro reputazione e ci riescono. Dottor Militare viene sconfitto.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:10:00|19:20:00|S5 Ep39 - Titans all'opera - Robin stupisce i Titans con una gita all'opera ma si addormentano presto e ciascuno di loro sogna di recitare nella propria opera.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:20:00|19:30:00|S5 Ep40 - La gara di canoe - I Titans sono al Campo Estivo per Supereroi per una settimana e devono aggiungere un altro membro della squadra per vincere la gara di canoe.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:30:00|19:40:00|S5 Ep41 - Il primo bacio di Robin - I Titans consigliano a Robin come comportarsi per riuscire a baciare Wonder Girl.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:40:00|19:55:00|S5 Ep42 - Come in un film horror - Robin dice ai Titans di non comportarsi come adolescenti imprudenti o il Ricevitore Raccapricciante li acciuffera'.
-
 |![Icon](https://guidatv.sky.it/uuid/1da1a22f-66f1-4f83-a31c-e461be9be246/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|19:55:00|20:05:00|S2 Ep12 - Il re dei condimenti - Karen ha bisogno di soldi per un componente dell'armatura di Bumblebee, cosi' Barbara le propone di farsi assumere al Burrito Bucket.
-
 |![Icon](https://guidatv.sky.it/uuid/b0d0df76-e5d0-45ac-a96a-0b2201be7ed9/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|20:05:00|20:20:00|S2 Ep13 - La rivolta dei cloni - Zee vuole vedere la nuova stagione del suo show preferito, cosi' inizia a creare dei cloni magici che svolgano i suoi impegni. La situazione le sfugge di mano.
-
 |![Icon](https://guidatv.sky.it/uuid/e3a12be6-dcac-484a-bc2d-6503869e8ec2/cover?md5ChecksumParam=c3cb85b3617f5d5701cea5d471035225)|DC Super Hero Girls: Giochi Intergalattici|20:20:00|21:25:00|2017. ... Intergalattici. Le supereroine DC Comics si preparano per affrontare l'Accademia Korugar nei mitici giochi intergalattici.
-
 |![Icon](https://guidatv.sky.it/uuid/4e51a4fe-abf3-48b1-bf5e-f405a59af3d6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:25:00|21:35:00|S2 Ep5 - Il tesoro nascosto - Gumball Darwin e Anais scoprono che tutti i loro soldi sono stati utilizzati per un misterioso investimento. Altre ricerche li portano a scoprire la verita' che va oltre la loro immaginazione.
-
 |![Icon](https://guidatv.sky.it/uuid/501c701d-4f03-41a3-ae74-8b84e305b752/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:35:00|21:45:00|S2 Ep6 - Le scuse - La signorina Scimmiotta e' convinta che Gumball e Darwin vogliano prenderla in giro e cerca in tutti i modi di farli mettere in punizione dal preside Brown.
-
 |![Icon](https://guidatv.sky.it/uuid/ff5fa107-65bb-4aa3-a89a-7d333bcb68ac/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:45:00|22:00:00|S2 Ep7 - Il teschio e le bugie - Clayton assume mille forme e disorienta i ragazzi che si trovano a inventare loro malgrado la storia di un teschio che li spaventa. Alla fine dopo mille bugie viene fuori la verita'.
-
 |![Icon](https://guidatv.sky.it/uuid/63608095-897d-4177-84f7-df482bf54a54/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:00:00|22:10:00|S2 Ep1 - I cavalieri - Gumball vuole assolutamente che Nocciolina vada a casa sua per fare una ricerca insieme. Subisce pero' la concorrenza di Tobias e la contrarieta' del papa' di lei.
-
 |![Icon](https://guidatv.sky.it/uuid/026bc87d-9775-43b6-a5c5-9186e3f799ee/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:10:00|22:25:00|S2 Ep1 - Il gigante - Gumball e Darwin scoprono che la madre di Hector lo fa vivere in un ambiente privo di emozione. Avranno il compito di farlo scatenare e non sara' affatto difficile.
-
 |![Icon](https://guidatv.sky.it/uuid/ff7448a8-f5b3-4548-9e4f-7585fc46980e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:25:00|22:35:00|S2 Ep2 - La tabella - Quando la mamma di Gumball decide di ideare una tabella su cui segnare i nomi dei familiari che riescono in qualche modo a distinguersi, si scatena una vera guerra domestica.
-
 |![Icon](https://guidatv.sky.it/uuid/0e845001-8e5a-4b03-b03a-360334d57272/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:35:00|22:50:00|S2 Ep2 - Il telecomando - A casa dei nostri eroi si scatena una terribile lotta senza esclusione di colpi per il possesso del telecomando.
-
 |![Icon](https://guidatv.sky.it/uuid/7038b566-8fbb-4d7e-8ed2-c1645902d444/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:50:00|23:00:00|S2 Ep3 - Il fiore - Gumball ha un attacco di gelosia verso Fiore che mostra attenzioni per Nocciolina. La situazione degenera al punto da rendere necessario un esorcismo molto improbabile.
-
 |![Icon](https://guidatv.sky.it/uuid/a7357972-2ea4-4a98-8864-37a6061b8640/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:00:00|23:15:00|S2 Ep3 - La penna - Gumball non accetta che Banana Joe possa aver mordicchiato la penna che gli ha prestato Darwin e ne fa una questione di principio, scatenando cosi' una guerra.
-
 |![Icon](https://guidatv.sky.it/uuid/05647989-8a71-4acc-90e3-29c86c2ef941/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:15:00|23:25:00|S1 Ep17 - Robot Bambi - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/60a2ae2c-252c-465a-8c69-5acc3bc56c8a/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:25:00|23:35:00|S1 Ep17 - Il sosia di Tommy - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/cfe943e9-840f-4c8f-ae62-f59c3ef7249d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:35:00|23:45:00|S1 Ep18 - Il torneo di Tetherball - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/af844b3f-2431-42de-b0ae-f62856408f42/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:45:00|00:00:00|S1 Ep18 - Virus letale - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/a0f174e7-083e-4f3a-921a-7091b5397c2e/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:00:00|00:05:00|S1 Ep19 - La principassa giustine - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/a0f174e7-083e-4f3a-921a-7091b5397c2e/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:00:00|00:05:00|S1 Ep19 - La principassa giustine - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/f279d1e0-37dc-4f70-b61d-6f90fc502d13/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:05:00|00:20:00|S1 Ep19 - L'agente Kalashnikov - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/3376d221-dfff-4656-87d4-059ac2c78ee9/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:20:00|00:30:00|S1 Ep20 - Scontro diplomatico - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/5caac477-eb60-4859-ac10-777e329d4f8d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:30:00|00:40:00|S1 Ep20 - Carenza di zucchero - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d727899c-3de8-4a28-b24c-598bdbbf72a5/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:40:00|00:50:00|S1 Ep21 - Un attacco di gelosia - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/4c7fbaf9-fd65-451a-be4b-aaf3e82c6282/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:50:00|01:05:00|S1 Ep21 - Furia Felina - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/fe952c13-207a-4011-b0b1-d47319bb2bbb/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|01:05:00|01:15:00|S2 Ep4 - Il cellulare - Gumball finalmente ottiene il suo primo telefono cellulare ma non lo chiama nessuno e cosi' lo regala a Darwin che ne diventa subito schiavo al punto da non peterne piu' fare a meno.
-
 |![Icon](https://guidatv.sky.it/uuid/0e845001-8e5a-4b03-b03a-360334d57272/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|01:15:00|01:25:00|S2 Ep4 - Speedy Pizza - Richard trova lavoro come fattorino e questo sconvolge l'equilibrio dell'universo. Nicole e i ragazzi si attivano subito per ripristinarlo ma non sara' un'impresa facile.
-
 |![Icon](https://guidatv.sky.it/uuid/8be56a5a-eb46-45cb-a1f5-b88e3b88d1be/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|01:25:00|01:35:00|S1 Ep37 - Il sergente sulle punte - Sergente Charge manda i suoi uomini in missione nel giardino, cosi' da poter praticare indisturbato i suoi nuovi passi di danza.
-
 |![Icon](https://guidatv.sky.it/uuid/88de6958-b97c-4028-ab08-97a7bd265dc3/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|01:35:00|01:50:00|S1 Ep38 - Principessa al comando - La Principessa Dolcesale spinge Axel a far coppia con Cleo e gli usurpa il ruolo da leader della sua squadra, costringendo Zoe a intervenire.
-
 |![Icon](https://guidatv.sky.it/uuid/f6204bb9-45a8-4e48-894c-f144f2db93c5/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|01:50:00|02:00:00|S2 Ep5 - La Festa di Halloween - Gumball e Darwin accettano l'invito di Carrie per festeggiare Halloween. I due ragazzi bevono un goccio di una misteriosa pozione per diventare fantasmi ma la situazione precipita.
-
 |![Icon](https://guidatv.sky.it/uuid/4e51a4fe-abf3-48b1-bf5e-f405a59af3d6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:00:00|02:10:00|S2 Ep5 - Il tesoro nascosto - Gumball Darwin e Anais scoprono che tutti i loro soldi sono stati utilizzati per un misterioso investimento. Altre ricerche li portano a scoprire la verita' che va oltre la loro immaginazione.
-
 |![Icon](https://guidatv.sky.it/uuid/a280abca-babf-4ca6-a73a-81aa88c7c86b/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:10:00|02:20:00|S2 Ep6 - Le parole fanno male - Gumball aiuta Darwin ad essere piu' franco e diretto con il prossimo e questi impara cosi' bene la lezione da attaccare chiunque incontri sbattendogli in faccia la realta'.
-
 |![Icon](https://guidatv.sky.it/uuid/501c701d-4f03-41a3-ae74-8b84e305b752/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:20:00|02:35:00|S2 Ep6 - Le scuse - La signorina Scimmiotta e' convinta che Gumball e Darwin vogliano prenderla in giro e cerca in tutti i modi di farli mettere in punizione dal preside Brown.
-
 |![Icon](https://guidatv.sky.it/uuid/ff5fa107-65bb-4aa3-a89a-7d333bcb68ac/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:35:00|02:45:00|S2 Ep7 - Il teschio e le bugie - Clayton assume mille forme e disorienta i ragazzi che si trovano a inventare loro malgrado la storia di un teschio che li spaventa. Alla fine dopo mille bugie viene fuori la verita'.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:45:00|02:55:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:55:00|03:05:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:05:00|03:15:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/b5b69f82-3336-4ac9-afb2-5d095548cedc/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:15:00|03:25:00|S1 Ep22 - L'esercito di G-Men - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/980062a5-f8c6-478a-bba0-0622d600cbed/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:25:00|03:40:00|S1 Ep22 - Il compleanno di Donnie - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/aeb87d63-b438-4600-97b1-d5fbb110cb1a/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:40:00|03:50:00|S1 Ep23 - La trasformazione di Gus - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/6d177a50-c352-41dd-b0d1-5783433f9b32/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|03:50:00|04:10:00|S1 Ep23 - Il giorno di San Valentino - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|04:10:00|04:20:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|04:20:00|04:35:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/cd8f53d8-e301-4792-9b47-429d3f6cd107/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|04:35:00|04:45:00|S2 Ep11 - Il pony - Gumball e Darwin noleggiano un film su un pony ma sulla strada del ritorno troveranno degli ostacoli che rischieranno di mandare in fumo la visione del film.
-
 |![Icon](https://guidatv.sky.it/uuid/83b5cd4b-c9a7-449d-b245-cfeaaad14c70/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|04:45:00|05:00:00|S2 Ep11 - La tempesta - La relazione tra Palloncino e Carmen e' talmente perfetta che lei per paura che subentri la noia decide di far ingelosire il suo uomo fingendo una simpatia per Gumball.
-
 |![Icon](https://guidatv.sky.it/uuid/cd8f53d8-e301-4792-9b47-429d3f6cd107/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:00:00|05:10:00|S2 Ep11 - Il pony - Gumball e Darwin noleggiano un film su un pony ma sulla strada del ritorno troveranno degli ostacoli che rischieranno di mandare in fumo la visione del film.
-
 |![Icon](https://guidatv.sky.it/uuid/83b5cd4b-c9a7-449d-b245-cfeaaad14c70/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:10:00|05:25:00|S2 Ep11 - La tempesta - La relazione tra Palloncino e Carmen e' talmente perfetta che lei per paura che subentri la noia decide di far ingelosire il suo uomo fingendo una simpatia per Gumball.
-
 |![Icon](https://guidatv.sky.it/uuid/abdf1d56-6cfa-4261-970b-6db26d6d0eb6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:25:00|05:35:00|S2 Ep12 - Il sogno - Gumball sogna che Darwin bacia Nocciolina e quando si sveglia non riesce a perdonarlo. Poi i due decidono di entrare nei loro sogni per cambiare il finale ma troveranno una sorpresa.
-
 |![Icon](https://guidatv.sky.it/uuid/d4bc9c5a-653b-435a-9a52-3be2f20bf4e3/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:35:00|05:45:00|S2 Ep12 - La spalla - Darwin si lamenta di essere la spalla a Gumball cosi' l'amico gli passa la palla per recuperare un gioco che Tobias non restituisce. Ma Darwin poco avvezzo a decidere esagera un po'.
-
 |![Icon](https://guidatv.sky.it/uuid/16e13611-e7e4-4aa6-8eeb-ed17a348234a/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|05:45:00|06:00:00|S2 Ep13 - L'eroe - Il papa' di Gumball si offende perche' ha sentito il figlio prenderlo in giro per la sua inettitudine ma Darwin preparera' lo scenario adatto per la riconciliazione.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:00:00|06:10:00|S6 Ep13 - Il libro dei record - I Titans sono emozionati di avere l'ultimo libro dei primati, ma questo fa sentire Stellarubia inadeguata cosi' dedica la sua vita a farsi crescere le unghie per sentirsi speciale.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:10:00|06:25:00|S6 Ep11 - Bat Scout - Robin mette alla prova i Titans quando diventano Bat Scout e affrontano alcuni dei piu' grandi cattivi di Gotham.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:25:00|06:35:00|S6 Ep14 - Bibi il mago - Bibi decide di diventare un mago. Chiede a Corvina di insegnargli alcuni incantesimi, ma lei prova a dissuaderlo dicendogli che la magia e' pericolosa.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:35:00|06:45:00|S6 Ep15 - Un nuovo abbigliamento - Il Consiglio dell'Autorita' dei Supereroi richiede un nuovo abbigliamento, che porta i Titans a introdurre il Martedi' Casual.
-
 |![Icon](https://guidatv.sky.it/uuid/bd0fd378-0d70-4da2-bc40-4a9510b910dc/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|06:45:00|06:55:00|S1 Ep51 - Il nuovo arrivato - La signorina Baker presenta alla classe un nuovo studente un ragazzino bassetto di nome Balance che ha un uncino al posto della mano e nasconde un segreto..
-
 |![Icon](https://guidatv.sky.it/uuid/64a8abe3-7d3b-43b3-9089-8073342f84dc/cover?md5ChecksumParam=a1f63a16541fa071a4617c217b6fe89a)|Clarence|06:55:00|07:10:00|S2 Ep19 - L'Interrogatorio - Quando il signor Reese scopre che qualcuno ha imbrattato la sua automobile, risfodera il berretto da poliziotto e arruola Clarence per farsi aiutare nelle indagini.
-
 |![Icon](https://guidatv.sky.it/uuid/9860bfc8-7882-4bba-a36a-b9b7b7d0a2a1/cover?md5ChecksumParam=a1f63a16541fa071a4617c217b6fe89a)|Clarence|07:10:00|07:20:00|S2 Ep29 - Amico Volatile - Sumo trova un uccellino ferito e lo chiama Salsa Piccante, lo cura e il piccolo guarisce. I due diventano inseparabili, ma Sumo impara che gli animali amano la liberta'.
-
 |![Icon](https://guidatv.sky.it/uuid/2c132566-10a7-4424-8a49-b83af029ca48/cover?md5ChecksumParam=a1f63a16541fa071a4617c217b6fe89a)|Clarence|07:20:00|07:35:00|S2 Ep27 - Paura di Volare - Clarence e' emozionatissimo perche' sta andando a trovare sua nonna ma scopre che Chad non ha mai preso un aereo in vita sua.
-
 |![Icon](https://guidatv.sky.it/uuid/35c862b4-7ac3-477d-9e0c-2ae667d7af20/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:35:00|07:45:00|S5 Ep21 - Il riscatto dei papa - Richard Watterson e continuamente vittima degli scherzi di Harold Wilson dai tempi della scuola. Anais Gumball e Darwin dispiaciuti per il padre lo spronano ad agire da adulto e lo aiutano.
-
 |![Icon](https://guidatv.sky.it/uuid/454690d1-41fe-445a-ac7d-0825e2e5dee4/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:45:00|07:55:00|S5 Ep22 - Cattive recensioni - Il padre di Gumball esce arrabbiato dal parrucchiere perche Larry gli ha dato del calvo. Gumball lo invita a lasciargli una recensione negativa online.
-
 |![Icon](https://guidatv.sky.it/uuid/546a3ec2-f7a5-4ef9-95cf-944ebe613d64/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|07:55:00|08:00:00|S5 Ep23 - Pacco a sorpresa - A casa di Gumball e arrivato un pacco misterioso. Non potendolo aprire perche non e di nessuno di loro cercano di immaginarne il contenuto.
-
 |![Icon](https://guidatv.sky.it/uuid/762c0693-b5a3-4067-b1de-e45659c98ca4/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:00:00|08:15:00|S5 Ep24 - I due Cupido - Gumball e Carrie si improvvisano organizzatori di incontri; cercheranno di far mettere insieme Darwin e Terry ma le cose non andranno esattamente come previsto e Gumball fara soltanto guai.
-
 |![Icon](https://guidatv.sky.it/uuid/1c756b16-7723-4648-9616-5ecbe0d1173d/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:15:00|08:25:00|S5 Ep25 - I voti - Gumball dovra passare un importante test per essere riammesso nella sua classe ed evitare cosi di dover ritornare all'asilo.
-
 |![Icon](https://guidatv.sky.it/uuid/a211af41-81f4-4295-afba-f9b6cf0f8068/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:25:00|08:35:00|S5 Ep26 - La dieta - Gumball scopre che il padre sta facendo una dieta che pero lo porta a ingrassare piu di prima. Cerca allora grazie all'aiuto di Darwin di fargli fare tanta attivita fisica.
-
 |![Icon](https://guidatv.sky.it/uuid/8821db18-be47-4809-a990-81d8961fe52a/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:35:00|08:50:00|S5 Ep27 - La mia nemesi - Gumball ha scoperto che Rob non lo odia piu' cosi' come prima dato che ha preso a odiare Banana Joe. Decide cosi' di &quot;&quot;riconquistare&quot;&quot; il suo odio a tutti i costi con risultati davvero assurdi.
-
 |![Icon](https://guidatv.sky.it/uuid/1824b913-6091-497a-81ad-a6177e9bab52/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|08:50:00|09:00:00|S1 Ep15 - Lil' Noodle - ll rapper Lil' Noodle ingaggia Apple e Onion come protagonisti del suo nuovo video musicale. Ma un uccello ci mettera' il becco.
-
 |![Icon](https://guidatv.sky.it/uuid/fc5f2ecd-1555-46fa-8e4d-146a908103cc/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:00:00|09:15:00|S1 Ep16 - L'ondata di caldo - In citta' fa un caldo infernale, ma Apple e Onion hanno l'opportunita' di vincere un condizionatore.
-
 |![Icon](https://guidatv.sky.it/uuid/1b74c424-7188-4708-8bde-3f97f585256a/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:15:00|09:25:00|S1 Ep17 - Il trucco della giostra - Apple e Onion desiderano fare un giro su una futuristica attrazione del luna park, ma l'impresa non sara' cosi' semplice.
-
 |![Icon](https://guidatv.sky.it/uuid/71e04f73-4720-49cd-95b7-45610aa1b8cb/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:25:00|09:45:00|S1 Ep18 - L'avvistamento della balena - Onion vuole vedere la mitica balena della Mezzaluna, che passera' nelle loro acque, e per questo si unisce a un club di amanti del mare.
-
 |![Icon](https://guidatv.sky.it/uuid/5075f8c2-a0ee-472b-84e0-d4bb107f7f54/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|09:45:00|09:55:00|S4 Ep17 - Una strana vicina - Mary deve fare un favore alla vicina di casa una donna bizzarra ma Clarence e Chad credono che sia una strega.
-
 |![Icon](https://guidatv.sky.it/uuid/cbf4a309-520a-4cd0-8c11-254ed2977fe0/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|09:55:00|10:10:00|S4 Ep18 - Talent Show - Clarence organizza un talent show per i suoi amici e cerca di tirare fuori il talento di Brady nonostante quest'ultimo pensi di non averlo.
-
 |![Icon](https://guidatv.sky.it/uuid/19761bb0-b413-4ade-a565-f43e0f194ca3/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:10:00|10:20:00|S4 Ep19 - Il Giorno del Ringraziamento di Chad - Clarence Mary Chad Vu Camden e Lucine vanno a casa dei genitori di Chad per il Giorno del Ringraziamento ma non si rilassa.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:20:00|10:35:00|S4 Ep20 - Il Film di Clarence - Clarence approfitta della nuova videocamera di Chad per girare un film; i personaggi saranno i suoi giocattoli. Lo aiuteranno anche Jeff, Sumo e Chelsea.
-
 |![Icon](https://guidatv.sky.it/uuid/99cdec67-d390-4a38-9f94-769bcc72b65d/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|10:35:00|10:45:00|S4 Ep14 - Bibi Corvina: Parte 2 - Bibi diventa famoso con la canzone scritta per Corvina e i due partono per un tour. Li' Bibi inizia a dedicare la canzone al suo pubblico Corvina si arrabbia e gli lancia una maledizione.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:45:00|11:00:00|S4 Ep15 - Il cambio dell'ora legale - I Titans si recano nella fattoria dello zio Tobia per salvare l'ora legale. Ci riescono grazie al sole che combatte contro zio Tobia e il suo malvagio cane.
-
 |![Icon](https://guidatv.sky.it/uuid/e329bec0-c1fa-4f34-a2b8-175c29ce885c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:00:00|11:10:00|S4 Ep16 - Vita da Follettto - Il giorno di San Patrizio Bibi esprime il desiderio di diventare un folletto e Robin lo accontenta. Si accorge cosi' che la vita da folletto non e' bella come la immaginava.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:10:00|11:20:00|S4 Ep17 - Alla ricerca degli animali - Robin pensa di essere un Grande Detective e assieme ai Titans va alla ricerca dei diversi animali che si trovano sullo scoglio all'inizio di ogni puntata.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:20:00|11:30:00|S4 Ep18 - Le Uova di Pasqua - La Fatina dei denti prova a rubare la festa della Pasqua. I Titans aiutano il Coniglietto di Pasqua a rifarsi il look per renderlo piu' combattivo e far spaventare la Fatina.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:30:00|11:40:00|S4 Ep19 - L'Avocidolo - Robin scopre che l'avocado gli da' un potere inarrestabile e ruba un deposito intero di avocado trasformandosi in Avocidolo. I Titans riusciranno a fermarlo?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:40:00|11:55:00|S4 Ep20 - Il Bacio della Stellarubia - Robin imbusta la sua mano per preservare il bacio che gli ha dato Stellarubia ma la mano si trasforma in una mano zombie.
-
 |![Icon](https://guidatv.sky.it/uuid/957e11e0-e6b4-4231-b39f-2467e95eb2a5/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|11:55:00|12:05:00|S1 Ep3 - Nuove Amicizie Parte 3 - Barbara e le altre affrontano la loro prima battaglia con conseguenze disastrose. Il gruppo si scioglie e Diana viene costretta dalla madre a tornare a casa.
-
 |![Icon](https://guidatv.sky.it/uuid/6349f29d-686b-43ea-867a-92168afcda08/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|12:05:00|12:15:00|S1 Ep4 - Nuove Amicizie Parte 4 - Dopo aver recuperato Diana le Super Hero Girls si trovano ad affrontare il loro primo grande nemico: la sorellina di Lex Luthor Lena!
-
 |![Icon](https://guidatv.sky.it/uuid/78ac56f5-6e30-4a71-8d11-3843ebf2a93f/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|12:15:00|12:25:00|S1 Ep16 - I pantaloni scomparsi/La visita di controllo - Daffy fa un sogno strano in cui e' un detective incaricato di ritrovare i pantaloni di Porky/La nonna porta Titti alla clinica veterinaria.
-
 |![Icon](https://guidatv.sky.it/uuid/262ef895-daec-4c8a-a536-92ae9673999a/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|12:25:00|12:40:00|S1 Ep17 - Taddeo Terminator/Il pianeta spaccato/Anatra porta a porta - Taddeo costruisce un robot per prendere Bugs/Marvin su un nuovo pianeta/Daffy deve vendere un prodotto a tutti i costi.
-
 |![Icon](https://guidatv.sky.it/uuid/37c6480f-2dd3-44a0-b272-d8072d39021f/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|12:40:00|12:50:00|S6 Ep18 - I genitori - Nicole incontra per caso i genitori con cui ha rotto da anni e' solo l'intervento cantato di Gumball sembrerebbe riuscire a far breccia tra i vecchi rancori...
-
 |![Icon](https://guidatv.sky.it/uuid/09902d0a-e382-41dc-9978-b3fee2b50ad4/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|12:50:00|13:05:00|S6 Ep19 - Il capo - Mentre Nicole cerca in tutti i modi di pagare una bolletta Richard si finge il fondatore dell'azienda e inizia a dettare dei cambiamenti assurdi che porteranno il caos.
-
 |![Icon](https://guidatv.sky.it/uuid/d6d5c20c-e0cc-4037-8f24-b74bca6784e8/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:05:00|13:15:00|S6 Ep20 - la lezione - Gumball e Darwin saltano la scuola e Larry mette in atto un piano per convincerli dell'importanza dello studio: il piano riesce ma poi Larry inizia a porsi delle domande...
-
 |![Icon](https://guidatv.sky.it/uuid/cdc15b2a-b281-4fd9-adc1-95fc5a497af5/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:15:00|13:30:00|S6 Ep21 - Ritorno al passato - L'umanita' si ritrova improvvisamente senza Internet tornando a usi e costumi degni del Medioevo e i nostri eroi chiamati in causa non possono certo restare a guardare.
-
 |![Icon](https://guidatv.sky.it/uuid/aa8249e0-3f15-4621-8ebc-856ec2d4691f/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:30:00|13:40:00|S6 Ep22 - La pozione - Hector e' stanco di essere un gigante e i nostri eroi riescono a rimpicciolirlo grazie a una pozione della signora Jotunheim ma le cose non finiscono mai come dovrebbero...
-
 |![Icon](https://guidatv.sky.it/uuid/80043d5a-d4a6-4979-a705-5ee0b037b172/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:40:00|13:55:00|S6 Ep23 - Assalto ai programmi - Un losco personaggio tenta di eliminare Gumball dal palinesto di questa stazione televisiva sostituendolo con programmi molto discutibili.
-
 |![Icon](https://guidatv.sky.it/uuid/d9540388-2c06-42c0-8d19-ced69fd67d68/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|13:55:00|14:05:00|S1 Ep32 - Sulle tracce di Jessica - Jessica girovaga dal lato sconosciuto del ruscello.
-
 |![Icon](https://guidatv.sky.it/uuid/f50825ee-2375-4625-bbdb-33c2a08e3f6d/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:05:00|14:20:00|S1 Ep33 - Cena al ruscello - Bernard e' il responsabile della serata
-
 |![Icon](https://guidatv.sky.it/uuid/d28f45e3-7c4a-477b-a2e2-5ab7252f0a09/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:20:00|14:30:00|S1 Ep34 - La citta' degli insetti - Craig scopre un mucchio di insetti sono una pietra.
-
 |![Icon](https://guidatv.sky.it/uuid/31b84fdb-b232-4cbe-a083-b19caca171bd/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:30:00|14:45:00|S1 Ep35 - Il grande caldo - Una giornata stranamente calda al ruscello scioglie i ghiaccioli di Kit.
-
 |![Icon](https://guidatv.sky.it/uuid/5a691b63-91b6-4b6c-8f69-07fc549cdcdf/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|14:45:00|14:55:00|S1 Ep13 - La Strada - Questo episodio ha per protagonisti gli Orsi da cuccioli! I tre orsacchiotti, prima sul ciglio di una strada nel deserto, finiranno in un enorme magazzino che sara' la loro casa.
-
 |![Icon](https://guidatv.sky.it/uuid/fa893818-b682-4538-b1d6-fdc727a949db/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|14:55:00|15:10:00|S1 Ep14 - Silenzio in Sala - Gli Orsi sono scandalizzati per la maleducazione degli spettatori nei cinema. Per questo si incaricano di riportare ordine nelle sale: scivolando furtivi come Ninja tra le poltrone.
-
 |![Icon](https://guidatv.sky.it/uuid/8cef207c-9001-41af-82d9-2052cc4b575f/cover?md5ChecksumParam=c4403550bf501322bcbcf55066875f12)|Power Rangers: Dino Fury|15:10:00|15:35:00|S1 Ep17 - Un nuovo eroe in citta' - Mentre i Power Ranger sono al mare, un gelataio perde il controllo del suo carretto. Javi e Aiyon devono intervenire.
-
 |![Icon](https://guidatv.sky.it/uuid/832fd7a9-b0de-4524-8fff-6a161e58ae7c/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|15:35:00|15:45:00|S3 Ep17 - La quiete prima della tempesta - Il serpente apocalittico Wojira emerge dal mare e, cavalcato da Kalmaar, rischia di capovolgere un piccolo peschereccio.
-
 |![Icon](https://guidatv.sky.it/uuid/bd2f6017-c4b4-44ff-b5bb-b946c059b848/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|15:45:00|16:00:00|S3 Ep18 - Assalto a Ninjago City - Kalmaar e Wojira arrivano a Ninjago City con uno tsunami che inonda la citta'. I ninja entrano in azione.
-
 |![Icon](https://guidatv.sky.it/uuid/83b5cd4b-c9a7-449d-b245-cfeaaad14c70/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:00:00|16:15:00|S2 Ep11 - La tempesta - La relazione tra Palloncino e Carmen e' talmente perfetta che lei per paura che subentri la noia decide di far ingelosire il suo uomo fingendo una simpatia per Gumball.
-
 |![Icon](https://guidatv.sky.it/uuid/abdf1d56-6cfa-4261-970b-6db26d6d0eb6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:15:00|16:30:00|S2 Ep12 - Il sogno - Gumball sogna che Darwin bacia Nocciolina e quando si sveglia non riesce a perdonarlo. Poi i due decidono di entrare nei loro sogni per cambiare il finale ma troveranno una sorpresa.
-
 |![Icon](https://guidatv.sky.it/uuid/d4bc9c5a-653b-435a-9a52-3be2f20bf4e3/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:30:00|16:40:00|S2 Ep12 - La spalla - Darwin si lamenta di essere la spalla a Gumball cosi' l'amico gli passa la palla per recuperare un gioco che Tobias non restituisce. Ma Darwin poco avvezzo a decidere esagera un po'.
-
 |![Icon](https://guidatv.sky.it/uuid/16e13611-e7e4-4aa6-8eeb-ed17a348234a/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:40:00|16:50:00|S2 Ep13 - L'eroe - Il papa' di Gumball si offende perche' ha sentito il figlio prenderlo in giro per la sua inettitudine ma Darwin preparera' lo scenario adatto per la riconciliazione.
-
 |![Icon](https://guidatv.sky.it/uuid/c85406db-c9cb-4214-aca8-d2836ea68b28/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|16:50:00|17:00:00|S2 Ep13 - La foto - Gumball deve fare la foto scolastica ed e' angosciato perche' non e' fotogenico. Dopo vari tentativi Darwin riuscira' a dargli un aspetto diverso ma destinato a fallire.
-
 |![Icon](https://guidatv.sky.it/uuid/81973be2-bdf1-4a44-a581-00feebd0d5cf/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:00:00|17:15:00|S2 Ep14 - Giu' nel cassonetto - Il papa' di Gumball ingaggia una faida col vicino finche' non si ritrovano in un cassonetto a ragionare sulla loro follia.
-
 |![Icon](https://guidatv.sky.it/uuid/dc9d67dd-102f-42b1-8076-921603a6749c/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:15:00|17:25:00|S2 Ep5 - Sfida di asprezza - Craig affronta un viaggio puramente mentale quando cerca di mangiare la caramella piu aspra del ruscello.
-
 |![Icon](https://guidatv.sky.it/uuid/b380726c-9648-4290-a1df-00fbbf826fcc/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:25:00|17:35:00|S2 Ep11 - Il consiglio del ruscello - Il gioco del cerchio distrugge l'armonia del ruscello cosi' Craig decide di stabilire un Concilio per riportare ordine.
-
 |![Icon](https://guidatv.sky.it/uuid/b0b397fd-3b2b-4b46-866f-fe950cdeae9c/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|17:35:00|17:50:00|S2 Ep12 - La paladina della Scintilla - Craig Kelsey e JP conoscono una eroina intergalattica la paladina della Scintilla il cui obiettivo e quello di salvare il ruscello dalla negativita.
-
 |![Icon](https://guidatv.sky.it/uuid/e085e852-6da4-44ad-a0d3-6cc354c97c4b/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|17:50:00|18:00:00|S3 Ep24 - Fan o Nemici - La gang partecipa all'Anziani Con e capisce che essere amici e' piu' importante di essere fan.
-
 |![Icon](https://guidatv.sky.it/uuid/9458cef7-f6c0-4347-bb7a-bf445804295e/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|18:00:00|18:15:00|S3 Ep25 - La maglietta preferita - La maglietta preferita di JP e' rovinata! Suo padre gliene manda un'altra ma e' del colore sbagliato e JP finisce nella squadra dei Bambini dell'Hockey!
-
 |![Icon](https://guidatv.sky.it/uuid/c228c853-581a-4cdb-9bb0-0ea963dd43e0/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|18:15:00|18:25:00|S1 Ep18 - Porky lanciatore/La gru/Tic, toc, boom! - Porky finalmente puo' fare il lanciatore/Il nido di Titti e' in cima a un palo del telefono/Taddeo offre a Daffy del pane con dentro una bomba.
-
 |![Icon](https://guidatv.sky.it/uuid/62323d88-53a4-4f4e-9d72-f0911e8fc209/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|18:25:00|18:40:00|S1 Ep19 - L'albergo stregato/Un nido scomodo/Il travestimento - Porky e Daffy vanno in un albergo stregato/Il nido di Titti e' in cima a un palo del telefono/Taddeo si traveste per attirare Bugs.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:40:00|18:50:00|S5 Ep43 - Fuoco da campo - Campo estivo dei supereroi: Robin propone ai Titans di organizzare un fuoco da campo. Dopo un primo momento di confusione i Titans sono pronti ad aiutare Robin con lo spettacolo della sera.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:50:00|19:10:00|S5 Ep44 - Le medaglie di partecipazione - Il campo estivo e' finito. Birdarang consegna le medaglie di partecipazione a tutti i supereroi ma non ai Titans che sono stati troppo impegnati tra vicende sentimentali pirati e lupi.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:10:00|19:20:00|S5 Ep45 - La nuova coinquilina - I Titans tornano a casa dal campo estivo insieme a Bumblebee. Le premesse per la convivenza sembrano buone ma i Titans si rivelano dei coinquilini mostruosi creando non pochi problemi a Bumblebee.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:20:00|19:30:00|S5 Ep46 - Pappa Reale - Cyborg Bibi Stellarubia e Corvina piantonano Bumblebee in attesa che faccia il miele. intanto Bumblebee aiuta Robin a far valere la sua voce da leader con i Titans.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:30:00|19:40:00|S5 Ep47 - La tuta meccanica di Brain - Robin dice ai Titans che Brain intende attaccarli con una nuova tuta meccanica, il cui unico punto debole e' un condotto di scarico molto piccolo. Bumblebee e' gia' pronta per la missione.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:40:00|19:55:00|S5 Ep48 - Momenti indimenticabili - I Titans decidono di rivivere i loro ricordi preferiti insieme a Bumblebee, nella speranza che in questo modo la nuova arrivata si senta meno esclusa dal gruppo.
-
 |![Icon](https://guidatv.sky.it/uuid/dd3138b0-c985-428b-9a31-9f325143cac7/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|19:55:00|20:05:00|S2 Ep1 - La nuova aiutante di Batman - Parte 1 - Mentre da' la caccia all'Enigmista Barbara incontra Robin e Batman, anche loro sulle tracce del pericoloso criminale.
-
 |![Icon](https://guidatv.sky.it/uuid/dc3a5128-cce4-4848-8d5d-f81b34fcf609/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|20:05:00|20:20:00|S2 Ep2 - La nuova aiutante di Batman - Parte 2 - Batgirl ha lasciato le Super Hero Girls per stare con Batman; le altre cercano di trovare una sostituta, ma sono tutte inadeguate.
-
 |![Icon](https://guidatv.sky.it/uuid/6f956933-bc64-47ea-90b3-270f073a0044/cover?md5ChecksumParam=b50a20dcfb119ccec8f69ca0b32b8020)|Lego: Justice League vs. Bizarro League|20:20:00|21:00:00|2015. Il clone di Superman, Bizarro, sta creando caos e scompiglio. Sara' compito degli eroi della Justice League salvare la galassia.
-
 |![Icon](https://guidatv.sky.it/uuid/a280abca-babf-4ca6-a73a-81aa88c7c86b/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:00:00|21:10:00|S2 Ep6 - Le parole fanno male - Gumball aiuta Darwin ad essere piu' franco e diretto con il prossimo e questi impara cosi' bene la lezione da attaccare chiunque incontri sbattendogli in faccia la realta'.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:10:00|21:20:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:20:00|21:35:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:35:00|21:45:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/cd8f53d8-e301-4792-9b47-429d3f6cd107/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|21:45:00|22:00:00|S2 Ep11 - Il pony - Gumball e Darwin noleggiano un film su un pony ma sulla strada del ritorno troveranno degli ostacoli che rischieranno di mandare in fumo la visione del film.
-
 |![Icon](https://guidatv.sky.it/uuid/abdf1d56-6cfa-4261-970b-6db26d6d0eb6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:00:00|22:10:00|S2 Ep12 - Il sogno - Gumball sogna che Darwin bacia Nocciolina e quando si sveglia non riesce a perdonarlo. Poi i due decidono di entrare nei loro sogni per cambiare il finale ma troveranno una sorpresa.
-
 |![Icon](https://guidatv.sky.it/uuid/d4bc9c5a-653b-435a-9a52-3be2f20bf4e3/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:10:00|22:25:00|S2 Ep12 - La spalla - Darwin si lamenta di essere la spalla a Gumball cosi' l'amico gli passa la palla per recuperare un gioco che Tobias non restituisce. Ma Darwin poco avvezzo a decidere esagera un po'.
-
 |![Icon](https://guidatv.sky.it/uuid/16e13611-e7e4-4aa6-8eeb-ed17a348234a/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:25:00|22:35:00|S2 Ep13 - L'eroe - Il papa' di Gumball si offende perche' ha sentito il figlio prenderlo in giro per la sua inettitudine ma Darwin preparera' lo scenario adatto per la riconciliazione.
-
 |![Icon](https://guidatv.sky.it/uuid/c85406db-c9cb-4214-aca8-d2836ea68b28/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:35:00|22:50:00|S2 Ep13 - La foto - Gumball deve fare la foto scolastica ed e' angosciato perche' non e' fotogenico. Dopo vari tentativi Darwin riuscira' a dargli un aspetto diverso ma destinato a fallire.
-
 |![Icon](https://guidatv.sky.it/uuid/81973be2-bdf1-4a44-a581-00feebd0d5cf/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:50:00|23:00:00|S2 Ep14 - Giu' nel cassonetto - Il papa' di Gumball ingaggia una faida col vicino finche' non si ritrovano in un cassonetto a ragionare sulla loro follia.
-
 |![Icon](https://guidatv.sky.it/uuid/7296a5d1-4afe-461f-a006-0aecd81ca9cd/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:00:00|23:15:00|S2 Ep14 - Prigionieri a scuola - Gumball e Darwin finiscono nella prigione scolastica per non aver fatto un compito ma ovviamente non impareranno la lezione.
-
 |![Icon](https://guidatv.sky.it/uuid/dd293eec-9caf-4ba5-920b-bd368b945ccf/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:15:00|23:25:00|S1 Ep24 - Il combattimento - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/b5eed355-6343-448c-8e9b-ba7117712dea/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:25:00|23:35:00|S1 Ep24 - Costantin innamorato - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/497646d2-e64d-43da-b631-fd4831cb57a2/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:35:00|23:45:00|S1 Ep25 - La festa della mamma - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/8dce4357-5fff-4d70-a7e5-6ed934d2ac7b/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:45:00|00:00:00|S1 Ep25 - I nuovi insegnanti - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/9d4dbd2a-6cbe-4641-8ed4-b209d1db3a3d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:00:00|00:05:00|S1 Ep26 - Incontro di wrestling - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
 
 

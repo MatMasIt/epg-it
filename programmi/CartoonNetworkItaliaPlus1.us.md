@@ -1,475 +1,240 @@
 # Cartoon Network Italia +1
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/a9d23deb-6005-44a8-818e-2185648f19e1/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|00:00:00|00:15:00|S1 Ep11 - Il primo appuntamento - Gumball riesce ad ottenere un appuntamento con Nocciolina. L'appuntamento consiste nel presenziare al funerale del ragno della bambina.
-
 |![Icon](https://guidatv.sky.it/uuid/f222ece1-578a-4b1e-bb15-8d9ebaaf24f8/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:15:00|00:25:00|S1 Ep10 - Il rapimento di Robotboy - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/c4f021aa-2cc0-45fa-be8a-5ff7c3dd17bb/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:25:00|00:35:00|S1 Ep10 - La guerra dei Robot - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/ba151de6-6510-49ce-9722-ff0575281807/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:35:00|00:45:00|S1 Ep11 - Un'esca speciale - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/2a0580c3-2b50-408f-814f-ed966f90f129/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:45:00|01:00:00|S1 Ep11 - L'incubo di Kamikazi - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/56b5ae29-8e5e-40e1-8613-57d4d7013a9b/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:00:00|01:05:00|S1 Ep12 - Un problema di aggressivita' - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d3fe7f38-6c9e-4696-bdf8-17c4bbb5f86c/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:05:00|01:20:00|S1 Ep12 - Il Padre di Kurt - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/4da507bf-cf4a-46f7-8574-d953de6e5d16/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:20:00|01:30:00|S1 Ep13 - Le lacrime di Tommy - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/229d7d09-a5f5-49a3-8280-dee1e244ddc2/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:30:00|01:40:00|S1 Ep13 - Robot in Fuga - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/12fa6530-d280-44ca-a74c-71f8eeeea383/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:40:00|01:50:00|S1 Ep14 - Robotman - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/5897a250-00b0-4691-97d8-110012862423/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:50:00|02:05:00|S1 Ep14 - La storia di due geni del male - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d7ac7b82-1f69-489f-8388-04f19308d09d/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:05:00|02:15:00|S1 Ep12 - Il club - Gumball si rende conto di essere l'unico in famiglia a non appartenere a nessun club. Gli viene proposto di entrare nel Club degli Scarti.
-
 |![Icon](https://guidatv.sky.it/uuid/082d02aa-e4f8-4ef6-8301-131d8bd7e3a5/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:15:00|02:25:00|S1 Ep12 - La bacchetta magica - Gumball trova una bacchetta magica all'interno di una confezione di cereali e papa' la vuole subito. I due fratelli passano l'intera giornata a realizzare i desideri di papa' per non deluderlo
-
 |![Icon](https://guidatv.sky.it/uuid/0c941656-d01b-4c38-b200-d7f9a506b6e9/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|02:25:00|02:35:00|S1 Ep35 - Festa di compleanno - Mentre Zoe organizza la festa di compleanno di Cleo, Axel e la sua squadra cercano di tenere a bada un'intrusa gelosa, la Principessa Dolcesale.
-
 |![Icon](https://guidatv.sky.it/uuid/bfd8b95a-0662-44a1-99d5-31c9a5429145/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|02:35:00|02:50:00|S1 Ep36 - Missione di salvataggio - Axel, Barbarorso e Bobbie Blobby sottovalutano una sessione di addestramento e, in un istante di distrazione, un corvo rapisce Galileo! Devono salvarlo!
-
 |![Icon](https://guidatv.sky.it/uuid/2bbd4d94-823e-4a96-bd2c-3ca7316ae520/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|02:50:00|03:00:00|S1 Ep13 - Miss Simpatia - La signorina Scimmia vuole vincere il premio di insegnante piu' simpatica dell'anno e cerca di stringere amicizia con Darwin e Gumball. La perfida maestra non ha fatto i conti con la mamma.
-
 |![Icon](https://guidatv.sky.it/uuid/9c4cbb67-278d-451b-9153-86d6be91020a/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:00:00|03:10:00|S1 Ep13 - Il fantasma - Il matrimonio del signor Robinson e' in crisi. Gumball e Darwin cercano in tutti i modi di aiutarlo a riconciliarsi con la moglie.
-
 |![Icon](https://guidatv.sky.it/uuid/caa8585d-b075-43f5-b2e3-228095280a8d/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:10:00|03:20:00|S1 Ep14 - La bambola di Anais - Un compagno di Gumball getta dallo scuola-bus la bambola preferita di Anais e questa costringe i fratelli ad organizzare una vera missione di recupero.
-
 |![Icon](https://guidatv.sky.it/uuid/28f6280a-5a4d-466a-bce7-70c8908ea493/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:20:00|03:35:00|S1 Ep14 - Su' le mani! - Mentre Gumball e Darwin sono alla stazione di servizio per comprare un regalo di compleanno alla mamma avviene una rapina che presto finira' per coinvolgere l'intera famiglia dei nostri eroi.
-
 |![Icon](https://guidatv.sky.it/uuid/72705dc9-ba41-4d19-ad33-2d50220ea51a/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:35:00|03:45:00|S1 Ep15 - La macchina nuova - Darwin e Gumball convinti di essere stati coinvolti dal loro vicino in un nuovo gioco gli rendono la vita impossibile arrivando addirittura a distruggergli la macchina nuova.
-
 |![Icon](https://guidatv.sky.it/uuid/451e6feb-a9b7-4871-a0aa-971f648a346c/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:45:00|03:55:00|S1 Ep15 - Che sfortuna! - Dopo una serie di disgrazie Gumball e' convinto di essere vittima della malasorte. Anais cerca di convincerlo che si tratta solo di coincidenze ma Darwin lo rafforza in questa sua convinzione
-
 |![Icon](https://guidatv.sky.it/uuid/4db40d39-3265-45af-bda9-cfe0d9a579c3/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|03:55:00|04:05:00|S1 Ep16 - Il mostro Mangia-tutto - Gumball riesce a dar vita ad uno strano essere dall'appetito smodato.
-
 |![Icon](https://guidatv.sky.it/uuid/38de1ad9-9c58-4641-8b27-89484bb7780b/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|04:05:00|04:15:00|S1 Ep16 - Una mamma ficcanaso - Per essere piu' presente con i figli Nicole li accompagna anche nella vita all'interno della scuola causando situazioni molto imbarazzanti per i ragazzi.
-
 |![Icon](https://guidatv.sky.it/uuid/b2bee0bf-195f-4dea-b083-fd76878c7f0d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:15:00|04:25:00|S1 Ep15 - Un clone sensibile - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/b31a540f-0c9b-4e12-8875-051cdeff2002/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:25:00|04:40:00|S1 Ep15 - Ritorno a casa - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/f3ed1a13-0849-43ff-a44b-5681b16203be/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:40:00|04:50:00|S1 Ep16 - Una classe di cloni - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/3211cfef-b848-4b38-a90f-780293d6aba4/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:50:00|05:10:00|S1 Ep16 - Robotgirl - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/c3fad770-e20a-4c47-9577-5fdbbe187cb2/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|05:10:00|05:20:00|S1 Ep17 - L'elmetto - Gumball dopo essersi costruito un copricapo di carta stagnola colleziona una serie di colpi di fortuna.
-
 |![Icon](https://guidatv.sky.it/uuid/4e598673-0937-4dde-b499-39a6a2719aed/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|05:20:00|05:35:00|S1 Ep17 - Il duello - T-Rex ha un modo un po' troppo violento di scherzare con Gumball e Anais scambia la cosa per degli atti di bullismo.
-
 |![Icon](https://guidatv.sky.it/uuid/5d5e4e54-3841-4f34-8321-b110c28acdc6/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|05:35:00|05:45:00|S1 Ep18 - La fine del mondo - Tutti aspettano un'eclissi di sole e Gumball e Darwin sono convinti che stia per arrivare la fine del mondo. I nostri eroi si ritrovano in un bunker improvvisato ad attendere la fine.
-
 |![Icon](https://guidatv.sky.it/uuid/abe1e2d2-bb33-4de8-823f-7157446622f1/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo Straordinario Mondo di Gumball|05:45:00|06:00:00|S1 Ep18 - Il dvd - Gumball prima dimentica di riconsegnare un DVD preso in affitto e poi lo distrugge inavvertitamente.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|06:00:00|06:10:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|06:10:00|06:25:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|06:25:00|06:35:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|06:35:00|06:45:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|06:45:00|07:00:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:00:00|07:10:00|S6 Ep5 - Bravate da granchi - Regia di K. McIntyre,, con S. Menville. Bibi sta con la sua famiglia, la Doom Patrol, quando lui, Robotman e Negative Girl decidono di andare a fare i ragazzacci e uscire con i granchi.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:10:00|07:25:00|S6 Ep6 - Frabot - Regia di P. Rida Michail,, con S. Menville. Robotman conosce l'altro &quot;&quot;migliore amico&quot;&quot; di Bibi, Cyborg, e scopre che hanno molto in comune. Diventano migliori &quot;&quot;Frabot&quot;&quot;, ma la loro relazione e' dannosa?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:25:00|07:35:00|S6 Ep7 - Bibi torna a casa - Regia di L. Cormican,, con S. Menville. La nuova squadra di Bibi si sforza di lasciarlo tornare a casa. Dopo che l'elaborato piano che prevede l'uso della realta' virtuale per tenerlo bloccato con loro va male, Bibi riuscira' a salvarli?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:35:00|07:45:00|S6 Ep12 - L'auto di seconda mano - Regia di L. Cormican,, con S. Menville. I Titans stanno per apprendere l'arte dell'acquisto di una nuova auto!
-
 |![Icon](https://guidatv.sky.it/uuid/e21396e3-002c-4968-a0c5-b6ec6e53cab7/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|07:45:00|07:55:00|S1 Ep47 - Campeggio estremo - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Chad porta Clarence a fare un campeggio nella natura, ma il ragazzino resta deluso dalle inaspettate comodita': riscaldamento, amaca, perfino una TV.
-
 |![Icon](https://guidatv.sky.it/uuid/090d7cda-3e08-4e2c-b3e2-b824c7d4ca8d/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|07:55:00|08:10:00|S1 Ep48 - Doppio compleanno - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Jeff ha organizzato il suo compleanno al bowling dove sta festeggiando anche Gilben che gli ruba la scena. Gli invitati suggeriscono ai due di festeggiare insieme.
-
 |![Icon](https://guidatv.sky.it/uuid/190af7a1-2074-4616-9fb5-6918dbd42a01/cover?md5ChecksumParam=3a77c78695e9a9fa097b742b75ac7ff6)|Clarence|08:10:00|08:20:00|S1 Ep49 - Nemici per sempre - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Uno stupido litigio tra Jeff e Sumo degenera fino al punto che i due si ripromettono di non rivolgersi mai piu' la parola.
-
 |![Icon](https://guidatv.sky.it/uuid/b1d93a36-8cad-4468-a876-ececb5d9d914/cover?md5ChecksumParam=6b8c79d8661ba8f0cac9afe4d937c200)|Clarence|08:20:00|08:35:00|S1 Ep50 - Fuga dal sogno - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Mentre guarda un programma televisivo sui sogni Clarence si addormenta ed entra in un mondo onirico che aleggia su Aberdale.
-
 |![Icon](https://guidatv.sky.it/uuid/4943afec-5223-46b8-80b2-78dbe7e193b4/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:35:00|08:45:00|S5 Ep13 - Il Vaso - Nonna Jojo' ha regalato a Nicole un orrendo vaso e la poveretta non sa come disfarsene. Cerca addirittura di convincere i figli a romperlo fingendo che sia stato un incidente.
-
 |![Icon](https://guidatv.sky.it/uuid/601a9c74-eb9b-4455-99e6-9686e3190def/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:45:00|08:55:00|S5 Ep14 - Lo Skate - Gumball si vanta di essere un grande esperto di skate ma la verita' e' che per paura di farsi male non e' mai neanche salito su una tavola.
-
 |![Icon](https://guidatv.sky.it/uuid/29025a09-95cf-4e2f-b6ef-1215d5de9333/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|08:55:00|09:00:00|S5 Ep15 - La Patata - Darwin grande divoratore di patate in tutte le salse - fritte lesse al forno in sformati e crocchette - prova in tutti i modi a liberarsi dalla sua dipendenza alimentare.
-
 |![Icon](https://guidatv.sky.it/uuid/51e44b6e-0681-4f86-a86e-e478598b7f06/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|09:00:00|09:15:00|S5 Ep17 - Il Videogioco - Gumball Anais e Darwin si ritroveranno catapultati in un vero e proprio videogioco dove si ritroveranno faccia a faccia con un cattivo e contro diversi pericoli da affrontare.
-
 |![Icon](https://guidatv.sky.it/uuid/e6a2746f-9adc-4941-81d8-474fd4ffd2de/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|09:15:00|09:25:00|S5 Ep18 - Nonno Frankie - La famiglia di Gumball va a trovare nonno Frankie che ha un atteggiamento sospetto. Tutti quanti deducono sia stato in prigione e accogliendolo in casa ricreano l'atmosfera.
-
 |![Icon](https://guidatv.sky.it/uuid/b09561e7-4d6e-4c5f-b29c-1e7c9b0a9f87/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|09:25:00|09:35:00|S5 Ep19 - I Sosia - Gumball e i suoi fratelli attuano varie strategie per cercare di eliminare una famigliola composta da padre madre e fratelli che cercano in tutti i modi di copiare la loro famiglia.
-
 |![Icon](https://guidatv.sky.it/uuid/2e09c64d-c16b-4566-9d2c-f4d84c07ad74/cover?md5ChecksumParam=ffc880c148808013ba391d005a53d694)|Lo Straordinario Mondo di Gumball|09:35:00|09:50:00|S5 Ep20 - False identita' - Nonno Louie attiva un profilo su Elmore Plus dal quale chiede l'amicizia a Gumball. Gumball vergognandosi un po' di avere tra i propri contatti online il nonno.
-
 |![Icon](https://guidatv.sky.it/uuid/df82f46b-349e-46ee-977e-da622faebda6/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|09:50:00|10:00:00|S1 Ep11 - Una mela concentrata - Regia di G. Gendi,Benton Connor,, con R. Ayoade, G. Gendi. Onion vuole vincere un concorso di cucina, ma deve fare i conti con la mancanza di concentrazione di Apple.
-
 |![Icon](https://guidatv.sky.it/uuid/3b46a7f2-28f3-4215-b8cc-8ef8ef41a911/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|10:00:00|10:15:00|S1 Ep12 - Il tappeto elastico di Burger - Regia di G. Gendi,Benton Connor,, con R. Ayoade. Apple e Onion vogliono giocare con il tappeto elastico di Burger e per questo fingono di essere interessati alla sua amicizia.
-
 |![Icon](https://guidatv.sky.it/uuid/28c27dc7-464b-425e-8958-c1cc5602c9c3/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|10:15:00|10:25:00|S1 Ep13 - A tutto spasso - Regia di G. Gendi,Benton Connor,, con R. Ayoade. Nel locale di Pizza ogni settimana si elegge la &quot;&quot;persona piu' spassosa&quot;&quot;. Ovviamente Apple e Onion sono interessati al titolo.
-
 |![Icon](https://guidatv.sky.it/uuid/b9e827e0-ae2e-414e-8b31-032bd53c34b1/cover?md5ChecksumParam=ab56bff7fa49c4c9464315c1ad3ec048)|Apple &amp; Onion Stag.1 Ep 1|10:25:00|10:45:00|S1 Ep14 - Il chicco furioso - Regia di G. Gendi,Benton Connor,, con R. Ayoade. Apple e Onion organizzano una festa karaoke, ma commettono l'errore di invitare il burbero Chicco di Mais.
-
 |![Icon](https://guidatv.sky.it/uuid/e86b6beb-cbf2-413d-b0e1-5c3d698ed204/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:45:00|10:55:00|S4 Ep13 - Vita all'aria aperta - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Clarence vuole essere una volpe e convince altri tre amici a vivere all'aria aperta con lui ma i problemi non tarderanno ad arrivare.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|10:55:00|11:10:00|S4 Ep14 - Avventura nelle fogne - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Clarence convince Sumo a cercare Belson che e' andato a riprendere la cartuccia di un videogioco nei tunnel fognari.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|11:10:00|11:20:00|S4 Ep15 - Incubo ad Aberdale Street: la rivincita di Balance - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Dopo una scorpacciata di dolci Clarence entra nei sogni dei suoi amici ma Balance e' in agguato. Per fortuna Jeremy lo aiutera'.
-
 |![Icon](https://guidatv.sky.it/uuid/43a3348c-74c2-4082-8dec-9af5b916a1c5/cover?md5ChecksumParam=ed09a2130a01c25713a13004745acefc)|Clarence|11:20:00|11:35:00|S4 Ep16 - Il dog sitter - Regia di M. Ansolabehere,Nelson Boles,, con S. Rothbell, T. Kenny. Clarence amico dei cani fa il dog sitter per il cane della signora Gale ma l'animale e' indisponente e aggressivo.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:35:00|11:45:00|S4 Ep7 - I Teen Titans Salvano il Natale - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Babbo Natale ancora arrabbiato con i Titans perche' non gli hanno fatto conquistare Halloween decide di eliminare il Natale. I Titans pero' riescono a salvarlo.
-
 |![Icon](https://guidatv.sky.it/uuid/0cd74056-020a-4810-91c1-14956684327c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|11:45:00|12:00:00|S4 Ep8 - Non cambiare chi sei - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Stellarubia parla una lingua tutta sua e i Titans hanno difficolta' a capirla decide cosi' di baciare chiunque per apprendere piu' velocemente altri modi di parlare.
-
 |![Icon](https://guidatv.sky.it/uuid/a704684d-3965-4804-be74-cc52fce925ee/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|12:00:00|12:10:00|S4 Ep9 - La Stagione del Criminale ha inizio: Parte 1 - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. La stagione del crimine ha inizio: chi ferma cinquantadue crimini e' il vincitore. Robin spinge i Titans a dare il massimo fin quando ormai stanchi abbandonano Robin per unirsi a Kid Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/a704684d-3965-4804-be74-cc52fce925ee/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|12:10:00|12:20:00|S4 Ep10 - La Stagione del Criminale ha inizio: Parte 2 - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Bibi aiuta Robin a formare una nuova squadra che include la Fatina dei Denti Babbo Natale e Sticky Joe. Ma Robin e' arrabbiato perche' pensa che perdera' di sicuro contro Kid Flash.
-
 |![Icon](https://guidatv.sky.it/uuid/c269d3bc-b5b2-4171-b053-d1f5d0b0b3d2/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|12:20:00|12:30:00|S4 Ep11 - Serata Film - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. La TV si rompe e i Titans sono costretti ad andare in cantina a prendere l'altra.Una volta trovata iniziano a litigare per il telecomando. Bibi vince e mette una videocassetta di lui che balla.
-
 |![Icon](https://guidatv.sky.it/uuid/1da63994-b7b6-49ff-a22f-2f8507f6d17c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|12:30:00|12:40:00|S4 Ep12 - Curriculum Scolastico - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. I Titans tornano a scuola ma sono loro a insegnare scienze grammatica e chimica. Robin prende quattro segni di spunta e da grande vivra' in un cassonetto dell'immondizia.
-
 |![Icon](https://guidatv.sky.it/uuid/99cdec67-d390-4a38-9f94-769bcc72b65d/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|12:40:00|12:55:00|S4 Ep13 - Bibi Corvina: Parte 1 - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Bibi e' innamorato di Corvina e scrive la canzone solo per lei per dimostrarle quanto sia grande il suo amore.
-
 |![Icon](https://guidatv.sky.it/uuid/88d65d94-52ea-41c6-88dc-8a1d82174855/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|12:55:00|13:05:00|S1 Ep1 - Nuove Amicizie Parte 1 - Regia di N. Raffaele,John Sanford. Barbara Gordon alias Batgirl non e' contenta di essersi dovuta trasferire a Metropolis ma per fortuna a scuola la aspettano delle nuove amiche molto speciali.
-
 |![Icon](https://guidatv.sky.it/uuid/092d97b4-9f07-4c0b-8a60-5361d41e2bb5/cover?md5ChecksumParam=7030431122dbfb781a13d88b01b08ac0)|DC Super Hero Girls - La Serie|13:05:00|13:15:00|S1 Ep2 - Nuove Amicizie Parte 2 - Regia di N. Raffaele. Diana, alias Wonder Woman, accetta di addestrare Barbara e le altre a diventare supereroine. Loro in cambio le insegneranno a comportarsi da normale teenager.
-
 |![Icon](https://guidatv.sky.it/uuid/ab87b0f5-d607-449c-ae15-9d9b2b0d19d8/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|13:15:00|13:25:00|S1 Ep14 - Taz il gladiatore/La bandiera codarda/Pioggia, fulmini e saette - Regia di D. Gemmill,Kenny Pittenger,Ryan Kramer. Bugs scava un tunnel fino a un'arena romana/Marvin su un nuovo pianeta/Willy ordina un kit per controllare il meteo.
-
 |![Icon](https://guidatv.sky.it/uuid/78ac56f5-6e30-4a71-8d11-3843ebf2a93f/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|13:25:00|13:40:00|S1 Ep15 - Vacanze in Irlanda/Restare sospesi/La nuova casa - Regia di D. Gemmill,Kenny Pittenger,Ryan Kramer. In viaggio per le Hawaii Bugs si ritrova accidentalmente in Irlanda/Marvin su un nuovo pianeta/Porky acquista la nuova casa del futuro.
-
 |![Icon](https://guidatv.sky.it/uuid/bb79dfd4-f846-43f0-8a10-ba8b9b807313/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:40:00|13:50:00|S6 Ep11 - La confessione - Regia di M. Graves. Gumball e il preside fanno il patto di parlare dei loro problemi con le rispettive ragazze.
-
 |![Icon](https://guidatv.sky.it/uuid/bb9e936d-7694-4dca-819d-8de51dee17f1/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|13:50:00|14:05:00|S6 Ep13 - Il candidato - Regia di M. Graves. Un gruppo di ragazzi resta bloccato nella scuola dopo una festa di beneficenza per i loro genitori. Gumball viene eletto come leader ma succede il caos.
-
 |![Icon](https://guidatv.sky.it/uuid/ae21ff3f-b9c9-4511-ab27-36ebdd6b8adc/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|14:05:00|14:15:00|S6 Ep10 - Lo scambio - Regia di M. Graves. Per aiutarlo ad avere una vita emozionante Gumball convince Clayton a trasformarsi nelle altre persone ma la situazione sfugge di mano.
-
 |![Icon](https://guidatv.sky.it/uuid/1171a9c2-4890-4b0f-990a-b03619bcdd36/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|14:15:00|14:30:00|S6 Ep14 - Love Story - Regia di M. Graves. Sarah trova un quaderno magico e le storie d'amore che scrive sui cittadini di Elmore diventano vere. Gumball e Darwin provano a dipanare la matassa.
-
 |![Icon](https://guidatv.sky.it/uuid/1dd26d78-89c5-46bc-81aa-2da062380cae/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|14:30:00|14:40:00|S6 Ep16 - Il cattivo odore - Regia di M. Graves. Tra il signor Small e Gumball si scatena un dibattito sull'approccio 'verde' del professore che finisce per ritirarsi a vivere anche se per un solo giorno nei boschi...
-
 |![Icon](https://guidatv.sky.it/uuid/91e5c714-af5f-45ed-bfc2-b6d9a1f3e40d/cover?md5ChecksumParam=90c38528f12290bac165ab161d2f1106)|Lo Straordinario Mondo di Gumball|14:40:00|14:55:00|S6 Ep17 - Il tema della settimana - Regia di M. Graves. La scuola di Gumball e Darwin dedica continuamente una settimana ai temi piu' disparati e soprattutto il primo ha delle serie difficolta' a tenere il passo...
-
 |![Icon](https://guidatv.sky.it/uuid/edc7dcd9-9155-4ea9-b201-0d039ca6930b/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|14:55:00|15:05:00|S1 Ep28 - La corsa del ruscello - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, P. Solomon. Craig e i suoi amici partecipano a una gara di kart al ruscello con altri bambini. In palio c'e' un accesso esclusivo a una piscina interrata.
-
 |![Icon](https://guidatv.sky.it/uuid/7990d814-14a1-4f7e-a008-af74eb16f557/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|15:05:00|15:20:00|S1 Ep29 - Il Club Segreto del Libro - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, P. Solomon. Kelsey vuole diffondere il suo amore per i libri. Quando la squadra di paintball minaccia i suoi amici, li salvera' svelando il suo Club Segreto del Libro.
-
 |![Icon](https://guidatv.sky.it/uuid/37f9715d-b2ab-4149-8397-1fb0c1630794/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|15:20:00|15:30:00|S1 Ep30 - JP l'extraterrestre - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, P. Solomon. JP fa un rischioso numero di pattinaggio e rimane ferito. Quando sua sorella insinua che non sia umano, Jp comincia a chiedersi se non abbia ragione.
-
 |![Icon](https://guidatv.sky.it/uuid/df9b547a-fc60-459e-bb94-b29ca28916b9/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|15:30:00|15:45:00|S1 Ep31 - Missione d'asporto - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, P. Solomon. Kelsey guida i suoi amici in una missione importantissima.
-
 |![Icon](https://guidatv.sky.it/uuid/fb313d32-78f8-45cd-a2f6-c9fc387d726b/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|15:45:00|15:55:00|S1 Ep9 - Cibo di Strada - Regia di M. Hernandez,Daniel Chong,, con E. Edelstein. Gli Orsi preparano un furgoncino da street-food. Hanno subito un grande successo specialmente tra gli animali che diventano i loro unici, un po' matti clienti.
-
 |![Icon](https://guidatv.sky.it/uuid/dfce06a3-fa88-4b95-83bc-5b9ad5049d19/cover?md5ChecksumParam=c57128c14b33f174eeaeda1433abe9c3)|We Bare Bears|15:55:00|16:10:00|S1 Ep10 - Ritorno alla Natura - Regia di M. Hernandez,Daniel Chong,, con E. Edelstein. Suggestionato da un programma televisivo in cui un personaggio esperto in tecniche di sopravvivenza vive a stretto contatto con la natura piu' selvaggia, Grizz porta i suoi fratelli nel bosco.
-
 |![Icon](https://guidatv.sky.it/uuid/6685a421-0d33-4e37-a956-6f3928648289/cover?md5ChecksumParam=c4403550bf501322bcbcf55066875f12)|Power Rangers: Dino Fury|16:10:00|16:35:00|S1 Ep16 - Vecchi Amici - Dietro la maschera del Gold Ranger si nasconde Aiyon, cavaliere di Rafkon e vecchio amico di Zayto. Tra i due c'e' grande tensione.
-
 |![Icon](https://guidatv.sky.it/uuid/bf0b5e1b-4a1f-4284-a67f-f12b77935c5b/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|16:35:00|16:45:00|S3 Ep15 - La ragazza dei giornali - Regia di W. Cross,Rich Johnson,, con P. Dobson. Antonia, ragazza dei giornali, vuole lasciare il lavoro perche' non riesce a fare la differenza. Nelson, costernato, cerca di convincerla a non mollare.
-
 |![Icon](https://guidatv.sky.it/uuid/ed8aa4d2-3b25-4fb6-8bd3-598198ea493b/cover?md5ChecksumParam=0562a5b76a890262c0f2050f00a9b437)|Ninjago|16:45:00|17:00:00|S3 Ep16 - Il Maestro del Mare - Regia di D. Ife,Rich Johnson,, con M. Adamthwaite. Benthomaar racconta a Nya la storia di Nyad. Intanto il Maestro Wu, Kai, Cole, Ray e Misako cercano di impedire che Kalmaar fugga con l'Amuleto della Tempesta.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:00:00|17:15:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:15:00|17:30:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:30:00|17:40:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/de5c4d04-8840-4930-8e79-36fdbf5cfcae/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:40:00|17:50:00|S2 Ep9 - Spirito di patata - Gumball vuole adottare lo stile di vita semplice di Idaho una patata campagnola. Non solo vuole imporlo anche a tutta la famiglia che a un certo punto scoppiera'.
-
 |![Icon](https://guidatv.sky.it/uuid/8bd01103-e3eb-499f-bc9e-cc275a9abd32/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|17:50:00|18:00:00|S2 Ep9 - Scherzi dell'anestesia - I ragazzi devono fare delle commissioni tenendo d'occhio il padre che quando e' sotto anestesia ne combina di tutti i colori. Purtroppo succede l'irreparabile.
-
 |![Icon](https://guidatv.sky.it/uuid/cd8f53d8-e301-4792-9b47-429d3f6cd107/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|18:00:00|18:15:00|S2 Ep11 - Il pony - Gumball e Darwin noleggiano un film su un pony ma sulla strada del ritorno troveranno degli ostacoli che rischieranno di mandare in fumo la visione del film.
-
 |![Icon](https://guidatv.sky.it/uuid/62672842-9668-4758-a8a5-8da3988fac33/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|18:15:00|18:25:00|S2 Ep3 - Il ritorno dei Ranger del Caprifoglio - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, M. Croner. Craig si ritrova ad avere a che fare di nuovo con i Ranger del Caprifoglio.Dovra' nascondere la mappa del ruscello affinche' loro non la prendano.
-
 |![Icon](https://guidatv.sky.it/uuid/62672842-9668-4758-a8a5-8da3988fac33/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|18:25:00|18:35:00|S2 Ep6 - Il fortino - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, M. Croner. Craig non puo' andare al ruscello cosi' lui e sua madre decidono di costruire il piu' grande fortino del mondo.
-
 |![Icon](https://guidatv.sky.it/uuid/71b42149-39d0-4ee5-b7c0-18966c52b92c/cover?md5ChecksumParam=09bfc33f929eebe390f135a326aa2e4b)|Craig|18:35:00|18:50:00|S2 Ep4 - Kelsey l'anziana - Regia di E. Houchins,Martin Ansolabehere,Stu Livingston,, con P. Solomon, M. Croner. I 3 anziani del ruscello litigano e Kelsey sostituira' uno di loro per un gioco di ruolo. Ma scoprira' di non poter essere una degna sostituta.
-
 |![Icon](https://guidatv.sky.it/uuid/c0ec3418-ed08-4d13-bcef-f6f25b58ad2a/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|18:50:00|19:00:00|S3 Ep23 - Benvenuti a via Ruscello - Regia di S. Livingston. Craig, JP, Kelsey e Bobby si costruiscono delle case di neve, ma la vita non e' tutta un gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/bb2cef09-b7da-42da-9430-40a83c237a4d/cover?md5ChecksumParam=6c086958e0052fb03c2b01e01269869c)|Craig|19:00:00|19:15:00|S3 Ep21 - Un'alleanza inaspettata - Regia di S. Livingston. Craig e Selvaggia restano bloccati sull'isola della casetta abbandonata e per salvarsi dovranno per forza collaborare.
-
 |![Icon](https://guidatv.sky.it/uuid/78ac56f5-6e30-4a71-8d11-3843ebf2a93f/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|19:15:00|19:25:00|S1 Ep16 - I pantaloni scomparsi/La visita di controllo - Regia di D. Gemmill,Kenny Pittenger. Daffy fa un sogno strano in cui e' un detective incaricato di ritrovare i pantaloni di Porky/La nonna porta Titti alla clinica veterinaria.
-
 |![Icon](https://guidatv.sky.it/uuid/262ef895-daec-4c8a-a536-92ae9673999a/cover?md5ChecksumParam=e8d0bc5d4277c491660fe42329e7ee40)|Looney Tunes Cartoons|19:25:00|19:40:00|S1 Ep17 - Taddeo Terminator/Il pianeta spaccato/Anatra porta a porta - Regia di D. Gemmill,Kenny Pittenger,Ryan Kramer. Taddeo costruisce un robot per prendere Bugs/Marvin su un nuovo pianeta/Daffy deve vendere un prodotto a tutti i costi.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:40:00|19:50:00|S5 Ep37 - Teen Titans Turbo: Parte 1 - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. I Titans si schiantano contro un esperimento segreto del governo e si trasformano in auto ogni volta che si bagnano. Da auto provano a sconfiggere il Dottor Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|19:50:00|20:10:00|S5 Ep38 - Teen Titans Turbo: Parte 2 - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. I Titans si recano da Chip amico tradito dal Dottor Militare per farsi aiutare a difendere la loro reputazione e ci riescono. Dottor Militare viene sconfitto.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:10:00|20:20:00|S5 Ep39 - Titans all'opera - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Robin stupisce i Titans con una gita all'opera ma si addormentano presto e ciascuno di loro sogna di recitare nella propria opera.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:20:00|20:30:00|S5 Ep40 - La gara di canoe - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. I Titans sono al Campo Estivo per Supereroi per una settimana e devono aggiungere un altro membro della squadra per vincere la gara di canoe.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:30:00|20:40:00|S5 Ep41 - Il primo bacio di Robin - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. I Titans consigliano a Robin come comportarsi per riuscire a baciare Wonder Girl.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:40:00|20:55:00|S5 Ep42 - Come in un film horror - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Robin dice ai Titans di non comportarsi come adolescenti imprudenti o il Ricevitore Raccapricciante li acciuffera'.
-
 |![Icon](https://guidatv.sky.it/uuid/1da1a22f-66f1-4f83-a31c-e461be9be246/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|20:55:00|21:05:00|S2 Ep12 - Il re dei condimenti - Regia di J. Sanford,Brianne Drouhard,, con T. Strong. Karen ha bisogno di soldi per un componente dell'armatura di Bumblebee, cosi' Barbara le propone di farsi assumere al Burrito Bucket.
-
 |![Icon](https://guidatv.sky.it/uuid/b0d0df76-e5d0-45ac-a96a-0b2201be7ed9/cover?md5ChecksumParam=3deb15c7e0078b328661264641d330ec)|DC Super Hero Girls - La Serie|21:05:00|21:20:00|S2 Ep13 - La rivolta dei cloni - Regia di J. Sanford,Juston Gordon-Montgomery,, con T. Strong. Zee vuole vedere la nuova stagione del suo show preferito, cosi' inizia a creare dei cloni magici che svolgano i suoi impegni. La situazione le sfugge di mano.
-
 |![Icon](https://guidatv.sky.it/uuid/e3a12be6-dcac-484a-bc2d-6503869e8ec2/cover?md5ChecksumParam=c3cb85b3617f5d5701cea5d471035225)|DC Super Hero Girls: Giochi Intergalattici|21:20:00|22:25:00|Regia di J. Coyle; 2017. ... Intergalattici. Le supereroine DC Comics si preparano per affrontare l'Accademia Korugar nei mitici giochi intergalattici.
-
 |![Icon](https://guidatv.sky.it/uuid/4e51a4fe-abf3-48b1-bf5e-f405a59af3d6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:25:00|22:35:00|S2 Ep5 - Il tesoro nascosto - Gumball Darwin e Anais scoprono che tutti i loro soldi sono stati utilizzati per un misterioso investimento. Altre ricerche li portano a scoprire la verita' che va oltre la loro immaginazione.
-
 |![Icon](https://guidatv.sky.it/uuid/501c701d-4f03-41a3-ae74-8b84e305b752/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:35:00|22:45:00|S2 Ep6 - Le scuse - La signorina Scimmiotta e' convinta che Gumball e Darwin vogliano prenderla in giro e cerca in tutti i modi di farli mettere in punizione dal preside Brown.
-
 |![Icon](https://guidatv.sky.it/uuid/ff5fa107-65bb-4aa3-a89a-7d333bcb68ac/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|22:45:00|23:00:00|S2 Ep7 - Il teschio e le bugie - Clayton assume mille forme e disorienta i ragazzi che si trovano a inventare loro malgrado la storia di un teschio che li spaventa. Alla fine dopo mille bugie viene fuori la verita'.
-
 |![Icon](https://guidatv.sky.it/uuid/63608095-897d-4177-84f7-df482bf54a54/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:00:00|23:10:00|S2 Ep1 - I cavalieri - Gumball vuole assolutamente che Nocciolina vada a casa sua per fare una ricerca insieme. Subisce pero' la concorrenza di Tobias e la contrarieta' del papa' di lei.
-
 |![Icon](https://guidatv.sky.it/uuid/026bc87d-9775-43b6-a5c5-9186e3f799ee/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:10:00|23:25:00|S2 Ep1 - Il gigante - Gumball e Darwin scoprono che la madre di Hector lo fa vivere in un ambiente privo di emozione. Avranno il compito di farlo scatenare e non sara' affatto difficile.
-
 |![Icon](https://guidatv.sky.it/uuid/ff7448a8-f5b3-4548-9e4f-7585fc46980e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:25:00|23:35:00|S2 Ep2 - La tabella - Quando la mamma di Gumball decide di ideare una tabella su cui segnare i nomi dei familiari che riescono in qualche modo a distinguersi, si scatena una vera guerra domestica.
-
 |![Icon](https://guidatv.sky.it/uuid/0e845001-8e5a-4b03-b03a-360334d57272/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:35:00|23:50:00|S2 Ep2 - Il telecomando - A casa dei nostri eroi si scatena una terribile lotta senza esclusione di colpi per il possesso del telecomando.
-
 |![Icon](https://guidatv.sky.it/uuid/7038b566-8fbb-4d7e-8ed2-c1645902d444/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|23:50:00|00:00:00|S2 Ep3 - Il fiore - Gumball ha un attacco di gelosia verso Fiore che mostra attenzioni per Nocciolina. La situazione degenera al punto da rendere necessario un esorcismo molto improbabile.
-
 |![Icon](https://guidatv.sky.it/uuid/a7357972-2ea4-4a98-8864-37a6061b8640/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|00:00:00|00:15:00|S2 Ep3 - La penna - Gumball non accetta che Banana Joe possa aver mordicchiato la penna che gli ha prestato Darwin e ne fa una questione di principio, scatenando cosi' una guerra.
-
 |![Icon](https://guidatv.sky.it/uuid/a7357972-2ea4-4a98-8864-37a6061b8640/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|00:00:00|00:15:00|S2 Ep3 - La penna - Gumball non accetta che Banana Joe possa aver mordicchiato la penna che gli ha prestato Darwin e ne fa una questione di principio, scatenando cosi' una guerra.
-
 |![Icon](https://guidatv.sky.it/uuid/05647989-8a71-4acc-90e3-29c86c2ef941/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:15:00|00:25:00|S1 Ep17 - Robot Bambi - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/60a2ae2c-252c-465a-8c69-5acc3bc56c8a/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:25:00|00:35:00|S1 Ep17 - Il sosia di Tommy - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/cfe943e9-840f-4c8f-ae62-f59c3ef7249d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:35:00|00:45:00|S1 Ep18 - Il torneo di Tetherball - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/af844b3f-2431-42de-b0ae-f62856408f42/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:45:00|01:00:00|S1 Ep18 - Virus letale - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/a0f174e7-083e-4f3a-921a-7091b5397c2e/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:00:00|01:05:00|S1 Ep19 - La principassa giustine - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/f279d1e0-37dc-4f70-b61d-6f90fc502d13/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:05:00|01:20:00|S1 Ep19 - L'agente Kalashnikov - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/3376d221-dfff-4656-87d4-059ac2c78ee9/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:20:00|01:30:00|S1 Ep20 - Scontro diplomatico - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/5caac477-eb60-4859-ac10-777e329d4f8d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:30:00|01:40:00|S1 Ep20 - Carenza di zucchero - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/d727899c-3de8-4a28-b24c-598bdbbf72a5/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:40:00|01:50:00|S1 Ep21 - Un attacco di gelosia - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/4c7fbaf9-fd65-451a-be4b-aaf3e82c6282/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|01:50:00|02:05:00|S1 Ep21 - Furia Felina - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/fe952c13-207a-4011-b0b1-d47319bb2bbb/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:05:00|02:15:00|S2 Ep4 - Il cellulare - Gumball finalmente ottiene il suo primo telefono cellulare ma non lo chiama nessuno e cosi' lo regala a Darwin che ne diventa subito schiavo al punto da non peterne piu' fare a meno.
-
 |![Icon](https://guidatv.sky.it/uuid/0e845001-8e5a-4b03-b03a-360334d57272/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:15:00|02:25:00|S2 Ep4 - Speedy Pizza - Richard trova lavoro come fattorino e questo sconvolge l'equilibrio dell'universo. Nicole e i ragazzi si attivano subito per ripristinarlo ma non sara' un'impresa facile.
-
 |![Icon](https://guidatv.sky.it/uuid/8be56a5a-eb46-45cb-a1f5-b88e3b88d1be/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|02:25:00|02:35:00|S1 Ep37 - Il sergente sulle punte - con G. Chun, K. Walton, L. McDonald. Sergente Charge manda i suoi uomini in missione nel giardino, cosi' da poter praticare indisturbato i suoi nuovi passi di danza.
-
 |![Icon](https://guidatv.sky.it/uuid/88de6958-b97c-4028-ab08-97a7bd265dc3/cover?md5ChecksumParam=b3e26711ac4585b0b08be034009a07e3)|Power Players|02:35:00|02:50:00|S1 Ep38 - Principessa al comando - con G. Chun, K. Walton, L. McDonald. La Principessa Dolcesale spinge Axel a far coppia con Cleo e gli usurpa il ruolo da leader della sua squadra, costringendo Zoe a intervenire.
-
 |![Icon](https://guidatv.sky.it/uuid/f6204bb9-45a8-4e48-894c-f144f2db93c5/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|02:50:00|03:00:00|S2 Ep5 - La Festa di Halloween - Gumball e Darwin accettano l'invito di Carrie per festeggiare Halloween. I due ragazzi bevono un goccio di una misteriosa pozione per diventare fantasmi ma la situazione precipita.
-
 |![Icon](https://guidatv.sky.it/uuid/4e51a4fe-abf3-48b1-bf5e-f405a59af3d6/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:00:00|03:10:00|S2 Ep5 - Il tesoro nascosto - Gumball Darwin e Anais scoprono che tutti i loro soldi sono stati utilizzati per un misterioso investimento. Altre ricerche li portano a scoprire la verita' che va oltre la loro immaginazione.
-
 |![Icon](https://guidatv.sky.it/uuid/a280abca-babf-4ca6-a73a-81aa88c7c86b/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:10:00|03:20:00|S2 Ep6 - Le parole fanno male - Gumball aiuta Darwin ad essere piu' franco e diretto con il prossimo e questi impara cosi' bene la lezione da attaccare chiunque incontri sbattendogli in faccia la realta'.
-
 |![Icon](https://guidatv.sky.it/uuid/501c701d-4f03-41a3-ae74-8b84e305b752/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:20:00|03:35:00|S2 Ep6 - Le scuse - La signorina Scimmiotta e' convinta che Gumball e Darwin vogliano prenderla in giro e cerca in tutti i modi di farli mettere in punizione dal preside Brown.
-
 |![Icon](https://guidatv.sky.it/uuid/ff5fa107-65bb-4aa3-a89a-7d333bcb68ac/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:35:00|03:45:00|S2 Ep7 - Il teschio e le bugie - Clayton assume mille forme e disorienta i ragazzi che si trovano a inventare loro malgrado la storia di un teschio che li spaventa. Alla fine dopo mille bugie viene fuori la verita'.
-
 |![Icon](https://guidatv.sky.it/uuid/7cdd8ff5-6bd8-4e86-b2e8-7ce5d836dff7/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:45:00|03:55:00|S2 Ep7 - Salviamo il Natale - Babbo Natale perde la memoria in un incidente con Richard. Una volta rientrato in se' dovra' sempre fare i conti con Richard che e' partito con la slitta e non sa come atterrare.
-
 |![Icon](https://guidatv.sky.it/uuid/2ae06b5e-3a9c-4b0b-9b53-8dd23ceccb53/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|03:55:00|04:05:00|S2 Ep8 - Sfida all'ultimo orologio - Le famiglie Watterson e Finkleheimner litigano da secoli per un orologio. Adesso tocca a Gumball e Darwin gestire il pomo della discordia.
-
 |![Icon](https://guidatv.sky.it/uuid/b17bbd6e-35bb-42ec-a0a0-adc64d54777e/cover?md5ChecksumParam=72b02a55fd3d56fc957e58568762ce65)|Lo Straordinario Mondo di Gumball|04:05:00|04:15:00|S2 Ep8 - Il robot-schiavo - Gumball si diverte a vincere le scommesse e cosi' obbliga Robot a fargli da schiavo. Il problema e' che Robot esegue anche i suoi desideri piu' pericolosi.
-
 |![Icon](https://guidatv.sky.it/uuid/b5b69f82-3336-4ac9-afb2-5d095548cedc/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:15:00|04:25:00|S1 Ep22 - L'esercito di G-Men - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/980062a5-f8c6-478a-bba0-0622d600cbed/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:25:00|04:40:00|S1 Ep22 - Il compleanno di Donnie - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/aeb87d63-b438-4600-97b1-d5fbb110cb1a/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:40:00|04:50:00|S1 Ep23 - La trasformazione di Gus - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/6d177a50-c352-41dd-b0d1-5783433f9b32/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|04:50:00|05:00:00|S1 Ep23 - Il giorno di San Valentino - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
-
 |![Icon](https://guidatv.sky.it/uuid/ab11a697-0a40-4deb-a760-e2404d6a33b7/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|05:00:00|05:10:00|S1 Ep1 - Un sandwich leggendario - Per guardare il suo cartone preferito Corvina inventa una storia leggendaria
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|05:10:00|05:25:00|S1 Ep1 - Le torte della nonna - Per trovare i soldi per un regalo B.B. fara'il garzone
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|05:25:00|05:35:00|S1 Ep2 - Esame di guida - Robin ha avuto la patente sospesa a causa di un incidente
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|05:35:00|05:45:00|S1 Ep2 - Il padre di Corvina - Corvina riceve la visita di suo padre Trigon che vuole allontanarla dai Teen Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|05:45:00|06:00:00|S1 Ep8 - Eroi disoccupati - Robin desidera ardentemente di avere i super poteri
-
 |![Icon](https://guidatv.sky.it/uuid/839c1228-37dc-4069-928f-8472fd46e958/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|06:00:00|06:10:00|S1 Ep8 - Tutti connessi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg viene pulito ma viene riassemblato male cosi' Robin lo fa diventare parte della Torre
-
 |![Icon](https://guidatv.sky.it/uuid/9865955c-0d11-4566-a52f-e4ffe0c85a4e/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|06:10:00|06:25:00|S1 Ep9 - Ospite a sorpresa - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Un parassita colpisce Stella Rubia e lei crede che sia amicosara cosi?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:25:00|06:35:00|S3 Ep46 - Naufraghi su un'isola diversa - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Titans naufragano su un'isola e si nutrono di cio' che trovano. Bibi va in cerca di cibo e trova un barile di carburante cosi' i Titans decidono di costruire un missile per tornare a casa.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:35:00|06:50:00|S3 Ep47 - Lotta Fra Dinosauri - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Titans sono ancora sull'isola deserta e da mangiare trovano solo noci di cocco. Quando non ce la fanno piu' decidono di andare dall'altra parte dell'isola per cercare altro cibo.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|06:50:00|07:00:00|S3 Ep48 - Prove di sopravvivenza - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Teen Titans sono ancora sull'isola deserta. Robin decide di far svolgere loro delle prove di sopravvivenza per vedere come se la cavano. L'ultima prova consiste nello scappare da un alieno.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:00:00|07:15:00|S3 Ep49 - Il cespuglio magico - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Teen Titans sono ancora sull'isola deserta e sperano di tornare a casa. Robin dice loro che c'e' un cespuglio magico e che chi entra li' dentro puo' far avverare il proprio desiderio.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:15:00|07:20:00|S3 Ep50 - Titans Show - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Ancora sull'isola i Teen Titans si accorgono che tutto cio' che li circonda e' finto e che ci sono delle telecamere nascoste che riprendono ogni loro mossa.
-
 |![Icon](https://guidatv.sky.it/uuid/433b1dfa-8f65-48b8-8ce9-4ee54087842b/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|07:20:00|07:30:00|S4 Ep1 - Il Ritorno dei Teen Titans - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Teen Titans devono distruggere il generatore che ha rubato Brain per salvare il mondo ma hanno dimenticato come usare i poteri. Per questo intervengono altri supereroi che annientano Brain.
-
 |![Icon](https://guidatv.sky.it/uuid/5ee749f3-1e8d-483c-9373-6d860b9d41d0/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|07:30:00|07:44:00|S4 Ep2 - Halloween contro Natale - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Babbo Natale prova a rubare la notte di Halloween ma i Titans invocano l'aiuto del Grande Spirito di Halloween e riescono a sconfiggerlo.
-
 |![Icon](https://guidatv.sky.it/uuid/9f857aff-e197-4597-960d-663863375d4c/cover?md5ChecksumParam=28400e5df8f84586df80563f2c5a683d)|Teen Titans Go!|07:44:00|07:55:00|S4 Ep3 - Brutti Scherzi - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin Corvina e Bibi partono per un viaggio in auto e dimenticano alla Torre Stellarubia e Cyborg. I due pensano che i loro amici siano stati mangiati dai mostri.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|07:55:00|08:05:00|S4 Ep4 - Un Pesce Rosso - Regia di P. Rida Michael,, con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Stellarubia vince un pesce alla giostra ma muore l'indomani. Il suo fantasma le dice di liberare gli altri pesci dalle grinfie dei giostrai.
-
 |![Icon](https://guidatv.sky.it/uuid/ab11a697-0a40-4deb-a760-e2404d6a33b7/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|08:05:00|08:15:00|S1 Ep1 - Un sandwich leggendario - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per guardare il suo cartone preferito Corvina inventa una storia leggendaria
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|08:15:00|08:30:00|S1 Ep1 - Le torte della nonna - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per trovare i soldi per un regalo B.B. fara'il garzone
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|08:30:00|08:40:00|S1 Ep2 - Esame di guida - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin ha avuto la patente sospesa a causa di un incidente
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|08:40:00|08:55:00|S1 Ep2 - Il padre di Corvina - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina riceve la visita di suo padre Trigon che vuole allontanarla dai Teen Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|08:55:00|09:05:00|S1 Ep3 - Doppi amici - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Bibi vuole sempre giocare con Cyborg che pero e'stanco
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|09:05:00|09:20:00|S1 Ep3 - L'appuntamento - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Con grande stupore gli amici scoprono che Robin si e' innamorato di Stella
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|09:20:00|09:30:00|S1 Ep4 - Parola d'ordine: Relax! - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin sentendosi il leader del gruppo e' molto stressato
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|09:30:00|09:45:00|S1 Ep4 - Giorno di bucato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Durante un combattimento Robin fa esplodere un mostro alieno fatto di roba viscida
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|09:45:00|09:55:00|S1 Ep5 - Scherzi da fantasmi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Il gruppo e' esasperato dai continui scherzi di Bibi. Decidono cosi' di vendicarsi
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|09:55:00|10:10:00|S1 Ep5 - Silkie mi amor - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Stella deve partire per un viaggio e affida il suo Silkie ai Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:10:00|10:20:00|S1 Ep6 - Pizza gratis! - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - In citta' i Titans vorrebbero costruire una piscina mentre Robin vuole fare un centro anziani
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:20:00|10:35:00|S1 Ep6 - Il capo - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin e' stressatissimo perche' ha problemi con il suo ruolo di leader
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:35:00|10:45:00|S1 Ep7 - Follie a confronto - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin organizza una serata solo per ragazzi e Stella e' invidiosa
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|10:45:00|11:00:00|S1 Ep7 - Sei licenziato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Beast Boy prende tutto come un gioco cosi' i Titans lo licenziano
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:00:00|11:10:00|S1 Ep8 - Eroi disoccupati - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin desidera ardentemente di avere i super poteri
-
 |![Icon](https://guidatv.sky.it/uuid/839c1228-37dc-4069-928f-8472fd46e958/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|11:10:00|11:25:00|S1 Ep8 - Tutti connessi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg viene pulito ma viene riassemblato male cosi' Robin lo fa diventare parte della Torre
-
 |![Icon](https://guidatv.sky.it/uuid/9865955c-0d11-4566-a52f-e4ffe0c85a4e/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|11:25:00|11:35:00|S1 Ep9 - Ospite a sorpresa - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Un parassita colpisce Stella Rubia e lei crede che sia amicosara cosi?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:35:00|11:50:00|S1 Ep9 - Una festa imperdibile - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I ragazzi non vedono l'ora di andare alla festa dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|11:50:00|12:00:00|S1 Ep10 - Polpetta Party - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg costringe i suoi amici a fare un polpetta party
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|12:00:00|12:10:00|S1 Ep10 - Un bastone per amico - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin ha un bastone speciale e insostituibile il suo piu' grande amico
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|12:10:00|12:25:00|S1 Ep11 - Terr-izzato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin scopre una sconosciuta che sta curiosando nel computer dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|12:25:00|12:35:00|S1 Ep11 - Il Team Titans - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Gli Hive Rivers sono in citta' per giocare le finali di dodgeball contro i TEAM Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|12:35:00|12:50:00|S1 Ep12 - A colpi di cibo - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Bibi e Cyborg danno il via a una disputa alimentare
-
 |![Icon](https://guidatv.sky.it/uuid/ab11a697-0a40-4deb-a760-e2404d6a33b7/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|12:50:00|13:00:00|S1 Ep1 - Un sandwich leggendario - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per guardare il suo cartone preferito Corvina inventa una storia leggendaria
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|13:00:00|13:15:00|S1 Ep2 - Il padre di Corvina - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina riceve la visita di suo padre Trigon che vuole allontanarla dai Teen Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|13:15:00|13:25:00|S1 Ep13 - I Colori di Corvina - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina riesce a sconfiggere il Dottor Luce e recupera un prezioso prisma
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|13:25:00|13:40:00|S1 Ep14 - Il libro misterioso - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I ragazzi si stanno annoiando e Corvina li convince ad avvicinarsi alla lettura
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|13:40:00|13:50:00|S1 Ep19 - Lady Gambasus - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina si rifiuta di ballare con gli altri Titans che danno la colpa del suo atteggiamento chiuso al mantello che indossa
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|13:50:00|14:05:00|S1 Ep21 - Il giorno di San Valentino - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina sta lottando contro Terra e riesce a bandirla in un'altra dimensione
-
 |![Icon](https://guidatv.sky.it/uuid/839c1228-37dc-4069-928f-8472fd46e958/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|14:05:00|14:15:00|S1 Ep8 - Tutti connessi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg viene pulito ma viene riassemblato male cosi' Robin lo fa diventare parte della Torre
-
 |![Icon](https://guidatv.sky.it/uuid/9865955c-0d11-4566-a52f-e4ffe0c85a4e/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|14:15:00|14:30:00|S1 Ep9 - Ospite a sorpresa - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Un parassita colpisce Stella Rubia e lei crede che sia amicosara cosi?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|14:30:00|14:40:00|S1 Ep9 - Una festa imperdibile - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I ragazzi non vedono l'ora di andare alla festa dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|14:40:00|14:55:00|S1 Ep10 - Polpetta Party - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg costringe i suoi amici a fare un polpetta party
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|14:55:00|15:05:00|S1 Ep10 - Un bastone per amico - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin ha un bastone speciale e insostituibile il suo piu' grande amico
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|15:05:00|15:20:00|S1 Ep11 - Terr-izzato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin scopre una sconosciuta che sta curiosando nel computer dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|15:20:00|15:30:00|S1 Ep11 - Il Team Titans - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Gli Hive Rivers sono in citta' per giocare le finali di dodgeball contro i TEAM Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|15:30:00|15:45:00|S1 Ep12 - A colpi di cibo - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Bibi e Cyborg danno il via a una disputa alimentare
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|15:45:00|15:55:00|S1 Ep12 - La coppia perfetta - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg ha messo a punto un programma che accoppia il compagno ideale
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|15:55:00|16:10:00|S1 Ep13 - I Colori di Corvina - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina riesce a sconfiggere il Dottor Luce e recupera un prezioso prisma
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|16:10:00|16:20:00|S1 Ep13 - Il Titan Robot - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg ha messo a punto un nuovo robot per le missioni piu' difficili
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|16:20:00|16:35:00|S1 Ep14 - Il libro misterioso - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I ragazzi si stanno annoiando e Corvina li convince ad avvicinarsi alla lettura
-
 |![Icon](https://guidatv.sky.it/uuid/221d0976-62a4-4b76-b3df-7a6bcea88bb1/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|16:35:00|16:45:00|S1 Ep14 - Domenica pigra - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per Bibi e Cyborg e'arrivata la Domenica Pigra e stare sdraiati sul Divano senza far nulla e'il top
-
 |![Icon](https://guidatv.sky.it/uuid/8d283434-d152-4339-84ee-8663c9009d25/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|16:45:00|17:00:00|S1 Ep15 - Lunedi' motociclistico - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - E'il lunedi'motociclistico indetto da Robinin cui e'permesso combattere solo con delle motoLa mattina seguente la festa e' finita.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|17:00:00|17:10:00|S1 Ep15 - La magia del Natale - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - E'Natalecon luciregali e prelibatezze
-
 |![Icon](https://guidatv.sky.it/uuid/2000a645-9caf-4d23-97f3-c0f1ac5dfb94/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|17:10:00|17:25:00|S1 Ep16 - Supermosse - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Gli H.I.V.E.stanno seminando il panico ma Bibi e Cyborg vogliono provare delle nuove Supermosse
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|17:25:00|17:35:00|S1 Ep16 - Essere responsabili - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Bibi e Cyborg giocano spensierati come due monelli lasciando tutt'intorno caos e disordine
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|17:35:00|17:50:00|S1 Ep17 - Eroi senza poteri - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin ha preparato per i Teen Titans un percorso ad ostacoli difficilissimo che metta veramente alla prova le loro capacita'
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|17:50:00|18:00:00|S1 Ep17 - La Batcaverna - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin parte per una missione speciale top secret alla Batcaverna!
-
 |![Icon](https://guidatv.sky.it/uuid/b27c4c7a-143f-483a-80dd-d52662155ef7/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|18:00:00|18:15:00|S1 Ep18 - L'ascensore - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Titans devono correre in citta' perche'e' arrivato il Dottor Luce
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:15:00|18:25:00|S1 Ep18 - La lotta nel sonno - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Durante la notteRobin fa la lotta nel sonno e i suoi amici non riescono a dormire
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|18:25:00|18:40:00|S1 Ep19 - Lady Gambasus - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina si rifiuta di ballare con gli altri Titans che danno la colpa del suo atteggiamento chiuso al mantello che indossa
-
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|I Teen Titans Go guardano Space Jam|18:40:00|20:00:00|Regia di P. Rida Michail; 2021. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I Teen Titans incontrano i Nerdlucks, i cattivi di &quot;&quot;Space Jam&quot;&quot;. Sconvolto dal fatto che gli altri non hanno mai visto il film, Cyborg organizza subito una proiezione speciale.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:00:00|20:15:00|S1 Ep11 - Terr-izzato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin scopre una sconosciuta che sta curiosando nel computer dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/ab11a697-0a40-4deb-a760-e2404d6a33b7/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|20:15:00|20:25:00|S1 Ep1 - Un sandwich leggendario - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per guardare il suo cartone preferito Corvina inventa una storia leggendaria
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:25:00|20:40:00|S1 Ep1 - Le torte della nonna - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Per trovare i soldi per un regalo B.B. fara'il garzone
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:40:00|20:50:00|S1 Ep2 - Esame di guida - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin ha avuto la patente sospesa a causa di un incidente
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|20:50:00|21:05:00|S1 Ep2 - Il padre di Corvina - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Corvina riceve la visita di suo padre Trigon che vuole allontanarla dai Teen Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|21:05:00|21:10:00|S1 Ep3 - Doppi amici - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Bibi vuole sempre giocare con Cyborg che pero e'stanco
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|21:10:00|21:25:00|S1 Ep3 - L'appuntamento - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Con grande stupore gli amici scoprono che Robin si e' innamorato di Stella
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|21:25:00|21:35:00|S1 Ep4 - Parola d'ordine: Relax! - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin sentendosi il leader del gruppo e' molto stressato
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|21:35:00|21:45:00|S1 Ep4 - Giorno di bucato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Durante un combattimento Robin fa esplodere un mostro alieno fatto di roba viscida
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|21:45:00|22:00:00|S1 Ep5 - Scherzi da fantasmi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Il gruppo e' esasperato dai continui scherzi di Bibi. Decidono cosi' di vendicarsi
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:00:00|22:10:00|S1 Ep5 - Silkie mi amor - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Stella deve partire per un viaggio e affida il suo Silkie ai Titans
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:10:00|22:20:00|S1 Ep6 - Pizza gratis! - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - In citta' i Titans vorrebbero costruire una piscina mentre Robin vuole fare un centro anziani
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:20:00|22:30:00|S1 Ep6 - Il capo - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin e' stressatissimo perche' ha problemi con il suo ruolo di leader
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:30:00|22:40:00|S1 Ep7 - Follie a confronto - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin organizza una serata solo per ragazzi e Stella e' invidiosa
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:40:00|22:55:00|S1 Ep7 - Sei licenziato - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Beast Boy prende tutto come un gioco cosi' i Titans lo licenziano
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|22:55:00|23:05:00|S1 Ep8 - Eroi disoccupati - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Robin desidera ardentemente di avere i super poteri
-
 |![Icon](https://guidatv.sky.it/uuid/839c1228-37dc-4069-928f-8472fd46e958/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|23:05:00|23:15:00|S1 Ep8 - Tutti connessi - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg viene pulito ma viene riassemblato male cosi' Robin lo fa diventare parte della Torre
-
 |![Icon](https://guidatv.sky.it/uuid/9865955c-0d11-4566-a52f-e4ffe0c85a4e/cover?md5ChecksumParam=0710c0f4f1364f26ac1410124aa6d2ff)|Teen Titans Go!|23:15:00|23:25:00|S1 Ep9 - Ospite a sorpresa - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Un parassita colpisce Stella Rubia e lei crede che sia amicosara cosi?
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|23:25:00|23:35:00|S1 Ep9 - Una festa imperdibile - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - I ragazzi non vedono l'ora di andare alla festa dei Titans
-
 |![Icon](https://guidatv.sky.it/uuid/852bf9c9-3154-4660-8839-462268823925/cover?md5ChecksumParam=24c725fa717bf59b8eaa58eb33837bd6)|Teen Titans Go!|23:35:00|23:50:00|S1 Ep27 - Le migliori canzoni dei Teen Titans - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Le migliori canzoni dei Teen Titans scelte da Birdarang.
-
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|23:50:00|00:00:00|S1 Ep10 - Polpetta Party - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg costringe i suoi amici a fare un polpetta party
-
 |![Icon](https://guidatv.sky.it/uuid/b3128bb5-db94-4003-b5c9-cb1d80ff3e04/cover?md5ChecksumParam=24c725fa717bf59b8eaa58eb33837bd6)|Teen Titans Go!|00:00:00|00:10:00|S1 Ep28 - Le migliori canzoni d'amore - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - La classifica delle migliori canzoni d'amore dei Teen Titans.
 
 

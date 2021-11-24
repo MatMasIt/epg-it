@@ -1,97 +1,51 @@
 # Sky Sport Serie A
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|01:35:00|03:10:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
-
 |![Icon](https://guidatv.sky.it/uuid/6611ab0b-0099-4067-b5d7-f4e6cb42ded8/cover?md5ChecksumParam=b607f39564a912abb4d31ef4280cd8ad)|Pordenone - Ascoli|03:10:00|04:55:00|Serie B - 13a g. Friulani ancora senza vittorie, 3 pari e 9 ko. Ascoli per tornare a vincere in trasferta dopo 2 pari e 1 ko. Non ha mai battuto il Pordenone nei 4 precedenti. TC: Gaia Brunelli.
-
 |![Icon](https://guidatv.sky.it/uuid/25556027-0b4b-40f5-b687-385d50acd94b/cover?md5ChecksumParam=64cb93be015cdb45333e67fb094c7705)|Pisa - Benevento|04:55:00|06:45:00|Serie B - 13a g. Pisa senza vittorie da 5 turni. -2 dal Brescia. Non ha mai battuto il Benevento nei 2 precedenti di B, 1 pari e 1 ko. Campani per evitare il 3rzo ko di fila. TC: Riccardo Gentile.
-
 |![Icon](https://guidatv.sky.it/uuid/e77b282f-8e1d-4cc0-a0cf-3d459b723430/cover?md5ChecksumParam=9e6cadc2cef239a6591621ce9ceba3f9)|Torino - Udinese|06:45:00|07:15:00|Serie A - 13a g. Toro con 4 sconfitte nelle ultime 6 giornate, 2 vittorie. In vantaggio 3 a 1 negli ultimi 4 precedenti a Torino. Bianconeri reduci dal 3-2 sul Sassuolo. TC: Barone-Minotti.
-
 |![Icon](https://guidatv.sky.it/uuid/1a3688b1-d536-4565-88d9-cc342c0bd621/cover?md5ChecksumParam=e362854e4980213c8e32fb4c135c5a4c)|13a g.|07:15:00|07:45:00|13a g - Riviviamo tutti i gol della 13a giornata di Serie B. Tutte le reti, alcune di pregevole fattura, che contribuiscono a rendere emozionante questo campionato.
-
 |![Icon](https://guidatv.sky.it/uuid/6611ab0b-0099-4067-b5d7-f4e6cb42ded8/cover?md5ChecksumParam=b607f39564a912abb4d31ef4280cd8ad)|Pordenone - Ascoli|07:45:00|09:35:00|Serie B - 13a g. Friulani ancora senza vittorie, 3 pari e 9 ko. Ascoli per tornare a vincere in trasferta dopo 2 pari e 1 ko. Non ha mai battuto il Pordenone nei 4 precedenti. TC: Gaia Brunelli.
-
 |![Icon](https://guidatv.sky.it/uuid/a6cd56ca-e510-4383-9fc3-030dbadf7e36/cover?md5ChecksumParam=169881c85743afb43f77a142e30d0dc3)|Parma - Cosenza|09:35:00|11:15:00|Serie B - 13a g. Emiliani reduci dal pesante ko con il Lecce (4-0). Nell'unico precedente di coppa Italia vittoria del Parma 2-1. Calabresi per evitate la 3a sconfitta di fila. TC: Paolo Redi.
-
 |![Icon](https://guidatv.sky.it/uuid/e77b282f-8e1d-4cc0-a0cf-3d459b723430/cover?md5ChecksumParam=9e6cadc2cef239a6591621ce9ceba3f9)|Torino - Udinese|11:15:00|13:00:00|Serie A - 13a g. Toro con 4 sconfitte nelle ultime 6 giornate, 2 vittorie. In vantaggio 3 a 1 negli ultimi 4 precedenti a Torino. Bianconeri reduci dal 3-2 sul Sassuolo. TC: Barone-Minotti.
-
 |![Icon](https://guidatv.sky.it/uuid/bb517cb9-ffeb-45b2-8d69-5ec003013348/cover?md5ChecksumParam=1dbe02af88884c064bdc1b0687cac6df)|Back home - CR7 e lo United|13:00:00|13:30:00|Back home - CR7 e lo United - Paolo Di Canio racconta il lungo viaggio di Cristiano Ronaldo da Madeira a Manchester, un ritorno a casa attraverso le grandi tappe a Madrid e Torino.
-
 |![Icon](https://guidatv.sky.it/uuid/25556027-0b4b-40f5-b687-385d50acd94b/cover?md5ChecksumParam=64cb93be015cdb45333e67fb094c7705)|Pisa - Benevento|13:30:00|15:20:00|Serie B - 13a g. Pisa senza vittorie da 5 turni. -2 dal Brescia. Non ha mai battuto il Benevento nei 2 precedenti di B, 1 pari e 1 ko. Campani per evitare il 3rzo ko di fila. TC: Riccardo Gentile.
-
 |![Icon](https://guidatv.sky.it/uuid/00dbd8da-bc08-4338-8870-50da89e3442e/cover?md5ChecksumParam=05f3b920a45a4d91d62df7b256a678f2)|Spal - Alessandria|15:20:00|17:05:00|Serie B - 13a g. Spal con un solo successo nelle ultime 7 giornate. Alessandria con un punto in 3 partite. Due vittorie a testa e 4 pareggi negli 8 precedenti fra Serie A e Lega Pro. TC: Ghisoni.
-
 |![Icon](https://guidatv.sky.it/uuid/783f9aab-0c8d-4d5b-8f9b-71291e844e8f/cover?md5ChecksumParam=373755f197d097227f5bed925d5bad6b)|Reggina - Cremonese|17:05:00|18:50:00|Serie B - 13a g. Amaranto con 4 vittorie nelle ultime 5 gare. -2 dalla vetta. In casa non hanno mai perso con la Cremonese, 2 vittorie e 1 pari. Lombardi senza vittorie da 5 turni. TC: Bruno Palermo.
-
 |![Icon](https://guidatv.sky.it/uuid/e7b83d99-0272-4584-9a7a-ac84cdacac37/cover?md5ChecksumParam=fda23833c8500377b1a4085ef5273c13)|Vicenza - Brescia|18:50:00|19:15:00|Serie B - 13a g. Per i veneti una sola vittoria, 1 pari e 10 ko. Brescia capolista a quota 24, +1 sul Lecce e +2 su Pisa e Reggina. In vantaggio 11 a 8 nelle 24 sfide di B. TC: Antonio Nucera.
-
 |![Icon](https://guidatv.sky.it/uuid/7828d232-e46e-4889-a59a-7a36d473ebaf/cover?md5ChecksumParam=1b009eba052efcb5b9eaa4502b32b773)|Fiorentina - Milan|19:15:00|19:35:00|Serie A - 13a g. Viola unica squadra ancora senza pareggi, 6 vittorie e 6 ko. Al Franchi non battoni il Milan in A da 6 anni. Rossoneri sempre in testa con il Napoli. TC: Marinozzi-Marchegiani.
-
 |![Icon](https://guidatv.sky.it/uuid/e5d7e269-4eed-475a-aed0-d070154e0ed4/cover?md5ChecksumParam=95516ec0cd0ae1ba37972d88e1ae4a6a)|Perugia - Crotone|19:35:00|21:20:00|Serie B - 13a g. Umbri reduci dal pesante ko con il Como (4-1). In casa non hanno mai perso col Crotone, 2 vittorie e 3 pari. Per i calabresi un solo successo, 5 pari e 6 ko. TC: Calogero Destro.
-
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|21:20:00|23:00:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
-
 |![Icon](https://guidatv.sky.it/uuid/98d431e7-754d-46ef-aa1b-2956dcd6557a/cover?md5ChecksumParam=0033e2eb3395a194cfc6d17d78a49cfd)|Diego: figlio di Napoli|23:00:00|23:20:00|Ad un anno dalla scomparsa del piu' grande numero 10 del calcio mondiale, il ricordo di Maradona attraverso il racconto di suo figlio Diego e di chi ancora lo ama, pur senza averlo visto giocare.
-
 |![Icon](https://guidatv.sky.it/uuid/1a3688b1-d536-4565-88d9-cc342c0bd621/cover?md5ChecksumParam=e362854e4980213c8e32fb4c135c5a4c)|13a g.|23:20:00|23:45:00|13a g - Riviviamo tutti i gol della 13a giornata di Serie B. Tutte le reti, alcune di pregevole fattura, che contribuiscono a rendere emozionante questo campionato.
-
 |![Icon](https://guidatv.sky.it/uuid/a6cd56ca-e510-4383-9fc3-030dbadf7e36/cover?md5ChecksumParam=169881c85743afb43f77a142e30d0dc3)|Parma - Cosenza|23:45:00|01:25:00|Serie B - 13a g. Emiliani reduci dal pesante ko con il Lecce (4-0). Nell'unico precedente di coppa Italia vittoria del Parma 2-1. Calabresi per evitate la 3a sconfitta di fila. TC: Paolo Redi.
-
 |![Icon](https://guidatv.sky.it/uuid/e77b282f-8e1d-4cc0-a0cf-3d459b723430/cover?md5ChecksumParam=9e6cadc2cef239a6591621ce9ceba3f9)|Torino - Udinese|01:25:00|03:10:00|Serie A - 13a g. Toro con 4 sconfitte nelle ultime 6 giornate, 2 vittorie. In vantaggio 3 a 1 negli ultimi 4 precedenti a Torino. Bianconeri reduci dal 3-2 sul Sassuolo. TC: Barone-Minotti.
-
 |![Icon](https://guidatv.sky.it/uuid/00dbd8da-bc08-4338-8870-50da89e3442e/cover?md5ChecksumParam=05f3b920a45a4d91d62df7b256a678f2)|Spal - Alessandria|03:10:00|05:00:00|Serie B - 13a g. Spal con un solo successo nelle ultime 7 giornate. Alessandria con un punto in 3 partite. Due vittorie a testa e 4 pareggi negli 8 precedenti fra Serie A e Lega Pro. TC: Ghisoni.
-
 |![Icon](https://guidatv.sky.it/uuid/76ec8e62-cf1b-4c53-b09f-224b61de32eb/cover?md5ChecksumParam=5c9b5f2c85303b5215d065401132fe18)|Monza - Como|05:00:00|06:45:00|Serie B - 13a g. Monza imbattuto da 5 gare. Una sola vittoria in casa nei 5 precedenti fra coppa Italia e C. Como per la 4a vittoria di fila che manca in B da 20 anni. TC: Daniele Barone.
-
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|06:45:00|07:15:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
-
 |![Icon](https://guidatv.sky.it/uuid/7828d232-e46e-4889-a59a-7a36d473ebaf/cover?md5ChecksumParam=1b009eba052efcb5b9eaa4502b32b773)|Fiorentina - Milan|07:15:00|07:45:00|Serie A - 13a g. Viola unica squadra ancora senza pareggi, 6 vittorie e 6 ko. Al Franchi non battoni il Milan in A da 6 anni. Rossoneri sempre in testa con il Napoli. TC: Marinozzi-Marchegiani.
-
 |![Icon](https://guidatv.sky.it/uuid/00dbd8da-bc08-4338-8870-50da89e3442e/cover?md5ChecksumParam=05f3b920a45a4d91d62df7b256a678f2)|Spal - Alessandria|07:45:00|09:30:00|Serie B - 13a g. Spal con un solo successo nelle ultime 7 giornate. Alessandria con un punto in 3 partite. Due vittorie a testa e 4 pareggi negli 8 precedenti fra Serie A e Lega Pro. TC: Ghisoni.
-
 |![Icon](https://guidatv.sky.it/uuid/e77b282f-8e1d-4cc0-a0cf-3d459b723430/cover?md5ChecksumParam=9e6cadc2cef239a6591621ce9ceba3f9)|Torino - Udinese|09:30:00|11:15:00|Serie A - 13a g. Toro con 4 sconfitte nelle ultime 6 giornate, 2 vittorie. In vantaggio 3 a 1 negli ultimi 4 precedenti a Torino. Bianconeri reduci dal 3-2 sul Sassuolo. TC: Barone-Minotti.
-
 |![Icon](https://guidatv.sky.it/uuid/25556027-0b4b-40f5-b687-385d50acd94b/cover?md5ChecksumParam=64cb93be015cdb45333e67fb094c7705)|Pisa - Benevento|11:15:00|13:00:00|Serie B - 13a g. Pisa senza vittorie da 5 turni. -2 dal Brescia. Non ha mai battuto il Benevento nei 2 precedenti di B, 1 pari e 1 ko. Campani per evitare il 3rzo ko di fila. TC: Riccardo Gentile.
-
 |![Icon](https://guidatv.sky.it/uuid/98d431e7-754d-46ef-aa1b-2956dcd6557a/cover?md5ChecksumParam=0033e2eb3395a194cfc6d17d78a49cfd)|Diego: figlio di Napoli|13:00:00|13:15:00|Ad un anno dalla scomparsa del piu' grande numero 10 del calcio mondiale, il ricordo di Maradona attraverso il racconto di suo figlio Diego e di chi ancora lo ama, pur senza averlo visto giocare.
-
 |![Icon](https://guidatv.sky.it/uuid/4ec9c39a-78fa-4ec1-a810-7a4916994374/cover?md5ChecksumParam=941c0d164426f1d2b4be9fdcb777b6ee)|Buffa Racconta: Diegooooooooo!|13:15:00|14:15:00|Diegoooooooo! (1986) - Federico Buffa racconta 'Diegooooooooo!'. E' il Mondiale di Maradona. Diego segna il gol piu' bello della storia del calcio e trascina l'Argentina al titolo.
-
 |![Icon](https://guidatv.sky.it/uuid/34f94c02-04dd-4aa9-a48b-99e5d24a0762/cover?md5ChecksumParam=b2a2ca7ea09034e4f387a9f0cf967e06)|UEFA Series: How We Conquered Napoli...|14:15:00|14:30:00|...1989 - Riviviamo i successi europei di alcuni club che hanno fatto la storia del calcio. In questa puntata il trionfo del Napoli di Maradona, vincitore della Coppa Uefa nel 1989.
-
 |![Icon](https://guidatv.sky.it/uuid/0300a612-040f-4b61-b502-5b702bfc998f/cover?md5ChecksumParam=7a09d11e6f231363e9ec7fb8b7838041)|Buffa racconta|14:30:00|15:00:00|...diez de cuero blanco - Federico Buffa ci porta a scoprire la storia di Diego Armando Maradona, da un nuovo e originale punto di vista, dai primi passi a Buenos Aires al legame indissolubile con Napoli.
-
 |![Icon](https://guidatv.sky.it/uuid/98d431e7-754d-46ef-aa1b-2956dcd6557a/cover?md5ChecksumParam=0033e2eb3395a194cfc6d17d78a49cfd)|Diego: figlio di Napoli|15:00:00|15:15:00|Ad un anno dalla scomparsa del piu' grande numero 10 del calcio mondiale, il ricordo di Maradona attraverso il racconto di suo figlio Diego e di chi ancora lo ama, pur senza averlo visto giocare.
-
 |![Icon](https://guidatv.sky.it/uuid/e5d7e269-4eed-475a-aed0-d070154e0ed4/cover?md5ChecksumParam=95516ec0cd0ae1ba37972d88e1ae4a6a)|Perugia - Crotone|15:15:00|17:00:00|Serie B - 13a g. Umbri reduci dal pesante ko con il Como (4-1). In casa non hanno mai perso col Crotone, 2 vittorie e 3 pari. Per i calabresi un solo successo, 5 pari e 6 ko. TC: Calogero Destro.
-
 |![Icon](https://guidatv.sky.it/uuid/4ec9c39a-78fa-4ec1-a810-7a4916994374/cover?md5ChecksumParam=941c0d164426f1d2b4be9fdcb777b6ee)|Buffa Racconta: Diegooooooooo!|17:00:00|18:00:00|Diegoooooooo! (1986) - Federico Buffa racconta 'Diegooooooooo!'. E' il Mondiale di Maradona. Diego segna il gol piu' bello della storia del calcio e trascina l'Argentina al titolo.
-
 |![Icon](https://guidatv.sky.it/uuid/98d431e7-754d-46ef-aa1b-2956dcd6557a/cover?md5ChecksumParam=0033e2eb3395a194cfc6d17d78a49cfd)|Diego: figlio di Napoli|18:00:00|18:15:00|Ad un anno dalla scomparsa del piu' grande numero 10 del calcio mondiale, il ricordo di Maradona attraverso il racconto di suo figlio Diego e di chi ancora lo ama, pur senza averlo visto giocare.
-
 |![Icon](https://guidatv.sky.it/uuid/0300a612-040f-4b61-b502-5b702bfc998f/cover?md5ChecksumParam=7a09d11e6f231363e9ec7fb8b7838041)|Buffa racconta|18:15:00|18:45:00|...diez de cuero blanco - Federico Buffa ci porta a scoprire la storia di Diego Armando Maradona, da un nuovo e originale punto di vista, dai primi passi a Buenos Aires al legame indissolubile con Napoli.
-
 |![Icon](https://guidatv.sky.it/uuid/bb517cb9-ffeb-45b2-8d69-5ec003013348/cover?md5ChecksumParam=1dbe02af88884c064bdc1b0687cac6df)|Back home - CR7 e lo United|18:45:00|19:15:00|Back home - CR7 e lo United - Paolo Di Canio racconta il lungo viaggio di Cristiano Ronaldo da Madeira a Manchester, un ritorno a casa attraverso le grandi tappe a Madrid e Torino.
-
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|19:15:00|19:30:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
-
 |![Icon](https://guidatv.sky.it/uuid/76ec8e62-cf1b-4c53-b09f-224b61de32eb/cover?md5ChecksumParam=5c9b5f2c85303b5215d065401132fe18)|Monza - Como|19:30:00|21:15:00|Serie B - 13a g. Monza imbattuto da 5 gare. Una sola vittoria in casa nei 5 precedenti fra coppa Italia e C. Como per la 4a vittoria di fila che manca in B da 20 anni. TC: Daniele Barone.
-
 |![Icon](https://guidatv.sky.it/uuid/98d431e7-754d-46ef-aa1b-2956dcd6557a/cover?md5ChecksumParam=0033e2eb3395a194cfc6d17d78a49cfd)|Diego: figlio di Napoli|21:15:00|21:30:00|Ad un anno dalla scomparsa del piu' grande numero 10 del calcio mondiale, il ricordo di Maradona attraverso il racconto di suo figlio Diego e di chi ancora lo ama, pur senza averlo visto giocare.
-
 |![Icon](https://guidatv.sky.it/uuid/9c3e9f1a-862b-40b4-b0d1-7406e5b34543/cover?md5ChecksumParam=67624474fa6be021168e48889c4577b9)|Maradona: morte di un D10|21:30:00|23:00:00|Trasmesso ad un anno dalla morte, documentario che narra la vita della superstar campione della Coppa del Mondo FIFA Diego Armando Maradona.
-
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|23:00:00|23:15:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
-
 |![Icon](https://guidatv.sky.it/uuid/25556027-0b4b-40f5-b687-385d50acd94b/cover?md5ChecksumParam=64cb93be015cdb45333e67fb094c7705)|Pisa - Benevento|23:15:00|23:45:00|Serie B - 13a g. Pisa senza vittorie da 5 turni. -2 dal Brescia. Non ha mai battuto il Benevento nei 2 precedenti di B, 1 pari e 1 ko. Campani per evitare il 3rzo ko di fila. TC: Riccardo Gentile.
-
 |![Icon](https://guidatv.sky.it/uuid/783f9aab-0c8d-4d5b-8f9b-71291e844e8f/cover?md5ChecksumParam=373755f197d097227f5bed925d5bad6b)|Reggina - Cremonese|23:45:00|01:30:00|Serie B - 13a g. Amaranto con 4 vittorie nelle ultime 5 gare. -2 dalla vetta. In casa non hanno mai perso con la Cremonese, 2 vittorie e 1 pari. Lombardi senza vittorie da 5 turni. TC: Bruno Palermo.
 
 

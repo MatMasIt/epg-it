@@ -1,199 +1,102 @@
 # Sky Sport 24
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:00:00|00:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:30:00|01:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|01:00:00|01:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|01:30:00|02:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|02:00:00|02:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|02:30:00|03:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|03:00:00|03:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|03:30:00|04:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|04:00:00|04:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|04:30:00|05:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|05:00:00|05:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|05:30:00|06:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|06:00:00|06:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|06:30:00|07:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|07:00:00|07:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|07:30:00|08:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|08:00:00|08:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|08:30:00|09:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|09:00:00|09:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|09:30:00|10:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|10:00:00|10:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|10:30:00|11:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|11:00:00|11:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|11:30:00|12:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/89fee2e0-ec9a-4002-9080-cc8ce6b5dd61/cover?md5ChecksumParam=209079ff4b7d76c380f69bd708b300d1)|Il Calcio e' Servito|12:00:00|12:30:00|Le notizie e gli approfondimenti della giornata con Cristiana Buonamano. I collegamenti dalle sedi di allenamento e l'avvicinamento alle partite della sera. News e commenti con gli ospiti in studio.
-
 |![Icon](https://guidatv.sky.it/uuid/89fee2e0-ec9a-4002-9080-cc8ce6b5dd61/cover?md5ChecksumParam=209079ff4b7d76c380f69bd708b300d1)|Il Calcio e' Servito|12:30:00|13:00:00|Le notizie e gli approfondimenti della giornata con Cristiana Buonamano. I collegamenti dalle sedi di allenamento e l'avvicinamento alle partite della sera. News e commenti con gli ospiti in studio.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Euro Show|13:00:00|13:30:00|24/11/21 - Tutte le notizie, i gol, le immagini, le voci dei protagonisti di Premier League, Ligue1 e Bundesliga.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|13:30:00|14:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|14:00:00|14:30:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|14:30:00|15:00:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|15:00:00|15:30:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|15:30:00|16:00:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|16:00:00|16:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|16:30:00|17:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/cc10fda4-9a56-4f9e-b36e-9da44bd8acae/cover?md5ChecksumParam=7db13fc6565c2003a36743b229d5ee55)|24/11/21 18:00|17:00:00|17:35:00|24/11/21 18:00 - La presentazione dei match della 5a giornata di Champions, le immagini e le interviste ai protagonisti. In studio Anna Billo', Alessandro Costacurta, Fabio Capello, Esteban Cambiasso e Paolo Condo'.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|17:35:00|18:00:00|Notizie, interviste, collegamenti in diretta e approfondimenti sul meglio delle notizie sportive della giornata. Conduce Leo Di Bello.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|18:00:00|18:30:00|Notizie, interviste, collegamenti in diretta e approfondimenti sul meglio delle notizie sportive della giornata. Conduce Leo Di Bello.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|18:30:00|19:00:00|Mezz'ora, due temi, due discussioni sulle notizie piu' importanti dal mondo dello sport. Leo Di Bello ne parla con gli ospiti in studio e in collegamento.
-
 |![Icon](https://guidatv.sky.it/uuid/e12074de-b968-48b8-bff2-0f57048411c4/cover?md5ChecksumParam=7db13fc6565c2003a36743b229d5ee55)|24/11/21 20:00|19:00:00|19:55:00|24/11/21 20:00 - La presentazione dei match della quinta giornata di Champions League, le immagini e le interviste ai protagonisti. In studio Mario Giunta, Alessandro Costacurta e Fabio Capello.
-
 |![Icon](https://guidatv.sky.it/uuid/514e7dee-940e-4c21-a2dd-b7ac71c17c22/cover?md5ChecksumParam=7db13fc6565c2003a36743b229d5ee55)|24/11/21 21:00|19:55:00|20:30:00|24/11/21 21:00 - Le immagini dei match della quinta giornata di Champions League, le interviste ai protagonisti e i commenti della giornata. In studio Mario Giunta e Paolo Condo'.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|20:30:00|21:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|21:00:00|21:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|21:30:00|22:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/6ef17df8-a4c7-4754-8862-7e69e6109646/cover?md5ChecksumParam=7db13fc6565c2003a36743b229d5ee55)|24/11/21 23:00|22:00:00|23:00:00|24/11/21 23:00 - Le immagini dei match della 5 giornata di Champions, le interviste ai protagonisti e i commenti della giornata. In studio Billo', Costacurta, Capello, Cambiasso e Condo'.
-
 |![Icon](https://guidatv.sky.it/uuid/b7820611-6284-4399-a343-b6ffe478ef92/cover?md5ChecksumParam=78eb50f3f251bb27ad9eaa7a9cb83539)|24/11/21|23:00:00|23:30:00|24/11/21 - Trenta minuti di brevi confronti sui vari argomenti scaturiti dalla serata di Champions, sempre in compagnia della squadra di Champions League Show.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|23:30:00|00:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:00:00|00:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:00:00|00:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:30:00|01:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|01:00:00|01:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|01:30:00|02:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|02:00:00|02:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|02:30:00|03:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|03:00:00|03:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|03:30:00|04:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|04:00:00|04:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|04:30:00|05:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|05:00:00|05:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|05:30:00|06:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|06:00:00|06:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|06:30:00|07:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|07:00:00|07:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|07:30:00|08:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|08:00:00|08:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|08:30:00|09:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|09:00:00|09:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|09:30:00|10:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|10:00:00|10:30:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/45dbca94-c5ec-4328-b6bb-89e0eb0c71f2/cover?md5ChecksumParam=3d4f09616afb29363501de183e234f6b)|Buongiorno Sky Sport 24|10:30:00|11:00:00|Tutte le notizie sportive del giorno con servizi, commenti, interviste e immagini esclusive.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|11:00:00|11:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|11:30:00|12:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/89fee2e0-ec9a-4002-9080-cc8ce6b5dd61/cover?md5ChecksumParam=209079ff4b7d76c380f69bd708b300d1)|Il Calcio e' Servito|12:00:00|12:30:00|Le notizie e gli approfondimenti della giornata con Cristiana Buonamano. I collegamenti dalle sedi di allenamento e l'avvicinamento alle partite della sera. News e commenti con gli ospiti in studio.
-
 |![Icon](https://guidatv.sky.it/uuid/89fee2e0-ec9a-4002-9080-cc8ce6b5dd61/cover?md5ChecksumParam=209079ff4b7d76c380f69bd708b300d1)|Il Calcio e' Servito|12:30:00|13:00:00|Le notizie e gli approfondimenti della giornata con Cristiana Buonamano. I collegamenti dalle sedi di allenamento e l'avvicinamento alle partite della sera. News e commenti con gli ospiti in studio.
-
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Euro Show|13:00:00|13:30:00|25/11/21 - Tutte le notizie, i gol, le immagini, le voci dei protagonisti di Premier League, Ligue1 e Bundesliga.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|13:30:00|14:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|14:00:00|14:30:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|14:30:00|15:00:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|15:00:00|15:30:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/3646da08-c981-498b-9b61-5aa2220e28e4/cover?md5ChecksumParam=b9acfa98cdbcfc229618165c4a14e557)|Pomeriggio Sky Sport 24|15:30:00|16:00:00|L'approfondimento in compagnia di Sara Benci e dei suoi ospiti. Collegamenti, notizie, immagini e voci dei protagonisti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|16:00:00|16:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|16:30:00|17:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/27f4ea81-b4b9-4fbc-8ec5-7a2943f0ebb1/cover?md5ChecksumParam=a32de57ade8fa23b1e3a016582dbcf69)|25/11/21|17:00:00|17:45:00|25/11/21 - La presentazione dei match della 5a giornata di Europa e Conference League, le immagini e le interviste ai protagonisti. In studio Di Bello, Cirillo, Marani, Marinozzi e Bergomi.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|17:45:00|18:00:00|Notizie, interviste, collegamenti in diretta e approfondimenti sul meglio delle notizie sportive della giornata. Conduce Leo Di Bello.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|18:00:00|18:30:00|Notizie, interviste, collegamenti in diretta e approfondimenti sul meglio delle notizie sportive della giornata. Conduce Leo Di Bello.
-
 |![Icon](https://guidatv.sky.it/uuid/e44df0f5-5991-4df7-b4ae-09430f6972c1/cover?md5ChecksumParam=69c59ca368e77cdde1c531bc4db7cdd5)|Campo Aperto|18:30:00|19:00:00|Mezz'ora, due temi, due discussioni sulle notizie piu' importanti dal mondo dello sport. Leo Di Bello ne parla con gli ospiti in studio e in collegamento.
-
 |![Icon](https://guidatv.sky.it/uuid/2fa6f34d-70ca-4f8c-9a0d-43aad34a3b07/cover?md5ChecksumParam=a32de57ade8fa23b1e3a016582dbcf69)|25/11/21|19:00:00|20:00:00|25/11/21 - La presentazione dei match della 5 giornata di Europa e Conference League, le immagini e le interviste ai protagonisti. In studio Di Bello, Cirillo, Marani, Marinozzi e Bergomi.
-
 |![Icon](https://guidatv.sky.it/uuid/0948e409-71cc-4efb-a4a3-4c4c2c74fb55/cover?md5ChecksumParam=7672144fc2b077cacd82a3ffb8f7c92b)|25/11/21|20:00:00|20:15:00|25/11/21 - Le immagini dei match della quinta giornata di Europa e Conference League, le interviste ai protagonisti e i commenti della giornata. In studio Leo Di Bello, Andrea Marinozzi e Beppe Bergomi.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|20:15:00|20:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|20:30:00|21:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|21:00:00|21:30:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/e9681609-398a-4339-b432-054abc8f133d/cover?md5ChecksumParam=aeb13b70326d930cce0b5b345fd872ea)|Sport 24 Today|21:30:00|22:00:00|Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, interviste e collegamenti.
-
 |![Icon](https://guidatv.sky.it/uuid/b49d0a45-fcdb-4720-9c74-7a2a7c942177/cover?md5ChecksumParam=7672144fc2b077cacd82a3ffb8f7c92b)|25/11/21|22:00:00|23:00:00|25/11/21 - Le immagini dei match della 5a giornata di Europa e Conference League, le interviste ai protagonisti e i commenti della giornata. In studio Di Bello, Cirillo, Marani, Marinozzi e Bergomi.
-
 |![Icon](https://guidatv.sky.it/uuid/22ad938a-4398-4251-b239-15fcf6bcfe53/cover?md5ChecksumParam=9e2bf094747a9e9fb66d94a36ef02079)|Ep. 5|23:00:00|23:30:00|Ep. 5 - Il meglio della tre giorni europea analizzato da Leo Di Bello e i suoi ospiti. I temi piu' importanti raccontati attraverso i gol, le dichiarazioni e i personaggi di Champions, Europa e Conference League.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|23:30:00|00:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
-
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:00:00|00:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
 
 

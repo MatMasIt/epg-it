@@ -1,293 +1,149 @@
 # DeA Kids
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/983e34fd-7106-449f-8bf7-743a0bafb527/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|00:15:00|00:35:00|S2 Ep4 Scuola di vela - Steven oggi va in gita alla Scuola di vela di Malcesine per conoscere dei ragazzi che si dedicano con impegno e passione ad uno sport quanto lui si dedica alla magia!
-
 |![Icon](https://guidatv.sky.it/uuid/5dbc405c-72ef-4557-8a06-391c3f156bdb/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|00:35:00|01:00:00|S1 Ep21 La festa in maschera - I ragazzi del primo anno devono organizzare una festa in maschera ma durante i preparativi Allegra si rende conto che nessuno vuole farle da accompagnatore.
-
 |![Icon](https://guidatv.sky.it/uuid/f3e7de0a-fba8-495c-8a17-fa2246152e39/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|01:00:00|01:25:00|S1 Ep22 L'esame di fine anno - La fine dell'anno si avvicina e i ragazzi dovranno realizzare da zero un musical; il copione racconta proprio la storia di Sofia.
-
 |![Icon](https://guidatv.sky.it/uuid/c207a8f1-2180-4139-9e6b-6b0a354dedf4/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|01:25:00|01:45:00|S3 Ep4 La tana dei dinosauri - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione nella tana dei dinosauri per realizzare il terrificante Succhiatempo.
-
 |![Icon](https://guidatv.sky.it/uuid/7c29df9d-0f16-4935-a909-2c6bd4977b2e/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|01:45:00|02:05:00|S3 Ep5 Il bosco stregato - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione nel bosco stregato per realizzare il mostruoso Mine Drago.
-
 |![Icon](https://guidatv.sky.it/uuid/2e7d0916-c8af-4871-88e6-c7f559d15a97/cover?md5ChecksumParam=91095f84c9d32769366d7ffff38f8403)|Missione Cuccioli Dog Camp|02:05:00|02:50:00|S1 Ep7 - Simone apre le porte di Dog Camp, un posto speciale in cui un team di esperti si mette a disposizione dei ragazzi per aiutarli ad educare i loro cuccioli nel miglior modo possibile.
-
 |![Icon](https://guidatv.sky.it/uuid/26e3398b-2d6e-4de7-93ce-8425e125d426/cover?md5ChecksumParam=91095f84c9d32769366d7ffff38f8403)|Missione Cuccioli Dog Camp|02:50:00|03:35:00|S1 Ep8 - Simone e il suo team di esperti danno tanti preziosi consigli ad Andrea, che ha bisogno di aiuto per educare la sua cagnolina Mia.
-
 |![Icon](https://guidatv.sky.it/uuid/3db4bc48-1f90-47ce-9193-de8cf0d2966e/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|03:35:00|04:00:00|S2 Ep3 Parco Avventura - Un mago deve sempre sfidare le leggi della natura e quindi Steven decide di andare a fare un po' di magia in un parco avventura. Oggi sara' proibito avere le vertigini!
-
 |![Icon](https://guidatv.sky.it/uuid/983e34fd-7106-449f-8bf7-743a0bafb527/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|04:00:00|04:25:00|S2 Ep4 Scuola di vela - Steven oggi va in gita alla Scuola di vela di Malcesine per conoscere dei ragazzi che si dedicano con impegno e passione ad uno sport quanto lui si dedica alla magia!
-
 |![Icon](https://guidatv.sky.it/uuid/c207a8f1-2180-4139-9e6b-6b0a354dedf4/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|04:25:00|04:40:00|S3 Ep4 La tana dei dinosauri - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione nella tana dei dinosauri per realizzare il terrificante Succhiatempo.
-
 |![Icon](https://guidatv.sky.it/uuid/7c29df9d-0f16-4935-a909-2c6bd4977b2e/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|04:40:00|05:00:00|S3 Ep5 Il bosco stregato - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione nel bosco stregato per realizzare il mostruoso Mine Drago.
-
 |![Icon](https://guidatv.sky.it/uuid/2ff7eb78-1ac7-4bad-b6d3-b7b8e1a36fd0/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:00:00|05:10:00|S3 Ep28 Il bacio - Marina legge una fiaba su una rana trasformata in principe azzurro dopo un bacio e crede sia possibile. Zig, vedendo la sua ingenuita', cerca di attirarla in varie trappole.
-
 |![Icon](https://guidatv.sky.it/uuid/c6d74ed1-3ea1-4a2e-ab10-ad244f80e121/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:10:00|05:20:00|S3 Ep29 Una bellissima conchiglia - Bernie, in un mondo di giganti, vuol essere notato. Decide cosi' di cercare una nuova conchiglia.
-
 |![Icon](https://guidatv.sky.it/uuid/abce4450-e895-4627-a0b6-db1f69e4acbe/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:20:00|05:30:00|S3 Ep30 Le canzoni delle sirene - Il canto di una sirena incanta i passeggeri, ma arriva Marina...
-
 |![Icon](https://guidatv.sky.it/uuid/d50fd3cc-f711-4499-b8bb-6ce829698cc9/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:30:00|05:40:00|S3 Ep31 Tanto di cappello all'artista - Marina inizia a dipingere. Presto Zig e Sharko si uniscono a lei.
-
 |![Icon](https://guidatv.sky.it/uuid/bc642a1e-3d55-4fdc-b036-015ca8efda49/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:40:00|05:45:00|S3 Ep32 Una stella a bordo - Un famoso attore di cui Marina e Sharko sono fan sale sulla nave. Zig decide di rubargli la maschera per attrarre Marina.
-
 |![Icon](https://guidatv.sky.it/uuid/1b6faa38-a6b3-4e75-835a-19ce6259e483/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:45:00|05:55:00|S3 Ep33 Operazione Babbo Natale - Zig si traveste da Babbo Natale, ma lui preferirebbe avere tempo per tenere d'occhio Marina...
-
 |![Icon](https://guidatv.sky.it/uuid/8af28449-fa4d-4c02-a764-867137778324/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:55:00|06:05:00|S3 Ep34 La festa delle sirene - Sharko vuole offrire una cena romantica a Sabrina, ma deve tenere sott'occhio Zig per evitare che sia lei a diventare la sua cena.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:05:00|06:15:00|S2 Ep41 - Duncan inganna Chef e lo convince a portare la classe al Polo Nord, per togliere il suo nome dalla 'lista dei cattivi'.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:15:00|06:30:00|S2 Ep42 - Per intrattenere i bambini in tempo di vacanze, Chef porta in vita dei pupazzi di neve. Salta fuori che sono cattivi come diavoli...
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:30:00|06:40:00|S2 Ep31 - Beth ritiene sciocca la convinzione di Beth che i cartoni animati siano reali. Ma quando visitano uno studio di animazione dovra' cambiare idea.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:40:00|06:55:00|S2 Ep39 - Nel tentativo di insegnare ai ragazzi la riconoscenza, nel giorno del Ringraziamento, Chef accidentalmente combina un vero disastro.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:55:00|07:10:00|S2 Ep40 - Affamato e goloso, Owen decide di usare la macchina del tempo per anticipare l'ora di merenda. Ma finisce bloccato nel passato.
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:10:00|07:25:00|S3 Ep1 La minaccia vichinga. 1a parte - Mentre il Principe Giovanni vive come un pastore, i Vichinghi attaccano Sherwood. Robin e i suoi amici pero' riescono a rubare il bottino ai barbari...
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:25:00|07:35:00|S3 Ep2 La minaccia vichinga. 2a parte - I Vichinghi sono riusciti a imprigionare Re Riccardo, ma Robin e Marian escogitano un piano per liberarlo. Intanto il Principe Giovanni ruba Excalibur.
-
 |![Icon](https://guidatv.sky.it/uuid/86acd83a-8d66-403c-bb29-59d1242f8024/cover?md5ChecksumParam=a0186c1dbf72da12717e67ae7c8f24de)|Robin Hood alla conquista di Sherwood|07:35:00|07:50:00|S2 Ep41 Il ritorno dell'Usignolo - Jack, Jinx e Doug minacciano di rivelare l'identita' segreta di Lady Rohesia, ricercata per il suo passato burrascoso.
-
 |![Icon](https://guidatv.sky.it/uuid/32eac2c1-4a62-4c95-b4b9-a9d92d146f7b/cover?md5ChecksumParam=a956db5c666f4dce68a26e94a15b15b5)|Trolls: la festa continua!|07:50:00|08:20:00|S2 Ep20 La Regina del castello / Obbligo o verita' - Poppy lavora al progetto di creare il piu' grande castello di sabbia di sempre. / Grandino ha un'idea per essere piu' divertente nel gioco.
-
 |![Icon](https://guidatv.sky.it/uuid/25442bce-8f97-421f-9a3a-28672140d8fb/cover?md5ChecksumParam=a956db5c666f4dce68a26e94a15b15b5)|Trolls: la festa continua!|08:20:00|08:45:00|S2 Ep21 Abbina gli amici / Storie Trollose 3 - Poppy fa un quiz ai Troll per 'abbinarli' tra loro, e si entusiasma per i risultati. / Branch e Poppy inventano filastrocche per i piu' piccoli.
-
 |![Icon](https://guidatv.sky.it/uuid/ccea683a-969a-4047-967f-c8ae1e6a4be0/cover?md5ChecksumParam=8d6a247b3dffca588a93c7563c4dfaf2)|A tutto reality|08:45:00|09:10:00|S1 Ep5 Traditore in vista - Scott tenta anche stavolta di sabotare il gioco: una sfida acquatica con finale a sorpresa!
-
 |![Icon](https://guidatv.sky.it/uuid/b182dcd5-2f2c-406c-b76e-52b1e5a64f4c/cover?md5ChecksumParam=8d6a247b3dffca588a93c7563c4dfaf2)|A tutto reality|09:10:00|09:40:00|S1 Ep6 Modella in fuga - I concorrenti devono catturare dei mutanti, vestirli e farli sfilare. Uno di questi umiliato da una scelta errata dell'outfit, si da' alla fuga.
-
 |![Icon](https://guidatv.sky.it/uuid/000d0280-8c30-41d5-82b3-da9390026c4a/cover?md5ChecksumParam=ca03260869cf3cff7d77317b7ebeffa3)|I Croods - Le origini|09:40:00|10:05:00|S1 Ep5 La prima storia animata - Tonco, che ha una fervida immaginazione, vuole condividere con gli altri cavernicoli le storie che ha nella testa, ma non viene capito.
-
 |![Icon](https://guidatv.sky.it/uuid/fc3f4e88-cfb8-404b-8cff-87b27ad7d6e6/cover?md5ChecksumParam=ca03260869cf3cff7d77317b7ebeffa3)|I Croods - Le origini|10:05:00|10:30:00|S1 Ep6 La festa di Hip - Ugga e Grug, che da anni non passano un po' di tempo da soli, decidono di uscire per una serata romantica, e lasciano a Hip la responsabilita' della caverna.
-
 |![Icon](https://guidatv.sky.it/uuid/b14aa80a-ace2-4fc6-848d-6feb98f27534/cover?md5ChecksumParam=b1243a794bf3e2d634a4846c6b404b94)|Trollstopia|10:30:00|11:00:00|S1 Ep7 Rock classico / Branch imbizzarrito - Poppy fa una scoperta imbarazzante su un membro dell'Hard Rock Troll. / Branch viene invitato a partecipare a un rodeo, e si mette nei guai.
-
 |![Icon](https://guidatv.sky.it/uuid/b14aa80a-ace2-4fc6-848d-6feb98f27534/cover?md5ChecksumParam=b1243a794bf3e2d634a4846c6b404b94)|Trollstopia|11:00:00|11:25:00|S1 Ep8 Rythm &amp; il Blues / Chitarra a bocca - Rhythm un giorno si accorge di sentire la mancanza di casa. / A Trollstopia arriva un nuovo Rocker Troll, con un talento davvero speciale...
-
 |![Icon](https://guidatv.sky.it/uuid/0a023074-f26f-4b74-919f-770178b71a23/cover?md5ChecksumParam=08c15c2546e80a790617f8488a4e1e90)|A tutto reality presenta: Missione Cosmo Ridicola|11:25:00|11:50:00|...Cosmo Ridicola. S1 Ep16 Piccolo toro nella prateria - Le squadre tornano in Canada per sfidarsi in una prova a tema Far West: non farsi disarcionare dal toro meccanico.
-
 |![Icon](https://guidatv.sky.it/uuid/366ff398-2e32-4a05-9b14-a53ebf850ec3/cover?md5ChecksumParam=08c15c2546e80a790617f8488a4e1e90)|A tutto reality presenta: Missione Cosmo Ridicola|11:50:00|12:15:00|...Cosmo Ridicola. S1 Ep17 Il Signore (del lancio) degli Anelli - Al Circolo Polare Artico le otto squadre superstiti si sfideranno costruendo igloo e giocando coi narvali.
-
 |![Icon](https://guidatv.sky.it/uuid/689863e3-d6d4-4979-b6ab-6ea6f986d43e/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|12:15:00|12:45:00|S1 Ep9 Il canto della sirena - con A.Ruffle. Lyla convince Sirena a intonare il Canto dell'Incanto per ammaliare Zac e togliergli i poteri. Ma Sirena commette un errore che avra' conseguenze inattese...
-
 |![Icon](https://guidatv.sky.it/uuid/9611bc70-004d-43dd-bee2-58e0dfa7dc3a/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|12:45:00|13:15:00|S1 Ep10 Zac torna a Mako - con A.Ruffle. Zac torna a Mako per cercare di capire cosa gli e' successo la famosa notte di Luna piena. Lyla lo accompagna, con l'Anello della Luna sottratto a Rita.
-
 |![Icon](https://guidatv.sky.it/uuid/ff831c06-d18a-4469-b149-13a7b8c81990/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|13:15:00|13:45:00|S3 Ep9 Sorprendere di gusto! - con E.Rei. Maggie e Bianca faticano ad andare d'accordo durante un nuovo compito per i MoodBoards che include cucina, moda e fan affiatati.
-
 |![Icon](https://guidatv.sky.it/uuid/6458f721-0725-41e6-816d-4816b0c7bbe0/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|13:45:00|14:15:00|S3 Ep10 Non aprite quel pacco! - con E.Rei. Gli studenti aprono un pacco che potrebbe aiutare a finanziare il loro prossimo video musicale e il contenuto e' davvero inaspettato.
-
 |![Icon](https://guidatv.sky.it/uuid/35c93ff6-ea18-418a-bc0f-749c7bd5e234/cover?md5ChecksumParam=8bd3df250e963e102bb305fad98285e5)|H2O: Just Add Water|14:15:00|14:45:00|S1 Ep13 Naufragio - con C.Heine. La signora Chatham va in missione per recuperare un prezioso tesoro, ma si ritrova con un'emergenza medica.
-
 |![Icon](https://guidatv.sky.it/uuid/5bfe807b-8726-4147-90d1-f523c0d908e2/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|14:45:00|15:00:00|S1 Ep5 Vip o Nip? - Vivien vuole capire cosa significhi essere una NIP e passare un giorno da 'ragazza normale'. Anna e Angelica le fanno un makeover cosi a scuola non la riconosce nessuno...
-
 |![Icon](https://guidatv.sky.it/uuid/5c1ed2fa-160b-433f-a226-aec8b202993b/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|15:00:00|15:15:00|S1 Ep6 Puccipuzzino - Tim e Tom soggiornano nella stanza di Anna ma uno strano e terribile animaletto scombina i piani. Ben presto Anna si rende conto che puo' usarlo per evitare un compito in classe.
-
 |![Icon](https://guidatv.sky.it/uuid/81ea979f-0da1-4df4-821c-4ff2f1321261/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:15:00|15:25:00|S1 Ep39 Il naso che fischia - Il naso di Boy fischia quando dorme. Viene ripreso in un video che diventa virale rendendolo famoso in tutto il mondo!
-
 |![Icon](https://guidatv.sky.it/uuid/3e23c163-b912-4538-9d87-7422169d7a1f/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:25:00|15:40:00|S1 Ep40 Mouse-todontico - Mouse e' piccolo e nessuno sembra notarlo, cosi' decide di ingrandire il suo corpo tramite un dispositivo, ma questo causera' parecchi guai!
-
 |![Icon](https://guidatv.sky.it/uuid/8e6987e8-3f19-4c77-9d04-adc986b5b9f0/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:40:00|15:55:00|S1 Ep41 Una bolla di famiglia - Tutta la famiglia prende l'influenza e Mouse progetta delle bolle sterili per isolarli. Sara' pero' difficile riabituarsi all'ambiente esterno!
-
 |![Icon](https://guidatv.sky.it/uuid/7d132003-dc64-4319-85c7-4c662e9b5bdd/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:55:00|16:10:00|S1 Ep42 Un guinzaglio per Dog - Parte l'obbligo per i cani che escono all'esterno di portare un guinzaglio, ma Dog nonostante gli sforzi della famiglia proprio non vuole saperne!
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|16:10:00|16:20:00|S3 Ep3 Derke sotto ipnosi - Perdigan riesce a ipnotizzare Derke nella sua forma di drago per sfruttare il suo potere per derubare il re. Ma Robin e i suoi amici intervengono...
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|16:20:00|16:40:00|...Sherwood. S3 Ep4 Il drago furioso - Mentre continua a provare magie, Marian si innervosisce e nella confusione trasforma Derke in un drago furioso, dimenticando il contro incantesimo!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|16:40:00|16:50:00|S2 Ep43 - Courtney impazzisce per il nuovo metodo che Chef ha introdotto per incentivare la classe a studiare.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|16:50:00|17:00:00|S2 Ep44 - Chef insegna ai ragazzi come le piante crescono a partire dai semi. Ma Izzy mostra decisamente troppo amore al suo seme, che diventa un mostro!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|17:00:00|17:10:00|S2 Ep34 - I ragazzi devono affrontare un compito ma non hanno tempo di studiare, cosi' Courtney entra nel panico e trova una soluzione... peggiore del problema!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|17:10:00|17:25:00|S2 Ep35 - Gwen e' ben decisa a rifiutare di fare amicizia con uno spettro che invece e' molto, molto cordiale.
-
 |![Icon](https://guidatv.sky.it/uuid/c7b4b061-d1bc-4a7c-8060-8c91e4b1d0b7/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|17:25:00|17:35:00|S1 Ep15 Futuranna - La Anna del futuro va a trovare la Anna del presente per farle vincere la selezione alla scuola estiva di giornalismo.
-
 |![Icon](https://guidatv.sky.it/uuid/831de084-5488-437c-89ac-5f7c56d26a0f/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|17:35:00|17:50:00|S1 Ep16 San Rudyntino - Rudy non vuol passare da solo il San Valentino e affitta la stanza di Anna per organizzare degli appuntamenti al buio dopo aver postato un annuncio sul sito della scuola.
-
 |![Icon](https://guidatv.sky.it/uuid/c7a767e9-fafa-4286-a346-4342e7decc10/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|17:50:00|18:20:00|S1 Ep11 La leggenda del tridente - con A.Ruffle. Mentre le ragazze temono che il loro gruppo non fara' piu' ritorno, Rita racconta loro la storia di alcuni tritoni che si erano ribellati migliaia di anni fa.
-
 |![Icon](https://guidatv.sky.it/uuid/656d12bd-affd-4b6f-a188-0e5769796cd5/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|18:20:00|18:50:00|S1 Ep12 I bracciali dell'oceano - con A.Ruffle. Zac continua a cercare prove dell'esistenza dei tritoni, mentre Lyla lo tiene alla larga dal Tridente. Intanto, le ragazze hanno bisogno di soldi.
-
 |![Icon](https://guidatv.sky.it/uuid/b8d528ff-0ecf-48f4-a225-8a4dd5d202e3/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|18:50:00|19:20:00|S3 Ep19 Un ospite indesiderato - con E.Rei. Mentre Bianca indaga su una crisi finanziaria, Maggie cerca di sabotare l'ospite speciale all'open day della Fashion Academy.
-
 |![Icon](https://guidatv.sky.it/uuid/43bc318a-5821-4a1e-b863-0356e7fb650e/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|19:20:00|19:50:00|S3 Ep20 Zen e marionette! - con E.Rei. Sorgono numerosi problemi, tra marionette e scambi di ruolo, mentre gli studenti si preparano a una tappa del tour in un vecchio teatro.
-
 |![Icon](https://guidatv.sky.it/uuid/c9c036e0-b684-4492-80f4-af5d42043c94/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|19:50:00|20:20:00|S2 Ep16 Doppio guaio - con C.Heine. Elliot invita Kim al parco acquatico. I due vengono accompagnati da Lewis e Cleo e quest'ultima rischia di mostrarsi in veste di sirena davanti a tutti i visitatori!
-
 |![Icon](https://guidatv.sky.it/uuid/d59e46b6-a530-48c7-9be3-a621e049a33b/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|20:20:00|20:50:00|S2 Ep17 Stregate dalla Luna - con C.Heine. Dopo una rocambolesca notte di plenilunio, Emma si decide a confessare a Lewis i suoi sentimenti e lo bacia.
-
 |![Icon](https://guidatv.sky.it/uuid/591c1bcf-089f-48cb-bf9f-c05a2053cc75/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|20:50:00|21:20:00|S2 Ep18 L'anniversario - con C.Heine. In occasione dell'anniversario di quando sono diventate sirene, Cleo organizza una festa alla grotta naturale dell'isola Mako.
-
 |![Icon](https://guidatv.sky.it/uuid/25e48b85-7b0b-4b54-94ad-df40cac85e79/cover?md5ChecksumParam=2d8b260713750cef9b64b5e53099a5d0)|Pippi Calzelunghe|21:20:00|21:50:00|S1 Ep1 Villa Villa Colle - Tommy e Annika vivono in una piccola citta' dove un giorno arriva Pippi Calzelunghe, una bambina ribelle che vive con il suo cavallo e una scimmietta.
-
 |![Icon](https://guidatv.sky.it/uuid/fb17be0d-8a7a-49f1-92cf-d6f7e3a355fc/cover?md5ChecksumParam=2d8b260713750cef9b64b5e53099a5d0)|Pippi Calzelunghe|21:50:00|22:20:00|S1 Ep2 In giro a fare compere - Pippi, Tommy e Annika vanno fare compere in un negozio di dolciumi dove comprano leccornie per i bambini del paese.
-
 |![Icon](https://guidatv.sky.it/uuid/15e1ccb9-73d6-488c-b1b2-07e13ef7bbf8/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|22:20:00|22:45:00|S1 Ep23 Grandi preparativi - Fervono i preparativi per il musical di fine anno e Allegra si da' un gran da fare per aiutare tutti.
-
 |![Icon](https://guidatv.sky.it/uuid/dfe51a1b-0dbd-4826-939b-973d07c0ea67/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|22:45:00|23:10:00|S1 Ep24 Il musical - E' arrivata la sera del musical e i ragazzi sono in fibrillazione. Ma le sorprese non sono finite...
-
 |![Icon](https://guidatv.sky.it/uuid/8d0f57e1-1347-405b-b589-89dce8177eed/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|23:10:00|23:30:00|S3 Ep6 Le creature degli abissi - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione tra le creature degli abissi per realizzare lo spaventoso Blorv.
-
 |![Icon](https://guidatv.sky.it/uuid/fe7b095f-4fb1-4aa0-820f-c2510ac2aa9c/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|23:30:00|23:50:00|S4 Ep1 Death's World - L'Officina dei Mostri e' alle prese con uno zombie infuocato super aggressivo. Per potenziarlo Marco e Matteo dovranno mettersi sulle tracce del primo zombie guerriero.
-
 |![Icon](https://guidatv.sky.it/uuid/1872642e-0bf1-4ca1-b29d-54558acfc65e/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|23:50:00|00:15:00|S2 Ep5 Scuola di DJ - Steven visita un negozio di musica e una scuola di dj in cerca di ispirazione per la colonna sonora dei suoi prossimi video di magia.
-
 |![Icon](https://guidatv.sky.it/uuid/a9e49dd1-4a4c-4b3f-b0f3-1fb1d377be4d/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|00:15:00|00:40:00|S2 Ep6 Speciale Canada - Steven vola a Toronto per incontrare il suo amico mago Zack, con il quale coinvolgera' i passanti in alcuni numeri di magia 'a quattro mani'.
-
 |![Icon](https://guidatv.sky.it/uuid/15e1ccb9-73d6-488c-b1b2-07e13ef7bbf8/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|00:40:00|01:00:00|S1 Ep23 Grandi preparativi - Fervono i preparativi per il musical di fine anno e Allegra si da' un gran da fare per aiutare tutti.
-
 |![Icon](https://guidatv.sky.it/uuid/dfe51a1b-0dbd-4826-939b-973d07c0ea67/cover?md5ChecksumParam=3e160ed6d572b33419b50b5598a49067)|Talent High School|01:00:00|01:30:00|S1 Ep24 Il musical - E' arrivata la sera del musical e i ragazzi sono in fibrillazione. Ma le sorprese non sono finite...
-
 |![Icon](https://guidatv.sky.it/uuid/8d0f57e1-1347-405b-b589-89dce8177eed/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|01:30:00|01:45:00|S3 Ep6 Le creature degli abissi - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione tra le creature degli abissi per realizzare lo spaventoso Blorv.
-
 |![Icon](https://guidatv.sky.it/uuid/7b58ef8a-4994-42d7-80c2-af8c6e8c2e89/cover?md5ChecksumParam=3845a683b23ece262aaecfa624866800)|L'Officina dei mostri|01:45:00|02:00:00|S1 Ep2 - L'Officina dei Mostri e' il posto in cui le creature piu' incredibili prendono vita! Oggi Federico e Marco aiutano Francesco a creare il misterioso Lanterman.
-
 |![Icon](https://guidatv.sky.it/uuid/70afd37f-8898-4918-8f32-5ab72748083e/cover?md5ChecksumParam=91095f84c9d32769366d7ffff38f8403)|Missione Cuccioli Dog Camp|02:00:00|02:45:00|S1 Ep9 - Due fratellini si rivolgono a Simone e ai suoi esperti collaboratori del Dog Camp per avere consigli sull'addestramento della loro cagnolina Oliva.
-
 |![Icon](https://guidatv.sky.it/uuid/82deba4d-e3eb-4d9b-ad5c-115775635043/cover?md5ChecksumParam=91095f84c9d32769366d7ffff38f8403)|Missione Cuccioli Dog Camp|02:45:00|03:30:00|S1 Ep10 - Simone e il suo team di esperti danno tanti preziosi consigli a Giada, che ha bisogno di aiuto per educare la sua cagnolina Cleo.
-
 |![Icon](https://guidatv.sky.it/uuid/1872642e-0bf1-4ca1-b29d-54558acfc65e/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|03:30:00|03:55:00|S2 Ep5 Scuola di DJ - Steven visita un negozio di musica e una scuola di dj in cerca di ispirazione per la colonna sonora dei suoi prossimi video di magia.
-
 |![Icon](https://guidatv.sky.it/uuid/a9e49dd1-4a4c-4b3f-b0f3-1fb1d377be4d/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|03:55:00|04:20:00|S2 Ep6 Speciale Canada - Steven vola a Toronto per incontrare il suo amico mago Zack, con il quale coinvolgera' i passanti in alcuni numeri di magia 'a quattro mani'.
-
 |![Icon](https://guidatv.sky.it/uuid/8d0f57e1-1347-405b-b589-89dce8177eed/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei mostri|04:20:00|04:40:00|S3 Ep6 Le creature degli abissi - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione tra le creature degli abissi per realizzare lo spaventoso Blorv.
-
 |![Icon](https://guidatv.sky.it/uuid/fe7b095f-4fb1-4aa0-820f-c2510ac2aa9c/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|04:40:00|05:00:00|S4 Ep1 Death's World - L'Officina dei Mostri e' alle prese con uno zombie infuocato super aggressivo. Per potenziarlo Marco e Matteo dovranno mettersi sulle tracce del primo zombie guerriero.
-
 |![Icon](https://guidatv.sky.it/uuid/c27064d3-6d72-4a1c-bdbd-25aa41e47958/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:00:00|05:10:00|S3 Ep36 Attrazione virtuale - Marina, appassionata di giochi VR, ignora Sharko, e Zig cerca di trarre vantaggio da questa situazione.
-
 |![Icon](https://guidatv.sky.it/uuid/c453c67c-45f6-416a-98be-12a00acba76a/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:10:00|05:15:00|S3 Ep37 Marina rockstar - Marina decide di formare una rock band, ma Sharko rovina tutto e viene cacciato dal gruppo.
-
 |![Icon](https://guidatv.sky.it/uuid/777e4697-a703-4a56-b0ab-fba8eb70b8b0/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:15:00|05:25:00|S3 Ep38 La sessione di fitness - Marina decide di iscriversi a un corso di ginnastica e trova Zig come istruttore.
-
 |![Icon](https://guidatv.sky.it/uuid/96e89685-453f-4784-961c-c5bd6f7eb27c/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:25:00|05:30:00|S3 Ep39 Il migliore amico di Sharko - Blobi, l'alieno, sale a bordo della nave. Sharko pensa sia carino, ma quando e' affamato mangia qualsiasi cosa, anche le sirene. Zig, per la prima volta, protegge Marina.
-
 |![Icon](https://guidatv.sky.it/uuid/c5c753ce-f46c-4a62-8325-c2b0d1b904ee/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:30:00|05:40:00|S3 Ep40 L'ombra di Zig - Quando l'ombra di Zig prende vita, Sharko deve affrontare due Zig!
-
 |![Icon](https://guidatv.sky.it/uuid/f5dd8956-9044-48d5-a8f7-3c90e6191bdb/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:40:00|05:50:00|S3 Ep41 Il pisolino - Marina, Zig e Sharko ricordano quando erano piccoli e non volevano fare il pisolino...
-
 |![Icon](https://guidatv.sky.it/uuid/0016d2f2-a713-4e57-a7f9-8417057576f0/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|05:50:00|06:00:00|S3 Ep42 Affonda o nuota - Marina e Zig partecipano a una gara di nuoto, ma tranquilli, e' Sharko ad allenare la sirena!
-
 |![Icon](https://guidatv.sky.it/uuid/88c38513-f1e7-4c91-ba57-381f4d4b4bc7/cover?md5ChecksumParam=5e006d02ca73b61657aa71a033cb5766)|Zig &amp; Sharko|06:00:00|06:05:00|S3 Ep43 Una palla a piede libero - Marina e Sharko devono ritrovare la palla di un pesciolino ed e' solo una nuova scusa per Zig per acchiappare la sirena!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:05:00|06:15:00|S2 Ep43 - Courtney impazzisce per il nuovo metodo che Chef ha introdotto per incentivare la classe a studiare.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:15:00|06:25:00|S2 Ep44 - Chef insegna ai ragazzi come le piante crescono a partire dai semi. Ma Izzy mostra decisamente troppo amore al suo seme, che diventa un mostro!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:25:00|06:35:00|S2 Ep32 - Quando scoprono che Chef ha un passato da wrestler fallito, i ragazzi chiamano un suo vecchio partner per organizzare un glorioso rientro. Ma c'e' qualcosa che non sanno...
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:35:00|06:45:00|S2 Ep41 - Duncan inganna Chef e lo convince a portare la classe al Polo Nord, per togliere il suo nome dalla 'lista dei cattivi'.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:45:00|06:55:00|S2 Ep42 - Per intrattenere i bambini in tempo di vacanze, Chef porta in vita dei pupazzi di neve. Salta fuori che sono cattivi come diavoli...
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|06:55:00|07:05:00|S2 Ep31 - Beth ritiene sciocca la convinzione di Beth che i cartoni animati siano reali. Ma quando visitano uno studio di animazione dovra' cambiare idea.
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:05:00|07:15:00|S3 Ep3 Derke sotto ipnosi - Perdigan riesce a ipnotizzare Derke nella sua forma di drago per sfruttare il suo potere per derubare il re. Ma Robin e i suoi amici intervengono...
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:15:00|07:30:00|S3 Ep4 Il drago furioso - Mentre continua a provare magie, Marian si innervosisce e nella confusione trasforma Derke in un drago furioso, dimenticando il contro incantesimo!
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:30:00|07:40:00|S3 Ep1 La minaccia vichinga. 1a parte - Mentre il Principe Giovanni vive come un pastore, i Vichinghi attaccano Sherwood. Robin e i suoi amici pero' riescono a rubare il bottino ai barbari...
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|07:40:00|07:55:00|S3 Ep2 La minaccia vichinga. 2a parte - I Vichinghi sono riusciti a imprigionare Re Riccardo, ma Robin e Marian escogitano un piano per liberarlo. Intanto il Principe Giovanni ruba Excalibur.
-
 |![Icon](https://guidatv.sky.it/uuid/f04c6af6-9747-4c22-bf14-2fe12e00f331/cover?md5ChecksumParam=a956db5c666f4dce68a26e94a15b15b5)|Trolls: la festa continua!|07:55:00|08:20:00|S2 Ep23 Irruzione nel Bunker / Cattura la creatura - Dopo aver perso una gara contro Poppy, Branch decide di creare una nuova sfida. / Minuta accidentalmente perde una delle creature di Milton...
-
 |![Icon](https://guidatv.sky.it/uuid/3324f7b2-4c97-4b10-a61b-b51a9ea1476f/cover?md5ChecksumParam=a956db5c666f4dce68a26e94a15b15b5)|Trolls: la festa continua!|08:20:00|08:45:00|S2 Ep24 Lo stereoinsetto di CJ / Che mi sono perso? - DJ e' entusiasta di dare il suo stereoinsetto alla nipotina CJ, ma qualcosa va storto... / Peppy chiede a Poppy la cronaca della giornata.
-
 |![Icon](https://guidatv.sky.it/uuid/8084bea7-f14e-46dc-9783-9065080c9f94/cover?md5ChecksumParam=a956db5c666f4dce68a26e94a15b15b5)|Trolls: la festa continua!|08:45:00|09:10:00|S2 Ep25 Una storia improbabile / Futuri migliori amici per sempre - Creek arriva alla cena dei Troll a mani vuote e racconta una storia strana... / Branch presenta ai Troll una capsula del tempo.
-
 |![Icon](https://guidatv.sky.it/uuid/09f032dc-6bbe-4a3d-9b7a-167a251403cb/cover?md5ChecksumParam=8d6a247b3dffca588a93c7563c4dfaf2)|A tutto reality|09:10:00|09:35:00|S1 Ep7 La miniera delle terribili scorie - I concorrenti dovranno entrare in una miniera di scorie radioattive e raccogliere delle statuette dorate.
-
 |![Icon](https://guidatv.sky.it/uuid/bcbf198e-c493-48f5-9e76-5fce25df6305/cover?md5ChecksumParam=8d6a247b3dffca588a93c7563c4dfaf2)|A tutto reality|09:35:00|10:00:00|S1 Ep8 Il tesoro del Dottor McLean - I sette rimasti dovranno fronteggiare dei mostri mutanti per poi scavare e portare in salvo Gwen e Sam sepolti sotto terra.
-
 |![Icon](https://guidatv.sky.it/uuid/f0e7b48e-73da-471a-9e16-20a7c37101b3/cover?md5ChecksumParam=8d6a247b3dffca588a93c7563c4dfaf2)|A tutto reality|10:00:00|10:25:00|S1 Ep9 Bersagli e Go-Kart - I concorrenti devono rubare dei Go-Kart e usarli per spostarsi alla ricerca dei bersagli da vandalizzare.
-
 |![Icon](https://guidatv.sky.it/uuid/b14aa80a-ace2-4fc6-848d-6feb98f27534/cover?md5ChecksumParam=b1243a794bf3e2d634a4846c6b404b94)|Trollstopia|10:25:00|10:50:00|S1 Ep9 Corsa al Glitter / Laguna Tidepool &amp; la stanza dei giochi perduta - Trollstopia e' colpita da una carestia di glitter. / Laguna Tidepool va alla ricerca di un leggendario gioco da tavolo.
-
 |![Icon](https://guidatv.sky.it/uuid/b14aa80a-ace2-4fc6-848d-6feb98f27534/cover?md5ChecksumParam=b1243a794bf3e2d634a4846c6b404b94)|Trollstopia|10:50:00|11:15:00|S1 Ep10 Fluomodoro incoraggino / Assai ispirati - Val senza volerlo schiaccia il prezioso fluomodoro di Holly, che si arrabbia moltissimo. / Dante ha un blocco, e non riesce piu' a fare musica.
-
 |![Icon](https://guidatv.sky.it/uuid/88a2704c-db8c-4194-96e9-8551f62b6697/cover?md5ChecksumParam=08c15c2546e80a790617f8488a4e1e90)|A tutto reality presenta: Missione Cosmo Ridicola|11:15:00|11:40:00|...Cosmo Ridicola. S1 Ep21 Pesca a mani nude - I concorrenti si recano in Vietnam sulle rive del fiume Mekong. Qui, divisi in due squadre, si cimentano nella pesca a mani nude.
-
 |![Icon](https://guidatv.sky.it/uuid/d24f979a-daeb-4cf1-bd72-b9f0b2a96676/cover?md5ChecksumParam=08c15c2546e80a790617f8488a4e1e90)|A tutto reality presenta: Missione Cosmo Ridicola|11:40:00|12:05:00|...Cosmo Ridicola. S1 Ep22 Quanto mi ami? - Le cinque squadre rimanenti volano in Siberia per navigare sul ghiaccio per poi calarsi nel sottosuolo attraverso un cratere.
-
 |![Icon](https://guidatv.sky.it/uuid/986ee4f8-f433-4e5c-9eb3-bf8a3abb0437/cover?md5ChecksumParam=08c15c2546e80a790617f8488a4e1e90)|A tutto reality presenta: Missione Cosmo Ridicola|12:05:00|12:30:00|...Cosmo Ridicola. S1 Ep23 L'ora del te' - Le cinque squadre si spostano in India per raccogliere foglie di te' e affrontare un periglioso viaggio in treno.
-
 |![Icon](https://guidatv.sky.it/uuid/c7a767e9-fafa-4286-a346-4342e7decc10/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|12:30:00|13:00:00|S1 Ep11 La leggenda del tridente - con A.Ruffle. Mentre le ragazze temono che il loro gruppo non fara' piu' ritorno, Rita racconta loro la storia di alcuni tritoni che si erano ribellati migliaia di anni fa.
-
 |![Icon](https://guidatv.sky.it/uuid/656d12bd-affd-4b6f-a188-0e5769796cd5/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|13:00:00|13:30:00|S1 Ep12 I bracciali dell'oceano - con A.Ruffle. Zac continua a cercare prove dell'esistenza dei tritoni, mentre Lyla lo tiene alla larga dal Tridente. Intanto, le ragazze hanno bisogno di soldi.
-
 |![Icon](https://guidatv.sky.it/uuid/e0de22fc-eb43-4eae-92b4-4b0e31239797/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|13:30:00|14:00:00|S3 Ep11 Un pigiama per sognare - con E.Rei. Maggie si prende un giorno di pausa dei problemi di cuore. A scuola, Bianca cerca di realizzare un compito difficile senza l'aiuto dell'amica.
-
 |![Icon](https://guidatv.sky.it/uuid/e3eb3818-c225-4557-8443-2dcb4d24008c/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|14:00:00|14:30:00|S3 Ep12 Ottimismo in prestito - con E.Rei. Ai MoodBoards viene chiesto di organizzare un raduno con i fan, mentre un nuovo contratto discografico provoca una spaccatura nella band.
-
 |![Icon](https://guidatv.sky.it/uuid/b22c090b-3c7d-43c3-96e1-710c475bbdc4/cover?md5ChecksumParam=8bd3df250e963e102bb305fad98285e5)|H2O: Just Add Water|14:30:00|15:00:00|S1 Ep17 Brutto tempo - con C.Heine. Nel giorno di un importante esame di biologia, un temporale costringe le ragazze a fingere di essere malate per saltare la scuola.
-
 |![Icon](https://guidatv.sky.it/uuid/49b61b6a-05fa-4f72-abc6-5c6e8975d8e7/cover?md5ChecksumParam=8bd3df250e963e102bb305fad98285e5)|H2O: Just Add Water|15:00:00|15:30:00|S1 Ep18 La luna cattiva - con C.Heine. Le sue ricerche portano Zane sull'isola di Mako, dove s'imbatte in un volto familiare...
-
 |![Icon](https://guidatv.sky.it/uuid/a47248de-f352-416b-abd9-a54ff03e3a75/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:30:00|15:40:00|S1 Ep43 La vita segreta di Cat - Girl comincia a studiare Cat per poterla descrivere in un compito per casa e scopre che la gatta ha una seconda famiglia che la tratta da regina!
-
 |![Icon](https://guidatv.sky.it/uuid/eaa01963-e499-4b8a-9d95-15e08c1c4f7a/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:40:00|15:50:00|S1 Ep44 L'abito non fa il cane - Per un incidente di toelettatura Dog deve coprirsi con uno smoking. Trasformatosi in un gentleman, viene accolto in casa di Lady Burlington.
-
 |![Icon](https://guidatv.sky.it/uuid/e3960d99-3c88-469d-a0d4-47ed883872c5/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|15:50:00|16:00:00|S1 Ep45 Il Brio Blob - Girl ruba a Mouse il prototipo del Brio Blob, una massa gelatinosa che ammalia tutti e che cresce a vista d'occhio se riceve amore. Guai in arrivo!
-
 |![Icon](https://guidatv.sky.it/uuid/bd090612-25fa-47c8-8350-3d0c561f8850/cover?md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3)|Boy, Girl, Dog, Cat, Mouse, Cheese|16:00:00|16:10:00|S1 Ep46 Vivere fuori dagli schemi - Dopo l'ennesimo flop della sua invenzione, Mouse impara da Girl ad essere piu' creativo, ma esagera! La famiglia tenta di riparare al danno...
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|16:10:00|16:20:00|S3 Ep4 Il drago furioso - Mentre continua a provare magie, Marian si innervosisce e nella confusione trasforma Derke in un drago furioso, dimenticando il contro incantesimo!
-
 |![Icon](https://guidatv.sky.it/uuid/a7953caf-840e-4ae1-af82-7c48b71f0581/cover?md5ChecksumParam=ea7661d6aedbc57e14a3a5f33d94e481)|Robin Hood alla conquista di Sherwood|16:20:00|16:40:00|...Sherwood. S3 Ep5 Principessa in pericolo - Il Principe vuole a tutti costi partecipare al consiglio dei Lord al posto di Marian quindi, con l'aiuto di Ralf, escogita un piano per tenerla al castello.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|16:40:00|16:55:00|S2 Ep45 - Dopo aver mangiato dei misteriosi bastoncini di pesce, LeShawna realizza il sogno di ogni bambina, e si trasforma in una sirena.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|16:55:00|17:00:00|S2 Ep46 - Mentre la classe e' in vacanza per il break di primavera, un perfido criminale si insinua nella scuola. Fortunatamente c'e' qualcuno che vigila... Ma purtroppo e' Beth!
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|17:00:00|17:10:00|S2 Ep36 - Duncan approfitta di una dubbia leggenda di Halloween per rubare dolcetti e caramelle ai suoi compagni di classe.
-
 |![Icon](https://guidatv.sky.it/uuid/0d0e4f35-0b39-4317-8789-3799ef402219/cover?md5ChecksumParam=7c73e05ca82a9f34fef41c6441a0bd71)|A tutto reality: le origini|17:10:00|17:25:00|S2 Ep37 - Quando le dicono che l'arrivo di un fratellino le rovinera' la vita, Beth ci crede, e scappa per trovare una nuova famiglia con cui vivere.
-
 |![Icon](https://guidatv.sky.it/uuid/85a788d2-d89f-4853-b236-835877e0e570/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|17:25:00|17:35:00|S1 Ep17 La brugola e la vite - Lo stravagante e strano inventore Sam si innamora di Miss Mastermind e chiede aiuto ad Anna per scoprire tutto su di lei e conquistarla, ci riuscira'?
-
 |![Icon](https://guidatv.sky.it/uuid/1d976a90-ef96-431b-82ed-84b56e551ba2/cover?md5ChecksumParam=d825eaf19dfc5aef04a36a0a3dfddaa3)|Whatsanna|17:35:00|17:50:00|S1 Ep18 Il portafortuna - Anna diventa il portafortuna di Jimmy Dean che la porta a scuola per affrontare il casting di un musical teatrale scritto dal Preside. Ma a ottenere la parte sara' Anna!
-
 |![Icon](https://guidatv.sky.it/uuid/64e6cf8a-0af6-4e61-92ed-e9c9c23f9d19/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|17:50:00|18:20:00|S1 Ep13 L'inganno - con A.Ruffle. Con l'arrivo della Luna piena le sirene devono impedire a Zac di tornare a Mako e prendere il tridente. Ma l'influsso del plenilunio e' potente...
-
 |![Icon](https://guidatv.sky.it/uuid/cb591451-0a55-4018-8a96-48b0f96e5821/cover?md5ChecksumParam=295fc746be0bd5f07e7f9ba1c9b23c24)|Mako Mermaids - Vita da tritone|18:20:00|18:50:00|S1 Ep14 Il segreto di Rita - con A.Ruffle. Fra le sirene e Zac e' guerra. Non solo: quando viene convocato a scuola dalla preside, Zac capisce che anche lei e' una sirena!
-
 |![Icon](https://guidatv.sky.it/uuid/0ab6f7ea-caba-4c7e-8e98-95e20709d291/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|18:50:00|19:20:00|S3 Ep21 Segreti di carta - con E.Rei. Mentre l'indagine sulla LussiStyle prosegue, un insegnante nuovo ed esigente assegna agli studenti un compito difficile e fuori dalla loro portata.
-
 |![Icon](https://guidatv.sky.it/uuid/8d3afa9c-bd31-433b-b733-74ef6030eda2/cover?md5ChecksumParam=fd5e761064d41a71859c3d4bfd194e97)|Maggie &amp; Bianca Fashion Friends|19:20:00|19:50:00|S3 Ep22 Corsa contro il tempo! - con E.Rei. Il professor Falques offre agli studenti una giornata di relax, cosa particolarmente difficile per una nervosissima Maggie...
-
 |![Icon](https://guidatv.sky.it/uuid/e7fc1f7b-c0e4-4d69-a184-7699a944626e/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|19:50:00|20:20:00|S2 Ep19 Il segreto di Gracie. 1a parte - con C.Heine. Lewis scopre che cinquant'anni prima un certo Max Hamilton aveva condotto delle ricerche sui campi magnetici di Mako, e le sue sirene...
-
 |![Icon](https://guidatv.sky.it/uuid/8267a221-c1d9-4b7c-a3ff-6650c7d91699/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|20:20:00|20:50:00|S2 Ep20 Il segreto di Gracie. 2a parte - con C.Heine. Charlotte scopre che sua nonna era una sirena, mentre Lewis studia la ricerca sui campi magnetici di Mako di Max.
-
 |![Icon](https://guidatv.sky.it/uuid/73e3a7fd-849a-4898-b7d0-11f4e15e4b57/cover?md5ChecksumParam=1210a3879254edaff05d7f631187fbfd)|H2O: Just Add Water|20:50:00|21:15:00|S2 Ep21 La quarta sirena - con C.Heine. Charlotte scopre la verita' su Emma, Rikki e Cleo e dopo averle seguite fino a Mako, la ragazza si tuffa nell'acqua illuminata dalla Luna...
-
 |![Icon](https://guidatv.sky.it/uuid/7b1415fb-4e15-4330-9cd7-3d1f9961cbd7/cover?md5ChecksumParam=2d8b260713750cef9b64b5e53099a5d0)|Pippi Calzelunghe|21:15:00|21:35:00|S1 Ep3 Una festa movimentata - Pippi e' ad una festa a casa di Tommy e Annika quando si accorge che in strada alcuni bulli stanno dando fastidio ad un bambino e corre in suo aiuto.
-
 |![Icon](https://guidatv.sky.it/uuid/860a7d64-7512-4728-b5e8-cfa6535d99e7/cover?md5ChecksumParam=2d8b260713750cef9b64b5e53099a5d0)|Pippi Calzelunghe|21:35:00|22:10:00|S1 Ep4 Una gita in campagna - Pippi costruisce degli aquiloni e li regala a Tommy e Annika; insieme vanno in campagna a provarli quando Signor Nilsson scompare...
-
 |![Icon](https://guidatv.sky.it/uuid/281d447d-981c-4ffc-ba62-0ee20b83d515/cover?md5ChecksumParam=7d7189787725dece4dd4d1909585e920)|Talent High School|22:10:00|22:35:00|S2 Ep1 Un nuovo anno - Sofia ha un grande sogno: frequentare l'esclusiva Talent High School! Tra sfide di danza e compagni stravaganti, Sofia dovra' trovare la sua strada e nascondere a tutti la sua vera identita'.
-
 |![Icon](https://guidatv.sky.it/uuid/5adfe3e6-2a9c-4cbc-b998-e7e9aacd0ee3/cover?md5ChecksumParam=7d7189787725dece4dd4d1909585e920)|Talent High School|22:35:00|23:00:00|S2 Ep2 Lo sport rivelatore - Sofia ha un grande sogno: frequentare l'esclusiva Talent High School! Tra sfide di danza e compagni stravaganti, Sofia dovra' trovare la sua strada e nascondere a tutti la sua vera identita'.
-
 |![Icon](https://guidatv.sky.it/uuid/48c23dee-7a09-40b8-9f07-3452913a1818/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|23:00:00|23:20:00|S4 Ep2 Tartasauro - Marco e Matteo dovranno lavorare su Tartasauro, una creatura tremenda nata dall'unione di tantissimi animali diversi.
-
 |![Icon](https://guidatv.sky.it/uuid/7dd4b204-a166-4dd5-8044-cacaf7b76792/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|23:20:00|23:40:00|S4 Ep3 Rock Round - Un'avventura a ritmo di rock n'roll. Il team dell'Officina dei Mostri deve realizzare un demone della tempesta che genera fulmini con la sua chitarra elettrica.
-
 |![Icon](https://guidatv.sky.it/uuid/74c6178b-4cdf-4930-8f72-24ebe8905dae/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|23:40:00|00:00:00|S2 Ep7 Circuito Go Kart - Per Steven la velocita' nell'esecuzione dei suoi trucchi di magia e' essenziale. Per questo oggi incontra dei ragazzi campioni di Go Kart.
-
 |![Icon](https://guidatv.sky.it/uuid/73feff4e-3fe0-47b0-89bf-132e67a14ecb/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|00:00:00|00:25:00|S2 Ep8 Scuola di basket - A Steven piace moltissimo giocare a basket cosi' oggi ha deciso di andare a trovare una squadra di pallacanestro, per fare due tiri e ovviamente un po' di magia!
 
 

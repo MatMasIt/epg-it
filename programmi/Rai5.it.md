@@ -1,115 +1,60 @@
 # Rai 5
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rock Legends|00:15:00|00:35:00|Pulp - Interviste, aneddoti e video musicali per tracciare la storia delle grandi leggende del rock.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai News notte|00:35:00|00:40:00|Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale 'all news' della Rai.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Save the Date|00:40:00|01:05:00|La Fenice per Venezia - Venezia, proprio come il Teatro La Fenice che la rappresenta, punta sulla forza della cultura per 'riemergere' dall'eccezionale acqua alta.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata, America|01:05:00|02:15:00|Da New Haven a Plattsburgh - Da New Haven a Plattsburgh attraverso Connecticut e Vermont fino al confine con il Canada, per scoprire l'America rurale.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Evolution - Il viaggio di Darwin|02:15:00|03:55:00|Ep. 134 - Gli infiniti aspetti della vita del nostro pianeta, la natura in tutte le sue forme, che vive, muore e rinasce incessantemente da millenni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Wild Italy|03:55:00|05:00:00|La goccia che scava la roccia - L'opera di trasformazione del paesaggio ad opera dell'acqua, sia nelle cavita' carsiche che nei sistemi fluviali del Mezzogiorno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La via della seta|05:10:00|05:35:00|Xi'an, la citta' del Figlio del Cielo - Alfred arriva nella provincia dello Shaanxi e a Xi'an, citta' millenaria che rappresentava il punto di arrivo per le carovane della Via della Seta.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Piano pianissimo|05:35:00|05:50:00|Ep. 17 - I fiori, da sempre, sono stati eletti a simboli di delicatezza e dolcezza. Guido Zaccagnini, dal Mercato dei Fiori di Roma, cita i brani musicali.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Risvegli|05:50:00|06:45:00|Le Isole Svalbard - Le Isole Svalbard sono un arcipelago del Mar Glaciale Artico. Con l'arrivo della primavera, una moltitudine di animali e piante torna a colorare questo territorio.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il cielo, la Terra, l'uomo|06:45:00|07:10:00|Lapponia - Un viaggio a passo lento, che esalta i paesaggi, i silenzi e la luce straordinaria della Finlandia, dai bagliori della neve d'inverno alle aurore boreali nei cieli lapponi.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Discovering Luis Bunuel|07:10:00|07:55:00|Considerato il padre del cinema surrealista, Luis Bunuel esordi' nel 1929 con 'Un Chien Andalou', lavorando a stretto contatto con Salvador Dali.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata, America|07:55:00|09:00:00|Da New Haven a Plattsburgh - Da New Haven a Plattsburgh attraverso Connecticut e Vermont fino al confine con il Canada, per scoprire l'America rurale.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'Elisir d'amore|09:00:00|11:15:00|L'aeroporto di Malpensa diventa l'originale ed inedita location dell'Elisir d'amore di Donizetti. Direzione musicale del Maestro Fabio Luisi.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Scrivere un classico nel Novecento|11:15:00|11:30:00|L'Iguana di Anna Maria Ortese - Benedetta Centovalli analizza 'L'Iguana' di Anna Maria Ortese.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata, America|11:30:00|12:30:00|Da Boston a Concord - Michael segue l'itinerario della Guida Appleton's che inizia a Boston e si conclude a Salem, la cittadina sconvolta da una feroce caccia alle streghe.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il cielo, la Terra, l'uomo|12:30:00|13:00:00|Lapponia - Un viaggio a passo lento, che esalta i paesaggi, i silenzi e la luce straordinaria della Finlandia, dai bagliori della neve d'inverno alle aurore boreali nei cieli lapponi.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Di la' dal fiume e tra gli alberi|13:00:00|14:50:00|Cortina segreta - Un racconto dell'Italia attraverso luoghi di 'confine' che svelano l'identita' nascosta dei nostri territori e i mille volti di coloro che li abitano.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|I demoni|14:50:00|16:05:00|Ep5 - Dal capolavoro di Dostoevskij del 1873, la storia del demoniaco Nikolaj Stavrogin, del rivoluzionario Pjotr Verchovenskij, e del gruppo di uomini legati a quest'ultimo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Lezioni di suono|16:05:00|17:00:00|L'imbalsamatore - Monodramma giocoso da camera il cui protagonista Miscin e' l'addetto al periodico restyling della salma di Lenin nel mausoleo della Piazza Rossa.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Save the Date|17:00:00|17:35:00|Ep. 7 - Scopriamo gli appuntamenti piu' importanti, originali e vivi che ogni settimana animano la scena culturale italiana.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Discovering Luis Bunuel|17:35:00|18:15:00|Considerato il padre del cinema surrealista, Luis Bunuel esordi' nel 1929 con 'Un Chien Andalou', lavorando a stretto contatto con Salvador Dali.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai News giorno|18:15:00|18:20:00|Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale 'all news' della Rai.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Darcey Bussell in cerca di...: Fred...|18:20:00|19:15:00|...Astaire - La etoile del Royal Ballet di Londra Darcey Bussell racconta come la favolosa carriera di Fred Astaire, stella della danza, rischio' di non decollare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata, America|19:15:00|20:15:00|Canada. Da Montreal a Ottawa - Michael Portillo arriva in Canada. Lungo il fiume San Lorenzo giunge a Montreal, la citta' piu' 'europea' del Nord America.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Muti prova Aida|20:15:00|21:15:00|Ep. 7 - Magistrale retroscena dell'Aida di Verdi diretta da Riccardo Muti. Un percorso formativo che guida il pubblico al cuore dell'opera italiana, attraverso lo sguardo del grande Maestro.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Muti prova Aida|21:15:00|22:10:00|Ep. 8 - Magistrale retroscena dell'Aida di Verdi diretta da Riccardo Muti. Un percorso formativo che guida il pubblico al cuore dell'opera italiana, attraverso lo sguardo del grande Maestro.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Hip Hop Evolution|23:35:00|00:20:00|Le origini - La storia dell'Hip Hop nasce in un appartamento del Bronx, del leggendario dj Kool Herc, che inizia a intrattenere il proprio quartiere in una maniera decisamente insolita.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai News notte|00:20:00|00:25:00|Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale 'all news' della Rai.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Stars of the Silver Screen|00:25:00|01:10:00|J. Nicholson - La vita e la carriera di una star hollywoodiana, nonche' di un personaggio fuori dall'ordinario: Jack Nicholson.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata, America|01:10:00|02:20:00|Da Plymuth a New London - Il viaggio di Michael Portillo continua in Massachussetts, Rhode Island e Connecticut, con soste in affascinanti cittadine.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Evolution - Il viaggio di Darwin|02:20:00|04:00:00|Gli infiniti aspetti della vita del nostro pianeta, la natura in tutte le sue forme, che vive, muore e rinasce incessantemente da millenni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Wild Italy|04:00:00|05:00:00|Le Alpi tornano selvagge - A seguito dello spopolamento delle aree montane, in cinquanta anni la superficie forestale dell'Italia e' aumentata quasi del 10 per cento.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Piano pianissimo|05:00:00|05:10:00|Guido Zaccagnini affronta un tema di carattere generale: storico, legato a ricorrenze o ad argomenti di natura sociale. Lo scopo e' quello di divulgare conoscenze legate alla musica.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Y'Africa|05:10:00|05:40:00|Una panoramica sulla generazione emergente di artisti della scena africana che danno vita alla cultura del proprio paese e ne diffondono l'influenza.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Di la' dal fiume e tra gli alberi|05:40:00|06:35:00|Un racconto dell'Italia attraverso luoghi di 'confine' che svelano l'identita' nascosta dei nostri territori e i mille volti di coloro che li abitano.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Racconti di luce|06:35:00|07:05:00|Quattro intrepidi fotografi raccontano la bellezza e la forza della vita sulla terra da punti di vista completamente inediti.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Leoncillo: una fiamma che brucia ancora|07:05:00|08:00:00|Attraverso lettere, oggetti e dettagli importanti, Simona Fasulo racconta Leoncillo Leonardi. Un artista complesso che ha dedicato la sua vita all'arte.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Trans Europe Express|08:00:00|09:00:00|Un viaggio con Michael Portillo attraverso la Germania post bellica per ripercorrere la parabola del nazismo fino al Muro di Berlino.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Fidelio|09:00:00|11:30:00|Serata inaugurale teatro alla scala In diretta dal Teatro alla Scala di Milano Fidelio. Musica di Ludwig Van Beethoven. Orchestra e Coro del Teatro alla Scala, direttore Daniel Barenboim.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Prossima fermata Oriente|11:30:00|12:30:00|Michael Portillo ripercorre le grandi tratte ferroviarie descritte nella celebre Guida Bradshaw del 1913. Una nuova idea di viaggio, dove la meta e' importante quanto i paesaggi.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Racconti di luce|12:30:00|13:00:00|Quattro intrepidi fotografi raccontano la bellezza e la forza della vita sulla terra da punti di vista completamente inediti.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Evolution - Il viaggio di Darwin|13:00:00|15:00:00|Gli infiniti aspetti della vita del nostro pianeta, la natura in tutte le sue forme, che vive, muore e rinasce incessantemente da millenni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Borgata Camion|15:00:00|16:05:00|Regia di C. Quartucci, con C.Tato'. Un viaggio lungo un anno tra le borgate romane. Un gruppo di artisti d'avanguardia realizza uno spettacolo con gli abitanti di una borgata periferica di Roma.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Muti dirige la Sinfonia fantastica|16:05:00|17:05:00|Dal Pala De Andre' di Ravenna, il Maestro Muti dirige la Sinfonia Fantastica, op. 14 di Hector Berlioz. Orchestra Giovanile Luigi Cherubini.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Piano pianissimo|17:05:00|17:20:00|Guido Zaccagnini affronta un tema di carattere generale: storico, legato a ricorrenze o ad argomenti di natura sociale. Lo scopo e' quello di divulgare conoscenze legate alla musica.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Leoncillo: una fiamma che brucia ancora|17:20:00|18:15:00|Attraverso lettere, oggetti e dettagli importanti, Simona Fasulo racconta Leoncillo Leonardi. Un artista complesso che ha dedicato la sua vita all'arte.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai News giorno|18:15:00|18:20:00|Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale 'all news' della Rai.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ettore Spalletti. Cosi' com'e'|18:20:00|19:15:00|Regia di A. Galletta. La biografia e la carriera di Ettore Spalletti, scultore e pittore tra i piu' apprezzati del Novecento. Definito 'l'artista degli artisti' per un uso leggendario del colore.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Trans Europe Express|19:15:00|20:15:00|Un viaggio con Michael Portillo attraverso la Germania post bellica per ripercorrere la parabola del nazismo fino al Muro di Berlino.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Messa da Requiem di Verdi|20:15:00|21:40:00|Musica
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Medea|21:40:00|23:10:00|Teatro
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Brian Johnson, una vita on the road|23:10:00|23:55:00|Brian Johnson, cantante degli AC/DC, racconta in chiave intima alcuni dei protagonisti della storia del Rock.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Devolution, una teoria Devo|23:55:00|00:55:00|Quaranta anni fa, cinque studenti della Kent State University decisero di mettere in musica le loro osservazioni sul costume e la societa'. Scopriamo una delle band piu' incomprese della storia.
 
 

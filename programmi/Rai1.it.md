@@ -1,153 +1,79 @@
 # Rai 1
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|00:00:00|00:30:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|00:30:00|00:35:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Storia delle nostre citta'|00:35:00|01:30:00|Padova - Dai Romani a Sant'Antonio, passando per Giotto e Galileo Galilei, la storia di Padova si ritrova nei suoi monumenti: dalla Basilica di Sant'Antonio alla Cappella degli Scrovegni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|01:30:00|05:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|05:00:00|06:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:10:00|06:30:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|06:30:00|06:35:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:35:00|06:40:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:40:00|06:50:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:50:00|06:55:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:55:00|07:00:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|07:00:00|07:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|07:30:00|07:35:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|07:35:00|08:00:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|08:00:00|08:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|08:05:00|08:10:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|08:10:00|08:30:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Flash|08:30:00|08:35:00|News e aggiornamenti dalla cronaca nazionale e internazionale sugli avvenimenti piu' importanti del giorno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai Parlamento Telegiornale|08:35:00|08:40:00|Un resoconto puntuale sull'attualita' di Camera e Senato, sui principali temi dell'agenda politica e le iniziative del Governo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Linea Verde - Meteo Verde|08:40:00|08:50:00|Aggiornamento delle previsioni meteo per il weekend.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|08:50:00|08:55:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Storie italiane|08:55:00|10:55:00|Tra informazione e approfondimento di tematiche socio-economiche, Eleonora Daniele racconta il paese attraverso testimonianze dirette. Inoltre spazio alle donne, all'infanzia e alla Scuola.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|E' sempre mezzogiorno|10:55:00|12:30:00|S2 - Ricette, giochi, storie e tante novita': Antonella Clerici e' pronta di nuovo a indossare il suo grembiule e ad accogliere pubblico e ospiti nello studio ispirato al mondo delle fiabe.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|12:30:00|13:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oggi e' un altro giorno|13:00:00|14:55:00|Interviste a personaggi famosi e non, storie e confronti: Serena Bortone racconta il Paese di oggi per conoscere meglio la realta' contemporanea.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il paradiso delle signore|14:55:00|15:45:00|S6 Ep53 - Dopo aver raggiunto il suo scopo, Marco liquida Luisa e finalmente si fa avanti con Gemma. Agnese sospetta che Rocco si stia innamorando di un'altra e ne parla con Armando.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|15:45:00|15:55:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Economia|15:55:00|16:00:00|Aggiornamenti e approfondimenti sull'andamento dei mercati finanziari e dal mondo dell'economia.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|16:00:00|16:05:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La vita in diretta|16:05:00|17:45:00|Attualita', cronaca, inchieste e approfondimenti. Con uno sguardo attento e analitico ai fatti e alla societa', Alberto Matano, in compagnia di tanti ospiti, racconta e commenta avvenimenti e notizie.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'eredita'|17:45:00|19:00:00|Flavio Insinna, affiancato dalle Professoresse, conduce la sfida tra concorrenti pronti a cimentarsi in diverse prove, per arrivare alla fase finale del gioco: l'imperdibile Ghigliottina.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|19:00:00|19:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Soliti ignoti - Il ritorno|19:30:00|20:25:00|Otto identita' ignote e altrettante figure nascoste. Amadeus guida le indagini di un concorrente che, per vincere il montepremi, dovra' ricorrere a logica, intuito e capacita' di osservazione.
-
 |![Icon](https://guidatv.sky.it/uuid/c18f3d2e-7349-4360-a1ac-f2e348a9a91f/cover?md5ChecksumParam=4b8b89bae9e4ac8b908bdba73bb61e8a)|Bohemian Rhapsody|20:25:00|22:50:00|Regia di B. Singer, con R.Malek, G.Lee; USA/GBR 2018. Londra, anni '70. Freddie Mercury fonda insieme a Brian May e Roger Taylor la rock band dei Queen. Ma il successo ha il suo prezzo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Porta a Porta|22:50:00|00:30:00|Bruno Vespa offre approfondimenti sui temi di attualita' politica ed economia, sui fatti di cronaca e di costume, sugli eventi e i protagonisti della cultura e dello spettacolo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|00:30:00|01:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|01:00:00|01:05:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Movie Mag|01:05:00|01:30:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il Commissario Manara|01:30:00|02:25:00|S2 Ep6A Uno strano incidente di caccia - Luca indaga sulla morte di un cacciatore. Intanto, Marta, che e' stata chiamata a testimoniare in un importante processo, viene sostituita da Lara Rubino.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|02:25:00|05:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|05:00:00|06:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita' dall'Italia e dall'estero.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:10:00|06:30:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|06:30:00|06:35:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:35:00|06:40:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:40:00|06:50:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:50:00|06:55:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|06:55:00|07:00:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|07:00:00|07:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|07:30:00|07:35:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|07:35:00|08:00:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|08:00:00|08:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|08:05:00|08:10:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|08:10:00|08:30:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Flash|08:30:00|08:35:00|News e aggiornamenti dalla cronaca nazionale e internazionale sugli avvenimenti piu' importanti del giorno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai Parlamento Telegiornale|08:35:00|08:40:00|Un resoconto puntuale sull'attualita' di Camera e Senato, sui principali temi dell'agenda politica e le iniziative del Governo.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Unomattina|08:40:00|08:50:00|In collaborazione con il TG1 e in compagnia di tanti ospiti, Monica Giandotti e Marco Frittella raccontano il paese e affrontano i temi caldi della politica, dell'attualita' e della cultura.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|08:50:00|08:55:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Storie italiane|08:55:00|10:55:00|Tra informazione e approfondimento di tematiche socio-economiche, Eleonora Daniele racconta il paese attraverso testimonianze dirette. Inoltre spazio alle donne, all'infanzia e alla Scuola.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|E' sempre mezzogiorno|10:55:00|12:30:00|S2 - Ricette, giochi, storie e tante novita': Antonella Clerici e' pronta di nuovo a indossare il suo grembiule e ad accogliere pubblico e ospiti nello studio ispirato al mondo delle fiabe.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|12:30:00|13:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oggi e' un altro giorno|13:00:00|14:55:00|Interviste a personaggi famosi e non, storie e confronti: Serena Bortone racconta il Paese di oggi per conoscere meglio la realta' contemporanea.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il paradiso delle signore|14:55:00|15:45:00|S6 Ep54 - Adelaide viene a sapere che sono state aperte le indagini sulla morte di Ravasi. Stefania scopre chi e' il ragazzo che piace a Gemma. Intanto, Maria e' decisa ad andare a Roma.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|15:45:00|15:55:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Economia|15:55:00|16:00:00|Aggiornamenti e approfondimenti sull'andamento dei mercati finanziari e dal mondo dell'economia.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|16:00:00|16:05:00|L'appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell'Aeronautica Militare.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La vita in diretta|16:05:00|17:45:00|Attualita', cronaca, inchieste e approfondimenti. Con uno sguardo attento e analitico ai fatti e alla societa', Alberto Matano, in compagnia di tanti ospiti, racconta e commenta avvenimenti e notizie.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'eredita'|17:45:00|19:00:00|Flavio Insinna, affiancato dalle Professoresse, conduce la sfida tra concorrenti pronti a cimentarsi in diverse prove, per arrivare alla fase finale del gioco: l'imperdibile Ghigliottina.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|19:00:00|19:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Soliti ignoti - Il ritorno|19:30:00|20:25:00|Otto identita' ignote e altrettante figure nascoste. Amadeus guida le indagini di un concorrente che, per vincere il montepremi, dovra' ricorrere a logica, intuito e capacita' di osservazione.
-
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Porta a Porta|22:40:00|00:20:00|Bruno Vespa offre approfondimenti sui temi di attualita' politica ed economia, sui fatti di cronaca e di costume, sugli eventi e i protagonisti della cultura e dello spettacolo.
 
 

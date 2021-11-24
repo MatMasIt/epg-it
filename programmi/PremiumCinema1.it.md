@@ -1,65 +1,35 @@
 # Premium Cinema 1
-
 > Programmazione di Mercoledì 24 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
-
 |---|---|---|---|---|
-
 |![Icon](https://guidatv.sky.it/uuid/1c2b5cd2-85f0-4dd6-82bf-38763f7ea72c/cover?md5ChecksumParam=c4cd1cf9c92c918962070b93ae06813f)|Arac attack - Mostri a otto zampe|00:10:19|01:48:19|Film omaggio ai classici di fantascienza degli anni'50. Gli abitanti di una cittadina sono alle prese con dei ragni giganteschi e terrificanti. Regia di E. Elkayem; USA 2002
-
 |![Icon](https://guidatv.sky.it/uuid/92374370-4ae2-4304-a533-2d037699ef79/cover?md5ChecksumParam=dcb6bfa85b919c14eb30cf8369593ad6)|Oculus - Il riflesso del male|01:48:44|03:30:44|Allucinante horror in cui due fratelli orfani rimangono coinvolti nell'assassinio della madre compiuto attraverso uno specchio. Regia di M. Flanagan; USA 2013
-
 |![Icon](https://guidatv.sky.it/uuid/97d103cd-b403-400e-9d59-0e9a3bba29bc/cover?md5ChecksumParam=6087d94226d9105eca2e35e525af2b47)|Trafficanti|03:30:55|05:29:55|Dal regista di &quot;Una notte da leoni&quot;, un film ispirato ad una storia vera. Due amici decidono di mettersi in affari vendendo armi. Con M. Teller, B. Cooper. Regia di T. Phillips; USA 2016
-
 |![Icon](https://guidatv.sky.it/uuid/f4122414-b87b-4cc2-a885-dc03c4799fd4/cover?md5ChecksumParam=b2453fd96608b32826c64759465adb4f)|Pets - Vita da animali|05:30:09|06:55:09|Cosa fanno i nostri animali quando non siamo a casa? Divertente animazione targata Illumination che esplora la vita dei nostri amici animali in assenza dei padroni. Regia di C. Renaud; USA 2016
-
 |![Icon](https://guidatv.sky.it/uuid/000fbbdf-ab23-4728-a757-f4206bb6976e/cover?md5ChecksumParam=9b7930c31877ae956f7f7fd43e724492)|Cicogne in missione|06:55:27|08:21:27|Film d'animazione sulla leggenda delle cicogne. La cicogna Junior e l'amica Tulip in lotta contro il tempo per consegnare una tenerissima neonata. Regia di N. Stoller; USA 2016
-
 |![Icon](https://guidatv.sky.it/uuid/1c2b5cd2-85f0-4dd6-82bf-38763f7ea72c/cover?md5ChecksumParam=c4cd1cf9c92c918962070b93ae06813f)|Arac attack - Mostri a otto zampe|08:21:47|09:58:47|Film omaggio ai classici di fantascienza degli anni'50. Gli abitanti di una cittadina sono alle prese con dei ragni giganteschi e terrificanti. Regia di E. Elkayem; USA 2002
-
 |![Icon](https://guidatv.sky.it/uuid/1d4390e5-41e3-4d3b-a92b-0a141b10f9c0/cover?md5ChecksumParam=ea886ac33baaea6a156a6f7c9668ce9b)|Ouija|09:59:28|11:28:28|Una tavoletta Ouija apre un varco con il regno dell'aldila', consentendo il dialogo con i morti. E' l'inizio della fine. Regia di S. White; USA 2014
-
 |![Icon](https://guidatv.sky.it/uuid/2b28697b-826a-4918-a4cb-72dc201863ba/cover?md5ChecksumParam=97c09af24dc3693b45a40d2f5bb97340)|Ouija - l'origine del male|11:28:34|13:06:34|Prequel del film horror del 2014, Ouija. Una vedova e le sue figlie, fanno false sedute spiritiche che un giorno destano un vero spirito maligno. Regia di M. Flanagan; USA 2016
-
 |![Icon](https://guidatv.sky.it/uuid/8bedbb91-8e5d-4c85-a290-a06f9a19b863/cover?md5ChecksumParam=57d0516a4bb6ca7ed6fddadffa923ac5)|La vendetta di Luna|13:06:47|14:37:47|Scampata al massacro della sua famiglia, Luna scopre che in realta' suo padre era una spia russa. Cerchera' risposte e vendetta. Con Lisa Vicari Regia di K. Kaissar; DEU 2017
-
 |![Icon](https://guidatv.sky.it/uuid/3a645145-0021-43d9-8e6d-4f887ea8d410/cover?md5ChecksumParam=296e2c6cb1fd6f6e9e001a3b78ff2b7d)|Dust|14:38:20|16:40:20|All'inizio del secolo scorso, nel West, due fratelli, Elijah e Luke, si innamorano della stessa donna, una prostituta di nome Lilith. Regia di M. Manchevski; GBR 2001
-
 |![Icon](https://guidatv.sky.it/uuid/e4757a05-ee12-4680-b270-7eaf6b921ac4/cover?md5ChecksumParam=98369a855c048c04d8a1cd3a6933317f)|Three kings|16:40:27|18:33:27|Iraq, la guerra del Golfo e' finita. Un gruppo di soldati americani decide di impossessarsi di un tesoro nascosto nel deserto. Con George Clooney, Mark Wahlberg Regia di D. Russell; USA 1999
-
 |![Icon](https://guidatv.sky.it/uuid/9f60951e-2121-4cfd-b0c3-3fb5ec0c47ad/cover?md5ChecksumParam=30b118c6ef5c6dad8f6ebe533e812b3b)|The Great Wall|18:33:27|20:14:27|Kolossal con protagonista Matt Damon. Nella Cina del XII secolo, due mercenari europei sono coinvolti in una guerra all'ombra della Grande Muraglia. Regia di Y. Zhang; CHN 2016
-
 |![Icon](https://guidatv.sky.it/uuid/99acbd3f-573d-4fc1-8514-bc2fa2d1dbe8/cover?md5ChecksumParam=2359b2017187907c6549546c579de9b0)|Never back down - mai arrendersi|20:15:07|22:07:07|Un giovane dal difficile passato, per vendicarsi di un'umiliazione subita, si inserisce nel mondo dei combattimenti di arti marziali. Con Sean Faris, Amber Heard Regia di J. Wadlow; USA 2008
-
 |![Icon](https://guidatv.sky.it/uuid/97e4d2ad-3e38-4fee-807b-1c17c75c7d31/cover?md5ChecksumParam=88c8e24e6449b52ce717c236b1949a97)|Death race|22:07:31|23:56:31|In questo remake Jason Statham e' un ex pilota, ora in carcere, costretto a disputare una gara con un'auto tecnicamente modificata. Se vincera' tornera' libero. Regia di P. Anderson; USA 2008
-
 |![Icon](https://guidatv.sky.it/uuid/eb0aee15-b23e-4ba8-bc41-fa8f094615ed/cover?md5ChecksumParam=d1a73b62891d00260a094073abdd6e9a)|Il rito|23:56:58|01:48:58|Antony Hopkins esorcista in un horror ambientato a Roma. Una riflessione cupa sulla costante presenza del male nella vita umana. Regia di M. Hafstrom; USA 2011
-
 |![Icon](https://guidatv.sky.it/uuid/843c8576-1aa6-4f71-b7b3-41758a9920ec/cover?md5ChecksumParam=638831455b44c75effab04f3449a124f)|Formula per un delitto|01:49:40|03:47:40|Due studenti ricchi, intelligenti e soprattutto annoiati decidono senza alcun movente di uccidere una donna a caso, per compiere il delitto perfetto. Con S. Bullock. Regia di B. Schroeder; USA 2002
-
 |![Icon](https://guidatv.sky.it/uuid/2b28697b-826a-4918-a4cb-72dc201863ba/cover?md5ChecksumParam=97c09af24dc3693b45a40d2f5bb97340)|Ouija - l'origine del male|03:48:15|05:29:15|Prequel del film horror del 2014, Ouija. Una vedova e le sue figlie, fanno false sedute spiritiche che un giorno destano un vero spirito maligno. Regia di M. Flanagan; USA 2016
-
 |![Icon](https://guidatv.sky.it/uuid/01ac831f-5276-409e-9c6a-f18f963d9990/cover?md5ChecksumParam=1959ef69cc7c8819467780d83b8086a4)|Scemo e piu' scemo: inizio' cosi'|05:30:09|06:53:09|Prequel di &quot;Scemo e piu' scemo&quot;. Fine anni '80, Harry e Lloyd si incontrano nelle aule del liceo e divengono inseparabili. Con D. Richardson, E. Olsen. Regia di T. Miller; USA 2003
-
 |![Icon](https://guidatv.sky.it/uuid/7388e695-cf6d-41fc-8501-45d437b74f0d/cover?md5ChecksumParam=784983fe476f5a58c2fe78c0f06af089)|L.A. Apocalypse - Apocalisse a Los Angeles|06:54:07|08:16:07|.. Angeles - A Los Angeles la terra sta per esplodere e la citta' deve essere evacuata. Calvin deve trovare la sua fidanzata rapita e scappare prima che sia troppo tardi. Regia di M. Sarna; USA 2014
-
 |![Icon](https://guidatv.sky.it/uuid/3346a49c-9e2b-4088-8adc-f466a611e032/cover?md5ChecksumParam=95c5b282103776fb110acc0bde1e6c86)|Salto nel buio|08:16:35|10:09:35|Ispirato al romanzo di I. Asimov. Il tenente Pendelton sara' miniaturizzato e quindi iniettato nel corpo di un coniglio. Con D. Quaid, M. Short. Regia di J. Dante; USA 1987
-
 |![Icon](https://guidatv.sky.it/uuid/eb0aee15-b23e-4ba8-bc41-fa8f094615ed/cover?md5ChecksumParam=d1a73b62891d00260a094073abdd6e9a)|Il rito|10:09:55|11:57:55|Antony Hopkins esorcista in un horror ambientato a Roma. Una riflessione cupa sulla costante presenza del male nella vita umana. Regia di M. Hafstrom; USA 2011
-
 |![Icon](https://guidatv.sky.it/uuid/e1a769b6-055f-4d67-906b-a495945e5e5a/cover?md5ChecksumParam=92a8c9bc8ac415eed0a52c4419abdf1a)|Jason x - morte violenta|11:58:38|13:27:38|Horror fantascientifico, decimo e ultimo capitolo della saga originale Venerdi' 13, che ha come protagonista il serial killer Jason Voorhees. Regia di J. Isaac; USA 2001
-
 |![Icon](https://guidatv.sky.it/uuid/9f60951e-2121-4cfd-b0c3-3fb5ec0c47ad/cover?md5ChecksumParam=30b118c6ef5c6dad8f6ebe533e812b3b)|The Great Wall|13:28:27|15:01:27|Kolossal con protagonista Matt Damon. Nella Cina del XII secolo, due mercenari europei sono coinvolti in una guerra all'ombra della Grande Muraglia. Regia di Y. Zhang; CHN 2016
-
 |![Icon](https://guidatv.sky.it/uuid/97e4d2ad-3e38-4fee-807b-1c17c75c7d31/cover?md5ChecksumParam=88c8e24e6449b52ce717c236b1949a97)|Death race|15:01:59|16:45:59|In questo remake Jason Statham e' un ex pilota, ora in carcere, costretto a disputare una gara con un'auto tecnicamente modificata. Se vincera' tornera' libero. Regia di P. Anderson; USA 2008
-
 |![Icon](https://guidatv.sky.it/uuid/99acbd3f-573d-4fc1-8514-bc2fa2d1dbe8/cover?md5ChecksumParam=2359b2017187907c6549546c579de9b0)|Never back down - mai arrendersi|16:46:16|18:31:16|Un giovane dal difficile passato, per vendicarsi di un'umiliazione subita, si inserisce nel mondo dei combattimenti di arti marziali. Con Sean Faris, Amber Heard Regia di J. Wadlow; USA 2008
-
 |![Icon](https://guidatv.sky.it/uuid/ad2f9e02-3dad-47dc-bc63-fefcb4e00893/cover?md5ChecksumParam=d4786d02492e742529d33ee913e8f20c)|S.y.n.a.p.s.e. - pericolo in rete|18:32:10|20:15:10|Thriller informatico con Ryan Phillippe. Un giovane programmatore e' chiamato a lavorare per una potente societa'. Ma cosa si nasconde dietro al successo? Regia di P. Howitt; USA 2000
-
 |![Icon](https://guidatv.sky.it/uuid/769ee253-bccc-42a9-936e-b97c961a93d6/cover?md5ChecksumParam=c8faed34c9374115447c5d85b2fb13e1)|The Chronicles of Riddick|20:15:11|22:12:11|Riddick approda sul pianeta Helion Prime ed e' coinvolto in una guerra contro i Necromongers, razza di conquistatori guidata da Lord Marshal. Con Vin Diesel Regia di D. Twohy; USA 2004
-
 |![Icon](https://guidatv.sky.it/uuid/52586110-4e97-468c-8654-5c560e6e1979/cover?md5ChecksumParam=3c1b6cdaaa64549910af1e7decc4312c)|John Wick - Capitolo 2|22:12:58|00:13:58|Sequel di &quot;John Wick&quot;, con Keanu Reeves. Il leggendario Uomo Nero rientra nel giro per contrastare il boss che tenta la scalata ai vertici della criminalita'. Regia di C. Stahelski; USA 2017
 
 
