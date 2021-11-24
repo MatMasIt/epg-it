@@ -13,7 +13,7 @@ Canali principali
 * [Rai 1(3](programmi/Rai3.it.md)
 * [Canale 5](programmi/Canale5.it.md)
 * [Italia 1](programmi/Italia1.it.md)
-* [La 7](programmi/la7.it.md)
+* [La 7](programmi/La7.it.md)
 
 ## Archivio
 
