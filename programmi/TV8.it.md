@@ -1,58 +1,113 @@
 # TV 8
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/28a1a20e-d8d0-4f69-8a9a-b206c0161b85/cover?md5ChecksumParam=16a80fc957996b40b11197bf1ebd6124)|Decameron Pie|00:20:00|02:15:00|Regia di D. Leland, con H.Christensen, M.Barton; FRA/GBR 2007 (115 min). Natural Born Idiots - Nella Firenze del Rinascimento, una giovane tenta di proteggere la sua purezza dalle bieche mire di un malvagio nobiluomo. Prox Ep. Natural Born Idiots 2 dic 01:15.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|02:15:00|02:45:00|Ep. 24 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono? Prox Ep. 25 nov 03:00. Rep. 29 nov 04:45
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Coppie che uccidono - 1^TV|02:45:00|03:25:00|Ep. 7 - Attraverso ricostruzioni e testimonianze, ripercorriamo ogni aspetto di storie d'amore che hanno preso una deriva pericolosa, fino a portare giovani coppie di innamorati a commettere atti criminali efferati. Prox Ep. 26 nov 05:15. Rep. 28 nov 02:45
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|03:25:00|05:00:00|Ep. 26 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? Prox 28 nov 03:45.
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|05:00:00|05:30:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|05:30:00|05:58:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?md5ChecksumParam=21a8edfb67447ee93eb98eda01191a10)|TG24 Preview|05:58:00|06:00:00|TG24 Preview.
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|06:00:00|06:30:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/19834cf1-a6f1-481d-a069-910c2998e9b6/cover?md5ChecksumParam=45808461b252c980515b6cbd80d5078f)|Alessandro Borghese Kitchen Sound|06:30:00|06:35:00|S6 Ep71 - Il Maestro Luigi Biasetto e' un punto di riferimento nel campo della pasticceria. Assaggiare le sue specialita' e' un vero viaggio sensoriale e una continua scoperta.
+
 |![Icon](https://guidatv.sky.it/uuid/8de137db-ec50-44a0-be1c-d9e38550412f/cover?md5ChecksumParam=c4089fdae42514c748af8a39489e3a87)|Il negozio del Natale|06:35:00|08:15:00|Regia di T. Ingram, con H.Duff, A.Cupo; USA 2013 (100 min). Appuntamento con l'amore Christmas - Mia, manager in un negozio di cappelli di Natale, aspira a una promozione ma la scelta del suo capo la spiazzera'. Prox Ep. Appuntamento con l'amore Christmas 24 nov 14:05.
+
 |![Icon](https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?md5ChecksumParam=e2e5bfb21c7497776aba0c6e73ad6834)|Tg News SkyTG24|08:15:00|08:20:00|Il telegiornale con le notizie piu' importanti del giorno.
+
 |![Icon](https://guidatv.sky.it/uuid/84722a6e-754a-4d6e-bb54-481c9752f320/cover?md5ChecksumParam=3dd8954430615d777743ce9a43111da8)|Quattro matrimoni in Italia|08:20:00|09:20:00|S2 Ep4 - Quattro spose, che non si conoscono tra di loro, partecipano ciascuna al matrimonio delle altre... in qualita' di giudici! Enza, Giorgia, Laura e Lisa dovranno dare un voto sulle quattro categorie principali oggetto della competizione: location, cibo, abito e evento in generale. In palio una romantica luna di miele. Prox Ep. 25 nov 09:30.
+
 |![Icon](https://guidatv.sky.it/uuid/b68a674f-7103-4fb8-85c4-e891596db9c0/cover?md5ChecksumParam=3dd8954430615d777743ce9a43111da8)|Quattro matrimoni in Italia|09:20:00|10:20:00|S2 Ep3 - Quattro spose, che non si conoscono tra di loro, partecipano ciascuna al matrimonio delle altre... in qualita' di giudici! Maria, Michela, Olta e Sonia dovranno dare un voto sulle quattro categorie principali oggetto della competizione: location, cibo, abito e evento in generale. In palio una romantica luna di miele. Prox Ep. 25 nov 09:30.
+
 |![Icon](https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?md5ChecksumParam=e2e5bfb21c7497776aba0c6e73ad6834)|Tg News SkyTG24|10:20:00|10:30:00|Il telegiornale con le notizie piu' importanti del giorno.
+
 |![Icon](https://guidatv.sky.it/uuid/91094800-e737-49a3-be0e-5f06d6692b3d/cover?md5ChecksumParam=4cfbf7ee79820a09983b2d03c77091c6)|Alessandro Borghese - 4 ristoranti|10:30:00|11:40:00|S6 Ep13 Val d'Orcia e Val di Chiana - Tra i vigneti della Val d'Orcia e della Val di Chiana, Elisa, Paolo, Misha e Marta devono conquistare il palato di Alessandro Borghese e degli sfidanti. Prox ed ultimo Ep. 2 dic 18:15. Rep. 26 nov 11:45
+
 |![Icon](https://guidatv.sky.it/uuid/6b1e28d5-89ad-46d4-84af-075e9286c81e/cover?md5ChecksumParam=8d222e243546c33dd012bc9ac3295638)|Bruno Barbieri - 4 Hotel 3|11:40:00|13:05:00|S3 Ep6 Val Rendena - 4 hotel e' in Val Rendena, tra Madonna di Campiglio e Caderzone Terme. Margherita, Rina, Valentina e Giuseppe: chi soddisfera' un cliente esigente come Bruno Barbieri? Prox Ep. 1 dic 12:45.
+
 |![Icon](https://guidatv.sky.it/uuid/80248786-9188-4598-9df8-64f951885c73/cover?md5ChecksumParam=1819b899d4a889155552fe8e9018033c)|Un viaggio per Natale|13:05:00|14:50:00|Regia di P. Sullivan, con R.Mayes, M.Osmond; USA 2019 (105 min). Appuntamento con l'amore Christmas - Grazie a un viaggio, i due musicisti Lindsey e Wes scoprono di non essere poi cosi' diversi. I due 'rivali' iniziano a conoscersi. Prox Ep. Appuntamento con l'amore Christmas 24 nov 15:50.
+
 |![Icon](https://guidatv.sky.it/uuid/bb22d73b-7a5e-4680-82f9-9d08aeda74ed/cover?md5ChecksumParam=9c10510037556d90702c33fbce812555)|12 giorni a Natale|14:50:00|16:30:00|Regia di M. Wood, con C.Bell, E.Close; USA 2017 (100 min). Appuntamento con l'amore Christmas - Un'organizzatrice di eventi deve aiutare un attraente inventore di giocattoli a preparare un progetto in tempo per Natale. Scocchera' la scintilla. Prox Ep. Appuntamento con l'amore Christmas 25 nov 07:30.
+
 |![Icon](https://guidatv.sky.it/uuid/01895083-44cd-4ecd-9915-736ae6cdf1f3/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|16:30:00|17:10:00|S15 Ep20 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste. Prox Ep. 25 nov 17:30.
+
 |![Icon](https://guidatv.sky.it/uuid/06349f1e-fc11-4698-a403-916e63e96b5a/cover?md5ChecksumParam=8f38c5abc31394809e18bc98ef3c8336)|Alessandro Borghese - 4 Ristoranti Ep.2|17:10:00|18:30:00|S5 Ep3 Cagliari - Alessandro e' a Cagliari. Chi tra Natalia, Pierluigi, Gian Michele e Riccardo si aggiudichera' il titolo di miglior ristorante di nuova generazione di Cagliari? Prox Ep. 27 nov 12:45.
+
 |![Icon](https://guidatv.sky.it/uuid/d60d9504-ca5c-4a48-acee-4b9e9bf933d2/cover?md5ChecksumParam=042a8fd5725892a9e235754a9248837b)|Alessandro Borghese - Piatto ricco|18:30:00|19:25:00|S1 Ep54 - Alessandro Borghese conduce il cooking game show in cui 3 cuochi amatoriali si sfidano fino al giudizio del giudice Gennaro Esposito o decidono di autoeliminarsi in cambio di denaro. Prox Ep. 26 nov 19:30.
+
 |![Icon](https://guidatv.sky.it/uuid/ffcefd4d-a6b1-49b9-ad01-c04132b787b2/cover?md5ChecksumParam=d338c98fba59327a9168a4d3caafd3cf)|Guess My Age - Indovina l'eta' Vip|19:25:00|20:30:00|Ep. 29 - Max Giusti conduce una versione speciale del divertente game show in cui il concorrente, affiancato da Massimo Lopez, dovra' indovinare l'eta' di 7 sconosciuti basandosi su alcuni indizi. Prox Ep. 26 nov 20:30.
+
 |![Icon](https://guidatv.sky.it/uuid/e137c903-1bff-412d-b796-079528718e5d/cover?md5ChecksumParam=7d52601b175cfabeb68fbaf6142a22ae)|X Factor|20:30:00|23:15:00|S15 Ep10 Live 4 - Una nuova doppia eliminazione mette a rischio i concorrenti di Mika, Manuel Agnelli, Emma e Hell Raton. Ospiti della puntata: J Lord, Young Miles e Shari. Prox Ep. 1 dic 21:30. Rep. 27 nov 14:00
+
 |![Icon](https://guidatv.sky.it/uuid/2bd2f9a4-cd4b-44bb-97bd-dd2c3a05395a/cover?md5ChecksumParam=667532b32be68bd3676bd949e49f5463)|Permesso Maisano|23:15:00|00:20:00|Alessandro Cecchi Paone - Maisano scoprira' i segreti di Alessandro Cecchi Paone sbirciando in casa sua e dopo un'intervista piena di colpi di scena dara' la busta con 'la domanda stronza'. Prox Ep. 2 dic 0:15.
+
 |![Icon](https://guidatv.sky.it/uuid/6bd4d44c-1ec5-4426-94c9-2f3ecf816c26/cover?md5ChecksumParam=7c1c545af511cef4cafe9139225743e1)|Just a Gigolo|00:20:00|02:00:00|Regia di O. Baroux, con K.Merad, A.Charrier; FRA 2019 (100 min). Un gigolo' rimasto senza lavoro si fa aiutare dal nipote adolescente nella ricerca di una nuova e ricca cliente. Rep. 1 dic 01:30
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|02:00:00|03:00:00|Ep. 25 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono? Prox ed ultimo Ep. 26 nov 03:15.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|03:00:00|04:00:00|Ep. 2 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? Prox Ep. 26 nov 04:15. Rep. 29 nov 03:45
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|04:00:00|04:10:00|Ep. 5 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? Prox 27 nov 05:30.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Lady Killer|04:10:00|05:00:00|Ep. 17 - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? Rep. 28 nov 03:45
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|05:00:00|05:30:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|05:30:00|05:58:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/1435d750-95d0-4ad2-86df-5a12a9145183/cover?md5ChecksumParam=21a8edfb67447ee93eb98eda01191a10)|TG24 Preview|05:58:00|06:00:00|TG24 Preview.
+
 |![Icon](https://guidatv.sky.it/uuid/9faed0fb-3233-4d57-9922-4d9ba43eaed4/cover?md5ChecksumParam=06ed553800cc6a4e2df11c377ea18556)|TG24 Buongiorno|06:00:00|06:30:00|Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.
+
 |![Icon](https://guidatv.sky.it/uuid/086db21f-ad14-4e58-8b3c-ec2f3e948948/cover?md5ChecksumParam=36822a56f27e8cb4e34e60f460aecd40)|Un bacio sotto il vischio|06:30:00|08:15:00|Regia di K. Connor, con J.Bennet, L.Glaudini; USA 2014 (105 min). Appuntamento con l'amore Christmas - A un party natalizio, Jenna bacia il milionario Cooper ma la paura di invischiarsi in una relazione sbagliata la frena. Cooper pero' sembra fare sul serio. Prox Ep. Appuntamento con l'amore Christmas 25 nov 14:00.
+
 |![Icon](https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?md5ChecksumParam=e2e5bfb21c7497776aba0c6e73ad6834)|Tg News SkyTG24|08:15:00|08:30:00|Il telegiornale con le notizie piu' importanti del giorno.
+
 |![Icon](https://guidatv.sky.it/uuid/52d6fbc7-0d4d-415a-bfba-fcbc175f4501/cover?md5ChecksumParam=3dd8954430615d777743ce9a43111da8)|Quattro matrimoni in Italia|08:30:00|09:30:00|S2 Ep5 - Quattro spose, che non si conoscono tra di loro, partecipano ciascuna al matrimonio delle altre... in qualita' di giudici! Giulia, Manuela Samantha e Sonia dovranno dare un voto sulle quattro categorie principali oggetto della competizione: location, cibo, abito e evento in generale. In palio una romantica luna di miele. Prox Ep. 25 nov 10:30.
+
 |![Icon](https://guidatv.sky.it/uuid/8fc6b16b-6ffb-41b3-92e4-fb94b175e1a5/cover?md5ChecksumParam=3dd8954430615d777743ce9a43111da8)|Quattro matrimoni in Italia|09:30:00|10:30:00|S2 Ep6 - Quattro spose, che non si conoscono tra di loro, partecipano ciascuna al matrimonio delle altre... in qualita' di giudici! Alessia, Elisa, Sara e Valentina dovranno dare un voto sulle quattro categorie principali oggetto della competizione: location, cibo, abito e evento in generale. In palio una romantica luna di miele. Prox Ep. 26 nov 10:30.
+
 |![Icon](https://guidatv.sky.it/uuid/ed268d65-0636-4a0f-bf0a-c4e892e15446/cover?md5ChecksumParam=e2e5bfb21c7497776aba0c6e73ad6834)|Tg News SkyTG24|10:30:00|10:45:00|Il telegiornale con le notizie piu' importanti del giorno.
+
 |![Icon](https://guidatv.sky.it/uuid/f79bcd9f-fc6b-47b3-b729-7155f2093e2b/cover?md5ChecksumParam=d6b791d49a5b4bea6af9aee9430e6c6e)|Alessandro Borghese - 4 ristoranti|10:45:00|11:45:00|S4 Ep10 Milano - Alessandro Borghese e' alla ricerca del miglior ristorante di Milano. I ristoratori valutano location, menu', servizio e conto; ma sara' lo chef ad avere l'ultima parola. Prox Ep. 3 dic 18:15.
+
 |![Icon](https://guidatv.sky.it/uuid/dc832eb6-d3f6-4acf-8119-61c3a9222484/cover?md5ChecksumParam=8d222e243546c33dd012bc9ac3295638)|Bruno Barbieri - 4 Hotel 3|11:45:00|13:00:00|S3 Ep5 Chianti - Bruno Barbieri e' in Chianti. Lungo le strade del vino, con agriturismi e le ville storiche, Francesco, Anna, Filippo e Giacomo contribuiscono a far crescere l'enoturismo. Prox Ep. 1 dic 12:45.
+
 |![Icon](https://guidatv.sky.it/uuid/47a79847-a126-4f97-8513-47e50b856cc0/cover?md5ChecksumParam=1ba57ff73a13af17d1f4c67b1104675c)|Una tradizione di famiglia|13:00:00|14:45:00|Regia di S.R. Monroe, con N.Deloach, M.Faiola; USA 2018 (105 min). Appuntamento con l'amore Christmas - Una scrittrice celebra il Natale nel ricordo della nonna e ritrova la vena creativa superando anche le incomprensioni con il resto della famiglia. Prox Ep. Appuntamento con l'amore Christmas 25 nov 15:45.
+
 |![Icon](https://guidatv.sky.it/uuid/8ffb5019-edb0-4f40-9377-56b7d5fc2331/cover?md5ChecksumParam=b4cdcf2239a6f3b2e1050107fbcf6567)|Natale in vendita|14:45:00|16:30:00|Regia di E. Snoderly, con T.Burns, G.Evigan; USA 2020 (105 min). Appuntamento con l'amore Christmas - Una donna in carriera sceglie di passare il Natale con il suo rivale in affari. Inaspettatamente lo spirito natalizio avra' il sopravvento. E anche l'amore. Prox Ep. Appuntamento con l'amore Christmas 26 nov 07:30.
+
 |![Icon](https://guidatv.sky.it/uuid/66fb78a9-c7b2-447a-9bd8-984937bd3518/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|16:30:00|17:15:00|S15 Ep21 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste. Prox Ep. 26 nov 17:30.
+
 |![Icon](https://guidatv.sky.it/uuid/9da489a1-e4b4-440b-ba2e-02700ba57a57/cover?md5ChecksumParam=4fd3e4f058ad45117769f1dfdee7413e)|UEFA Europa League Prepartita (diretta)|17:15:00|17:45:00|La presentazione dei match della giornata di Europa League, le immagini e le interviste ai protagonisti.
+
 |![Icon](https://guidatv.sky.it/uuid/d16d4223-ca8b-45d7-99d2-ad79c633d8a8/cover?md5ChecksumParam=68f718e5e6de170dcc6b76a0b57406ba)|Lokomotiv Mosca - Lazio|17:45:00|19:45:00|UEFA Europa League (diretta) - 5a g. Le sfide del torneo continentale per club di calcio, secondo per importanza dopo la Champions League. Campione in carica il Villarreal.
+
 |![Icon](https://guidatv.sky.it/uuid/748f343d-e02d-42b1-8dac-3b9a39c83703/cover?md5ChecksumParam=72fc29367ffb85ba1a739bbc50874ad6)|UEFA Europa League Postpartita (diretta)|19:45:00|20:30:00|Le immagini dei match della giornata di Europa League, le interviste ai protagonisti e i commenti della giornata.
+
 |![Icon](https://guidatv.sky.it/uuid/20c83c78-80ec-49f5-8808-753cb6c3dd3a/cover?md5ChecksumParam=c71d26373e644bbf03b4a55ad1f45de9)|Red Zone - 22 miglia di fuoco|20:30:00|22:15:00|Regia di P. Berg, con M.Wahlberg, J.Malkovich; USA 2018 (105 min). Un agente della CIA deve trovare un testimone e scortarlo verso il miglio 22, prima che il nemico possa ucciderlo.
+
 |![Icon](https://guidatv.sky.it/uuid/748f343d-e02d-42b1-8dac-3b9a39c83703/cover?md5ChecksumParam=72fc29367ffb85ba1a739bbc50874ad6)|UEFA Europa League Postpartita (diretta)|22:15:00|23:00:00|Le immagini dei match della giornata di Europa League, le interviste ai protagonisti e i commenti della giornata.
+
 |![Icon](https://guidatv.sky.it/uuid/22ad938a-4398-4251-b239-15fcf6bcfe53/cover?md5ChecksumParam=9e2bf094747a9e9fb66d94a36ef02079)|Ep. 5|23:00:00|23:30:00|Ep. 5 - Il meglio della tre giorni europea analizzato da Leo Di Bello e i suoi ospiti. I temi piu' importanti raccontati attraverso i gol, le dichiarazioni e i personaggi di Champions, Europa e Conference League.
+
 |![Icon](https://guidatv.sky.it/uuid/cb6d7b93-422b-4807-9f92-4940dc7536f7/cover?md5ChecksumParam=247babc7238929cc229396aa39334096)|Terzo Tempo Tutti i Gol di Europa League|23:30:00|00:00:00|Le partite della seconda competizione calcistica europea per club rivissute attraverso le azioni piu' belle ed i gol piu' spettacolari.
+
 |![Icon](https://guidatv.sky.it/uuid/8d237c40-0c4a-4c6f-8375-ebd9663ef124/cover?md5ChecksumParam=d678d557facbe30871e9f41c875e5a27)|Terzo Tempo Tutti i Gol di Champions|00:00:00|00:30:00|Le partite della prima competizione calcistica europea per club rivissute attraverso le azioni piu' belle ed i gol piu' spettacolari.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -1,57 +1,111 @@
 # Paramount Network Italia
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|00:20:00|01:10:00|S4 Ep11 L'innocente - La piu' longeva serie della TV ispirata alle storie della squadra speciale di New York chiamata a risolvere reati e crimini che coinvolgono le vittime piu' indifese.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|01:10:00|02:00:00|S4 Ep12 Il rischio - Quando viene rinvenuta cocaina all'interno di confezioni di latte in polvere, Stabler, Benson e tutta la squadra speciale vanno sotto copertura per risolvere il mistero.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|02:00:00|02:40:00|S2 Ep7 Sensi di colpa - Una donna ha ucciso accidentalmente sua madre, e sta facendo delle cure per la perdita della memoria seguita allo schock. Ma le disgrazie per questa famiglia non sono finite..
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|02:40:00|03:25:00|S5 Ep12 Il teatro dell'invisibile - La bisbetica Mrs Rudge muore nell'incendio divampato nella pensione dove alloggiava.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|03:25:00|04:10:00|S8 Ep7 Lungo il Fiume - Sid torna a Kembleford con una ragazza di cui e' innamorato e con cui condivide anche il lavoro. Ma la serenita' durera' poco
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|04:10:00|05:00:00|S4 Ep3 La caduta del boia - Padre Brown, sacerdote della Chiesa Cattolica Romana, ha una particolare capacita' nel risolvere complessi crimini.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|05:00:00|05:45:00|S15 Ep13 Attimi di follia - La dottoressa Winterberg, specializzata in psichiatria, viene trovata priva di vita presso il suo ambulatorio
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|05:45:00|06:35:00|S16 Ep1 Elogio funebre - Un ragazzo muore in circostanze misteriose. Pochi giorni dopo, anche la ragazza viene trovata morta. Si sospetta un suicidio. Ma non sara' una coincidenza troppo fortuita?
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|06:35:00|07:30:00|S2 Ep3 L'orgoglio dei Pryde - Padre Brown indaga sulla morte di Audrey Diggle, uccisa mentre faceva un tour in un antico castello mascherata con un costume d'epoca.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|07:30:00|08:25:00|S5 Ep8 La piuma scarlatta - La signora McCarthy e' deliziata dalla visita della figlioccia Joselyn, ma padre Brown sospetta che nasconda qualcosa
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|08:25:00|09:25:00|S6 Ep6 Una dolce compagna - La vedova Craig si innamora del reverendo Alden e i due pensano di sposarsi, ma la signora Oleson invia un telegramma al sinodo per denunciare la scarsa moralita' del...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|09:25:00|10:25:00|S6 Ep7 Il sogno di Albert - Laura e Albert si travestono da indiani per halloween, ma Caroline li costringe a fare un sonnellino pomeridiano prima di farli andare alla festa in paese.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|10:25:00|11:25:00|S6 Ep8 L'amicizia puo' fare miracoli - Il signor Edwards, lontano da molti anni da Walnut Grove, fa il taglialegna. Per salvare la figlia Alicia dalla caduta di un albero, rimane ferito ad una gamba
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|11:25:00|12:25:00|S6 Ep9 Il re e' morto - Jonathan Garvey viene assoldato come lottatore dopo aver sconfitto in una rissa l'ex-campione Milo Stavroupolis, ma non sa che e' tutto organizzato dal signor Hart
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|12:25:00|13:20:00|S16 Ep2 Arma 'differenziata' - Un funzionario giudiziario viene ucciso nel suo ufficio, in tribunale, con una pistola di plastica fatta con una stampante 3D.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|13:20:00|14:15:00|S16 Ep3 Il demone interiore - Il fondatore e leader della Lega delle Anime nere, lo psicoterapeuta Daniel Suttner, muore improvvisamente davanti agli occhi della Contessa e di una sua amica.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|14:15:00|15:10:00|S2 Ep8 I baffi della tigre - L'ex colonnello Gerard viene avvelenato dopo aver discusso con suo nipote Edward. Padre Brown indaga per capire se le due cose sono collegate.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|15:10:00|16:05:00|S5 Ep13 Il tanganica verde - Grace trova il padre morto e viene arrestata per il suo omicidio dall'ispettore Mallory. Padre Brown, pero', intende trovare il vero colpevole.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|16:05:00|17:05:00|S6 Ep10 Il guaritore - Su invito della signora Oleson, arriva a Walnut Grove un predicatore che inscena delle guarigioni miracolose
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|17:05:00|18:05:00|S6 Ep11 Ricordi del nonno - I genitori di Caroline stanno per farle visita, ma la madre muore sul treno e il padre cade in depressione.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|18:05:00|19:05:00|S6 Ep12 Contatti incrociati - A Walnut Grove arriva il telefono e la signora Oleson gestisce il centralino nel retro del ristorante di Nellie.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|19:05:00|20:10:00|S6 Ep13 Cuore di pietra - Un adolescente inquieto viene mandato a Walnut Grove a vivere con i nonni, che presto iniziano ad averne paura.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Il giovane ispettore Morse|20:10:00|21:55:00|S4 Ep3 Lazzaretto - Il Signor Bright viene ricoverato in ospedale. Intanto Morse mentre sorveglia un informatore, che e' ricoverato nello stesso ospedale di Bright, si accorge di una serie di strani...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Il giovane ispettore Morse|21:55:00|23:45:00|S4 Ep4 Raccolto - Quando un corpo viene trovato in una palude fuori Oxford, tutti presumono che siano i resti del di un uomo scomparso li' vicino cinque anni prima.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|23:45:00|00:35:00|S4 Ep13 Vendetta personale - Durante l'indagine riguardante la morte di un prigioniero, Benson e Tutuola apprendono che e' stato aggredito prima di essere incarcerato.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|00:35:00|01:30:00|S4 Ep14 Pieta' - Il corpo di una bambina viene trovato all'interno di un frigorifero e i detective indagano per scoprire chi sia e come ci sia arrivata.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|01:30:00|02:15:00|S4 Ep15 Il vaso di Pandora - La piu' longeva serie della TV ispirata alle storie della squadra speciale di New York chiamata a risolvere reati e crimini che coinvolgono le vittime piu' indifese.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|02:15:00|03:00:00|S2 Ep8 I baffi della tigre - L'ex colonnello Gerard viene avvelenato dopo aver discusso con suo nipote Edward. Padre Brown indaga per capire se le due cose sono collegate.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|03:00:00|03:45:00|S5 Ep13 Il tanganica verde - Grace trova il padre morto e viene arrestata per il suo omicidio dall'ispettore Mallory. Padre Brown, pero', intende trovare il vero colpevole.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|03:45:00|04:35:00|S4 Ep4 Lo svitato dell'impero - Mentre Zio Mirth viene arrestato dai poliziotti, Padre Brown si scusa per il ruolo che ha avuto nella sua cattura, ma Zio Mirth si vendichera'...
+
 |![Icon](https://guidatv.sky.it/uuid/6ca2df1f-72ef-43fc-a0fe-e425687bf467/cover?md5ChecksumParam=7cc826904ca878694a675cb716e8bc5a)|Most Ridiculous|04:35:00|05:00:00|S2 Ep2 - Lo show che passa in rassegna i video piu' demenziali che navigano indisturbati sul web grazie al commento dissacrante di due icone della comicita'. Gabriele Cirilli e Dario Cassini.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|05:00:00|05:45:00|S16 Ep2 Arma 'differenziata' - Un funzionario giudiziario viene ucciso nel suo ufficio, in tribunale, con una pistola di plastica fatta con una stampante 3D.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|05:45:00|06:35:00|S16 Ep3 Il demone interiore - Il fondatore e leader della Lega delle Anime nere, lo psicoterapeuta Daniel Suttner, muore improvvisamente davanti agli occhi della Contessa e di una sua amica.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|06:35:00|07:30:00|S2 Ep4 L'ombra del patibolo - Violet Fernsley viene condannata all'impiccagione con l'accusa di aver ucciso suo marito. Ma Padre Brown e' convinto della sua innocenza, e vuol dimostrarla.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|07:30:00|08:25:00|S5 Ep9 Il manuale dei lepidotteri - Graham e Margaret vengono svegliati da un rumore in casa. Lui sventola la mazza da cricket nel buio e colpisce Lewis, che cade a terra morto.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|08:25:00|09:25:00|S6 Ep9 Il re e' morto - Jonathan Garvey viene assoldato come lottatore dopo aver sconfitto in una rissa l'ex-campione Milo Stavroupolis, ma non sa che e' tutto organizzato dal signor Hart
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|09:25:00|10:25:00|S6 Ep10 Il guaritore - Su invito della signora Oleson, arriva a Walnut Grove un predicatore che inscena delle guarigioni miracolose
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|10:25:00|11:25:00|S6 Ep11 Ricordi del nonno - I genitori di Caroline stanno per farle visita, ma la madre muore sul treno e il padre cade in depressione.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|11:25:00|12:25:00|S6 Ep12 Contatti incrociati - A Walnut Grove arriva il telefono e la signora Oleson gestisce il centralino nel retro del ristorante di Nellie.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|12:25:00|13:20:00|S16 Ep4 Eredita' - Un medico legale di Innsbruck scopre del marcio tra i colleghi e viene ucciso. Le indagini della squadra speciale si concentrano sul Congresso dei cardiologi che si sta tenendo in...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Soko - Misteri tra le Montagne|13:20:00|14:15:00|S16 Ep5 Caccia alle streghe - Vari intrecci amorosi fanno da contorno ad una tragedia annunciata.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|14:15:00|15:05:00|S2 Ep9 Il tristo mietitore - Padre Brown indaga sulla morte di un agricoltore, Alfred Tatton, ucciso dopo aver litigato con suo padre, che lo considerava un ubriacone poco di buono.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Padre Brown|15:05:00|16:05:00|S5 Ep14 Fuoco nel cielo - William va nel panico quando vede una forma aliena attraverso la finestra. Il giorno dopo il suo corpo viene trovato in una stanza chiusa a chiave
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|16:05:00|17:05:00|S6 Ep13 Cuore di pietra - Un adolescente inquieto viene mandato a Walnut Grove a vivere con i nonni, che presto iniziano ad averne paura.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|17:05:00|18:05:00|S6 Ep14 Un allievo troppo cresciuto - Bart, un ragazzo di buona famiglia, e' costretto dalla madre ad andare a scuola, ma essendo piu' grande degli altri compagni, inizia a fare il gradasso
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|18:05:00|19:05:00|S6 Ep15 Vecchi compagni di scuola - In una rimpatriata coi vecchi compagni di scuola, Charles e Caroline scoprono che sono tutti diventati benestanti
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|La casa nella prateria|19:05:00|20:10:00|S6 Ep16 Gli evasi - La signora Oleson, Adam, Caroline ed Esther vanno in citta' nella speranza di ottenere fondi per la scuola dei ciechi
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Un principe per l'estate|20:10:00|21:50:00|Mandy e' un'assistente che aspira a diventare un'esperta di pubbliche relazione. Ha l'opportunita' di mettere alla prova le proprie capacita' quando conosce il principe britannico Colin di Edgemer
+
 |![Icon](https://guidatv.sky.it/uuid/bb0ce216-ad9c-4a12-a31b-eaf053359106/cover?md5ChecksumParam=2effd95e76efb63047bb08f184df4f1f)|La dura verita'|21:50:00|23:40:00|Regia di Robert Luketic, con Katherine Heigl, Gerard Butler, Bree Turner; USA 2009. Abby e' una produttrice televisiva iperefficiente sempre alla ricerca del grande amore romantico. Mike e' l'irriverente conduttore di un talk show che demolisce sistematicamente ogni concezione...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|23:40:00|00:30:00|S4 Ep16 Torturata - La piu' longeva serie della TV ispirata alle storie della squadra speciale di New York chiamata a risolvere reati e crimini che coinvolgono le vittime piu' indifese.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

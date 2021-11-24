@@ -1,63 +1,123 @@
 # Focus
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/f759a177-6e72-44ab-8b4d-c7cc3c025f69/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|00:18:29|01:02:29|S18 Ep1 Un bullone fuori posto - Un aereo cargo ha bisogno di effettuare un atterraggio di emergenza, ma qualcosa va storto.
+
 |![Icon](https://guidatv.sky.it/uuid/0495bfb4-5d20-460d-87c6-7b1b09a31718/cover?md5ChecksumParam=a4fb4f00284496366d68aa6f60fb4ba0)|Antico Egitto: I misteri svelati|01:02:41|01:42:41|S1 Ep3 Enigmi insoluti - Gli scienziati cercano di estrarre per la prima volta il DNA di una mummia egizia e cercano di risolvere il mistero del famoso busto della Regina Nefertiti.
+
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Meteo Focus|01:43:00|01:47:00|Meteo Focus
+
 |![Icon](https://guidatv.sky.it/uuid/d8642010-5854-4306-8636-2d37a751ae6d/cover?md5ChecksumParam=a4e40f0d70d0e5d70cc74c6c18708ce7)|Tgcom24|01:47:20|01:50:20|Aggiornamenti in tempo reale, notizie del giorno e ora per ora, approfondimenti di cronaca, politica, esteri, economia e spettacoli.
+
 |![Icon](https://guidatv.sky.it/uuid/b60ebcd4-895e-46f8-941b-53b2eab1b8d9/cover?md5ChecksumParam=fcfa01049983221a3ce828b6fe956ec4)|Freedom oltre il confine - Focus|01:50:29|02:35:29|S1 Ep18 Freedom oltre il confine '21 - focus, 18 - Freedom oltre il confine - Focus
+
 |![Icon](https://guidatv.sky.it/uuid/e452f666-7952-47bd-971f-93c5ba14afc2/cover?md5ChecksumParam=11fa7df3504cb126dc1538ed0474df9c)|Wild North America|02:36:12|03:24:12|S3 Ep3 La terra dei 10.000 laghi - Il Minnesota e' lo Stato americano con il maggior numero di laghi d'acqua dolce, e con temperature invernali che scendono di parecchio sotto lo zero.
+
 |![Icon](https://guidatv.sky.it/uuid/7c8f738b-9e33-4697-a57a-effc33928eb9/cover?md5ChecksumParam=f903b4248dddc40ba55cc38c8e202a35)|Orangutan Jungle School|03:24:21|04:10:21|S1 Ep3 Re Kasper - Sull'isola di Bangamat, il gigantesco Kasper sfugge alla squadra di cattura e si rifugia su un albero. La squadra dovra' fissare una rete sotto di lui per salvargli la vita.
+
 |![Icon](https://guidatv.sky.it/uuid/dfe8c89f-b978-40e8-a4cf-a38cd7dd6419/cover?md5ChecksumParam=467debcbfcec46ec64e7c030ac089f78)|Mondi sotterranei|04:10:36|05:02:36|S1 Ep5 Bouzicourt/Le caverne di ardesia - In un piccolo villaggio francese, si trova un labirinto di tunnel segreti. I paesaggi mozzafiato dei tunnel di lava in Islanda.
+
 |![Icon](https://guidatv.sky.it/uuid/dd9480c6-51bf-4fda-85dd-4d5b7794b5b5/cover?md5ChecksumParam=a5b3502acd22c79c76adfb8af0a670be)|I geroglifici segreti delle piramidi|05:03:10|05:55:10|Tecnologie come la fotogrammetria, gli endoscopi, l'imaging iperspettrale per immergerci nella storia di Saqqara e le tombe dei faraoni. Regia di J. Balestier; FRA 2020
+
 |![Icon](https://guidatv.sky.it/uuid/3841a0fd-1c3d-4195-884e-8960e26a6d94/cover?md5ChecksumParam=bdde99d1c63c82545f7d44a88f555b79)|Viaggiatori - Uno sguardo sul mondo|05:55:36|06:09:36|S1 Ep69 A Los Roques, via col vento - Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi.
+
 |![Icon](https://guidatv.sky.it/uuid/2a877c66-e2ef-4c57-b1dd-218265ca3294/cover?md5ChecksumParam=e0ec1538a0dee661e61150fd0dc3b79f)|Indagini ad alta quota|06:10:09|06:54:09|S17 Ep9 Le uniche tracce - Mentre sta sorvolando uno dei luoghi piu' densamente popolati della Terra, il TransAsia Flight 235 si piega a sinistra e scende in picchiata nel fiume Keelung di Taipei.
+
 |![Icon](https://guidatv.sky.it/uuid/7f785d10-9335-4f37-9f03-e60dcfe2ca4f/cover?md5ChecksumParam=bf4ee123d628b49ff60d348c76a0879e)|Misteri ai raggi X|06:54:22|07:55:22|S1 Ep7 Crimini inquietanti - Alcuni dei crimini piu' inquietanti avvenuti negli Stati Uniti. Il rapimento di Charles Lindbergh e lomicidio tuttora irrisolto di Elizabeth Short.
+
 |![Icon](https://guidatv.sky.it/uuid/d98f038d-b7d0-485c-84a1-a0a506bdcd97/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|07:55:37|08:50:37|S7 Ep1 L' Amazzonia e la maledizione dei nazisti - Larcheologa Bellinger scoprira' il ruolo di un antico cerchio di pietre e i simboli incisi nella terra in Amazzonia, legati a monaci nazisti.
+
 |![Icon](https://guidatv.sky.it/uuid/c3ee6d3b-7625-4f3c-9d4f-e01ec778a929/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|08:51:03|09:49:03|S7 Ep2 Il raggio della morte - Un sospetto raggio della morte, una misteriosaisola delle orge di Epstein e un pericoloso fiume dalla schiuma bianca.
+
 |![Icon](https://guidatv.sky.it/uuid/328c4165-7898-44aa-abaa-5e1fce8b3323/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|09:49:27|10:42:27|S18 Ep3 Distrazione fatale - Diretto a Salt Lake City, il volo Delta Airlines 1141 si schianta e finisce in fiamme. Muoiono 14 persone.
+
 |![Icon](https://guidatv.sky.it/uuid/4921cea4-067b-415a-b9f3-ca85b5d6f33c/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|10:42:49|11:44:49|S6 Ep7 Armageddon usa: uomo vs natura - Cosa sono le strane macchie bianche che si vedono in unimmagine satellitare di una citta' fantasma dellOklahoma?
+
 |![Icon](https://guidatv.sky.it/uuid/e452f666-7952-47bd-971f-93c5ba14afc2/cover?md5ChecksumParam=11fa7df3504cb126dc1538ed0474df9c)|Wild North America|11:45:45|12:40:45|S3 Ep3 La terra dei 10.000 laghi - Il Minnesota e' lo Stato americano con il maggior numero di laghi d'acqua dolce, e con temperature invernali che scendono di parecchio sotto lo zero.
+
 |![Icon](https://guidatv.sky.it/uuid/7c8f738b-9e33-4697-a57a-effc33928eb9/cover?md5ChecksumParam=f903b4248dddc40ba55cc38c8e202a35)|Orangutan Jungle School|12:41:03|13:52:03|S1 Ep3 Re Kasper - Sull'isola di Bangamat, il gigantesco Kasper sfugge alla squadra di cattura e si rifugia su un albero. La squadra dovra' fissare una rete sotto di lui per salvargli la vita.
+
 |![Icon](https://guidatv.sky.it/uuid/a4ebe319-eb0e-46d4-ab01-5b35f104987e/cover?md5ChecksumParam=8f9b256ce05ee1313857a09bc2151501)|LE MEGASTRUTTURE DELLE ANTICHE CIVILTA'|13:52:41|14:59:41|S1 Ep3 Petra, la rosa del deserto - Un gioiello perduto nel deserto giordano, una delle citta' piu' misteriose del mondi antico. Al suoingresso si erge un capolavoro di ingegneria, il tesoro.
+
 |![Icon](https://guidatv.sky.it/uuid/e12f08a5-83e4-4beb-95b4-aa660ba66b21/cover?md5ChecksumParam=00b1267715a6bc7b206008d95e353ad8)|The underwater cave: Cenote|15:00:34|16:07:34|Un viaggio tra le caratteristiche grotte marine dello Yucatan che ci forniscono le chiavi ai misteri irrisolti della civilta' Maya. Regia di S. Kim; KOR 2018
+
 |![Icon](https://guidatv.sky.it/uuid/037631b9-55f3-406e-a389-ec8d710eb7c3/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|16:08:22|17:02:22|S18 Ep2 L'apparenza inganna - Il volo 222 della TransAsia si schianta su un'isola. La colpa e' davvero da attribuire ad una tempesta?
+
 |![Icon](https://guidatv.sky.it/uuid/0495bfb4-5d20-460d-87c6-7b1b09a31718/cover?md5ChecksumParam=a4fb4f00284496366d68aa6f60fb4ba0)|Antico Egitto: I misteri svelati|17:02:40|18:09:40|S1 Ep3 Enigmi insoluti - Gli scienziati cercano di estrarre per la prima volta il DNA di una mummia egizia e cercano di risolvere il mistero del famoso busto della Regina Nefertiti.
+
 |![Icon](https://guidatv.sky.it/uuid/b60ebcd4-895e-46f8-941b-53b2eab1b8d9/cover?md5ChecksumParam=fcfa01049983221a3ce828b6fe956ec4)|Freedom oltre il confine - Focus|18:10:26|19:14:26|S1 Ep18 Freedom oltre il confine '21 - focus, 18 - Freedom oltre il confine - Focus
+
 |![Icon](https://guidatv.sky.it/uuid/1d47a244-d27d-4922-9595-df7ccab2bde7/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|19:15:03|20:15:03|S6 Ep8 L' oscuro segreto dell'Amazzonia - Larcheologo Mark Horton si reca nella foresta pluviale della Guyana Francese per esplorare i resti di misteriose strutture individuate da immagini aeree.
+
 |![Icon](https://guidatv.sky.it/uuid/d6c7d7e7-b0e6-4d60-adf2-863d203fff07/cover?md5ChecksumParam=b49238e2ee26e3ee1d20f6b520932a92)|FIERCE!|20:15:12|21:10:12|S1 Ep3 Fierce! - In questo episodio Steve e' in Messico alle prese con un serpente a sonagli lungo due metri.
+
 |![Icon](https://guidatv.sky.it/uuid/83a25375-fd44-4c8c-b9d5-ed6f50d876ec/cover?md5ChecksumParam=7e9f743d5a75e6e51fcb0c575460c90c)|INGEGNERI NATI - QUANDO GLI ANIMALI COSTRUISCONO|21:10:29|22:20:29|.. costruiscono - S1 Ep1 Il nido - Usando i materiali piu' comuni in natura gli uccelli sanno creare meraviglie che sembrano realizzate da abili mani e non da becchi.
+
 |![Icon](https://guidatv.sky.it/uuid/6e1de991-2e68-4eba-992b-b5ddb29b6d91/cover?md5ChecksumParam=118be0f6fc65ca4947d24c55d52fb604)|Universo ai raggi x|22:20:59|23:20:59|S3 Ep9 I segreti di Plutone - Plutone e' noto in campo astronomico come un pianeta ricco di energia. Gli scienziati tentano di scoprire la sua misteriosa storia.
+
 |![Icon](https://guidatv.sky.it/uuid/8e42d27c-a8f8-480f-b64c-c00406751cb6/cover?md5ChecksumParam=118be0f6fc65ca4947d24c55d52fb604)|Universo ai raggi x|23:21:40|00:21:40|S3 Ep10 - Una teoria rivoluzionaria ritiene che nell'Universo tutto sia un ologramma, inclusi gli umani. Esistono prove a sostegno di questa tesi?
+
 |![Icon](https://guidatv.sky.it/uuid/328c4165-7898-44aa-abaa-5e1fce8b3323/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|00:21:54|01:05:54|S18 Ep3 Distrazione fatale - Diretto a Salt Lake City, il volo Delta Airlines 1141 si schianta e finisce in fiamme. Muoiono 14 persone.
+
 |![Icon](https://guidatv.sky.it/uuid/a2d9b390-fffa-4213-98be-511df8aefb04/cover?md5ChecksumParam=a4fb4f00284496366d68aa6f60fb4ba0)|Antico Egitto: I misteri svelati|01:06:03|01:42:03|S1 Ep4 I segreti di una civilta' millenaria - Si cerca di dare una risposta ai misteri riguardanti la tomba del potente sacerdote Imhotep ed alla costruzione della Piramide di Cheope.
+
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Meteo Focus|01:43:00|01:50:00|Meteo Focus
+
 |![Icon](https://guidatv.sky.it/uuid/d8642010-5854-4306-8636-2d37a751ae6d/cover?md5ChecksumParam=a4e40f0d70d0e5d70cc74c6c18708ce7)|Tgcom24|01:50:33|01:53:33|Aggiornamenti in tempo reale, notizie del giorno e ora per ora, approfondimenti di cronaca, politica, esteri, economia e spettacoli.
+
 |![Icon](https://guidatv.sky.it/uuid/2972edb5-beeb-4948-a1ae-1a976a7c3e8b/cover?md5ChecksumParam=fcfa01049983221a3ce828b6fe956ec4)|Freedom oltre il confine - Focus|01:53:42|02:40:42|S1 Ep19 Freedom oltre il confine - Freedom oltre il confine - Focus
+
 |![Icon](https://guidatv.sky.it/uuid/5146ad3f-c44c-4942-9683-ef74e9b8e7f0/cover?md5ChecksumParam=11fa7df3504cb126dc1538ed0474df9c)|Wild North America|02:40:52|03:28:52|S3 Ep4 La vita segreta delle fattorie - Campi coltivati, pascoli e animali da allevamento costituiscono il perno attorno a cui ruota la produzione delle fattorie americane.
+
 |![Icon](https://guidatv.sky.it/uuid/ecebc55f-d367-4aa7-bfcc-1685f51eab84/cover?md5ChecksumParam=f903b4248dddc40ba55cc38c8e202a35)|Orangutan Jungle School|03:29:01|04:15:01|S1 Ep4 I disadattati - In questa puntata vedremo Valentino, Yutris e il resto del gruppo 2, fare visita al gruppo 3 per scoprire le gioie di un improvvisato parco acquatico.
+
 |![Icon](https://guidatv.sky.it/uuid/a924629f-3deb-470e-8346-ea9ac96b39d8/cover?md5ChecksumParam=bdde99d1c63c82545f7d44a88f555b79)|Viaggiatori - Uno sguardo sul mondo|04:15:07|04:27:07|S1 Ep68 Croazia, un mare di meraviglie - Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi.
+
 |![Icon](https://guidatv.sky.it/uuid/15f3b2a7-4dac-4685-bca9-f9976ae989b0/cover?md5ChecksumParam=467debcbfcec46ec64e7c030ac089f78)|Mondi sotterranei|04:28:00|05:12:00|S1 Ep7 I tunnel bellici di Jersey, Kaimakli e Pilsen - Luoghi sommersi : i bunker voluti da Hitler, le citta' della Cappadocia e i sotterranei della Pilsen in Boemia.
+
 |![Icon](https://guidatv.sky.it/uuid/7f785d10-9335-4f37-9f03-e60dcfe2ca4f/cover?md5ChecksumParam=bf4ee123d628b49ff60d348c76a0879e)|Misteri ai raggi X|05:12:18|05:29:18|S1 Ep7 Crimini inquietanti - Alcuni dei crimini piu' inquietanti avvenuti negli Stati Uniti. Il rapimento di Charles Lindbergh e lomicidio tuttora irrisolto di Elizabeth Short.
+
 |![Icon](https://guidatv.sky.it/uuid/33950414-9fe9-4238-9690-2622f1028f63/cover?md5ChecksumParam=bdde99d1c63c82545f7d44a88f555b79)|Viaggiatori - Uno sguardo sul mondo|05:30:00|05:53:00|S1 Ep35 Azzorre, viaggio al centro della terra - Alla scoperta delle bellezze artistiche e naturali del mondo, dalla Polinesia all'Indonesia, dall'Africa ai Caraibi.
+
 |![Icon](https://guidatv.sky.it/uuid/037631b9-55f3-406e-a389-ec8d710eb7c3/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|05:53:28|06:37:28|S18 Ep2 L'apparenza inganna - Il volo 222 della TransAsia si schianta su un'isola. La colpa e' davvero da attribuire ad una tempesta?
+
 |![Icon](https://guidatv.sky.it/uuid/ac135222-d2fa-4b25-bbeb-1ee2dffbb94e/cover?md5ChecksumParam=bf4ee123d628b49ff60d348c76a0879e)|Misteri ai raggi X|06:37:37|07:32:37|S1 Ep8 Avvistamenti ufo di massa - Lincontro di Kelly Hopkinsville, il caso delle Luci di Phoenix e la comparsa di un disco volante sullaeroporto di Chicago O'Hare.
+
 |![Icon](https://guidatv.sky.it/uuid/9c80446b-5e12-48de-87ba-0b3a460a7509/cover?md5ChecksumParam=632c9d4a854afb5d8eadb1bbdacc5e4b)|Giga strutture 1|07:32:51|08:31:51|S1 Ep1 Giga strutture - 15 anni, 5 miliardi di sterline e 68 enormi cancelli d'acciaio: il progetto di costruire una vasta barriera marina per proteggere Venezia dalle inondazioni.
+
 |![Icon](https://guidatv.sky.it/uuid/35624ae9-44cf-4b65-a248-a93fb6673cdf/cover?md5ChecksumParam=632c9d4a854afb5d8eadb1bbdacc5e4b)|Giga strutture 1|08:32:44|09:33:44|S1 Ep2 Giga strutture - Come elevare le sei torri centrali della Sagrada Familia di Barcellona, rendendola la chiesa piu' alta del mondo, 140 anni dopo che l'architetto anticonformista Gaudi'.
+
 |![Icon](https://guidatv.sky.it/uuid/b6ed2663-7da7-46f7-9ae3-574d3397a640/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|09:34:25|10:35:25|S18 Ep5 Ostacoli mortali - Durante un volo di dimostrazione, un jet russo si schianta contro una montagna uccidendo le persone a bordo. Gli investigatori si trovano davanti ad una dura verita'.
+
 |![Icon](https://guidatv.sky.it/uuid/1d47a244-d27d-4922-9595-df7ccab2bde7/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|10:35:40|11:32:40|S6 Ep8 L' oscuro segreto dell'Amazzonia - Larcheologo Mark Horton si reca nella foresta pluviale della Guyana Francese per esplorare i resti di misteriose strutture individuate da immagini aeree.
+
 |![Icon](https://guidatv.sky.it/uuid/5146ad3f-c44c-4942-9683-ef74e9b8e7f0/cover?md5ChecksumParam=11fa7df3504cb126dc1538ed0474df9c)|Wild North America|11:33:24|12:36:24|S3 Ep4 La vita segreta delle fattorie - Campi coltivati, pascoli e animali da allevamento costituiscono il perno attorno a cui ruota la produzione delle fattorie americane.
+
 |![Icon](https://guidatv.sky.it/uuid/ecebc55f-d367-4aa7-bfcc-1685f51eab84/cover?md5ChecksumParam=f903b4248dddc40ba55cc38c8e202a35)|Orangutan Jungle School|12:36:49|13:40:49|S1 Ep4 I disadattati - In questa puntata vedremo Valentino, Yutris e il resto del gruppo 2, fare visita al gruppo 3 per scoprire le gioie di un improvvisato parco acquatico.
+
 |![Icon](https://guidatv.sky.it/uuid/592c5117-35a4-4342-9e21-a6dd0dc14e12/cover?md5ChecksumParam=cd318da6a5c5311b4e36f3d5df615ba0)|WILD LATAM|13:40:51|14:54:51|S1 Ep6 Wild latam, 6 - Illanos: sconfinate pianure del Sud America, con distese paludose che mostrano fertilita' e vita.
+
 |![Icon](https://guidatv.sky.it/uuid/e9272308-5150-401f-bcd7-27a7fbe63a49/cover?md5ChecksumParam=ad5fe6d9e7d69516c14c5d8d84b2d2fa)|Planet Earth|14:54:55|15:58:55|.. natura - S2 Ep1 Isole - Con Richard Attenborough conosceremo gli animali che popolano le isole piu' remote del pianeta. Secoli d'isolamento hanno creato habitat particolari per piante ed animali.
+
 |![Icon](https://guidatv.sky.it/uuid/ffa60d80-3975-4736-8f4a-43d74e0b896f/cover?md5ChecksumParam=0963f469ecb36d207ec89e1d2147d55a)|Indagini ad alta quota|15:59:52|16:58:52|S18 Ep4 Zona di guerra - Un aereo commerciale finisce in una zona di guerra nell'est dell'Ucraina. I dati mostrano che il velivolo e' stato colpito da un missile. Si investiga per scoprire la verita'.
+
 |![Icon](https://guidatv.sky.it/uuid/a2d9b390-fffa-4213-98be-511df8aefb04/cover?md5ChecksumParam=a4fb4f00284496366d68aa6f60fb4ba0)|Antico Egitto: I misteri svelati|16:59:12|18:03:12|S1 Ep4 I segreti di una civilta' millenaria - Si cerca di dare una risposta ai misteri riguardanti la tomba del potente sacerdote Imhotep ed alla costruzione della Piramide di Cheope.
+
 |![Icon](https://guidatv.sky.it/uuid/2972edb5-beeb-4948-a1ae-1a976a7c3e8b/cover?md5ChecksumParam=fcfa01049983221a3ce828b6fe956ec4)|Freedom oltre il confine - Focus|18:04:07|19:13:07|S1 Ep19 Freedom oltre il confine - Freedom oltre il confine - Focus
+
 |![Icon](https://guidatv.sky.it/uuid/2c3ab445-bb57-4204-b21f-5ca886233fca/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|19:13:33|20:14:33|S6 Ep9 Terrore nella citta' fantasma - Gli orrori di una vecchia prigione irlandese; una citta' fantasma nellisola di Cipro; strani simboli incisi nel terreno in Kansas.
+
 |![Icon](https://guidatv.sky.it/uuid/dfcd9ba6-2a6d-4efc-a00e-aa9b89253a2e/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|20:14:35|21:02:35|S7 Ep3 Sulle tracce dei Pitti - Larcheologa Bellinger in Scozia fa luce sui resti di una costruzione sulla cima di una montagna e su incisioni poco distanti attribuite allantico popolo dei Pitti.
+
 |![Icon](https://guidatv.sky.it/uuid/94105975-f234-4a0a-b17b-89db834de0ee/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|21:02:41|21:58:41|S7 Ep4 Vichinghi: fra mito e realta' - Le immagini satellitari rivelano un cimitero vichingo in Norvegia con i simboli delle mitologia e una particolare tomba a forma di stella.
+
 |![Icon](https://guidatv.sky.it/uuid/c7431f73-3e01-4412-b4bb-5c95059aaa33/cover?md5ChecksumParam=f006037012141718c4edd53792dffe92)|Freedom oltre il confine - Focus|21:59:16|00:37:16|S1 Ep12 Freedom oltre il confine-21 - focus, 12 - Roberto Giacobbo ci conduce in un viaggio per scoprire l'ignoto e farsi stupire dalle meraviglie della natura e della storia.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

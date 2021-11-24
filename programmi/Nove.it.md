@@ -1,59 +1,115 @@
 # Nove
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|00:00:00|00:55:00|Scena del crimine - Quando Bard viene trovato morto nel suo seminterrato in Ohio, i detective pensano a una rapina. Ma un amico conduce gli agenti a qualcuno di inaspettato.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|00:55:00|01:50:00|Jane Doe - Judith Therianos era uno spirito libero. Ma i detective scoprono che la donna non era consapevole del pericolo che stava correndo poco prima di essere uccisa.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|01:50:00|02:35:00|Frenesia - La moglie di Billy Shuler denuncia la scomparsa del marito, predicatore in pensione. Ma dopo cinque mesi, il caso resta ancora irrisolto.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|02:35:00|03:30:00|Comportamento strano - Beverly viene uccisa ed e' il suo ex fidanzato a scoprire il cadavere. La polizia usa le telecamere di sorveglianza per ricostruire i suoi ultimi momenti di vita.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|03:30:00|04:15:00|L'ultima risata - Una madre divorziata scompare. Il caso prende una piega inaspettata quando i racconti della famiglia e degli amici forniscono un profilo della donna molto diverso.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Delitti di famiglia|04:15:00|05:00:00|Santi e peccatori - Mesi dopo il suicidio della madre alcolizzata, Brae vede uno sconosciuto con una maschera che uccide il suo patrigno. Chi e' il colpevole e perche' ha preso di mira Tim?
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Delitti di famiglia|05:00:00|06:00:00|Non uccidete il messaggero - Una famiglia, proprietaria di un'azienda di cosmetici, scopre che la propria bellezza e' solo apparente. Uno scontro per il controllo della societa' scatena una cospirazione che sfocia in un omicidio.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|06:00:00|06:35:00|Lezioni di guida - Fabio e Milena vogliono convolare a nozze. Per aiutarla a distendere i nervi e occuparsi di altro, Fabio le suggerisce di iscriversi a scuola guida. Qui che Milena incontra David.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|06:35:00|07:00:00|La crisi dei quaranta - La gran differenza d'eta' tra Jerry e Raffaella sembra non essere un problema. Finche', a una rimpatriata tra compagni di classe, l'uomo non incontra dopo tanti anni il suo primo amore, Marta.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|07:00:00|07:25:00|Saremo in tre - Quando Silvia rimane incinta, Davide fatica a responsabilizzarsi. L'uomo incontra casualmente Teresa, studentessa universitaria che gli ricorda anni piu' spensierati...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|07:25:00|08:00:00|Doppia coppia - Anna e Antonio sono una coppia che gestisce un supermarket. Durante una vacanza sul Gargano conoscono Davide e Dora. L'iniziale amicizia fra le due coppie sfocera' in un piccante incrocio di amanti.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|08:00:00|08:30:00|Miti consigli - Il rapporto tra Diego e Maria ha una sfumatura paterna. Quando la giovane naive incappa in Max, fascinoso cantautore che a differenza di Diego la mette sul suo stesso piano, con l'empatia arriva l'attrazione...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|08:30:00|09:30:00|Avvelenati dall'amore - Norma aveva paura di sua madre: la donna ha distrutto la vita delle persone a lei piu' vicine. Dopo alcune morti, Norma e' costretta a consegnarla alla polizia.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|09:30:00|10:35:00|Figlio spaventoso - Per piu' di 25 anni, Joyce Alexander e' stata terrorizzata da suo figlio. La donna teme che lui stia organizzando la sua vendetta dalla prigione in cui e' rinchiuso.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|10:35:00|11:30:00|Devi scappare - Robin Healey non aveva idea di quanto potesse essere malvagio suo marito. La donna se ne accorge solo quando riesce a fuggire dall'uomo per il suo bene.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|11:30:00|12:35:00|Segreti - L'improvvisa morte del padre manda in frantumi il mondo di Cindy Taylor. Anni dopo, Cindy scopre che quanto e' accaduto a suo padre e' solo uno dei tanti segreti nascosti dalla madre.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Donne mortali|12:35:00|13:30:00|Senza amore - Lisa, una moglie molto amorevole, inizia una relazione con un bodybuilder. I due pianificano di uccidere il marito della donna.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Donne mortali|13:30:00|14:30:00|Amore tossico - Il matrimonio tra Jeanne e Michael diventa insostenibile; le continue discussioni portano a uno dei piu' strani omicidi che gli investigatori abbiano mai visto.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Storie criminali - Un omicidio...|14:30:00|16:25:00|...irrisolto? - Regia di R. Short. Florida, 2011. Accusata di aver ucciso la figlia di tre anni, Casey Anthony e' stata definita 'la madre che tutta l'America odia'. Ripercorriamo zone d'ombra e incongruenze di uno dei piu' discussi delitti americani.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Sulle orme dell'assassino|16:25:00|17:20:00|Giustificazione - L'omicidio di un uomo porta ad indagare sul mondo dei collezionisti. Inoltre, una madre di cinque figli viene uccisa.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Sulle orme dell'assassino|17:20:00|18:15:00|Agente ucciso - Il detective Joe Kenda deve affrontare un difficile caso quando scopre che un suo collega e' stato ucciso. Inizia una caccia all'uomo senza fine.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Cash or Trash - Chi offre di piu'?|18:15:00|19:15:00|S1 Ep8 - Paolo Conticini conduce una divertente asta al rialzo in cui cinque mercanti d'arte si contendono 'tesori' proposti da persone comuni. Chi fara' l'affare migliore?
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Deal With It - Stai al gioco - 1^TV|19:15:00|20:35:00|Ep. 37 - Torna Gabriele Corsi con una nuova stagione ricca di novita', tra cui una rinnovata control room, scherzi inediti in una suite d'albergo e tanti nuovi ospiti VIP!
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Accordi &amp; disaccordi (diretta)|20:35:00|22:00:00|S9 Ep11 - Condotto da Andrea Scanzi e Luca Sommi, insieme a Marco Travaglio, il talk show sull'attualita' politica e non solo, in cui due ospiti discutono dei temi quotidiani.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Aldo, Giovanni e Giacomo - Abbiamo...|22:00:00|23:15:00|...fatto 30... Ep. 1 - Due serate evento per festeggiare il 30esimo anniversario alla carriera di Aldo, Giovanni e Giacomo. Arturo Brachetti intervista il trio comico.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Oltre la vittoria - 1^TV|23:15:00|23:55:00|La mano di Dio - Nei due gol con cui Maradona schianta l'Inghilterra nei Mondiali del 1986 c'e' il genio del giocatore ma anche la storia di un conflitto che segnera' il popolo argentino.
+
 |![Icon](https://guidatv.sky.it/uuid/49f55347-3769-4933-ba14-b1ab7a716e69/cover?md5ChecksumParam=ee07ee70459299031d9216813af6237a)|Maradona: le verita' nascoste|23:55:00|00:50:00|Ci sono uomini che diventano leggenda, ma la fama ha comunque un prezzo. Questo speciale racconta gli anni piu' affascinanti e controversi della carriera calcistica del mito Diego Armando Maradona
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|00:50:00|01:40:00|Nel deserto - Il corpo di un uomo viene trovato vicino un parco giochi in Nuovo Messico. La caccia all'uomo della polizia porta a una scoperta sconcertante.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|01:40:00|02:30:00|Indizio - Quando il corpo senza vita di Bianca viene trovato nelle zone rurali dell'Arkansas, la polizia ha solo un indizio ma e' qualcosa di insolito addosso al cadavere della vittima.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|02:30:00|03:20:00|Impronta insanguinata - Un uomo viene trovato morto in camera sua e gli investigatori cercano delle prove. Il caso resta irrisolto, fin quando la polizia dell'Ohio riceve una dritta.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Crimini in diretta|03:20:00|04:10:00|Fuoco nel deserto - Una postina e' scomparsa da giorni. Il suo cadavere e' stato bruciato nel deserto e i detective vanno alla ricerca dell'assassino.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Delitti di famiglia|04:10:00|05:00:00|Il legame che ci unisce - L'amorevole padre Andres lascia sua moglie per un'altra donna, ma viene ritrovato morto nei boschi qualche settimana dopo. Cosa sanno la moglie e le figlie sulla sua morte?
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Delitti di famiglia|05:00:00|06:15:00|Bellezze infernali - Le sorelle Allman sono profondamente legate alla loro unita comunita' di Oakland. Quando gli spacciatori minacciano il quartiere, la famiglia decide di proteggere la zona.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|06:15:00|06:45:00|Serve altro - Di nuovo soli dopo tanto tempo, Massenzio e Tina faticano a ritrovare l'intesa dei primi anni. Un giorno il rubinetto che gocciola costringe Tina a chiamare un idraulico...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|06:45:00|07:15:00|Un tradimento da paura - Artemio e Silvia hanno un solo grande problema: le mille fobie di lui. Silvia decide di rivolgersi all'ultima spiaggia che le resta, Betta, una vecchia e cara amica con un'infarinatura di psicologia.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|07:15:00|07:45:00|Pesca d'annata - La vita di Enrico e Antonella e' tranquilla fino a quando Enrico conosce Carmen, nuova compagna di Gianluca, il padre di Antonella. Tra il giovane Enrico e la matura Carmen si accende la passione.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|07:45:00|08:15:00|Punto di pressione - Marina e Luca stanno insieme da diverso tempo e vogliono sposarsi. Per ravvivare il rapporto, Luca porta Marina alle terme ma proprio in quel luogo lei conosce un attraente massaggiatore che risvegliera' le sue fantasie.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Alta infedelta'|08:15:00|08:45:00|Bang Bang - Laura e' una ricca ereditiera. Si reca spesso al circolo sportivo accompagnata dal fidanzato Costantino, che per ingannare il tempo siede al bar. Un giorno, a servire il caffe', appare una nuova cameriera.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|08:45:00|09:40:00|Segreti - L'improvvisa morte del padre manda in frantumi il mondo di Cindy Taylor. Anni dopo, Cindy scopre che quanto e' accaduto a suo padre e' solo uno dei tanti segreti nascosti dalla madre.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|09:40:00|10:40:00|Sapete chi e' mio fratello - Karen Kuzma adorava suo fratello. La donna non poteva immaginare che lui sarebbe diventato il serial killer piu' famoso della storia statunitense.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|10:40:00|11:40:00|E' ancora mio figlio - Walter tenta di proteggere suo figlio Ian. Ma quando Ian cresce e commette un crimine terribile, Walter intuisce che avrebbe potuto evitare una tragedia.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Ho vissuto con un killer|11:40:00|12:40:00|Nei miei sogni - Gwen Bailey pensava di aver trovato la sua fortuna sposando Norman Starnes. A distanza di molti anni, realizza di vivere accanto a un vero e proprio mostro.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Donne mortali|12:40:00|13:40:00|Amici e nemici - Una giovane madre stringe amicizia con Doris, una donna piu' grande. Ma la generosita' di Doris va oltre e la donna deve combattere per sopravvivere.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Donne mortali|13:40:00|14:40:00|Il matrimonio ideale - Una donna e suo marito hanno un matrimonio perfetto, ma i due condividono un segreto. Durante una notte, qualcosa va storto e tre persone muoiono.
+
 |![Icon](https://guidatv.sky.it/uuid/5809dfd3-94be-47d1-b554-d2d5af6a6b41/cover?md5ChecksumParam=5196e10199fea4f6d8c54007904d3fed)|Storie criminali - L'amore bugiardo|14:40:00|16:25:00|Regia di R. Short, con J.Aldridge. La vera storia che ha ispirato Gone Girl ('L'amore bugiardo') con protagonista Ben Affleck che, a seguito dell'improvvisa scomparsa di sua moglie Amy, vede tutti i riflettori puntati su di lui...
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Sulle orme dell'assassino|16:25:00|17:20:00|Il mio peggior incubo - La polizia scopre che durante un'esplosione e' morto un ragazzo di 13 anni. Ma per catturare il killer devono capire chi era il vero obiettivo della bomba.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Sulle orme dell'assassino|17:20:00|18:20:00|Il risveglio del mostro - Il detective Kenda indaga sulla violenza subita da una giovane madre. La donna potrebbe essere stata aggredita da un violentatore seriale.
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Cash or Trash - Chi offre di piu'?|18:20:00|19:20:00|S1 Ep9 - Paolo Conticini conduce una divertente asta al rialzo in cui cinque mercanti d'arte si contendono 'tesori' proposti da persone comuni. Chi fara' l'affare migliore?
+
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Deal With It - Stai al gioco - 1^TV|19:20:00|20:25:00|Ep. 38 - Torna Gabriele Corsi con una nuova stagione ricca di novita', tra cui una rinnovata control room, scherzi inediti in una suite d'albergo e tanti nuovi ospiti VIP!
+
 |![Icon](https://guidatv.sky.it/uuid/007b9113-2288-43f7-86ab-684773a944e6/cover?md5ChecksumParam=d11ccace808699de038e7037f81a2691)|Freddie Mercury - A Kind Of Magic|20:25:00|21:40:00|Regia di M. Cain. A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
+
 |![Icon](https://guidatv.sky.it/uuid/ed017e1a-7926-47fa-8b0e-a4751c98ad77/cover?md5ChecksumParam=b80ec52e205affcd8dde10dd86d99427)|Freddie Mercury - The Great Pretender|21:40:00|23:25:00|Regia di R. Thomas; GBR 2012 (105 min). A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
+
 |![Icon](https://guidatv.sky.it/uuid/007b9113-2288-43f7-86ab-684773a944e6/cover?md5ChecksumParam=d11ccace808699de038e7037f81a2691)|Freddie Mercury - A Kind Of Magic|23:25:00|00:20:00|Regia di M. Cain. A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

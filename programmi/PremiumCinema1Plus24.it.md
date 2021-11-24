@@ -1,36 +1,69 @@
 # Premium Cinema 1 +24
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/586d469d-2b25-43e4-a3bc-aabbf93af11f/cover?md5ChecksumParam=9e5fe9ddc02859fbc6c499903bfbb1b4)|Immortal ad Vitam|00:50:55|02:31:55|Ispirato alla graphic novel &quot;La fiera degli immortali&quot;. Una divinita' egizia torna in vita nella New York del 2095, dominata dalla dittatura. Regia di E. Bilal; FRA 2004
+
 |![Icon](https://guidatv.sky.it/uuid/7a061198-7e0c-46bb-bd98-38dfa021676a/cover?md5ChecksumParam=1a5107d54fc077a6712596e02cedbf91)|Chernobyl diaries - La mutazione|02:32:50|03:59:50|Bloccati in una cittadina ucraina vicino Chernobyl, un gruppo di turisti deve affrontare un'inquietante situazione in questa citta' fantasma. Con Jesse McCartney Regia di B. Parker; USA 2012
+
 |![Icon](https://guidatv.sky.it/uuid/e0e1a28f-2a9f-4ca8-867d-5d657cb4da1c/cover?md5ChecksumParam=1931e3a287c5036c0f9a56ce5b9fda66)|La scuola piu' pazza del mondo|04:00:46|05:29:46|Un gruppo di indisciplinati studenti di una scuola superiore, va in gita a Washington, su invito della Casa Bianca. Il divertimento e' assicurato. Regia di K. Makin; USA 1995
+
 |![Icon](https://guidatv.sky.it/uuid/97d103cd-b403-400e-9d59-0e9a3bba29bc/cover?md5ChecksumParam=6087d94226d9105eca2e35e525af2b47)|Trafficanti|05:30:09|07:22:09|Dal regista di &quot;Una notte da leoni&quot;, un film ispirato ad una storia vera. Due amici decidono di mettersi in affari vendendo armi. Con M. Teller, B. Cooper. Regia di T. Phillips; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/d9c6717e-cdd0-4fc3-bddf-764d5989f062/cover?md5ChecksumParam=458ff77314d2abb886f0b4848154c5a0)|La notte del giudizio - Election year|07:22:15|09:08:15|Terzo capitolo della serie. La Notte del Giudizio coincide con un'infuocata vigilia elettorale che vede il Paese diviso tra sostenitori ed oppositori dello Sfogo. Regia di J. Demonaco; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/ca70b62f-9026-4d13-a424-6813b8d2d934/cover?md5ChecksumParam=8fc0888ba9da8ed81a3ea156ebf6e143)|The Last Exorcism - Liberaci dal male|09:09:08|10:37:08|Sequel horror de &quot;L'ultimo esorcismo&quot;. Nell tenta faticosamente di rifarsi una vita ma il demone che l'aveva gia' posseduta torna a perseguitarla. Regia di E. Gass; USA 2013
+
 |![Icon](https://guidatv.sky.it/uuid/92374370-4ae2-4304-a533-2d037699ef79/cover?md5ChecksumParam=dcb6bfa85b919c14eb30cf8369593ad6)|Oculus - Il riflesso del male|10:37:57|12:19:57|Allucinante horror in cui due fratelli orfani rimangono coinvolti nell'assassinio della madre compiuto attraverso uno specchio. Regia di M. Flanagan; USA 2013
+
 |![Icon](https://guidatv.sky.it/uuid/41d6f490-6bc0-4b30-88eb-97281122b76c/cover?md5ChecksumParam=e2fc8722deb75a2131ee232c09fc1a8b)|2019 - Dopo la caduta di New York|12:20:15|13:55:15|Film di fantascienza post-apocalittico. Il mondo e' sconvolto e gli uomini sono sterili: a New York si scopre che una donna e' ancora fertile. Con Anna Kanakis. Regia di M. Dolman; ITA 1983
+
 |![Icon](https://guidatv.sky.it/uuid/aae3715a-89af-4a70-94cc-ea7a1193c639/cover?md5ChecksumParam=c8a6241880e2f82cdbda7de5ac68b5c6)|La citta' verra' distrutta all'alba|13:55:29|15:35:29|Remake dell'omonimo film di Romero. Uno sceriffo cerca di proteggere sua moglie da qualcosa che in citta' sta facendo impazzire le persone. Regia di B. Eisner; USA 2010
+
 |![Icon](https://guidatv.sky.it/uuid/b5711e18-337c-4995-9705-47829b2f150b/cover?md5ChecksumParam=557811029eefd0236d0a9f40247949fd)|Final destination 5|15:36:01|17:06:01|Ultimo capitolo della serie, prequel del primo. Un gruppo di persone scampa alla morte. Il destino, pero', deve portare a termine la sua missione. Con Emma Bell Regia di S. Quale; USA 2011
+
 |![Icon](https://guidatv.sky.it/uuid/267627c1-ef37-4e88-b2c0-9c775214b32a/cover?md5ChecksumParam=616ec4febe504d3906d3bc57c6f66dc6)|Il luogo delle ombre|17:06:56|18:42:56|Dall'omonimo romanzo di D. R. Koontz, con Willem Dafoe. Odd Thomas ha il dono di vedere i morti e, se deceduti per morte violenta, puo' risalire ai colpevoli. Regia di S. Sommers; USA 2013
+
 |![Icon](https://guidatv.sky.it/uuid/8bedbb91-8e5d-4c85-a290-a06f9a19b863/cover?md5ChecksumParam=57d0516a4bb6ca7ed6fddadffa923ac5)|La vendetta di Luna|18:43:05|20:14:05|Scampata al massacro della sua famiglia, Luna scopre che in realta' suo padre era una spia russa. Cerchera' risposte e vendetta. Con Lisa Vicari Regia di K. Kaissar; DEU 2017
+
 |![Icon](https://guidatv.sky.it/uuid/e4757a05-ee12-4680-b270-7eaf6b921ac4/cover?md5ChecksumParam=98369a855c048c04d8a1cd3a6933317f)|Three kings|20:15:04|22:07:04|Iraq, la guerra del Golfo e' finita. Un gruppo di soldati americani decide di impossessarsi di un tesoro nascosto nel deserto. Con George Clooney, Mark Wahlberg Regia di D. Russell; USA 1999
+
 |![Icon](https://guidatv.sky.it/uuid/3a645145-0021-43d9-8e6d-4f887ea8d410/cover?md5ChecksumParam=296e2c6cb1fd6f6e9e001a3b78ff2b7d)|Dust|22:07:54|00:09:54|All'inizio del secolo scorso, nel West, due fratelli, Elijah e Luke, si innamorano della stessa donna, una prostituta di nome Lilith. Regia di M. Manchevski; GBR 2001
+
 |![Icon](https://guidatv.sky.it/uuid/1c2b5cd2-85f0-4dd6-82bf-38763f7ea72c/cover?md5ChecksumParam=c4cd1cf9c92c918962070b93ae06813f)|Arac attack - Mostri a otto zampe|00:10:19|01:48:19|Film omaggio ai classici di fantascienza degli anni'50. Gli abitanti di una cittadina sono alle prese con dei ragni giganteschi e terrificanti. Regia di E. Elkayem; USA 2002
+
 |![Icon](https://guidatv.sky.it/uuid/92374370-4ae2-4304-a533-2d037699ef79/cover?md5ChecksumParam=dcb6bfa85b919c14eb30cf8369593ad6)|Oculus - Il riflesso del male|01:48:44|03:30:44|Allucinante horror in cui due fratelli orfani rimangono coinvolti nell'assassinio della madre compiuto attraverso uno specchio. Regia di M. Flanagan; USA 2013
+
 |![Icon](https://guidatv.sky.it/uuid/97d103cd-b403-400e-9d59-0e9a3bba29bc/cover?md5ChecksumParam=6087d94226d9105eca2e35e525af2b47)|Trafficanti|03:30:55|05:29:55|Dal regista di &quot;Una notte da leoni&quot;, un film ispirato ad una storia vera. Due amici decidono di mettersi in affari vendendo armi. Con M. Teller, B. Cooper. Regia di T. Phillips; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/f4122414-b87b-4cc2-a885-dc03c4799fd4/cover?md5ChecksumParam=b2453fd96608b32826c64759465adb4f)|Pets - Vita da animali|05:30:09|06:55:09|Cosa fanno i nostri animali quando non siamo a casa? Divertente animazione targata Illumination che esplora la vita dei nostri amici animali in assenza dei padroni. Regia di C. Renaud; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/000fbbdf-ab23-4728-a757-f4206bb6976e/cover?md5ChecksumParam=9b7930c31877ae956f7f7fd43e724492)|Cicogne in missione|06:55:27|08:21:27|Film d'animazione sulla leggenda delle cicogne. La cicogna Junior e l'amica Tulip in lotta contro il tempo per consegnare una tenerissima neonata. Regia di N. Stoller; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/1c2b5cd2-85f0-4dd6-82bf-38763f7ea72c/cover?md5ChecksumParam=c4cd1cf9c92c918962070b93ae06813f)|Arac attack - Mostri a otto zampe|08:21:47|09:58:47|Film omaggio ai classici di fantascienza degli anni'50. Gli abitanti di una cittadina sono alle prese con dei ragni giganteschi e terrificanti. Regia di E. Elkayem; USA 2002
+
 |![Icon](https://guidatv.sky.it/uuid/1d4390e5-41e3-4d3b-a92b-0a141b10f9c0/cover?md5ChecksumParam=ea886ac33baaea6a156a6f7c9668ce9b)|Ouija|09:59:28|11:28:28|Una tavoletta Ouija apre un varco con il regno dell'aldila', consentendo il dialogo con i morti. E' l'inizio della fine. Regia di S. White; USA 2014
+
 |![Icon](https://guidatv.sky.it/uuid/2b28697b-826a-4918-a4cb-72dc201863ba/cover?md5ChecksumParam=97c09af24dc3693b45a40d2f5bb97340)|Ouija - l'origine del male|11:28:34|13:06:34|Prequel del film horror del 2014, Ouija. Una vedova e le sue figlie, fanno false sedute spiritiche che un giorno destano un vero spirito maligno. Regia di M. Flanagan; USA 2016
+
 |![Icon](https://guidatv.sky.it/uuid/8bedbb91-8e5d-4c85-a290-a06f9a19b863/cover?md5ChecksumParam=57d0516a4bb6ca7ed6fddadffa923ac5)|La vendetta di Luna|13:06:47|14:37:47|Scampata al massacro della sua famiglia, Luna scopre che in realta' suo padre era una spia russa. Cerchera' risposte e vendetta. Con Lisa Vicari Regia di K. Kaissar; DEU 2017
+
 |![Icon](https://guidatv.sky.it/uuid/3a645145-0021-43d9-8e6d-4f887ea8d410/cover?md5ChecksumParam=296e2c6cb1fd6f6e9e001a3b78ff2b7d)|Dust|14:38:20|16:40:20|All'inizio del secolo scorso, nel West, due fratelli, Elijah e Luke, si innamorano della stessa donna, una prostituta di nome Lilith. Regia di M. Manchevski; GBR 2001
+
 |![Icon](https://guidatv.sky.it/uuid/e4757a05-ee12-4680-b270-7eaf6b921ac4/cover?md5ChecksumParam=98369a855c048c04d8a1cd3a6933317f)|Three kings|16:40:27|18:33:27|Iraq, la guerra del Golfo e' finita. Un gruppo di soldati americani decide di impossessarsi di un tesoro nascosto nel deserto. Con George Clooney, Mark Wahlberg Regia di D. Russell; USA 1999
+
 |![Icon](https://guidatv.sky.it/uuid/9f60951e-2121-4cfd-b0c3-3fb5ec0c47ad/cover?md5ChecksumParam=30b118c6ef5c6dad8f6ebe533e812b3b)|The Great Wall|18:33:27|20:14:27|Kolossal con protagonista Matt Damon. Nella Cina del XII secolo, due mercenari europei sono coinvolti in una guerra all'ombra della Grande Muraglia. Regia di Y. Zhang; CHN 2016
+
 |![Icon](https://guidatv.sky.it/uuid/99acbd3f-573d-4fc1-8514-bc2fa2d1dbe8/cover?md5ChecksumParam=2359b2017187907c6549546c579de9b0)|Never back down - mai arrendersi|20:15:07|22:07:07|Un giovane dal difficile passato, per vendicarsi di un'umiliazione subita, si inserisce nel mondo dei combattimenti di arti marziali. Con Sean Faris, Amber Heard Regia di J. Wadlow; USA 2008
+
 |![Icon](https://guidatv.sky.it/uuid/97e4d2ad-3e38-4fee-807b-1c17c75c7d31/cover?md5ChecksumParam=88c8e24e6449b52ce717c236b1949a97)|Death race|22:07:31|23:56:31|In questo remake Jason Statham e' un ex pilota, ora in carcere, costretto a disputare una gara con un'auto tecnicamente modificata. Se vincera' tornera' libero. Regia di P. Anderson; USA 2008
+
 |![Icon](https://guidatv.sky.it/uuid/eb0aee15-b23e-4ba8-bc41-fa8f094615ed/cover?md5ChecksumParam=d1a73b62891d00260a094073abdd6e9a)|Il rito|23:56:58|01:48:58|Antony Hopkins esorcista in un horror ambientato a Roma. Una riflessione cupa sulla costante presenza del male nella vita umana. Regia di M. Hafstrom; USA 2011
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

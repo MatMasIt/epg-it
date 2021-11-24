@@ -1,84 +1,165 @@
 # Premium Stories
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/778f8e47-6561-45d9-9bf5-d3124eafc73e/cover?md5ChecksumParam=03dec6e7b7335c497e08bf2324b60f01)|Suits|00:09:58|00:54:58|S9 Ep8 Il dilemma del prigioniero - Un vecchio avversario obbliga Harvey a rendere conto di alcune sue azioni passate.
+
 |![Icon](https://guidatv.sky.it/uuid/1d290de0-e03d-4c14-9613-1a17d71c04b0/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|00:55:02|01:39:02|S2 Ep7 Uno sguardo sul futuro - Helena, la madre di Liz, si presenta al Crashdown dopo dieci anni. Arturo le ha chiesto di trasferire la sua meta' del ristorante a Liz.
+
 |![Icon](https://guidatv.sky.it/uuid/ce83529d-5268-4108-9bb8-6f8b0dd678e6/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|01:39:16|02:21:16|S3 Ep2 Gli addii fanno davvero schifo - A Rafael rimane solo un giorno da vivere e vuole sfruttarlo al meglio, passandolo con tutti i suoi cari.
+
 |![Icon](https://guidatv.sky.it/uuid/0fdcde1a-e897-46df-b940-619a5f03e1ef/cover?md5ChecksumParam=bd02dc4a7f05a8a4443cb0906baf27f7)|The bold type - 1^TV|02:21:25|03:01:25|S2 Ep10 Finalmente Parigi - I sogni di carriera di Sutton finalmente si avverano quando viene mandata a Parigi per la &quot;fashion week
+
 |![Icon](https://guidatv.sky.it/uuid/1d290de0-e03d-4c14-9613-1a17d71c04b0/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|03:01:47|03:41:47|S2 Ep7 Uno sguardo sul futuro - Helena, la madre di Liz, si presenta al Crashdown dopo dieci anni. Arturo le ha chiesto di trasferire la sua meta' del ristorante a Liz.
+
 |![Icon](https://guidatv.sky.it/uuid/d3ad4a65-6017-46b5-b853-db885b9c631e/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|03:42:26|04:02:26|S6 Ep14 E le ristrutturazioni urgenti - Caroline e Max, tornate dal Texas, scoprono che nonostante Oleg abbia licenziato il loro costruttore, il dessert bar e' bellissimo: merito di Bobby.
+
 |![Icon](https://guidatv.sky.it/uuid/c9a16204-189f-4b2c-9c98-bb7f2b1e8b11/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|04:02:52|04:25:52|S6 Ep15 E il senso della tartaruga - Caroline ha il suo primo appuntamento con Bobby che la porta in un cinema speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/a9e2f22e-759d-4e35-962c-d9c8284c53b4/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|04:26:35|04:46:35|S2 Ep3 Squadra scarafaggi - Michael ha bisogno di allearsi con i quattro condannati per salvare se stesso. Per Eleanor, Chidi e Tahani comincia un tormentoso confronto: accettare o non accettare?
+
 |![Icon](https://guidatv.sky.it/uuid/762bd42f-dff0-43c5-a8c7-1cb7d9653c2b/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|04:47:21|05:07:21|S2 Ep4 Crisi esistenziale - I tentativi da parte di Chidi e Eleanor di istruire Micheal sull'etica non vanno a buon fine, finche' Chidi capisce che il limite e' l'immortalita'.
+
 |![Icon](https://guidatv.sky.it/uuid/87050640-a028-41b8-9f92-203b02ee2e6f/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|05:08:07|05:35:07|S2 Ep5 Il dilemma del tram - Chidi prosegue nel tentativo di insegnare a Micheal l'etica umana. Sottopone quindi i suoi quattro studenti al Dilemma del Tram.
+
 |![Icon](https://guidatv.sky.it/uuid/6047bf60-2728-42a1-b39f-c507b57dd6d0/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|05:36:04|05:56:04|S6 Ep16 E il momento della provocazione - Caroline si prepara al suo terzo appuntamento con Bobby, che a detta di tutti coincidera' con la loro prima notte insieme e Max decide di vivere in castita'.
+
 |![Icon](https://guidatv.sky.it/uuid/ec361667-d125-4117-8e06-d4574dbf5fb8/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|05:56:40|06:57:40|S11 Ep8 Cancellato - Frank, cercando di salvare la memoria storica di Chicago, fa a gara con Liam nel concorso per attribuire alla scuola media del ragazzo un nuovo nome.
+
 |![Icon](https://guidatv.sky.it/uuid/05573fbb-7f25-4aa3-b20d-1526b502c315/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|06:58:10|07:42:10|S3 Ep3 Salvatore - Il musical! - Su consiglio del consulente scolastico, Landon mette su un musical sulla fondazione della scuola, e tutti cercano di potervi partecipare.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|07:42:24|08:26:24|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|08:26:27|09:10:27|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/5065bae6-266f-40bf-8304-405204fe9bae/cover?md5ChecksumParam=03dec6e7b7335c497e08bf2324b60f01)|Suits|09:10:48|09:54:48|S9 Ep7 Strada panoramica - Harvey e Samantha partono per un viaggio insieme.
+
 |![Icon](https://guidatv.sky.it/uuid/6047bf60-2728-42a1-b39f-c507b57dd6d0/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|09:55:16|10:16:16|S6 Ep16 E il momento della provocazione - Caroline si prepara al suo terzo appuntamento con Bobby, che a detta di tutti coincidera' con la loro prima notte insieme e Max decide di vivere in castita'.
+
 |![Icon](https://guidatv.sky.it/uuid/cb4c03a8-ae2d-4fda-b8f7-0e3c979965fa/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|10:17:12|10:39:12|S6 Ep17 E la Jessica Shmessica - Bobby invita Caroline, Max e gli altri del dinner a casa sua, per presentargli la famiglia. Caroline fa di tutto per piacere alla madre.
+
 |![Icon](https://guidatv.sky.it/uuid/f724bfdc-f7fe-41fb-b7d0-385fa80e99c6/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|10:39:56|11:01:56|S2 Ep6 Janet e Michael - Janet spiega a Michael che le anomalie stanno peggiorando al punto di compromettere la funzionalita' del distretto.
+
 |![Icon](https://guidatv.sky.it/uuid/c177d7fe-7933-4aae-a7a6-25ceb1767c96/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|11:02:04|11:24:04|S2 Ep7 Derek - Derek, il bizzarro individuo che Janet ha creato per avere un fidanzato che la aiuti a dimenticare Jason, e' fonte di enorme preoccupazione per Michael.
+
 |![Icon](https://guidatv.sky.it/uuid/05573fbb-7f25-4aa3-b20d-1526b502c315/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|11:24:20|12:08:20|S3 Ep3 Salvatore - Il musical! - Su consiglio del consulente scolastico, Landon mette su un musical sulla fondazione della scuola, e tutti cercano di potervi partecipare.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|12:08:38|12:52:38|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|12:52:40|13:35:40|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/6047bf60-2728-42a1-b39f-c507b57dd6d0/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|13:36:14|13:57:14|S6 Ep16 E il momento della provocazione - Caroline si prepara al suo terzo appuntamento con Bobby, che a detta di tutti coincidera' con la loro prima notte insieme e Max decide di vivere in castita'.
+
 |![Icon](https://guidatv.sky.it/uuid/cb4c03a8-ae2d-4fda-b8f7-0e3c979965fa/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|13:58:04|14:19:04|S6 Ep17 E la Jessica Shmessica - Bobby invita Caroline, Max e gli altri del dinner a casa sua, per presentargli la famiglia. Caroline fa di tutto per piacere alla madre.
+
 |![Icon](https://guidatv.sky.it/uuid/778f8e47-6561-45d9-9bf5-d3124eafc73e/cover?md5ChecksumParam=03dec6e7b7335c497e08bf2324b60f01)|Suits|14:20:02|15:04:02|S9 Ep8 Il dilemma del prigioniero - Un vecchio avversario obbliga Harvey a rendere conto di alcune sue azioni passate.
+
 |![Icon](https://guidatv.sky.it/uuid/05573fbb-7f25-4aa3-b20d-1526b502c315/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|15:04:27|15:47:27|S3 Ep3 Salvatore - Il musical! - Su consiglio del consulente scolastico, Landon mette su un musical sulla fondazione della scuola, e tutti cercano di potervi partecipare.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|15:48:03|16:32:03|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|16:32:45|17:15:45|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/f724bfdc-f7fe-41fb-b7d0-385fa80e99c6/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|17:16:32|17:39:32|S2 Ep6 Janet e Michael - Janet spiega a Michael che le anomalie stanno peggiorando al punto di compromettere la funzionalita' del distretto.
+
 |![Icon](https://guidatv.sky.it/uuid/c177d7fe-7933-4aae-a7a6-25ceb1767c96/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|17:40:05|18:02:05|S2 Ep7 Derek - Derek, il bizzarro individuo che Janet ha creato per avere un fidanzato che la aiuti a dimenticare Jason, e' fonte di enorme preoccupazione per Michael.
+
 |![Icon](https://guidatv.sky.it/uuid/05573fbb-7f25-4aa3-b20d-1526b502c315/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|18:02:57|18:46:57|S3 Ep3 Salvatore - Il musical! - Su consiglio del consulente scolastico, Landon mette su un musical sulla fondazione della scuola, e tutti cercano di potervi partecipare.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|18:47:11|19:30:11|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|19:30:36|20:14:36|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/fcda39b6-3134-4c88-a97f-89f6e1e59375/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|20:14:58|21:07:58|S11 Ep9 Sopravvissuti - Mentre Veronica e' a Louisville per convincere la madre a tornare a Chicago, Kevin scopre che non e' molto semplice gestire sia il lavoro che due bambine scatenate.
+
 |![Icon](https://guidatv.sky.it/uuid/ceb4f1f6-a7cf-4015-a10c-fd185164c332/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|21:08:52|22:04:52|S11 Ep10 Nr (non rianimare) - Lip cerca di riparare la vecchia casa per poterla vendere, ma emergono sempre molti problemi. Debbie cerca una nuova casa per lei e per sua figlia.
+
 |![Icon](https://guidatv.sky.it/uuid/8b081625-6561-461f-abff-eaf84e484be4/cover?md5ChecksumParam=970e4adb31883f5b81b773257600d464)|Rise|22:04:52|22:48:52|S1 Ep2 Soprattutto per sognare - Cominciano le prove dello spettacolo, nonostante l'opposizione del preside. Lou e Tracey non riceveranno finanziamenti dalla scuola.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|22:49:51|23:32:51|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/fcda39b6-3134-4c88-a97f-89f6e1e59375/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|23:33:14|00:27:14|S11 Ep9 Sopravvissuti - Mentre Veronica e' a Louisville per convincere la madre a tornare a Chicago, Kevin scopre che non e' molto semplice gestire sia il lavoro che due bambine scatenate.
+
 |![Icon](https://guidatv.sky.it/uuid/ceb4f1f6-a7cf-4015-a10c-fd185164c332/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|00:27:29|01:23:29|S11 Ep10 Nr (non rianimare) - Lip cerca di riparare la vecchia casa per poterla vendere, ma emergono sempre molti problemi. Debbie cerca una nuova casa per lei e per sua figlia.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|01:23:37|02:06:37|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/05573fbb-7f25-4aa3-b20d-1526b502c315/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|02:07:02|02:49:02|S3 Ep3 Salvatore - Il musical! - Su consiglio del consulente scolastico, Landon mette su un musical sulla fondazione della scuola, e tutti cercano di potervi partecipare.
+
 |![Icon](https://guidatv.sky.it/uuid/eb55a388-d471-4a93-b3f8-a62fc548dbae/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|02:49:10|03:30:10|S3 Ep1 La nuova normalita' - Da Scarlet Magazine arriva il nuovo direttore dei digital e Jacqueline e' costretta a farsi da parte. A tutti, da Scarlet, viene affidato un nuovo compito.
+
 |![Icon](https://guidatv.sky.it/uuid/8e5650f1-7d8d-47ba-bae1-10a3aff42169/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|03:30:55|04:12:55|S2 Ep8 Visioni e illusioni - Rosa non riesce ad accettare che dora in avanti non potra' piu' comportarsi come vuole per non correre il rischio di essere riconosciuta.
+
 |![Icon](https://guidatv.sky.it/uuid/6047bf60-2728-42a1-b39f-c507b57dd6d0/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|04:12:59|04:32:59|S6 Ep16 E il momento della provocazione - Caroline si prepara al suo terzo appuntamento con Bobby, che a detta di tutti coincidera' con la loro prima notte insieme e Max decide di vivere in castita'.
+
 |![Icon](https://guidatv.sky.it/uuid/cb4c03a8-ae2d-4fda-b8f7-0e3c979965fa/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|04:33:24|05:07:24|S6 Ep17 E la Jessica Shmessica - Bobby invita Caroline, Max e gli altri del dinner a casa sua, per presentargli la famiglia. Caroline fa di tutto per piacere alla madre.
+
 |![Icon](https://guidatv.sky.it/uuid/c177d7fe-7933-4aae-a7a6-25ceb1767c96/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|05:08:20|05:29:20|S2 Ep7 Derek - Derek, il bizzarro individuo che Janet ha creato per avere un fidanzato che la aiuti a dimenticare Jason, e' fonte di enorme preoccupazione per Michael.
+
 |![Icon](https://guidatv.sky.it/uuid/7d6d680d-9d2f-4b46-a193-0f01aa8ce96d/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|05:30:08|05:56:08|S6 Ep18 E quel pomeriggio di un giorno da padri - Han, aiutato e incoraggiato dal suo analista, rintraccia il padre di Max, e insiste perche' lei lo incontri.
+
 |![Icon](https://guidatv.sky.it/uuid/8b081625-6561-461f-abff-eaf84e484be4/cover?md5ChecksumParam=970e4adb31883f5b81b773257600d464)|Rise|05:56:19|06:40:19|S1 Ep2 Soprattutto per sognare - Cominciano le prove dello spettacolo, nonostante l'opposizione del preside. Lou e Tracey non riceveranno finanziamenti dalla scuola.
+
 |![Icon](https://guidatv.sky.it/uuid/a180c100-3066-40e7-9c66-f3a4ded9983c/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|06:40:23|07:29:23|S3 Ep4 Tieniti stretto - La Super Squadra unisce le forze per contrastare le conseguenze della nuova mossa del Negromante. Josie incontra Ethan.
+
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|07:29:28|08:12:28|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/e10fe30a-ed69-4a14-9af6-11e10df8f951/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|08:12:38|08:55:38|S2 Ep9 Un passato difficile - Mentre Liz lavora a suo vaccino derivato dal sistema immunitario alieno, la storia di Louise e Nora viene a galla.
+
 |![Icon](https://guidatv.sky.it/uuid/fcda39b6-3134-4c88-a97f-89f6e1e59375/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|08:56:18|09:49:18|S11 Ep9 Sopravvissuti - Mentre Veronica e' a Louisville per convincere la madre a tornare a Chicago, Kevin scopre che non e' molto semplice gestire sia il lavoro che due bambine scatenate.
+
 |![Icon](https://guidatv.sky.it/uuid/7d6d680d-9d2f-4b46-a193-0f01aa8ce96d/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|09:50:14|10:11:14|S6 Ep18 E quel pomeriggio di un giorno da padri - Han, aiutato e incoraggiato dal suo analista, rintraccia il padre di Max, e insiste perche' lei lo incontri.
+
 |![Icon](https://guidatv.sky.it/uuid/09ecf9d9-cdd3-442e-a6d0-818765632720/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|10:11:49|10:32:49|S6 Ep19 E il bambino segreto - Max legge per caso un messaggio riguardante un bambino sul cellulare di Bobby, spedito dalla sua ex ragazza Jessica.
+
 |![Icon](https://guidatv.sky.it/uuid/38179359-120e-4067-9239-871d26cd61b2/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|10:33:45|10:55:45|S2 Ep8 Atto di fede - Shawn non e' arrivato per punire Michael, anzi: considera il suo innovativo distretto un successo, dunque si congratula e lo promuove.
+
 |![Icon](https://guidatv.sky.it/uuid/5ad0e53a-258f-47c7-a27b-7fd5225cfaeb/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|10:56:18|11:18:18|S2 Ep9 La versione migliore di me - Michael finge di avere una soluzione per andare nella Parte Buona, ma nel momento in cui ammette di aver mentito, viene nominato 'essere umano onorario'.
+
 |![Icon](https://guidatv.sky.it/uuid/a180c100-3066-40e7-9c66-f3a4ded9983c/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|11:18:31|12:02:31|S3 Ep4 Tieniti stretto - La Super Squadra unisce le forze per contrastare le conseguenze della nuova mossa del Negromante. Josie incontra Ethan.
+
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|12:02:31|12:44:31|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/e10fe30a-ed69-4a14-9af6-11e10df8f951/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|12:45:29|13:28:29|S2 Ep9 Un passato difficile - Mentre Liz lavora a suo vaccino derivato dal sistema immunitario alieno, la storia di Louise e Nora viene a galla.
+
 |![Icon](https://guidatv.sky.it/uuid/7d6d680d-9d2f-4b46-a193-0f01aa8ce96d/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|13:28:50|13:49:50|S6 Ep18 E quel pomeriggio di un giorno da padri - Han, aiutato e incoraggiato dal suo analista, rintraccia il padre di Max, e insiste perche' lei lo incontri.
+
 |![Icon](https://guidatv.sky.it/uuid/09ecf9d9-cdd3-442e-a6d0-818765632720/cover?md5ChecksumParam=db401d969f06cfd219cc294fc9420929)|2 Broke Girls|13:50:44|14:11:44|S6 Ep19 E il bambino segreto - Max legge per caso un messaggio riguardante un bambino sul cellulare di Bobby, spedito dalla sua ex ragazza Jessica.
+
 |![Icon](https://guidatv.sky.it/uuid/ceb4f1f6-a7cf-4015-a10c-fd185164c332/cover?md5ChecksumParam=7e490233fa96b57639f4d2bfbb3761ee)|Shameless|14:12:09|15:08:09|S11 Ep10 Nr (non rianimare) - Lip cerca di riparare la vecchia casa per poterla vendere, ma emergono sempre molti problemi. Debbie cerca una nuova casa per lei e per sua figlia.
+
 |![Icon](https://guidatv.sky.it/uuid/a180c100-3066-40e7-9c66-f3a4ded9983c/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|15:08:14|15:51:14|S3 Ep4 Tieniti stretto - La Super Squadra unisce le forze per contrastare le conseguenze della nuova mossa del Negromante. Josie incontra Ethan.
+
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|15:51:34|16:34:34|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/e10fe30a-ed69-4a14-9af6-11e10df8f951/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|16:35:10|17:18:10|S2 Ep9 Un passato difficile - Mentre Liz lavora a suo vaccino derivato dal sistema immunitario alieno, la storia di Louise e Nora viene a galla.
+
 |![Icon](https://guidatv.sky.it/uuid/38179359-120e-4067-9239-871d26cd61b2/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|17:18:53|17:42:53|S2 Ep8 Atto di fede - Shawn non e' arrivato per punire Michael, anzi: considera il suo innovativo distretto un successo, dunque si congratula e lo promuove.
+
 |![Icon](https://guidatv.sky.it/uuid/5ad0e53a-258f-47c7-a27b-7fd5225cfaeb/cover?md5ChecksumParam=3a77a4374ce0678eefcf868354cece9a)|The good place 2|17:43:36|18:05:36|S2 Ep9 La versione migliore di me - Michael finge di avere una soluzione per andare nella Parte Buona, ma nel momento in cui ammette di aver mentito, viene nominato 'essere umano onorario'.
+
 |![Icon](https://guidatv.sky.it/uuid/a180c100-3066-40e7-9c66-f3a4ded9983c/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|18:05:52|18:47:52|S3 Ep4 Tieniti stretto - La Super Squadra unisce le forze per contrastare le conseguenze della nuova mossa del Negromante. Josie incontra Ethan.
+
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|18:48:23|19:31:23|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/e10fe30a-ed69-4a14-9af6-11e10df8f951/cover?md5ChecksumParam=f252fb7fba594e1a235f1308655195c3)|Roswell, New Mexico|19:31:31|20:14:31|S2 Ep9 Un passato difficile - Mentre Liz lavora a suo vaccino derivato dal sistema immunitario alieno, la storia di Louise e Nora viene a galla.
+
 |![Icon](https://guidatv.sky.it/uuid/ec31c279-7194-47b8-af48-07b9b4b9b10f/cover?md5ChecksumParam=970e4adb31883f5b81b773257600d464)|Rise|20:15:00|20:58:00|S1 Ep3 Quali fiori sbocceranno - Continuano le prove dello spettacolo mentre Simon annuncia di essere in procinto di trasferirsi in un altro liceo.
+
 |![Icon](https://guidatv.sky.it/uuid/0b950218-d027-42e5-82bc-ce01db53fdfe/cover?md5ChecksumParam=698f0be94f8a8a67dc3e6b2c1b40340b)|God Friended Me|20:58:58|21:40:58|S2 Ep18 - Ali ha potra' iniziare una nuova cura sperimentale anticancro che sembrerebbe efficace, ma la decisione finale spetta a Tammy.
+
 |![Icon](https://guidatv.sky.it/uuid/a180c100-3066-40e7-9c66-f3a4ded9983c/cover?md5ChecksumParam=6a2731d11d704ea57796d79c363a6257)|Legacies|21:41:05|22:24:05|S3 Ep4 Tieniti stretto - La Super Squadra unisce le forze per contrastare le conseguenze della nuova mossa del Negromante. Josie incontra Ethan.
+
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|22:24:17|23:06:17|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/ec31c279-7194-47b8-af48-07b9b4b9b10f/cover?md5ChecksumParam=970e4adb31883f5b81b773257600d464)|Rise|23:06:56|23:49:56|S1 Ep3 Quali fiori sbocceranno - Continuano le prove dello spettacolo mentre Simon annuncia di essere in procinto di trasferirsi in un altro liceo.
+
 |![Icon](https://guidatv.sky.it/uuid/0b950218-d027-42e5-82bc-ce01db53fdfe/cover?md5ChecksumParam=698f0be94f8a8a67dc3e6b2c1b40340b)|God Friended Me|23:50:55|00:32:55|S2 Ep18 - Ali ha potra' iniziare una nuova cura sperimentale anticancro che sembrerebbe efficace, ma la decisione finale spetta a Tammy.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

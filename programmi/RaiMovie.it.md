@@ -1,37 +1,71 @@
 # Rai Movie
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tu sei l'unica donna per me|01:40:00|03:10:00|Regia di C. Vanzina, con A.Sorrenti, J.Jenner; ITA 1979. Giovane cantautore, Daniel viene lanciato da un agente, ma non riesce a reggere la pressione del successo.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sogni e bisogni|03:10:00|04:00:00|S1 Ep1 Amore cieco - Innamorato di una giovane impagliatrice cieca, Orazio rinuncia a tutto cio' che ha per pagarle l'operazione agli occhi pur nell'incertezza che la donna resti con lui.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il vendicatore mascherato|04:00:00|05:35:00|Regia di P. Mercanti, con G.Moschin, L.Gastoni; ITA 1964. Tornato dalla guerra contro i Turchi, Massimo scopre che la sua fidanzata ora e' la moglie del tirannico Doge della citta' e prepara la sua vendetta.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Zum zum zum n. 2 - Sara' capitato...|05:35:00|07:15:00|Regia di B. Corbucci, con L.Tony, I.Savona; ITA 1969. I maggiori successi di Little Tony scandiscono le avventure sentimentali di un intraprendente assistente di volo.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Per vivere meglio, divertitevi con noi|07:20:00|09:20:00|Regia di F. Mogherini, con J.Dorelli, M.Vitti; ITA 1978. Una donna crede di essere stata guarita dagli alieni; un marito mette alla prova la fedelta' della moglie; uno scommettitore acquista un cavallo.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Poveri ma belli|09:20:00|11:10:00|Regia di D. Risi, con M.Allasio, M.Arena; ITA 1956. Gli amici Romolo e Salvatore, bulli trasteverini sfaticati ma onesti, flirtano con la bella sartina Giovanna. Un classico del Neorealismo rosa.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il ritorno di Zanna Bianca|11:10:00|13:00:00|Regia di L. Fulci, con F.Nero, V.Lisi; FRA/ITA 1974. I minatori di un villaggio sono sfruttati dallo spregiudicato Beauty Smith. Bill Tarwater e Jason Scott gli contendono un nuovo giacimento.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Una nuvola di polvere....|13:00:00|14:50:00|Regia di G. Carnimeo, con G.Garko, N.Navarro; ITA 1971. Sartana organizza l'evasione di Grande Full, uno degli autori di un colpo da 500.000 dollari. Ma il denaro fa gola a molti.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ballata per un pistolero|14:50:00|16:35:00|Regia di A. Caltabiano, con D.Bojanovic, A.Infanti; ITA 1966. Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara' con una banda sanguinaria all'interno di una miniera.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|il grande duello|16:35:00|18:20:00|Regia di G. Santi, con L.Van Cleef, H.Frank; FRA/ITA 1972. Un ex sceriffo e' convinto dell'innocenza di un giovane, accusato di omicidio, e lo difende dai cacciatori di taglie.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Squadra antimafia|18:20:00|20:10:00|Regia di B. Corbucci, con T.Milian, A.Farnese; ITA 1978. Per scoprire l'assassino di un testimone, il commissario Nico Giraldi si fa arrestare, evade e si mette al servizio di un boss.
+
 |![Icon](https://guidatv.sky.it/uuid/6c2da3a1-c42c-4a7f-a0f0-3135fce68e60/cover?md5ChecksumParam=df7e97d448486d4a84a90d64e48828ad)|Nemiche per la pelle|20:10:00|21:55:00|Regia di L. Lucini, con M.Buy, C.Gerini; ITA 2016. Una psicologa per cani e una dirigente rampante si trovano alle prese con una scomoda eredita' lasciata dal marito di una, nonche' ex marito dell'altra.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Movie Mag|21:55:00|22:20:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita' e tematiche classiche.
+
 |![Icon](https://guidatv.sky.it/uuid/d2fc978f-b2f4-44ba-98f9-343643b73738/cover?md5ChecksumParam=fbb861343d3335c0824e045a5fe5c09a)|Qualcosa di nuovo|22:20:00|00:05:00|Regia di C. Comencini, con P.Cortellesi, M.Ramazzotti; ITA 2016. Due amiche di vecchia data intrecciano una relazione con uno sconosciuto destinato a portare scompiglio nelle loro vite.
+
 |![Icon](https://guidatv.sky.it/uuid/c384c4f9-8d01-4182-a557-76ebab5826f8/cover?md5ChecksumParam=04e54c9be429ab0a1a8fa8b8fd55820f)|Loving - L'amore deve nascere libero|00:05:00|02:10:00|Regia di J. Nichols, con J.Edgerton, R.Negga; USA 2016. America, anni '50. Mildred e Richard Loving si sposano andando contro la legge: i matrimoni interrazziali sono vietati.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rosso Istanbul|02:10:00|04:00:00|Regia di F. Ozpetek, con H.Ergenc, T.Buyukustun; ITA 2017. Dopo 20 anni di assenza, Orhan Sahin ritorna a Istanbul. Come editor dovra' aiutare un famoso regista a finire il suo libro.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il figlio del gangster|04:00:00|05:20:00|Regia di J. Giovanni, con C.Gravina, C.Vanel; FRA/ITA 1976. Un ragazzo uccide senza volerlo un poliziotto. Il padre, industriale ma ex fuorilegge, cerca di aiutarlo ricorrendo non solo alle vie legali.
+
 |![Icon](https://guidatv.sky.it/uuid/a4ff5121-221d-483d-bb7b-db2d0d61a978/cover?md5ChecksumParam=14f7dfe9183479186ba2584c5909a2b9)|Borsalino|05:20:00|07:30:00|Regia di J. Deray, con J-P.Belmondo, A.Delon; FRA/ITA 1970. Negli anni Trenta, due piccoli truffatori rivali decidono di allearsi per un fine comune: dominare la malavita locale.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Vai avanti tu che mi vien da ridere|07:30:00|09:10:00|Regia di G. Capitani, con L.Banfi, A.Belli; ITA 1982. Un commissario pasticcione rapisce un travestito usandolo come esca per un killer. I risvolti saranno imprevedibili.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il monaco di Monza|09:10:00|11:05:00|Regia di S. Corbucci, con Toto', N.Taranto; ITA 1963. Toto', vedovo con una nidiata di figli da sfamare, si traveste da frate e trova alloggio nel castello di un perfido marchese.
+
 |![Icon](https://guidatv.sky.it/uuid/2266dfc7-7757-4043-b58c-7e1adcc3a6cd/cover?md5ChecksumParam=554864002f8655c882cf3f3a4dc7b1d2)|Hours|11:05:00|12:50:00|Regia di E. Haisserer, con P.Walker, G.Rodriguez; USA 2013. La costa atlantica degli USA e' sconvolta dall'uragano Katrina. Un padre deve proteggere la sua figlioletta ad ogni costo.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Piedone lo sbirro|12:50:00|14:50:00|Regia di Steno, con A.Merli, B.Spencer; FRA/ITA 1973. A Napoli, l'ispettore Rizzo, ostacolato dal nuovo commissario capo che ne disapprova i metodi, combatte una banda di narcotrafficanti marsigliesi.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La taglia e' tua... l'uomo l'ammazzo io|14:50:00|16:35:00|Regia di E. Mulargia, con R.Woods, A.Berti; ITA 1969. Un pistolero dedito all'alcol e' ricercato da un gruppo di uomini, interessati alla taglia da 10.000 dollari che pesa sulla sua testa.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Arriva Sabata!|16:35:00|18:15:00|Regia di T. de Micheli, con A.Steffen, P.Lawrence; ITA 1970. Tre rapinatori, Sabata, Mangosta e Peter, rapinano una banca. Mangosta, credendo di farla franca, ruba il malloppo e scappa in Messico.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La giusta distanza|18:15:00|20:10:00|Regia di C. Mazzacurati, con G.Capovilla, V.Lodovini; ITA 2007. Pregiudizi e tragedie nella scorbutica provincia italiana. Una giovane maestra emancipata mette in subbuglio una cittadina prima di essere uccisa.
+
 |![Icon](https://guidatv.sky.it/uuid/7903ce51-71c1-460d-bbb2-750db37729be/cover?md5ChecksumParam=ee53a2a658e890d19aa5e89144c43e3f)|Escape Plan 2 - Ritorno all'inferno|20:10:00|21:50:00|Regia di S.C. Miller, con S.Stallone, D.Bautista; USA 2018. Ray e' in grado di fuggire da qualunque prigione dotata di sofisticati sistemi di sicurezza. Ma ora e' a capo di un team, che...
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Attacco al potere|21:50:00|23:50:00|Regia di E. Zwick, con D.Washington, B.Willis; USA 1998. Un agente dell'FBI rischia la vita per sventare il complotto che si nasconde dietro ad una serie di attentati che sta mettendo in ginocchio New York.
+
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anica Appuntamento al cinema|23:50:00|23:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+
 |![Icon](https://guidatv.sky.it/uuid/4b61fbcf-0103-4a71-83f8-47391510081f/cover?md5ChecksumParam=6c1a3d50e11feb1fb7731bbec99c11b1)|Pericle Il Nero|23:55:00|01:45:00|Regia di S. Mordini, con R.Scamarcio, M.Fois; ITA 2016. Un criminale dedito alla regia di film pornografici si mette nei guai quando per errore uccide una ragazza. Ma incontra Anastasia...
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

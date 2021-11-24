@@ -1,328 +1,653 @@
 # Rai Yoyo
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|00:05:00|00:10:00|Ep37 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Animazione rai cinema|00:10:00|00:15:00|Animazione rai cinema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|00:15:00|00:20:00|S4 Ep89 Teatro - Bing e Sula stanno facendo uno spettacolo di teatro e Coco vorrebbe tanto unirsi a loro...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|00:20:00|00:30:00|S4 Ep90 Nomi - Bing si arrabbia perche' Pando, per divertirsi, continua a chiamarlo Bingo Bingoso...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zafari|00:30:00|00:45:00|S2 Ep11 - Un elefantino a strisce zebrate, una giraffa con piume di pavone e un leone rosa. Questi sono solo alcuni dei fantasiosi abitanti animali di una valle ai piedi del Monte Kilimangiaro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zafari|00:45:00|01:05:00|S2 Ep12 - Un elefantino a strisce zebrate, una giraffa con piume di pavone e un leone rosa. Questi sono solo alcuni dei fantasiosi abitanti animali di una valle ai piedi del Monte Kilimangiaro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:05:00|01:10:00|S1 Ep33 Fa' sempre del tuo meglio - Kit e Kate sono archeologi nell'antica piramide del re Kat e viene affidato loro il compito di mettere insieme i pezzi di un'antica statua...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:10:00|01:15:00|S1 Ep34 Amici per la pelle - Kit e Kate vorrebbero diventare amici di Linda Lamb, l'assistente di un laboratorio. Ma, sfortunatamente, Linda ha paura di giocare con i loro giochi...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:15:00|01:20:00|S1 Ep35 La guastafeste - Kit vuole unirsi al circo con sua sorella, ma Kate non e' minimammente interessata alla proposta perche' pensa che sia troppo noioso...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:20:00|01:25:00|S1 Ep36 Micetti maghetti - Oggi Kit e Kate giocano a fare i maghetti e imparano che se rimetti sempre le cose al loro posto le trovi subito quando ti servono!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:25:00|01:35:00|S2 Ep11 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:35:00|01:45:00|S2 Ep12 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:45:00|02:00:00|S2 Ep13 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|02:00:00|02:10:00|S2 Ep14 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|02:10:00|02:15:00|S8 Ep15 Il festival del fango - Dopo una notte di pioggia, Peppa e la famiglia si svegliano nel campeggio pieno di fango. Ma le attivita' del Festival dei Piccoli si adatteranno alla situazione...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|02:15:00|02:20:00|S8 Ep16 Le fragole - Peppa e George sono dai nonni. Nonno Pig ha coltivato le fragole, ma le hanno mangiate tutte gli uccellin. Cosi' Nonna Pig decide di andare alla piantagione...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|02:20:00|02:25:00|S8 Ep17 Il compleanno di nonno Pig - Peppa e la sua famiglia vanno in un ristorante elegante per festeggiare il compleanno di Nonno Pig. Da cena composta, tutto si trasformera' in una vera festa.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:25:00|02:35:00|S2 Ep16 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:35:00|02:45:00|S2 Ep17 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:45:00|02:55:00|S2 Ep18 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|02:55:00|03:10:00|S1 Ep49 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|03:10:00|03:25:00|S1 Ep50 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Moominvalley|03:25:00|03:50:00|S1 Ep19 Il cappello a cilindro - Moomintroll e Tabacco trovano uno strano cappello a cilindro. Moomintroll viene avvolto da una nuvola sprigionatasi dal cappello, che lo fa volare con Grugnina.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|03:50:00|04:00:00|S5 Ep8 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|04:00:00|04:05:00|S5 Ep9 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|04:05:00|04:15:00|S5 Ep10 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:15:00|04:25:00|...piccoli mostri. S1 Ep29 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:25:00|04:35:00|...piccoli mostri. S1 Ep30 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:35:00|04:45:00|...piccoli mostri. S1 Ep31 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|04:45:00|04:50:00|S4 Ep37 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|04:50:00|04:55:00|S4 Ep38 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Animazione rai cinema|04:55:00|05:00:00|Animazione rai cinema.
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:00:00|05:05:00|S8 Ep48 Il museo della scienza - Peppa va al Museo della Scienza con i compagni di scuola. Li' potranno osservare tanti esperimenti scientifici e persino provare il mini razzo di Nonno Coniglio!
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:05:00|05:10:00|S8 Ep49 Il Juke Box - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:10:00|05:15:00|S8 Ep50 Pale eoliche e girandole - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:15:00|05:20:00|S8 Ep51 Il compleanno di Mandy Topolina - Per il compleanno di Mandy Topolina, Peppa e i suoi amici vengono invitati nel magico e buonissomo Regno del Formaggio!
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:20:00|05:25:00|S8 Ep52 Il castello di sabbia - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:25:00|05:30:00|S8 Ep1 I gemelli panda - All'asilo di Peppa arrivano Peggi e Pandora Panda, due gemelline figlie dell'agente Panda. A loro piace risolvere enigmi e misteri e verrano messe subito alla prova...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:30:00|05:35:00|S4 Ep3 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:35:00|05:40:00|S4 Ep4 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:40:00|05:45:00|S4 Ep5 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:45:00|05:50:00|S4 Ep6 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:50:00|05:55:00|S4 Ep7 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:55:00|06:00:00|S4 Ep8 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:00:00|06:05:00|Ep21 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:05:00|06:10:00|Ep22 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:10:00|06:15:00|Ep23 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:15:00|06:20:00|Ep24 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|06:20:00|06:30:00|S1 Ep11 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|06:30:00|06:40:00|S1 Ep12 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/85fa915c-d37d-479c-8ac6-e7fd6d7cf1e6/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|06:40:00|06:50:00|S2 Ep22 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/e2600da3-9357-4ba7-b547-900bee333994/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|06:50:00|07:05:00|S2 Ep23 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|07:05:00|07:15:00|Ep41 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|07:15:00|07:20:00|Ep33 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|07:20:00|07:30:00|Ep22 - La curiosa Summer viene della citta'; Todd, proprietario della Fattoria Raggio di Sole, e' un costruttore provetto. Una squadra imbattibile che risolve con estro ogni tipo d'imprevisto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|07:30:00|07:40:00|Ep23 - La curiosa Summer viene della citta'; Todd, proprietario della Fattoria Raggio di Sole, e' un costruttore provetto. Una squadra imbattibile che risolve con estro ogni tipo d'imprevisto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Pianeta Storie|07:40:00|07:50:00|Ep8 - Un programma che accompagna i bambini alla scoperta di un genere speciale di libri, i 'silent book', che raccontano storie attraverso le immagini, senza l'ausilio di parole scritte.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Ricky Zoom|07:50:00|08:00:00|S2 Ep44 - La motocicletta rossa Ricky Zoom vuole crescere e divertirsi insieme ai suoi compagni, Scooti, Loop e DJ. Ogni giorno i giovani velocissimi amici sfrecciano rapidi verso nuove sfide.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Ricky Zoom|08:00:00|08:10:00|S2 Ep45 - La motocicletta rossa Ricky Zoom vuole crescere e divertirsi insieme ai suoi compagni, Scooti, Loop e DJ. Ogni giorno i giovani velocissimi amici sfrecciano rapidi verso nuove sfide.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:10:00|08:15:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:15:00|08:20:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:20:00|08:25:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|08:25:00|08:35:00|Ep6 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|08:35:00|08:50:00|Ep7 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/3930c516-5dcc-4a77-b0d5-043c90cbc38f/cover?md5ChecksumParam=e090ac6ab551acf9340610585e2ff156)|Le avventure di Paddington|08:50:00|09:15:00|S1 Ep13 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|09:15:00|09:25:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Masha e orso - Filastrocche per tutti|09:25:00|09:30:00|S1 Ep4 - Le filastrocche di Masha.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:30:00|09:35:00|S9 Ep2 La tavola calda - Peppa e la famiglia fanno una sosta con il camper alla tavola calda della Signorina Coniglio, dove mangiano, ballano e seguono le evoluzioni dei Monster Trucks.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:35:00|09:40:00|S9 Ep2 La tavola calda - Peppa e la famiglia fanno una sosta con il camper alla tavola calda della Signorina Coniglio, dove mangiano, ballano e seguono le evoluzioni dei Monster Trucks.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:40:00|09:45:00|S9 Ep2 La tavola calda - Peppa e la famiglia fanno una sosta con il camper alla tavola calda della Signorina Coniglio, dove mangiano, ballano e seguono le evoluzioni dei Monster Trucks.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Fumbleland|09:45:00|09:50:00|S1 Ep3 - Nel fantastico mondo di Fumbleland, se un bambino commette un errore di Spelling, nasce un Fumble, un esserino impertinente, pronto a fare tanti dispetti alla maestra Mrs Spelling.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Fumbleland|09:50:00|10:00:00|S1 Ep4 - Nel fantastico mondo di Fumbleland, se un bambino commette un errore di Spelling, nasce un Fumble, un esserino impertinente, pronto a fare tanti dispetti alla maestra Mrs Spelling.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Small Potatoes|10:00:00|10:05:00|S1 Ep11 Feelings - In questo episodio, le patate canterine danno voce ai loro sentimenti! Che siano tristi o felici, c'e' sempre di mezzo il cuore!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|10:05:00|10:15:00|S3 Ep2 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|10:15:00|10:25:00|S3 Ep3 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|10:25:00|10:35:00|Ep20 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|10:35:00|10:45:00|Ep21 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|10:45:00|10:50:00|Ep33 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|10:50:00|11:00:00|Ep34 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|11:00:00|11:05:00|Ep35 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|11:05:00|11:15:00|Ep36 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/3930c516-5dcc-4a77-b0d5-043c90cbc38f/cover?md5ChecksumParam=e090ac6ab551acf9340610585e2ff156)|Le avventure di Paddington|11:15:00|11:40:00|S1 Ep13 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|11:40:00|11:45:00|S1 Ep8 Masha e Orso vanno a pescare - Il grande Orso insegna alla piccola combinaguai Masha a pescare. Lei peschera'... un pesce dei desideri!
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|11:45:00|11:55:00|S1 Ep9 Al lupo, al lupo - Orso, per guardare in pace una partita in TV, manda Masha nel bosco, ma le da' un cellulare per chiamarlo in caso di pericolo. E lei non fara' che telefonargli!
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|11:55:00|12:00:00|S1 Ep10 Pattinaggio artistico - Masha vuole imparare e pattinare ma nessuno ha voglia di insegnarglielo. Lo faranno i pazienti Orso e Orsa.
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|12:00:00|12:10:00|S1 Ep11 Il primo giorno di scuola - La piccola Masha vuole andare a scuola. Sara' il buon Orso a farle da insegnante!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bumbi|12:10:00|12:20:00|Ep91 - Temi semplici e storie brevi per apprendere e sviluppare divertendosi lo spazio, il corpo, il movimento.
+
 |![Icon](https://guidatv.sky.it/uuid/c9c1a4b7-338f-433c-af42-d0ab00172b8d/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|12:20:00|12:30:00|S1 Ep9 Un cane per amico - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/ad9e79da-ed6a-4ab6-8c58-6d68a40d406b/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|12:30:00|12:45:00|S1 Ep10 Lampo al Gran Premio Miao Miao - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|12:45:00|12:55:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|12:55:00|13:05:00|S1 Ep10 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|13:05:00|13:15:00|S1 Ep11 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|13:15:00|13:25:00|S2 Ep38 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|13:25:00|13:35:00|S2 Ep39 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:35:00|13:40:00|S8 Ep22 Osservare gli uccellini - I nonni sono andati a trovare Peppa e George. Nonno Pig si dedica all'osservazione degli uccelli e porta con se' i nipotini...
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|13:40:00|13:45:00|S8 Ep23 Il film di super patato - Peppa, la famiglia e gli amici sono al cinema a vedere le avventure di Super Patato. Quando l'eroe mostra dal vivo come volare, rimane incastrato nel soffitto!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:45:00|13:55:00|S8 Ep24 Giochiamo a baseball! - A scuola Madame Gazzella ha portato una mazza e una palla per insegnare ai piccoli il baseball. George, che sembra il piu' debole, riuscira' a prendere la palla!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:55:00|14:00:00|S8 Ep25 Il tesoro sepolto - Peppa e George giocano con Freddy e Molly, scavando una lunga galleria sottoterra. Quando improvvisamente si imbattono in un forziere dei pirati con dentro un tesoro!
+
 |![Icon](https://guidatv.sky.it/uuid/84d1ec3f-f393-4257-ac25-22b3a0cdadea/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|14:00:00|14:05:00|S8 Ep26 Natale in ospedale - Peppa e George vivranno un Natale diverso dal solito: si accorgeranno presto che sono comunque in buona compagnia... Puo' capitare a tutti di essere malati!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Winx Club|14:05:00|14:30:00|S8 Ep13 - Riusciranno le Winx a scoprire il Potere Ultimo degli Animali Fatati? Per farlo dovranno salvarli dalla minaccia di una creatura malvagia e compiere molte missioni avventurose.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zecchino d'Oro - Le canzoni animate|14:30:00|14:35:00|Tante divertenti storie animate, da vedere e ascoltare, per raccontare le piu' belle canzoni dello Zecchino d'Oro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zecchino d'Oro - Le canzoni animate|14:35:00|14:40:00|Tante divertenti storie animate, da vedere e ascoltare, per raccontare le piu' belle canzoni dello Zecchino d'Oro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|14:40:00|14:50:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Lo Zecchino siamo noi 2021|14:50:00|14:55:00|Una redazione speciale, formata dai bambini del Coro Antoniano, ci accompagna alla scoperta del 63esimo Zecchino d'Oro: le canzoni, i videoclip e... tantissime sorprese e curiosita'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Leo &amp; Tig|14:55:00|15:05:00|S2 - Un cucciolo di leopardo e il suo fedele amico tigre si divertono insieme mentre esplorano la foresta. Molte avventure li aspettano!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Leo &amp; Tig|15:05:00|15:15:00|S2 - Un cucciolo di leopardo e il suo fedele amico tigre si divertono insieme mentre esplorano la foresta. Molte avventure li aspettano!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Pianeta Storie|15:15:00|15:25:00|Ep3 - Un programma che accompagna i bambini alla scoperta di un genere speciale di libri, i 'silent book', che raccontano storie attraverso le immagini, senza l'ausilio di parole scritte.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|15:25:00|15:30:00|Ep24 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|15:30:00|15:40:00|Ep25 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|15:40:00|15:50:00|S1 Ep15 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|15:50:00|16:00:00|S1 Ep16 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La posta di Yoyo 2021 / 2022|16:00:00|16:20:00|Ep. 88 - Un appuntamento quotidiano con voi, piccoli telespettatori, per guardare insieme i vostri disegni e leggere le vostre lettere, rispondendo a tutte le domande che arrivano alla posta di Yoyo.
+
 |![Icon](https://guidatv.sky.it/uuid/4570d670-a8b4-4414-b47c-22b3a659425c/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|16:20:00|16:25:00|S8 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/4570d670-a8b4-4414-b47c-22b3a659425c/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|16:25:00|16:30:00|S8 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/4570d670-a8b4-4414-b47c-22b3a659425c/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|16:30:00|16:35:00|S8 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|T.O.T.S. Trasporto Organizzato Teneri Supercuccioli|16:35:00|17:00:00|...Supercuccioli. S2 Ep18 - Pin il pinguino e Freddy il fenicottero sono i nuovi piloti junior del team! Il loro compito e' prendersi cura dei cuccioli, gattini, orsetti, conigli e cagnolini, portandoli alle famiglie in tutto il mondo.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Oreste, che storia!|17:00:00|17:10:00|Ep48 - Chi non ha sognato di entrare in un fumetto, o di vedere i personaggi uscire dal disegno? In uno studio colorato, il maestro Oreste disegna ogni giorno le storie illustrate di Mat e Tita.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|17:10:00|17:15:00|Ep26 - La curiosa Summer viene della citta'; Todd, proprietario della Fattoria Raggio di Sole, e' un costruttore provetto. Una squadra imbattibile che risolve con estro ogni tipo d'imprevisto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|17:15:00|17:25:00|Ep1 Benvenuti alla fattoria! - Todd e' in trepida attesa: la sua migliore amica Summer sta per arrivare dalla Grande Citta' alla Fattoria Raggio di Sole... giusto in tempo per il festa di stasera!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|17:25:00|17:35:00|Ep10 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|17:35:00|17:45:00|Ep11 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|17:45:00|17:55:00|Ep25 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|17:55:00|18:10:00|Ep26 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/aa7bcacb-d99c-4035-972c-d084c50b1a7e/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|18:10:00|18:20:00|S2 Ep16 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/33d62de0-b082-4301-afb2-5c9680033a45/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|18:20:00|18:35:00|S2 Ep17 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/a683e772-105f-4720-bc7f-29522230199e/cover?md5ChecksumParam=bed747630be50669ef24ea92197c0346)|La casa di Topolino|18:35:00|19:00:00|S2 Ep38 Il luna park di Clarabella - Clarabella non ha piu' cibo per i suoi polli. Topolino e i suoi amici organizzano, allora, per aiutarla, un luna park dove poter raccogliere tanti chicchi di mais.
+
 |![Icon](https://guidatv.sky.it/uuid/8c590653-ad31-44ce-967e-478fbb8a9fbf/cover?md5ChecksumParam=477dc6ffd26fe7ba0e2de6ce364a2ef4)|Minnie Toons|19:00:00|19:05:00|S3 Ep33 Buon Halloween - Topolino aiuta Minnie a capire come fare a godersi la festa di Halloween anche senza avere i dolcetti a disposizione...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mira, Royal Detective|19:05:00|19:25:00|S1 - Nel regno di Jalpur, la coraggiosa Mira riceve dalla regina l'incarico di detective reale. Aiutera' cosi' tutti coloro che dovranno fare luce su un mistero.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|19:25:00|19:35:00|S3 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|19:35:00|19:50:00|S3 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|19:50:00|19:55:00|S1 Ep4 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|19:55:00|20:05:00|S1 Ep5 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|20:05:00|20:10:00|S1 Ep6 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|20:10:00|20:20:00|S1 Ep45 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|20:20:00|20:35:00|S1 Ep46 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/73b78f93-671f-46c7-8c14-079ffbbe3781/cover?md5ChecksumParam=f1e97eca884bca560790aea2282835e7)|I racconti di Masha|20:35:00|20:40:00|S1 Ep1 - Masha racconta ai suoi piccoli amici giocattolo la storia del lupo e dei sette capretti: vuole, infatti, insegnare loro che non bisogna mai aprire la porta a degli sconosciuti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Masha e orso - Filastrocche per tutti|20:40:00|20:45:00|S1 Ep5 - Le filastrocche di Masha.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|20:45:00|20:50:00|Ep45 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|20:50:00|21:00:00|Ep46 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|21:00:00|21:05:00|Ep47 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Tutti a nanna con Yoyo|21:05:00|21:15:00|Che succede allo scoccare della mezzanotte nel mondo di Rai Yoyo? Sulle placide note della ninna nanna di Brahms, dormono tutti! Non resta che tornare nel proprio lettino...
+
 |![Icon](https://guidatv.sky.it/uuid/3930c516-5dcc-4a77-b0d5-043c90cbc38f/cover?md5ChecksumParam=e090ac6ab551acf9340610585e2ff156)|Le avventure di Paddington|21:15:00|21:40:00|S1 Ep13 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:40:00|21:50:00|Ep67 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:50:00|21:55:00|Ep68 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:55:00|22:05:00|Ep69 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:05:00|22:15:00|Ep11 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:15:00|22:20:00|Ep12 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:20:00|22:30:00|Ep13 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:30:00|22:35:00|S1 Ep15 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:35:00|22:40:00|S1 Ep16 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:40:00|22:50:00|S1 Ep17 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:50:00|22:55:00|S1 Ep18 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Tutti a nanna con Yoyo|22:55:00|23:05:00|Che succede allo scoccare della mezzanotte nel mondo di Rai Yoyo? Sulle placide note della ninna nanna di Brahms, dormono tutti! Non resta che tornare nel proprio lettino...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:05:00|23:10:00|S1 Ep30 Vietato sbirciare - Kit e Kate giocano a nascondino con le anatre, ma poco dopo Kate e le anatre si ritirano, quando si rendono conto che Kit tende a barare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:10:00|23:15:00|S1 Ep31 Gattino comandino - Kit e Kate vogliono costruire una casa per le anatre e Kit vuole essere il capo. Ma, quando lui decide che solo le sue idee sono giuste, la casa affondera' nel lago.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:15:00|23:20:00|S1 Ep32 Ciak, si gira! - I registi Kit e Kate girano un film con protagonista un simpatico elfo. Ma i gattini hanno non mantegono la promessa di lasciare che lui esegua la sua danza speciale...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|23:20:00|23:30:00|S1 Ep11 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|23:30:00|23:45:00|S1 Ep12 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:45:00|23:50:00|Ep38 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:50:00|23:55:00|Ep39 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:55:00|00:05:00|Ep40 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|00:05:00|00:10:00|Ep41 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Animazione rai cinema|00:10:00|00:15:00|Animazione rai cinema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|00:15:00|00:20:00|S4 Ep91 Campeggio - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|00:20:00|00:30:00|S4 Ep92 Corsa in autobus - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zafari|00:30:00|00:45:00|S2 Ep13 - Un elefantino a strisce zebrate, una giraffa con piume di pavone e un leone rosa. Questi sono solo alcuni dei fantasiosi abitanti animali di una valle ai piedi del Monte Kilimangiaro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zafari|00:45:00|01:05:00|S2 Ep14 - Un elefantino a strisce zebrate, una giraffa con piume di pavone e un leone rosa. Questi sono solo alcuni dei fantasiosi abitanti animali di una valle ai piedi del Monte Kilimangiaro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:05:00|01:10:00|S1 Ep37 L'abito reale - Oggi Kit e Kate giocano a fare i sarti e imparano che, se vuoi fare qualcosa in modo preciso, e' sempre meglio controllare di nuovo per essere sicuri!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:10:00|01:15:00|S1 Ep38 Impossibile! - Kit e Kate vogliono cavalcare i Robo-Pony a Pony Park proprio come gli altri bambini, ma per loro e' davvero impossibile riuscire a suonare le trombe che accendono i Pony...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:15:00|01:20:00|S1 Ep39 La gara di macchine - Kit e Kate giocano a fare i piloti da corsa. Impareranno che il vero vincitore non e' chi si assicura che tutti i partecipanti arrivino sani e salvi al traguardo!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|01:20:00|01:25:00|S1 Ep40 Faccio da solo! - Oggi Kit e Kate decidono di costruire un dondolo: impareranno che fare le cose insieme e' molto piu' divertente, poiche' un lavoro in compagnia e' un lavoro in allegria!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:25:00|01:35:00|S2 Ep15 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:35:00|01:45:00|S2 Ep16 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|01:45:00|02:00:00|S2 Ep17 Ep.17 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|02:00:00|02:10:00|S2 Ep18 Ep.18 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|02:10:00|02:15:00|S8 Ep18 La fattoria didattica - Peppa e la famiglia, con Rebecca, vanno a visitare una fattoria didattica, dove danno da mangiare agli animali e imparano a lavarsi le mani dopo averli toccati...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|02:15:00|02:20:00|S8 Ep19 Pizza! - Peppa e la sua famiglia preparano la pizza con ingredienti diversi in modo da formare tante facce buffe! Ma si renderanno conto che ognuno assomiglia alla propria pizza...
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|02:20:00|02:25:00|S8 Ep20 Tv Land - Peppa, la sua famiglia, Emily ed Edmond guardano Super Patato in TV. Papa' Pig propone loro di andare a vedere come funziona lo spettacolo e si recano cosi' tutti negli studi...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:25:00|02:35:00|S2 Ep19 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:35:00|02:45:00|S2 Ep20 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'Ape Maia 3D|02:45:00|02:55:00|S2 Ep21 - Le avventure di una piccola ape, dolce e ingenua, nel grande mondo degli insetti.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|02:55:00|03:10:00|S1 Ep51 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|03:10:00|03:25:00|S1 Ep52 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Moominvalley|03:25:00|03:50:00|S1 Ep20 Dada e Sasa - Tabacco racconta a Moomintroll la leggenda dell'Hobgoblin, che viaggia in cerca del Rubino del Re. Intanto, di notte, due esseri biondi si intrufolano nella casa dei Troll.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|03:50:00|04:00:00|S5 Ep11 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|04:00:00|04:05:00|S5 Ep12 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Shaun: vita da pecora|04:05:00|04:15:00|S5 Ep13 - Shaun e' una pecora intelligente e creativa che vive in una fattoria dove Bitzer, il cane pastore del contadino, tenta senza successo di non lasciarla mai tranquilla.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:15:00|04:25:00|...piccoli mostri. S1 Ep32 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:25:00|04:35:00|...piccoli mostri. S1 Ep33 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|School of Roars: La scuola dei...|04:35:00|04:45:00|...piccoli mostri. S1 Ep34 - I simpatici Mipa, Minilu', Iammi , Burglagiu', Wingy sono piccoli mostri sempre pronti a divertirsi tra una lezione e l'altra della maestra Stanacarpicci nella loro scuola tutta speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|04:45:00|04:50:00|S4 Ep39 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|04:50:00|04:55:00|S4 Ep40 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Animazione rai cinema|04:55:00|05:00:00|Animazione rai cinema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:00:00|05:05:00|S8 Ep2 Capodanno cinese - Con draghi, maschere e lanterne rosse, Peppa e la sua famiglia incontrano dei nuovi amici e insieme si preparano a festeggiare, nel Capodanno cinese, l'anno del maiale!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:05:00|05:10:00|S8 Ep3 Pozzanghere fangose - Peppa si diverte a saltare da una pozzanghera fangosa all'altra, combinandone ogni giorno di tutti i colori...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:10:00|05:15:00|S8 Ep4 Mandy topolina - A scuola arriva Mandy Topolina, su una sedia a rotelle. I bambini la accolgono con gioia e lei dimostra come il suo handicap non le impedisce afftto di divertirsi...
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|05:15:00|05:20:00|S8 Ep5 Registratori - A scuola Madame Gazzella insegna ai bambini a suonare il flauto e si raccomanda di fare pratica a casa, con grande disappunto dei genitori...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:20:00|05:25:00|S8 Ep6 La lezione di rilassamennto della signorina Rabbit - Mamma Pig va a una lezione di rilassamento della signorina Coniglio. Ma trova un tale caos che saltera' in un castello gonfiabile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|05:25:00|05:30:00|S8 Ep7 Biglietto del parcheggio - Peppa e George accompagnano il papa' a fare compere. Lui parcheggia in divieto di sosta e cosi' la signorina Coniglio gli fa una contravvenzione...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:30:00|05:35:00|S4 Ep9 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:35:00|05:40:00|S4 Ep10 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:40:00|05:45:00|S4 Ep11 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:45:00|05:50:00|S4 Ep12 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:50:00|05:55:00|S4 Ep13 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Molang|05:55:00|06:00:00|S4 Ep14 - Le avventure del coniglietto Molang e del suo migliore amico, il pulcino Piu Piu. Felicita', amicizia e rispetto reciproco sono gli elementi chiave degli episodi di questa serie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:00:00|06:05:00|Ep25 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:05:00|06:10:00|Ep26 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:10:00|06:15:00|Ep1 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mini Cuccioli a scuola|06:15:00|06:20:00|Ep2 - I Mini Cuccioli vivono le prime esperienze a scuola, dove il gioco e' lo strumento per apprendere e imparare a conoscere se' stessi e il mondo circostante, attraverso l'esperienza del fare.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|06:20:00|06:30:00|S1 Ep13 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|06:30:00|06:40:00|S1 Ep14 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/acc8c685-a075-4dcc-8756-807d7a6b783e/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|06:40:00|06:50:00|S2 Ep24 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/ca0ac9a6-9733-4f8b-aa05-9884ad5032c3/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|06:50:00|07:05:00|S2 Ep25 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|07:05:00|07:15:00|Ep49 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|07:15:00|07:20:00|Ep1 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|07:20:00|07:30:00|Ep24 - La curiosa Summer viene della citta'; Todd, proprietario della Fattoria Raggio di Sole, e' un costruttore provetto. Una squadra imbattibile che risolve con estro ogni tipo d'imprevisto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|07:30:00|07:40:00|Ep25 - La curiosa Summer viene della citta'; Todd, proprietario della Fattoria Raggio di Sole, e' un costruttore provetto. Una squadra imbattibile che risolve con estro ogni tipo d'imprevisto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Pianeta Storie|07:40:00|07:50:00|Ep9 - Un programma che accompagna i bambini alla scoperta di un genere speciale di libri, i 'silent book', che raccontano storie attraverso le immagini, senza l'ausilio di parole scritte.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Ricky Zoom|07:50:00|08:00:00|S2 Ep46 - La motocicletta rossa Ricky Zoom vuole crescere e divertirsi insieme ai suoi compagni, Scooti, Loop e DJ. Ogni giorno i giovani velocissimi amici sfrecciano rapidi verso nuove sfide.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Ricky Zoom|08:00:00|08:10:00|S2 Ep47 - La motocicletta rossa Ricky Zoom vuole crescere e divertirsi insieme ai suoi compagni, Scooti, Loop e DJ. Ogni giorno i giovani velocissimi amici sfrecciano rapidi verso nuove sfide.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:10:00|08:15:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:15:00|08:20:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|SuperPapa'|08:20:00|08:25:00|Ogni pomeriggio, dismessi i panni di diligente impiegato, il papa' della piccola Miao torna a casa: guanti, stivali da pioggia, jeans, mantello e mascherina blu ed eccolo trasformato in un... Super Papa'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|08:25:00|08:35:00|Ep8 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|08:35:00|08:50:00|Ep9 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le avventure di Paddington|08:50:00|09:15:00|S1 Ep14 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|09:15:00|09:25:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Masha e orso - Filastrocche per tutti|09:25:00|09:30:00|S1 Ep5 - Le filastrocche di Masha.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:30:00|09:35:00|S9 Ep3 La regione dei Canyon - Peppa e la famiglia attraversano il deserto: incontrano il Signor Bisonte, che illustra il Canyon, e un'altra Signorina Coniglio che fa fare loro un giro turistico...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:35:00|09:40:00|S9 Ep3 La regione dei Canyon - Peppa e la famiglia attraversano il deserto: incontrano il Signor Bisonte, che illustra il Canyon, e un'altra Signorina Coniglio che fa fare loro un giro turistico...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|09:40:00|09:45:00|S9 Ep3 La regione dei Canyon - Peppa e la famiglia attraversano il deserto: incontrano il Signor Bisonte, che illustra il Canyon, e un'altra Signorina Coniglio che fa fare loro un giro turistico...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Fumbleland|09:45:00|09:50:00|S1 Ep2 - Nel fantastico mondo di Fumbleland, se un bambino commette un errore di Spelling, nasce un Fumble, un esserino impertinente, pronto a fare tanti dispetti alla maestra Mrs Spelling.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Fumbleland|09:50:00|10:00:00|S1 Ep14 - Nel fantastico mondo di Fumbleland, se un bambino commette un errore di Spelling, nasce un Fumble, un esserino impertinente, pronto a fare tanti dispetti alla maestra Mrs Spelling.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Small Potatoes|10:00:00|10:05:00|S1 Ep12 Moon Baby - Moon Baby canta una dolce ninna nanna sulla spazio e sulla Luna, prima di tornare sulla Terra. Cos'altro c'e' nel nostro grande universo?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|10:05:00|10:15:00|S3 Ep4 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|10:15:00|10:25:00|S3 Ep5 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|10:25:00|10:35:00|Ep22 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|10:35:00|10:45:00|Ep23 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|10:45:00|10:50:00|Ep37 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|10:50:00|11:00:00|Ep38 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|11:00:00|11:05:00|Ep39 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|11:05:00|11:15:00|Ep40 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le avventure di Paddington|11:15:00|11:40:00|S1 Ep14 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=ae3b7f4474139bb5c3b9ecb9196394ff)|Masha e Orso|11:40:00|11:45:00|S1 Ep12 Masha fa la guardia - Orso chiede a Masha di fare la guardia al suo orto per proteggerlo dai dispettosi conigli. La piccola combinaguai diventera' cosi' una poliziotta!
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|11:45:00|11:55:00|S1 Ep13 Tana per Orso - Orso vuole fare un cruciverba in pace, ma Masha vuole per forza giocare con lui a nascondino. Orso escogita cosi' un piano per ingannare la bimba...
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|11:55:00|12:00:00|S1 Ep14 Attenti a Masha! - Masha ne ha combinata un'altra delle sue e a farne le spese e' Orso che si ritrova con un bernoccolo in testa! Masha inizia a raccontargli cosa e' successo...
+
 |![Icon](https://guidatv.sky.it/uuid/ea8ff806-1f77-4361-bfd4-49dd9592e7d0/cover?md5ChecksumParam=a1a63b4803f146ffde9ca71cbd4907f4)|Masha e Orso|12:00:00|12:10:00|S1 Ep15 Puoi chiamarmi Masha - Col treno arriva un piccolo panda col quale Masha vuole fare subito amicizia. La piccolina non sa, pero', cosa l'aspetta!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bumbi|12:10:00|12:20:00|Ep92 - Temi semplici e storie brevi per apprendere e sviluppare divertendosi lo spazio, il corpo, il movimento.
+
 |![Icon](https://guidatv.sky.it/uuid/247e9eb9-3718-4f68-b567-3db1d1f974ba/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|12:20:00|12:30:00|S1 Ep11 Febbre da gatto - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/519ec2a8-6d23-4c27-86f2-cc3946005e12/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|12:30:00|12:45:00|S1 Ep12 La gara di ballo - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|12:45:00|12:55:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|12:55:00|13:05:00|S1 Ep2 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|13:05:00|13:15:00|S1 Ep3 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|13:15:00|13:25:00|S2 Ep40 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|PJ Masks - Super Pigiamini|13:25:00|13:35:00|S2 Ep41 - I tre protagonisti di giorno sono dei bambini di sette anni come tutti, di notte invece indossano i loro pigiamini magici e i trasformano nei superereoi 'PjMasks' coi nomi di Catboy, Owlette e Gekko.
+
 |![Icon](https://guidatv.sky.it/uuid/3621b623-9cfb-4438-a05c-eaf51b744478/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|13:35:00|13:40:00|S8 Ep27 Il giorno di San Valentino - Il giorno di San Valentino, Papa' Pig consegna a Mamma Pig un biglietto di auguri, mentre lei glielo ha spedito tramite posta e non e' ancora arrivato...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:40:00|13:45:00|S8 Ep28 Una giornata perfetta - Peppa e la famiglia vanno al centro commerciale: la mamma vive l'esperienza di una giornata alla spa e gli altri si divertono con scale mobili e buffe foto.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:45:00|13:55:00|S8 Ep29 Colazione in classe - Madame Gazzella spiega a Peppa e ai suoi piccoli amici quanto e' importante una sana prima colazione per fare il pieno di energia e affrontare al meglio la giornata.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|13:55:00|14:00:00|S8 Ep30 L'orto botanico - Peppa e la famiglia visitano i giardini botanici, dove sono riprodotti diversi habitat naturali. Ma il piu' divertente e' quello creato con un'enorme pozzanghera di fango!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|14:00:00|14:05:00|S8 Ep31 Il quiz del signor patato - Il signor Patato rendera' divertente in lezione in classe in cui si parla di corretta alimentazione, attraverso un fantasioso quiz su frutta e verdura.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Winx Club|14:05:00|14:30:00|S8 Ep14 - Riusciranno le Winx a scoprire il Potere Ultimo degli Animali Fatati? Per farlo dovranno salvarli dalla minaccia di una creatura malvagia e compiere molte missioni avventurose.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zecchino d'Oro - Le canzoni animate|14:30:00|14:35:00|Tante divertenti storie animate, da vedere e ascoltare, per raccontare le piu' belle canzoni dello Zecchino d'Oro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zecchino d'Oro - Le canzoni animate|14:35:00|14:40:00|Tante divertenti storie animate, da vedere e ascoltare, per raccontare le piu' belle canzoni dello Zecchino d'Oro.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Uno Zecchino con i Buffycats|14:40:00|14:50:00|Lampo e Gloria ci portano alla scoperta di nuove 'buffystorie'. Con la magia del 'guarda, ascolta, canta', siete pronti a vivere insieme ai nostri amici una 'buffyavventura gattastica'?
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Lo Zecchino siamo noi 2021|14:50:00|14:55:00|Una redazione speciale, formata dai bambini del Coro Antoniano, ci accompagna alla scoperta del 63esimo Zecchino d'Oro: le canzoni, i videoclip e... tantissime sorprese e curiosita'!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Leo &amp; Tig|14:55:00|15:05:00|S2 - Un cucciolo di leopardo e il suo fedele amico tigre si divertono insieme mentre esplorano la foresta. Molte avventure li aspettano!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Leo &amp; Tig|15:05:00|15:15:00|S2 - Un cucciolo di leopardo e il suo fedele amico tigre si divertono insieme mentre esplorano la foresta. Molte avventure li aspettano!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Pianeta Storie|15:15:00|15:25:00|Ep4 - Un programma che accompagna i bambini alla scoperta di un genere speciale di libri, i 'silent book', che raccontano storie attraverso le immagini, senza l'ausilio di parole scritte.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|15:25:00|15:30:00|Ep26 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|15:30:00|15:40:00|Ep27 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|15:40:00|15:50:00|S1 Ep17 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Topo Gigio|15:50:00|16:00:00|S1 Ep18 - Le nuove avventure di Gigio, il primo topolino che ha imparato a vivere tra gli umani. Per lui ogni cosa e' una novita' e ha sempre tante idee per rendere tutto davvero molto speciale.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La posta di Yoyo 2021 / 2022|16:00:00|16:20:00|Ep. 89 - Un appuntamento quotidiano con voi, piccoli telespettatori, per guardare insieme i vostri disegni e leggere le vostre lettere, rispondendo a tutte le domande che arrivano alla posta di Yoyo.
+
 |![Icon](https://guidatv.sky.it/uuid/4570d670-a8b4-4414-b47c-22b3a659425c/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|16:20:00|16:25:00|S8 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Peppa Pig|16:25:00|16:30:00|S9 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/4570d670-a8b4-4414-b47c-22b3a659425c/cover?md5ChecksumParam=d95f149fbb28642ceb3f873171b150f8)|Peppa Pig|16:30:00|16:35:00|S8 - Peppa si diverte a giocare, a provarsi i vestiti e a saltare da una pozzanghera all'altra, combinandone ogni giorno di tutti i colori e vivendo mille divertenti avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|T.O.T.S. Trasporto Organizzato Teneri Supercuccioli|16:35:00|17:00:00|...Supercuccioli. S2 Ep19 - Pin il pinguino e Freddy il fenicottero sono i nuovi piloti junior del team! Il loro compito e' prendersi cura dei cuccioli, gattini, orsetti, conigli e cagnolini, portandoli alle famiglie in tutto il mondo.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Oreste, che storia!|17:00:00|17:10:00|Ep49 - Chi non ha sognato di entrare in un fumetto, o di vedere i personaggi uscire dal disegno? In uno studio colorato, il maestro Oreste disegna ogni giorno le storie illustrate di Mat e Tita.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|17:10:00|17:15:00|Ep2 Dal grano al pane - Peter l'alpaca piomba con il suo furgoncino alla fattoria: gli servono ben 400 pagnotte di pane per la colletta alimentare di beneficenza... entro la giornata!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Summer &amp; Todd - L'allegra fattoria|17:15:00|17:25:00|Ep3 Fragole fresche! - E' una serena giornata alla Fattoria Raggio di Sole, e al mercato le fragole fresche portate da Todd e Pico vanno a ruba! Summer e Betty sono sorprese...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|17:25:00|17:35:00|Ep12 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nefertina sul Nilo|17:35:00|17:45:00|Ep13 - Nefertina e' una bambina di otto anni dotata di inesauribile curiosita` e grande coraggio che vive nell'antico Egitto, che aspira a diventare la prima donna scriba del paese.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|17:45:00|17:55:00|Ep1 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il villaggio incantato di Pinocchio|17:55:00|18:10:00|Ep2 - Tra una foresta misteriosa e un lago scintillante, c'e' un villaggio incantato dove i personaggi delle fiabe sono andati a vivere al termine delle storie che li hanno resi famosi!
+
 |![Icon](https://guidatv.sky.it/uuid/9462de22-44a3-4742-a764-de48c8b1e746/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|18:10:00|18:20:00|S2 Ep18 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/5c3e8865-dcbf-4016-a2e9-9103155c126d/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|18:20:00|18:35:00|S2 Ep19 - I Buffycats sono quattro gatti musicisti che vivono fantastiche avventure risolte a colpi di musica scoprendo il mondo dal garage della simpatica Nonna Pina.
+
 |![Icon](https://guidatv.sky.it/uuid/6d45a9ec-a91c-4ac0-92af-4b75e6a03886/cover?md5ChecksumParam=bed747630be50669ef24ea92197c0346)|La casa di Topolino|18:35:00|19:00:00|S2 Ep39 Il safari di Topolino e Minnie - Minnie vuole fotografare un fiore raro che sboccia solo una volta all'anno. Cosi' i sei amici organizzano un safari per riuscire trovarlo...
+
 |![Icon](https://guidatv.sky.it/uuid/8c590653-ad31-44ce-967e-478fbb8a9fbf/cover?md5ChecksumParam=477dc6ffd26fe7ba0e2de6ce364a2ef4)|Minnie Toons|19:00:00|19:05:00|S3 Ep34 Una consegna regale - Minnie, Paperina e Cucu' Loca devono consegnare un cappello proprio alla regina!
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Mira, Royal Detective|19:05:00|19:25:00|S1 - Nel regno di Jalpur, la coraggiosa Mira riceve dalla regina l'incarico di detective reale. Aiutera' cosi' tutti coloro che dovranno fare luce su un mistero.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Zog e i medici volanti|19:25:00|19:50:00|GBR. Sul dorso del drago Zog volano Ubaldo e Sabrina, un cavaliere e una principessa: insieme sono i medici volanti, che curano sirene, leoni e unicorni. Riusciranno a far guarire un re malato?
+
 |![Icon](https://guidatv.sky.it/uuid/709ef00d-cd21-47b5-8fa8-871383dad657/cover?md5ChecksumParam=218c3ff403e5635125879c8184052253)|Bing|19:50:00|19:55:00|S1 Ep7 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|19:55:00|20:05:00|S1 Ep8 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Bing|20:05:00|20:10:00|S1 Ep9 - Il piccolo Bing affronta con entusiasmo difficilissime sfide, ma per fortuna riesce sempre a trovare la chiave giusta per risolvere ogni problema.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|20:10:00|20:20:00|S1 Ep47 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Barbapapa' - Una grande famiglia felice!|20:20:00|20:35:00|S1 Ep48 - Barbapapa' e' un grosso blob rosa a forma di pera, che ha la capacita' di modellare a piacimento il suo corpo, assumendo la forma di cio' che e' piu' indicato per risolvere ogni situazione.
+
 |![Icon](https://guidatv.sky.it/uuid/b86ab481-0503-4999-b8b1-b601ffb41682/cover?md5ChecksumParam=f1e97eca884bca560790aea2282835e7)|I racconti di Masha|20:35:00|20:40:00|S1 Ep2 - Masha racconta ai piccoli amici giocattolo la storia di due fratellini, Lena ed Ivan, che non ascoltarono le raccomandazioni dei genitori: andarono, infatti, nella foresta e si persero.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Masha e orso - Filastrocche per tutti|20:40:00|20:45:00|S1 Ep6 - Le filastrocche di Masha.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|20:45:00|20:50:00|Ep48 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|20:50:00|21:00:00|Ep49 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Nina &amp; Olga|21:00:00|21:05:00|Ep50 - Nina e' una bimba ribelle e sognatrice dai capelli ricci. Ama i giochi all'aperto, perche' c'e' la nuvola Olga con cui gioca, e il Sole, la Luna e le Stelle con cui condivide infinite storie.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Tutti a nanna con Yoyo|21:05:00|21:15:00|Che succede allo scoccare della mezzanotte nel mondo di Rai Yoyo? Sulle placide note della ninna nanna di Brahms, dormono tutti! Non resta che tornare nel proprio lettino...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le avventure di Paddington|21:15:00|21:40:00|S1 Ep14 - L'orsetto Paddington vive in Windsor Garden insieme alla famiglia Brown. In ogni puntata scrive una lettera alla zia Lucy, raccontandole cosa ha imparato dalle sue avventure.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:40:00|21:50:00|Ep70 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:50:00|21:55:00|Ep71 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Le storie di Lupin|21:55:00|22:05:00|Ep72 - Sognando di assomigliare agli eroi dei libri di fiabe, il piccolo lupo Lupin viaggia da un racconto all'altro per vivere le loro avventure. Ma raggiungere il lieto fine non e' cosi' facile.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:05:00|22:15:00|Ep14 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:15:00|22:20:00|Ep15 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/c5f88b2c-00d4-400d-ae1a-dae5c434c4be/cover?md5ChecksumParam=c2a464b298e4032c1f9f3bd7e64ad13e)|Brave Bunnies|22:20:00|22:30:00|Ep16 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:30:00|22:35:00|S1 Ep19 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:35:00|22:40:00|S1 Ep20 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:40:00|22:50:00|S1 Ep21 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Pimpa|22:50:00|22:55:00|S1 Ep22 - La Pimpa, personaggio creato dall'illustratore Altan, e' un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Tutti a nanna con Yoyo|22:55:00|23:05:00|Che succede allo scoccare della mezzanotte nel mondo di Rai Yoyo? Sulle placide note della ninna nanna di Brahms, dormono tutti! Non resta che tornare nel proprio lettino...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:05:00|23:10:00|S1 Ep33 Fa' sempre del tuo meglio - Kit e Kate sono archeologi nell'antica piramide del re Kat e viene affidato loro il compito di mettere insieme i pezzi di un'antica statua...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:10:00|23:15:00|S1 Ep34 Amici per la pelle - Kit e Kate vorrebbero diventare amici di Linda Lamb, l'assistente di un laboratorio. Ma, sfortunatamente, Linda ha paura di giocare con i loro giochi...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Kit e Kate|23:15:00|23:20:00|S1 Ep35 La guastafeste - Kit vuole unirsi al circo con sua sorella, ma Kate non e' minimammente interessata alla proposta perche' pensa che sia troppo noioso...
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|23:20:00|23:30:00|S1 Ep13 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|La Famiglia Volpitassi|23:30:00|23:45:00|S1 Ep14 - La vita di due tassi gemelli e della sorellina cambia quando, in famiglia, al loro papa' si aggiungono anche la signora Volpe e la sua adorabile figlioletta.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:45:00|23:50:00|Ep42 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:50:00|23:55:00|Ep43 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:55:00|00:05:00|Ep44 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY

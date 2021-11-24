@@ -1,97 +1,191 @@
 # Caccia
+
 > Programmazione di Mercoledì 24 Novembre 2021
+
 ||Programma|Inizio|Fine|Descrizione|
+
 |---|---|---|---|---|
+
 |![Icon](https://guidatv.sky.it/uuid/e5f4c8d7-504a-4d50-8c89-973e8396c1ea/cover?md5ChecksumParam=c7c539ae0d509c9f87974a9c51e2cc39)|Il richiamo delle foreste|00:00:00|01:00:00|Il documentario si domanda 'Cosa succede alla natura dopo un incidente nucleare?' e risponde con un'analisi delle trasformazioni dell'ambiente nei 25 anni successivi all'incidente nucleare di Chernobyl. Rep. 24 nov 13:00
+
 |![Icon](https://guidatv.sky.it/uuid/88b2ce62-eea4-4ae0-8ddb-92be65c5966f/cover?md5ChecksumParam=dd8c4360b3f890a1bf9dc2f0095f8c83)|I fucili che guardano il mare|01:00:00|01:30:00|Ep. 2 - Nel secondo appuntamento alla scoperta dei fucili Cosmi conosciamo meglio l'ultimo arrivatol il rigato che viene lanciato nella caccia grossa. Rep. 24 nov 14:00
+
 |![Icon](https://guidatv.sky.it/uuid/dbae2d21-92c9-4e22-8341-a304cb49bfa3/cover?md5ChecksumParam=5ccfa85dc693f483a27eaa4b425a600c)|Passione acquatici|01:30:00|02:00:00|Ep. 2 Lavori di valle - Oliver Martini mostra i lavori di manutenzione, ripristino e miglioramento dell'habitat umido degli anatidi che vengono fatti durante la primavera. E poi a caccia a novembre! Prox Ep. 25 nov 21:30. Rep. 24 nov 14:30
+
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|02:00:00|02:35:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 24 nov 15:00
+
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|02:35:00|03:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 24 nov 15:35
+
 |![Icon](https://guidatv.sky.it/uuid/e7d411a8-6c39-4816-a25a-962390bdebcb/cover?md5ChecksumParam=e4d278bacddfee50ddc5ab0c7140be99)|Emozioni di caccia di Lugari|03:00:00|04:00:00|Ep. 12 Le furie del castello. 1a parte / Sfide tra i calanchi - Caccia al cinghiale in battuta a Monteriggioni, Siena. / Caccia al fagiano con un pointer e un kurzhaar nei calanchi emiliani. Prox Ep. 28 nov 22:00. Rep. 24 nov 13:00
+
 |![Icon](https://guidatv.sky.it/uuid/c908882c-ce97-4f05-af2d-60ded3419f31/cover?md5ChecksumParam=d02b38e229b4134522fc2bbfc1672670)|A caccia con Raniero|04:00:00|04:30:00|Ep. 3 Fagiani e starne in Piemonte. 1a parte - Raniero e un suo allievo vanno a caccia di selvaggina stanziale nella pianura piemontese, in particolare di fagiani e pernici rosse. Prox ed ultimo Ep. 25 nov 22:00. Rep. 24 nov 17:00
+
 |![Icon](https://guidatv.sky.it/uuid/f1ffc329-b3c0-4f17-a2c8-b6b2a3586692/cover?md5ChecksumParam=5da91400e108808c8930afdb28b7a7ad)|Caccia alla migratoria in Piemonte|04:30:00|05:00:00|Ep. 3 Caccia alle allodole - Dalla provincia di Vicenza arrivano in Piemonte due giovani cacciatori, Daniele Quartesan e Alberto Dal Moro, per una bella cacciata alle allodole. Prox ed ultimo Ep. 25 nov 22:30. Rep. 24 nov 17:30
+
 |![Icon](https://guidatv.sky.it/uuid/f3f1a71d-f66b-4049-9d05-73a3793c6014/cover?md5ChecksumParam=a88ef3d69b348e5b0aa03c72517dc74b)|Caccia e cucina|05:00:00|05:30:00|Ep. 3 - Con Raffaele Puopolo (Napoli) e Luca Pardini (Parma) scopriamo dei ravioli di cinghiale mele e zenzero con riduzione di dashi della Val Taro, e una sella di capriolo con ribes. Prox Ep. 29 nov 21:00. Rep. 24 nov 15:00
+
 |![Icon](https://guidatv.sky.it/uuid/a48ac781-9e7f-4b6c-876c-3d1289e759b8/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|05:30:00|05:45:00|Ep. 1 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 24 nov 06:45. Rep. 24 nov 15:30
+
 |![Icon](https://guidatv.sky.it/uuid/d95e13ce-9ea9-42fc-949c-8fd222e0e00e/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|05:45:00|06:00:00|Ep. 2 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 29 nov 21:30. Rep. 24 nov 06:50
+
 |![Icon](https://guidatv.sky.it/uuid/5e52802d-7f8f-4fc0-a742-ab0593688584/cover?md5ChecksumParam=47072cfefa05533f1943fb3f050fc65e)|Caccia buona|06:00:00|06:35:00|Ep. 8 Una tartare superstagionata - Toscana: Maurizio con la carabina e Emilio Petricci con l'arco vanno a caccia di daini. Le carni saranno cucinare dallo chef Edoardo Tilli a Pontassieve. Prox Ep. 27 nov 21:00. Rep. 24 nov 07:05
+
 |![Icon](https://guidatv.sky.it/uuid/d41455c4-2883-4953-8583-e93b99e922d8/cover?md5ChecksumParam=cfd2b39f5832ba3c07f986ff10792214)|Frammenti di caccia|06:35:00|07:00:00|Ep. 7 - Una serie di episodi in cui i Fratelli Lugari ci accompagnano a caccia in Italia e all'estero alla ricerca di tante diverse specie. Prox Ep. 27 nov 21:30. Rep. 24 nov 12:30
+
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|07:00:00|07:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 24 nov 16:00
+
 |![Icon](https://guidatv.sky.it/uuid/1b17588f-7587-46dd-9611-3c1c5949c94b/cover?md5ChecksumParam=1363269d1fe0f5c5ffcc9f3833c88a0b)|Versus 2|07:30:00|08:00:00|Ep. 2 / / 8 Tutti contro tutti. 2a parte - Versus va alla scoperta dei cani da ferma continentali, italiani ed esteri, in una puntata speciale che li vede protagonisti. Prox Ep. 29 nov 22:30. Rep. 24 nov 16:30
+
 |![Icon](https://guidatv.sky.it/uuid/6a208ab5-169c-4eab-add8-08bde00267f6/cover?md5ChecksumParam=43c4a004b894ad995b2c2456e1508285)|Hunting Time|08:00:00|08:30:00|Ep. 7 Beccacce di fine novembre - Alessandro ed il Team di Hunting Time, insieme all'amico Roberto Aisa, andranno a caccia di beccacce nell'alto reatino. Prox Ep. 30 nov 21:00. Rep. 24 nov 18:00
+
 |![Icon](https://guidatv.sky.it/uuid/e953fb04-5ed0-4ff5-beda-8383d3366f8d/cover?md5ChecksumParam=0e574b138693b7bf8297850bcdf216ed)|Adventure Hunters|08:30:00|09:00:00|Ep. 4 / / 8 Tajikistan: Argali Sheep - Con un nuovo cacciatore d'avventura, Salvatore Leanza, siamo in Tagikistan, sull'altopiano del Pamir a caccia della mitica pecora di Marco Polo. Prox Ep. 30 nov 21:30. Rep. 24 nov 18:30
+
 |![Icon](https://guidatv.sky.it/uuid/7839af65-e4ca-4b63-9aca-2adb95ea4ee0/cover?md5ChecksumParam=aa2839fb7616f06e1c9efbe80c86f430)|Cinghialai d'Italia|09:00:00|10:00:00|Ep. 2 Il fosso delle noccioline - Una selezione di episodi 'speciali' della serie dedicata alla caccia al cinghiale a squadre: le puntate sono doppie nella durata, ma anche nella gittata, ovvero nella performance del proiettile. Rep. 24 nov 20:00
+
 |![Icon](https://guidatv.sky.it/uuid/5278b26c-d233-4291-87ff-978123b5c77c/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|10:00:00|10:25:00|1a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Prox 24 nov 11:25. Rep. 24 nov 17:00
+
 |![Icon](https://guidatv.sky.it/uuid/3db09bac-ba51-4ab9-a011-2492ee57a2b3/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|10:25:00|11:00:00|2a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Prox 24 nov 17:00. Rep. 24 nov 11:30
+
 |![Icon](https://guidatv.sky.it/uuid/5e52802d-7f8f-4fc0-a742-ab0593688584/cover?md5ChecksumParam=47072cfefa05533f1943fb3f050fc65e)|Caccia buona|11:00:00|11:30:00|Ep. 8 Una tartare superstagionata - Toscana: Maurizio con la carabina e Emilio Petricci con l'arco vanno a caccia di daini. Le carni saranno cucinare dallo chef Edoardo Tilli a Pontassieve. Prox Ep. 27 nov 21:00. Rep. 24 nov 19:00
+
 |![Icon](https://guidatv.sky.it/uuid/d41455c4-2883-4953-8583-e93b99e922d8/cover?md5ChecksumParam=cfd2b39f5832ba3c07f986ff10792214)|Frammenti di caccia|11:30:00|12:00:00|Ep. 7 - Una serie di episodi in cui i Fratelli Lugari ci accompagnano a caccia in Italia e all'estero alla ricerca di tante diverse specie. Prox Ep. 27 nov 21:30. Rep. 24 nov 19:35
+
 |![Icon](https://guidatv.sky.it/uuid/e7d411a8-6c39-4816-a25a-962390bdebcb/cover?md5ChecksumParam=e4d278bacddfee50ddc5ab0c7140be99)|Emozioni di caccia di Lugari|12:00:00|13:00:00|Ep. 12 Le furie del castello. 1a parte / Sfide tra i calanchi - Caccia al cinghiale in battuta a Monteriggioni, Siena. / Caccia al fagiano con un pointer e un kurzhaar nei calanchi emiliani. Prox Ep. 28 nov 22:00. Rep. 24 nov 16:00
+
 |![Icon](https://guidatv.sky.it/uuid/1ebc7207-b230-4c31-996a-8af9145c32bc/cover?md5ChecksumParam=a48c34bf5a11faefc446cd47be2f4b0b)|Itinerari di caccia|13:00:00|13:30:00|Ep. 6 - Nona stagione per il programma che va alla ricerca di appassionanti percorsi venatori in giro per l'Italia e l'Europa: un viaggio in cerca di storie, luoghi ed emozioni da condividere. Prox Ep. 26 nov 21:00. Rep. 25 nov 02:00
+
 |![Icon](https://guidatv.sky.it/uuid/9b60fb97-0b8a-4dd6-a777-9fb12b59a83c/cover?md5ChecksumParam=41cfcea1667cab1a2c0260c224e64555)|Il carnivoro|13:30:00|14:00:00|Ep. 2 L'orso nero - Steven Rinella parte per l'entroterra dell'Alaska con l'intento di confrontarsi con una preda d'eccezione, l'orso nero, ed assaggiarne le squisite carni. Prox Ep. 26 nov 21:30. Rep. 25 nov 02:30
+
 |![Icon](https://guidatv.sky.it/uuid/f3f1a71d-f66b-4049-9d05-73a3793c6014/cover?md5ChecksumParam=a88ef3d69b348e5b0aa03c72517dc74b)|Caccia e cucina|14:00:00|14:30:00|Ep. 3 - Con Raffaele Puopolo (Napoli) e Luca Pardini (Parma) scopriamo dei ravioli di cinghiale mele e zenzero con riduzione di dashi della Val Taro, e una sella di capriolo con ribes. Prox Ep. 29 nov 21:00. Rep. 24 nov 18:00
+
 |![Icon](https://guidatv.sky.it/uuid/a48ac781-9e7f-4b6c-876c-3d1289e759b8/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|14:30:00|14:45:00|Ep. 1 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 24 nov 15:45. Rep. 24 nov 18:30
+
 |![Icon](https://guidatv.sky.it/uuid/d95e13ce-9ea9-42fc-949c-8fd222e0e00e/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|14:45:00|15:05:00|Ep. 2 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 29 nov 21:30. Rep. 24 nov 18:45
+
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|15:05:00|15:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 24 nov 20:00
+
 |![Icon](https://guidatv.sky.it/uuid/1b17588f-7587-46dd-9611-3c1c5949c94b/cover?md5ChecksumParam=1363269d1fe0f5c5ffcc9f3833c88a0b)|Versus 2|15:30:00|16:00:00|Ep. 2 / / 8 Tutti contro tutti. 2a parte - Versus va alla scoperta dei cani da ferma continentali, italiani ed esteri, in una puntata speciale che li vede protagonisti. Prox Ep. 29 nov 22:30. Rep. 24 nov 20:30
+
 |![Icon](https://guidatv.sky.it/uuid/5278b26c-d233-4291-87ff-978123b5c77c/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|16:00:00|16:30:00|1a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Prox 24 nov 17:30. Rep. 24 nov 23:00
+
 |![Icon](https://guidatv.sky.it/uuid/3db09bac-ba51-4ab9-a011-2492ee57a2b3/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|16:30:00|17:05:00|2a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Prox 25 nov 05:00. Rep. 24 nov 23:25
+
 |![Icon](https://guidatv.sky.it/uuid/6a208ab5-169c-4eab-add8-08bde00267f6/cover?md5ChecksumParam=43c4a004b894ad995b2c2456e1508285)|Hunting Time|17:05:00|17:35:00|Ep. 7 Beccacce di fine novembre - Alessandro ed il Team di Hunting Time, insieme all'amico Roberto Aisa, andranno a caccia di beccacce nell'alto reatino. Prox Ep. 30 nov 21:00. Rep. 24 nov 21:00
+
 |![Icon](https://guidatv.sky.it/uuid/e953fb04-5ed0-4ff5-beda-8383d3366f8d/cover?md5ChecksumParam=0e574b138693b7bf8297850bcdf216ed)|Adventure Hunters|17:35:00|18:05:00|Ep. 4 / / 8 Tajikistan: Argali Sheep - Con un nuovo cacciatore d'avventura, Salvatore Leanza, siamo in Tagikistan, sull'altopiano del Pamir a caccia della mitica pecora di Marco Polo. Prox Ep. 30 nov 21:30. Rep. 24 nov 21:30
+
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|18:05:00|18:30:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 25 nov 07:05
+
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|18:30:00|19:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 25 nov 07:30
+
 |![Icon](https://guidatv.sky.it/uuid/7839af65-e4ca-4b63-9aca-2adb95ea4ee0/cover?md5ChecksumParam=aa2839fb7616f06e1c9efbe80c86f430)|Cinghialai d'Italia|19:00:00|20:00:00|Ep. 2 Il fosso delle noccioline - Una selezione di episodi 'speciali' della serie dedicata alla caccia al cinghiale a squadre: le puntate sono doppie nella durata, ma anche nella gittata, ovvero nella performance del proiettile. Rep. 24 nov 22:00
+
 |![Icon](https://guidatv.sky.it/uuid/78fe831a-e753-4d9a-8bde-4b137208a407/cover?md5ChecksumParam=2de7491d0e13c12ba0b73fec60966df1)|La versione di Churchill|20:00:00|20:30:00|Tra mito e realta': la storia di una delle piu' affascinanti doppiette prodotte in Inghilterra, raccontata da un esperto giornalista italiano, appassionato di armi e di caccia. Rep. 25 nov 09:00
+
 |![Icon](https://guidatv.sky.it/uuid/0c0cf7d4-49dc-44cf-a858-07cda4249ac2/cover?md5ChecksumParam=ad4ea636001792af428e342852ca0487)|La regina dell'isola: caccia alla beccaccia|20:30:00|21:00:00|...beccaccia. Ep. 3 / 3 / 4 Ep. 3 - Gioele Siino ci porta a Tonara, paesino dell'entroterra sardo, dove due famiglie costruiscono ancora il tradizionali campanacci, usati per la caccia in questi luoghi da secoli. Prox ed ultimo Ep. 1 dic 21:30. Rep. 25 nov 09:30
+
 |![Icon](https://guidatv.sky.it/uuid/92ec02f9-7510-40bc-add3-92a33390a691/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|21:00:00|21:30:00|Ep. 1 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Prox ed ultimo Ep. 24 nov 22:30. Rep. 25 nov 10:00
+
 |![Icon](https://guidatv.sky.it/uuid/0b42c45a-f8b5-493e-af41-d1ffe1dd8b05/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|21:30:00|22:00:00|Ep. 2 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Rep. 25 nov 10:30
+
 |![Icon](https://guidatv.sky.it/uuid/e5f4c8d7-504a-4d50-8c89-973e8396c1ea/cover?md5ChecksumParam=c7c539ae0d509c9f87974a9c51e2cc39)|Il richiamo delle foreste|22:00:00|23:00:00|Il documentario si domanda 'Cosa succede alla natura dopo un incidente nucleare?' e risponde con un'analisi delle trasformazioni dell'ambiente nei 25 anni successivi all'incidente nucleare di Chernobyl. Rep. 25 nov 11:00
+
 |![Icon](https://guidatv.sky.it/uuid/5e52802d-7f8f-4fc0-a742-ab0593688584/cover?md5ChecksumParam=47072cfefa05533f1943fb3f050fc65e)|Caccia buona|23:00:00|23:35:00|Ep. 8 Una tartare superstagionata - Toscana: Maurizio con la carabina e Emilio Petricci con l'arco vanno a caccia di daini. Le carni saranno cucinare dallo chef Edoardo Tilli a Pontassieve. Prox Ep. 27 nov 21:00. Rep. 25 nov 12:00
+
 |![Icon](https://guidatv.sky.it/uuid/d41455c4-2883-4953-8583-e93b99e922d8/cover?md5ChecksumParam=cfd2b39f5832ba3c07f986ff10792214)|Frammenti di caccia|23:35:00|00:00:00|Ep. 7 - Una serie di episodi in cui i Fratelli Lugari ci accompagnano a caccia in Italia e all'estero alla ricerca di tante diverse specie. Prox Ep. 27 nov 21:30. Rep. 25 nov 12:35
+
 |![Icon](https://guidatv.sky.it/uuid/e7d411a8-6c39-4816-a25a-962390bdebcb/cover?md5ChecksumParam=e4d278bacddfee50ddc5ab0c7140be99)|Emozioni di caccia di Lugari|00:00:00|01:00:00|Ep. 12 Le furie del castello. 1a parte / Sfide tra i calanchi - Caccia al cinghiale in battuta a Monteriggioni, Siena. / Caccia al fagiano con un pointer e un kurzhaar nei calanchi emiliani. Prox Ep. 28 nov 22:00. Rep. 25 nov 13:00
+
 |![Icon](https://guidatv.sky.it/uuid/e7d411a8-6c39-4816-a25a-962390bdebcb/cover?md5ChecksumParam=e4d278bacddfee50ddc5ab0c7140be99)|Emozioni di caccia di Lugari|00:00:00|01:00:00|Ep. 12 Le furie del castello. 1a parte / Sfide tra i calanchi - Caccia al cinghiale in battuta a Monteriggioni, Siena. / Caccia al fagiano con un pointer e un kurzhaar nei calanchi emiliani. Prox Ep. 28 nov 22:00. Rep. 25 nov 13:00
+
 |![Icon](https://guidatv.sky.it/uuid/1ebc7207-b230-4c31-996a-8af9145c32bc/cover?md5ChecksumParam=a48c34bf5a11faefc446cd47be2f4b0b)|Itinerari di caccia|01:00:00|01:30:00|Ep. 6 - Nona stagione per il programma che va alla ricerca di appassionanti percorsi venatori in giro per l'Italia e l'Europa: un viaggio in cerca di storie, luoghi ed emozioni da condividere. Prox Ep. 26 nov 21:00. Rep. 25 nov 14:00
+
 |![Icon](https://guidatv.sky.it/uuid/9b60fb97-0b8a-4dd6-a777-9fb12b59a83c/cover?md5ChecksumParam=41cfcea1667cab1a2c0260c224e64555)|Il carnivoro|01:30:00|02:00:00|Ep. 2 L'orso nero - Steven Rinella parte per l'entroterra dell'Alaska con l'intento di confrontarsi con una preda d'eccezione, l'orso nero, ed assaggiarne le squisite carni. Prox Ep. 26 nov 21:30. Rep. 25 nov 14:30
+
 |![Icon](https://guidatv.sky.it/uuid/f3f1a71d-f66b-4049-9d05-73a3793c6014/cover?md5ChecksumParam=a88ef3d69b348e5b0aa03c72517dc74b)|Caccia e cucina|02:00:00|02:30:00|Ep. 3 - Con Raffaele Puopolo (Napoli) e Luca Pardini (Parma) scopriamo dei ravioli di cinghiale mele e zenzero con riduzione di dashi della Val Taro, e una sella di capriolo con ribes. Prox Ep. 29 nov 21:00. Rep. 25 nov 15:00
+
 |![Icon](https://guidatv.sky.it/uuid/a48ac781-9e7f-4b6c-876c-3d1289e759b8/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|02:30:00|02:45:00|Ep. 1 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 25 nov 03:45. Rep. 25 nov 15:30
+
 |![Icon](https://guidatv.sky.it/uuid/d95e13ce-9ea9-42fc-949c-8fd222e0e00e/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|02:45:00|03:00:00|Ep. 2 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 29 nov 21:30. Rep. 25 nov 15:45
+
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|03:00:00|03:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 25 nov 04:05
+
 |![Icon](https://guidatv.sky.it/uuid/1b17588f-7587-46dd-9611-3c1c5949c94b/cover?md5ChecksumParam=1363269d1fe0f5c5ffcc9f3833c88a0b)|Versus 2|03:30:00|04:00:00|Ep. 2 / / 8 Tutti contro tutti. 2a parte - Versus va alla scoperta dei cani da ferma continentali, italiani ed esteri, in una puntata speciale che li vede protagonisti. Prox Ep. 29 nov 22:30. Rep. 25 nov 13:30
+
 |![Icon](https://guidatv.sky.it/uuid/5278b26c-d233-4291-87ff-978123b5c77c/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|04:00:00|04:30:00|1a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Prox 25 nov 05:30. Rep. 25 nov 17:00
+
 |![Icon](https://guidatv.sky.it/uuid/3db09bac-ba51-4ab9-a011-2492ee57a2b3/cover?md5ChecksumParam=6712c0965820ee4d27fd373dd45cfebc)|Gotland Memories|04:30:00|05:05:00|2a parte - Giovanna e Barbara Fausti sono ospiti privilegiate di Giacomo Cretti, che le accompagna in alcune giornate di caccia sull'isola di Gotland, sul Mar Baltico. Rep. 25 nov 17:30
+
 |![Icon](https://guidatv.sky.it/uuid/6a208ab5-169c-4eab-add8-08bde00267f6/cover?md5ChecksumParam=43c4a004b894ad995b2c2456e1508285)|Hunting Time|05:05:00|05:35:00|Ep. 7 Beccacce di fine novembre - Alessandro ed il Team di Hunting Time, insieme all'amico Roberto Aisa, andranno a caccia di beccacce nell'alto reatino. Prox Ep. 30 nov 21:00. Rep. 25 nov 15:00
+
 |![Icon](https://guidatv.sky.it/uuid/e953fb04-5ed0-4ff5-beda-8383d3366f8d/cover?md5ChecksumParam=0e574b138693b7bf8297850bcdf216ed)|Adventure Hunters|05:35:00|06:05:00|Ep. 4 / / 8 Tajikistan: Argali Sheep - Con un nuovo cacciatore d'avventura, Salvatore Leanza, siamo in Tagikistan, sull'altopiano del Pamir a caccia della mitica pecora di Marco Polo. Prox Ep. 30 nov 21:30. Rep. 25 nov 15:30
+
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|06:05:00|06:30:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 25 nov 12:00
+
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|06:30:00|07:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 25 nov 12:30
+
 |![Icon](https://guidatv.sky.it/uuid/7839af65-e4ca-4b63-9aca-2adb95ea4ee0/cover?md5ChecksumParam=aa2839fb7616f06e1c9efbe80c86f430)|Cinghialai d'Italia|07:00:00|08:00:00|Ep. 2 Il fosso delle noccioline - Una selezione di episodi 'speciali' della serie dedicata alla caccia al cinghiale a squadre: le puntate sono doppie nella durata, ma anche nella gittata, ovvero nella performance del proiettile. Rep. 25 nov 16:00
+
 |![Icon](https://guidatv.sky.it/uuid/78fe831a-e753-4d9a-8bde-4b137208a407/cover?md5ChecksumParam=2de7491d0e13c12ba0b73fec60966df1)|La versione di Churchill|08:00:00|08:30:00|Tra mito e realta': la storia di una delle piu' affascinanti doppiette prodotte in Inghilterra, raccontata da un esperto giornalista italiano, appassionato di armi e di caccia. Rep. 25 nov 18:00
+
 |![Icon](https://guidatv.sky.it/uuid/0c0cf7d4-49dc-44cf-a858-07cda4249ac2/cover?md5ChecksumParam=ad4ea636001792af428e342852ca0487)|La regina dell'isola: caccia alla beccaccia|08:30:00|09:00:00|...beccaccia. Ep. 3 / 3 / 4 Ep. 3 - Gioele Siino ci porta a Tonara, paesino dell'entroterra sardo, dove due famiglie costruiscono ancora il tradizionali campanacci, usati per la caccia in questi luoghi da secoli. Prox ed ultimo Ep. 1 dic 21:30. Rep. 25 nov 18:30
+
 |![Icon](https://guidatv.sky.it/uuid/92ec02f9-7510-40bc-add3-92a33390a691/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|09:00:00|09:30:00|Ep. 1 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Prox ed ultimo Ep. 25 nov 10:30. Rep. 25 nov 20:00
+
 |![Icon](https://guidatv.sky.it/uuid/0b42c45a-f8b5-493e-af41-d1ffe1dd8b05/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|09:30:00|10:00:00|Ep. 2 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Rep. 25 nov 20:30
+
 |![Icon](https://guidatv.sky.it/uuid/e5f4c8d7-504a-4d50-8c89-973e8396c1ea/cover?md5ChecksumParam=c7c539ae0d509c9f87974a9c51e2cc39)|Il richiamo delle foreste|10:00:00|11:00:00|Il documentario si domanda 'Cosa succede alla natura dopo un incidente nucleare?' e risponde con un'analisi delle trasformazioni dell'ambiente nei 25 anni successivi all'incidente nucleare di Chernobyl. Rep. 25 nov 17:00
+
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|11:00:00|11:30:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 26 nov 0:00
+
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|11:30:00|12:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 26 nov 0:30
+
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|12:00:00|12:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 26 nov 01:00
+
 |![Icon](https://guidatv.sky.it/uuid/1b17588f-7587-46dd-9611-3c1c5949c94b/cover?md5ChecksumParam=1363269d1fe0f5c5ffcc9f3833c88a0b)|Versus 2|12:30:00|13:00:00|Ep. 2 / / 8 Tutti contro tutti. 2a parte - Versus va alla scoperta dei cani da ferma continentali, italiani ed esteri, in una puntata speciale che li vede protagonisti. Prox Ep. 29 nov 22:30. Rep. 26 nov 01:30
+
 |![Icon](https://guidatv.sky.it/uuid/5e52802d-7f8f-4fc0-a742-ab0593688584/cover?md5ChecksumParam=47072cfefa05533f1943fb3f050fc65e)|Caccia buona|13:00:00|13:30:00|Ep. 8 Una tartare superstagionata - Toscana: Maurizio con la carabina e Emilio Petricci con l'arco vanno a caccia di daini. Le carni saranno cucinare dallo chef Edoardo Tilli a Pontassieve. Prox Ep. 27 nov 21:00. Rep. 26 nov 02:00
+
 |![Icon](https://guidatv.sky.it/uuid/d41455c4-2883-4953-8583-e93b99e922d8/cover?md5ChecksumParam=cfd2b39f5832ba3c07f986ff10792214)|Frammenti di caccia|13:30:00|14:00:00|Ep. 7 - Una serie di episodi in cui i Fratelli Lugari ci accompagnano a caccia in Italia e all'estero alla ricerca di tante diverse specie. Prox Ep. 27 nov 21:30. Rep. 26 nov 02:30
+
 |![Icon](https://guidatv.sky.it/uuid/6a208ab5-169c-4eab-add8-08bde00267f6/cover?md5ChecksumParam=43c4a004b894ad995b2c2456e1508285)|Hunting Time|14:00:00|14:30:00|Ep. 7 Beccacce di fine novembre - Alessandro ed il Team di Hunting Time, insieme all'amico Roberto Aisa, andranno a caccia di beccacce nell'alto reatino. Prox Ep. 30 nov 21:00. Rep. 26 nov 03:00
+
 |![Icon](https://guidatv.sky.it/uuid/e953fb04-5ed0-4ff5-beda-8383d3366f8d/cover?md5ChecksumParam=0e574b138693b7bf8297850bcdf216ed)|Adventure Hunters|14:30:00|15:00:00|Ep. 4 / / 8 Tajikistan: Argali Sheep - Con un nuovo cacciatore d'avventura, Salvatore Leanza, siamo in Tagikistan, sull'altopiano del Pamir a caccia della mitica pecora di Marco Polo. Prox Ep. 30 nov 21:30. Rep. 26 nov 03:30
+
 |![Icon](https://guidatv.sky.it/uuid/7839af65-e4ca-4b63-9aca-2adb95ea4ee0/cover?md5ChecksumParam=aa2839fb7616f06e1c9efbe80c86f430)|Cinghialai d'Italia|15:00:00|16:00:00|Ep. 2 Il fosso delle noccioline - Una selezione di episodi 'speciali' della serie dedicata alla caccia al cinghiale a squadre: le puntate sono doppie nella durata, ma anche nella gittata, ovvero nella performance del proiettile. Rep. 26 nov 04:00
+
 |![Icon](https://guidatv.sky.it/uuid/e5f4c8d7-504a-4d50-8c89-973e8396c1ea/cover?md5ChecksumParam=c7c539ae0d509c9f87974a9c51e2cc39)|Il richiamo delle foreste|16:00:00|17:00:00|Il documentario si domanda 'Cosa succede alla natura dopo un incidente nucleare?' e risponde con un'analisi delle trasformazioni dell'ambiente nei 25 anni successivi all'incidente nucleare di Chernobyl. Rep. 26 nov 05:00
+
 |![Icon](https://guidatv.sky.it/uuid/78fe831a-e753-4d9a-8bde-4b137208a407/cover?md5ChecksumParam=2de7491d0e13c12ba0b73fec60966df1)|La versione di Churchill|17:00:00|17:30:00|Tra mito e realta': la storia di una delle piu' affascinanti doppiette prodotte in Inghilterra, raccontata da un esperto giornalista italiano, appassionato di armi e di caccia. Rep. 26 nov 06:00
+
 |![Icon](https://guidatv.sky.it/uuid/0c0cf7d4-49dc-44cf-a858-07cda4249ac2/cover?md5ChecksumParam=ad4ea636001792af428e342852ca0487)|La regina dell'isola: caccia alla beccaccia|17:30:00|18:00:00|...beccaccia. Ep. 3 / 3 / 4 Ep. 3 - Gioele Siino ci porta a Tonara, paesino dell'entroterra sardo, dove due famiglie costruiscono ancora il tradizionali campanacci, usati per la caccia in questi luoghi da secoli. Prox ed ultimo Ep. 1 dic 21:30. Rep. 26 nov 06:30
+
 |![Icon](https://guidatv.sky.it/uuid/f3f1a71d-f66b-4049-9d05-73a3793c6014/cover?md5ChecksumParam=a88ef3d69b348e5b0aa03c72517dc74b)|Caccia e cucina|18:00:00|18:30:00|Ep. 3 - Con Raffaele Puopolo (Napoli) e Luca Pardini (Parma) scopriamo dei ravioli di cinghiale mele e zenzero con riduzione di dashi della Val Taro, e una sella di capriolo con ribes. Prox Ep. 29 nov 21:00. Rep. 26 nov 07:00
+
 |![Icon](https://guidatv.sky.it/uuid/a48ac781-9e7f-4b6c-876c-3d1289e759b8/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|18:30:00|18:45:00|Ep. 1 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 25 nov 19:45. Rep. 26 nov 07:30
+
 |![Icon](https://guidatv.sky.it/uuid/d95e13ce-9ea9-42fc-949c-8fd222e0e00e/cover?md5ChecksumParam=0d5bac5859ba3a7ec07593180006bd5f)|Primo Soccorso per il cacciatore|18:45:00|19:00:00|Ep. 2 - Un vero e proprio corso di Pronto Soccorso dedicato ai cacciatori, per sapere tutto quello che serve per intervenire in caso di incidenti durante l'attivita' venatoria. Prox Ep. 29 nov 21:30. Rep. 26 nov 07:45
+
 |![Icon](https://guidatv.sky.it/uuid/92ec02f9-7510-40bc-add3-92a33390a691/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|19:00:00|19:30:00|Ep. 1 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Prox ed ultimo Ep. 25 nov 20:30. Rep. 26 nov 08:00
+
 |![Icon](https://guidatv.sky.it/uuid/0b42c45a-f8b5-493e-af41-d1ffe1dd8b05/cover?md5ChecksumParam=6255294d5687e8e7634f01e57a32b057)|Cacciare con i calibri 5,6 mm|19:30:00|20:00:00|Ep. 2 - Documentario dedicato alla caccia con la famiglia dei calibri 5,6 mm, per tutti i cacciatori che desiderano conoscere meglio le proprie armi. Rep. 26 nov 08:30
+
 |![Icon](https://guidatv.sky.it/uuid/7cd6681d-0efa-41ee-9293-90e88a97093b/cover?md5ChecksumParam=52413df9d2c8ab8bdc8b97558a3dd0d7)|Setter Adventures|20:00:00|20:30:00|Ep. 3 - Torna il programma dedicato alla caccia con i cani, con un team di cacciatori e segugi in parte rinnovato, che arrivera' ad avventurarsi fino al Circolo Polare Artico. Prox Ep. 16 dic 21:00. Rep. 26 nov 09:00
+
 |![Icon](https://guidatv.sky.it/uuid/88d907be-529e-4bc1-af1a-07367fa2f015/cover?md5ChecksumParam=5ccfa85dc693f483a27eaa4b425a600c)|Passione acquatici|20:30:00|21:00:00|Ep. 3 La caccia in valle e il degrado delle oasi alla foce del Po - Oliver Martini mostra le pessime condizioni dell'oasi della Batteria, esempio dei danni creati dall'abbandono delle zone umide. Prox Ep. 2 dic 21:30. Rep. 26 nov 09:30
+
 |![Icon](https://guidatv.sky.it/uuid/93ec084b-30a3-4060-849e-adcfc2545fc3/cover?md5ChecksumParam=d02b38e229b4134522fc2bbfc1672670)|A caccia con Raniero|21:00:00|21:30:00|Ep. 4 Fagiani e starne in Piemonte. 2a parte - Continua per Raniero e un suo allievo la caccia alla selvaggina stanziale nella pianura piemontese, in particolare di fagiani e pernici rosse. Rep. 26 nov 10:00
+
 |![Icon](https://guidatv.sky.it/uuid/c47a78b2-2354-4b28-84f8-6981a3bc9df7/cover?md5ChecksumParam=5da91400e108808c8930afdb28b7a7ad)|Caccia alla migratoria in Piemonte|21:30:00|22:00:00|Ep. 4 Caccia alle anatre - Andiamo a caccia di anatre in uno splendido laghetto artificiale realizzato anni fa da Emilio Mattioni partendo da una vecchia cava estrattiva in disuso. Rep. 26 nov 10:30
+
 |![Icon](https://guidatv.sky.it/uuid/e7d411a8-6c39-4816-a25a-962390bdebcb/cover?md5ChecksumParam=e4d278bacddfee50ddc5ab0c7140be99)|Emozioni di caccia di Lugari|22:00:00|23:00:00|Ep. 12 Le furie del castello. 1a parte / Sfide tra i calanchi - Caccia al cinghiale in battuta a Monteriggioni, Siena. / Caccia al fagiano con un pointer e un kurzhaar nei calanchi emiliani. Prox Ep. 28 nov 22:00. Rep. 26 nov 11:00
+
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|23:00:00|23:30:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 26 nov 12:00
+
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|23:30:00|00:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 26 nov 12:30
+
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|00:00:00|00:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 26 nov 13:00
+
 
 
  > epg-it 0.1.0, MatMasIt - Dati epg SKY
