@@ -1,4 +1,4 @@
-# epg-it
+# epg-it :it:
 
 Una repository auto-aggiornante contenente una guida giornaliera alla televisione italiana.
 
