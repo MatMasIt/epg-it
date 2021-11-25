@@ -1,5 +1,5 @@
 sudo apt install php wget -y
-mv programmi archivio/$(date '+%Y-%m-%d')
+mv programmi/* archivio/$(date '+%Y-%m-%d')
 mkdir programmi
 wget https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml
 if [ $? -ne 0 ]; then
