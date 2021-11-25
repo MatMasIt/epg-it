@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/270b9bd8-1046-466d-9b9a-14a9f1d21fff/cover?md5ChecksumParam=9ae917b8d5c4c1d6441582ace70b60c1)|Il ritorno del Monnezza|18:14:47|20:05:47|I Vanzina firmano il remake dei film anni '70, con Claudio Amendola nei panni che furono di T. Milian, del commissario Giraldi, detto, Monnezza. Regia di C. Vanzina; ITA 2005
 |![Icon](https://guidatv.sky.it/uuid/e9d50b1a-f905-4fb4-b772-e3248384d584/cover?md5ChecksumParam=23e8b21234d2d0cabe9e65e9a922a87f)|Una cella in due|20:06:00|22:00:00|Romolo, avvocato truffaldino, condivide la cella con Angelo, disoccupato. I due, superate le distanze &quot;culturali&quot;, progettano l'evasione. Regia di N. Barnaba, con S. Bonanno, N. Murgia; ITA 2011
 |![Icon](https://guidatv.sky.it/uuid/2e19d363-dd26-4469-b260-4788200da26f/cover?md5ChecksumParam=87d0aead8783a9cf5e96ba6b3b618472)|Sotto il vestito niente - L'ultima..|22:00:45|23:59:45|.. sfilata - Il successo dello stilista Federico Marinoni viene funestato dalla tragica morte della modella e musa della sua maison. Con V. Hessler. Regia di C. Vanzina; ITA 2011
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

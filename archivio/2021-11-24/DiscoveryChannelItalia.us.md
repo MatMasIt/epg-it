@@ -64,3 +64,6 @@
 |![Icon](https://guidatv.sky.it/uuid/c19c39d0-ce29-47cf-bab8-082bbb73236a/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|21:50:00|22:50:00|S7 Ep8 Il Giorno del Ringraziamento - I Kilcher mostrano le nuove modifiche al rifugio per il Giorno del Ringraziamento. La famiglia spiega le nuove aggiunte organizzando una festa e condividendo dei bei momenti.
 |![Icon](https://guidatv.sky.it/uuid/cc0d44fb-7775-42d9-b600-c64084abd14e/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|22:50:00|23:45:00|S7 Ep9 Gli zombie - Otto e August sono alla rischiosa ricerca di un'enorme gru. Charlotte, Eivin e Eve lottano contro la marea per salvare una mucca. Lee e Jane vanno a pesca in kayak.
 |![Icon](https://guidatv.sky.it/uuid/b5b02c78-c12d-4be4-bd9e-0919499d3432/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|23:45:00|00:45:00|S7 Ep10 Il ritorno di Jewel - Jewel torna alla colonia per seguire Kase durante il suo primo trasferimento di mandrie. Intanto, Otto ed Eivin lottano per salvare il prezioso rifugio dei Kilcher dalla distruzione.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

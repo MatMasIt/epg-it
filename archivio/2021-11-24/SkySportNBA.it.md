@@ -50,3 +50,6 @@
 |![Icon](https://guidatv.sky.it/uuid/2a17f799-c3c2-4178-8fc0-e4f50d18a208/cover?md5ChecksumParam=b323b4715c9e0e0faecda08edefca9fe)|Nicknames - La storia dei soprannomi NBA|23:00:00|23:30:00|...dei soprannomi NBA - Come, quando, perche' nascono e quali significati nascondono: un affascinante viaggio in oltre 70 anni di soprannomi NBA.
 |![Icon](https://guidatv.sky.it/uuid/204f4baa-937b-4e2b-a270-3244499ade55/cover?md5ChecksumParam=53849a86f25111a9e740254b7e436251)|Golden State - Philadelphia|23:30:00|00:00:00|Le migliori partite della stagione 2021-22, una delle piu' imprevedibili e spettacolari di sempre.
 |![Icon](https://guidatv.sky.it/uuid/7f434aee-6678-44ba-8bef-4fa6c2921979/cover?md5ChecksumParam=204d919229dee1e28851ffb3c051983f)|Bulls - Clippers 14/11/21|00:00:00|02:00:00|Marquee Matchup - Le partite da non perdere della stagione 2019-20, con le migliori squadre e i giocatori piu' forti ad affrontarsi fino alla sirena finale.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

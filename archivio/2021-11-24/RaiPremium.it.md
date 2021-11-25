@@ -49,3 +49,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ce25ca18-b2c4-4987-915a-481167fe7b53/cover?md5ChecksumParam=c63def74e5bbb7b7af5a8746f7105974)|Dolcissime|20:20:00|21:55:00|Regia di F. Ghiaccio, con G.Barbuto Costa Da Cruz, A.Manfredi; ITA 2019. Tre amiche inseparabili fanno i conti con i chili di troppo, finche' non vengono catapultate in una squadra di nuoto sincronizzato.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Mood to 2030|21:55:00|22:25:00|Cibo - Il goal 'fame zero' dell'Agenda 2030: spreco, spesa, dieta sostenibile, cucina degli avanzi, iniziative virtuose, innovazione, app e buone pratiche individuali.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Un Gioco Da Ragazze|22:25:00|00:10:00|Regia di M. Rovere, con F.Nigro, C.Chiti; ITA 2008. Quattro ricche diciassettenni vivono con superficialita' ogni aspetto della vita. Anche un professore si lascera' incantare...
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

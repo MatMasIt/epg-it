@@ -269,3 +269,6 @@
 |![Icon](https://guidatv.sky.it/uuid/303e66c4-54d4-473c-991d-4a4457e3a78d/cover?md5ChecksumParam=fce69e39cee197674a41be116136c1b1)|The Mr. Bean Animated Series|23:30:00|23:40:00|S2 Ep33 - Il cappello di pelliccia - Mr Bean crede di aver schiacciato Scrapper e lo porta dal veterinario invece e' il cappello di pelliccia di Mrs Wicket.
 |![Icon](https://guidatv.sky.it/uuid/db85bdcb-800a-4ca4-aed5-1b5cc174cd30/cover?md5ChecksumParam=fce69e39cee197674a41be116136c1b1)|The Mr. Bean Animated Series|23:40:00|23:50:00|S2 Ep34 - I due ladri - Un ladro con l'aiuto del complice si traveste da veterano e chiede in moglie Mrs Wicket per rubarle i soldi. Mr Bean sventa il loro piano.
 |![Icon](https://guidatv.sky.it/uuid/4af1f46e-9575-4efe-8ea8-2b4715f80677/cover?md5ChecksumParam=fce69e39cee197674a41be116136c1b1)|The Mr. Bean Animated Series|23:50:00|00:05:00|S2 Ep35 - Halloween - La notte di Halloween Mr Bean e i Bruiser si sfidano a suon di scherzetti.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

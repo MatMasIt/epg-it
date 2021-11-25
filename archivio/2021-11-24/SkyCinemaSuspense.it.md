@@ -29,3 +29,6 @@
 |![Icon](https://guidatv.sky.it/uuid/295e395c-2ec3-4077-b1b0-760acff3a157/cover?md5ChecksumParam=e1eec920d9f0cdbe9cb26ae36610c218)|La vedova Winchester|20:00:00|21:45:00|Mistero e suspense con Helen Mirren. Uno psichiatra valuta la salute mentale di Sarah Winchester, vedova del produttore dei fucili, convinta che la sua casa sia infestata dagli spettri (AUS/USA 2018)
 |![Icon](https://guidatv.sky.it/uuid/f30bc7b9-7844-438c-904f-39b08cefd00b/cover?md5ChecksumParam=450a62e67db8e656999499be11a560e0)|47 Metri|21:45:00|23:20:00|Negli abissi della paura in un thriller con Matthew Modine, Mandy Moore e Claire Holt. Due sorelle si immergono in acque infestate dagli squali, ma la loro gabbia sprofonda a 47 metri (GBR 2017)
 |![Icon](https://guidatv.sky.it/uuid/762a1e58-c54a-4355-a4d0-9f2b8ce20d79/cover?md5ChecksumParam=bc20471c36793965efde69c07ed68ae1)|Un conto da regolare|23:20:00|01:05:00|Regolamento di conti per Nicolas Cage in un thriller con Benjamin Bratt. Dopo 19 anni di prigione per un crimine non commesso, un ex sicario vuole vendicarsi con chi lo ha incastrato (USA 2019)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

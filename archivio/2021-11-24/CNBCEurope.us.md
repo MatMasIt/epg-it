@@ -38,3 +38,6 @@
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia's business trading day to reveal insights into the top market-moving stories.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

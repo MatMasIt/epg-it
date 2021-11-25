@@ -78,3 +78,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Il giorno e la storia|23:05:00|23:20:00|Una selezioni dei migliori materiali delle teche Rai, per ricordare gli anniversari della storia d'Italia che hanno contribuito a costruire l'identita' del nostro Paese.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|#Maestri|23:20:00|23:50:00|Ep. 38 - Arte, scienza, letteratura, educazione civica, informatica musica, teatro, cinema, televisione. Accademici e grandi divulgatori portano la scuola a casa. Conduce Edoardo Camurri.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Le storie di Passato e presente|23:50:00|00:30:00|Diritti delle donne: le grandi battaglie - Regia di D. Frasnelli. Il decennio degli anni '70 fu segnato da conquiste e passaggi cruciali nella lotta per i diritti delle donne e per l'emancipazione femminile.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

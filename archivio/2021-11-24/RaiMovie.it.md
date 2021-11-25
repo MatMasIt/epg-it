@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Attacco al potere|21:50:00|23:50:00|Regia di E. Zwick, con D.Washington, B.Willis; USA 1998. Un agente dell'FBI rischia la vita per sventare il complotto che si nasconde dietro ad una serie di attentati che sta mettendo in ginocchio New York.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anica Appuntamento al cinema|23:50:00|23:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
 |![Icon](https://guidatv.sky.it/uuid/4b61fbcf-0103-4a71-83f8-47391510081f/cover?md5ChecksumParam=6c1a3d50e11feb1fb7731bbec99c11b1)|Pericle Il Nero|23:55:00|01:45:00|Regia di S. Mordini, con R.Scamarcio, M.Fois; ITA 2016. Un criminale dedito alla regia di film pornografici si mette nei guai quando per errore uccide una ragazza. Ma incontra Anastasia...
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

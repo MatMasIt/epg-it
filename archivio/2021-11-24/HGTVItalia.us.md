@@ -74,3 +74,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fratelli in affari: SOS Celebrity - 1^TV|21:25:00|22:20:00|S1 Ep1 Brad Pitt - Brad Pitt si rivolge a Jonathan e Drew per fare una sorpresa alla sua amica e makeup artist da 30 anni, rinnovando il suo garage.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fratelli in affari: SOS Celebrity - 1^TV|22:20:00|23:15:00|S1 Ep3 Viola Davis - Viola Davis arriva a Minneapolis per sorprendere la sua migliore amica da oltre 30 anni. Jonathan e Drew crearanno per lei un ambiente tranquillo e accogliente.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fratelli in affari: SOS Celebrity - 1^TV|23:15:00|00:15:00|S1 Ep6 Michael Buble' - Michael Buble' commemora suo nonno realizzando il suo ultimo desiderio: donare alla sua badante un posto in cui vivere. Drew e Jonathan aiutano con i lavori di ristrutturazione.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

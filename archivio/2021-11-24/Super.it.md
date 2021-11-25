@@ -135,3 +135,6 @@
 |![Icon](https://guidatv.sky.it/uuid/674ba746-ce01-420d-9ad9-a7d10c9c523a/cover?md5ChecksumParam=75a041e03debb4924b3bd04da5c98445)|Kaeloo|23:25:00|23:35:00|S2 Ep42 Fare i genitori - Kaeloo decide di dimostrare a Stumpy e Quack-Quack quanto possa essere difficile essere un genitore, giocando al capo famiglia.
 |![Icon](https://guidatv.sky.it/uuid/5985433b-ae02-486d-9527-ba160b8a6559/cover?md5ChecksumParam=e39b95184601b01680346272de8f6cd3)|L'Officina dei Mostri|23:35:00|23:55:00|S2 Ep12 - L'Officina dei Mostri e' il posto in cui le creature piu' incredibili prendono vita! Oggi Matteo e Marco aiutano Jacopo a creare il tremendo Joystick
 |![Icon](https://guidatv.sky.it/uuid/434a475a-bd5f-4c44-8a3b-45805f07a8d5/cover?md5ChecksumParam=a60964101ba0272e32409b7208d34480)|L'Officina dei Mostri|23:55:00|00:15:00|S3 Ep1 - L'Officina dei Mostri e' il posto in cui i tuoi incubi diventano realta'! Il Direttore manda Marco e Matteo in missione in un castello infestato per realizzare l'orripilante Vanscheletro.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

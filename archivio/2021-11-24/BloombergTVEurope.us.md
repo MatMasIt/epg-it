@@ -40,3 +40,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bloomberg Front Row|20:30:00|21:00:00|Noel Quinn, HSBC CEO - Francine Lacqua speaks with HSBC CEO Noel Quinn - the man charged with leading Europe's largest lender through its most radical overhaul in years.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bloomberg Daybreak: Australia|22:00:00|23:00:00|From New York and Sydney, the latest news impacting markets, business and finance around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bloomberg Daybreak: Asia|23:00:00|01:00:00|From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

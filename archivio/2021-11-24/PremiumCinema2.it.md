@@ -31,3 +31,6 @@
 |![Icon](https://guidatv.sky.it/uuid/56e9ed7e-d492-4a25-a49a-840c9ecbaf8e/cover?md5ChecksumParam=38675ded48855b09976b59adcdbc70ea)|North Country - Storia di Josey|18:11:20|20:14:20|I premi Oscar C. Theron e F. McDormand in un toccante film tratto da una storia vera. Una donna coraggiosa si ribella ad una vita segnata dalla violenza maschile. Regia di N. Caro; USA 2005
 |![Icon](https://guidatv.sky.it/uuid/37ec2bc6-a757-4d38-896c-5bc91163198e/cover?md5ChecksumParam=fd25223d132346e8a374bae44f15ba99)|Bordertown|20:15:01|22:20:01|Jennifer Lopez e Antonio Banderas in un film di denuncia: una giornalista indaga su una serie di omicidi di giovani donne a Juarez, al confine tra USA e Messico. Regia di G. Nava; USA 2006
 |![Icon](https://guidatv.sky.it/uuid/e5360703-4ee9-4ccb-a214-b97d6c0b2a20/cover?md5ChecksumParam=bb11ec3b219a781f2e17faf16f9d3758)|Il colore viola|22:21:00|00:51:00|Tratto da un romanzo premio Pulitzer. Una donna di colore lotta per ritrovare la sua identita' dopo anni di abusi da l padre e non solo. Regia di S. Spielberg; USA 1985
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

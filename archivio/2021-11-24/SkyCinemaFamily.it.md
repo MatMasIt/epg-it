@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/b43c1ce6-295b-4e34-b095-9370c8dc61e0/cover?md5ChecksumParam=6c818eddfa1392361c61d2178ca6c32c)|Poly|20:00:00|21:50:00|Avventurosa storia di formazione con Francois Cluzet. Una bambina fa amicizia con un pony da circo. Quando scopre che l'animale viene sottoposto a torture, decide di aiutarlo a fuggire (BEL/FRA 2020)
 |![Icon](https://guidatv.sky.it/uuid/e86ff157-4cc9-4377-bec1-46a49f121b48/cover?md5ChecksumParam=84e09b0e5925df40a88cc7ac254fa191)|Il richiamo della foresta|21:50:00|23:20:00|Dal celebre romanzo di Jack London un'avventura con Christopher Lloyd. In vacanza dal nonno tra le nevi del Montana, la piccola Ryann soccorre un lupo con l'intenzione di portarlo a Boston (USA 2009)
 |![Icon](https://guidatv.sky.it/uuid/dab05823-edf7-4b8b-8a0b-513fada282f7/cover?md5ChecksumParam=225d35a503f698076038cb5b3e835f90)|Genitori vs Influencer|23:20:00|01:00:00|Fabio Volo, Ginevra Francesconi e Giulia De Lellis nella commedia Sky Original di Michela Andreozzi. Un prof si scontra con la figlia teenager per colpa dei social... ma diventa influencer (ITA 2021)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

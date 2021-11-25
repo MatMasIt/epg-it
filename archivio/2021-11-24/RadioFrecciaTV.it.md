@@ -22,3 +22,6 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|L'arca dell'arte e del libero pensiero|19:00:00|21:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|L'ultima luna|21:00:00|23:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Rebel yell|23:00:00|02:00:00|Interagisci con noi al +39 366 663 44 66
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

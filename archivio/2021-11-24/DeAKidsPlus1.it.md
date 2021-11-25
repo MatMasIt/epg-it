@@ -144,3 +144,6 @@
 |![Icon](https://guidatv.sky.it/uuid/281d447d-981c-4ffc-ba62-0ee20b83d515/cover?md5ChecksumParam=7d7189787725dece4dd4d1909585e920)|Talent High School|23:10:00|23:35:00|S2 Ep1 Un nuovo anno - Sofia ha un grande sogno: frequentare l'esclusiva Talent High School! Tra sfide di danza e compagni stravaganti, Sofia dovra' trovare la sua strada e nascondere a tutti la sua vera identita'.
 |![Icon](https://guidatv.sky.it/uuid/5adfe3e6-2a9c-4cbc-b998-e7e9aacd0ee3/cover?md5ChecksumParam=7d7189787725dece4dd4d1909585e920)|Talent High School|23:35:00|00:00:00|S2 Ep2 Lo sport rivelatore - Sofia ha un grande sogno: frequentare l'esclusiva Talent High School! Tra sfide di danza e compagni stravaganti, Sofia dovra' trovare la sua strada e nascondere a tutti la sua vera identita'.
 |![Icon](https://guidatv.sky.it/uuid/48c23dee-7a09-40b8-9f07-3452913a1818/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|00:00:00|00:20:00|S4 Ep2 Tartasauro - Marco e Matteo dovranno lavorare su Tartasauro, una creatura tremenda nata dall'unione di tantissimi animali diversi.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -153,3 +153,6 @@
 |![Icon](https://guidatv.sky.it/uuid/29fb422a-f6d3-49cb-ad4c-00e580b743df/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|23:30:00|23:47:00|S1 Ep24 Prigionieri in casa - Scossa ha vinto il concorso radiofonico ADOTTA UN VIP e adesso la attende una giornata in compagnia del suo attore preferito, Stellone McCarty.
 |![Icon](https://guidatv.sky.it/uuid/1b2fe651-87ff-4e63-b717-8855bbaafd4a/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|23:47:00|23:55:00|S1 Ep45 Disconnessi - Albein e' offeso perche' quando cerca di comunicare con i tre amici, loro non lo ascoltano.
 |![Icon](https://guidatv.sky.it/uuid/32910d7c-3e70-4f62-9eb7-c60ac4ce9c7f/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|23:55:00|00:10:00|S1 Ep46 Ma che storia e' questa ? - Gli Orrendi attendono impazientemente che la giornata svolti con una delle loro avventure, ma niente da fare
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

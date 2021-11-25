@@ -58,3 +58,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Alone|20:20:00|22:05:00|Regia di J. Hyams, con J.Willcox, M.Menchaca; ITA 2020. Una donna, rimasta vedova, viene rapita da un losco individuo.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Revolutions|22:05:00|23:10:00|Il robot - Le storie di sei oggetti iconici mostrano come l'evoluzione del pensiero umano ha mutato, nel corso del tempo, il modo di agire e di pensare.
 |![Icon](https://guidatv.sky.it/uuid/f0e3fe86-69cd-4b40-8ea7-805ce95dcab9/cover?md5ChecksumParam=ec21018e544e989eeeff22d05a13d464)|Countdown|23:10:00|00:50:00|Regia di J. Dec, con E.Lail, J.Calloway; USA 2019. Una ragazza scarica una nuova app, Countdown, che le dice quanto le resta da vivere. Purtroppo per lei si tratta solo di poche ore e...
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

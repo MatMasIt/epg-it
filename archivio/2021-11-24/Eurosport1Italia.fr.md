@@ -43,3 +43,6 @@
 |![Icon](https://guidatv.sky.it/uuid/7a077c13-520c-4467-a4a0-d529418b7352/cover?md5ChecksumParam=f87c555d52652ea3b06e8bcb19b41834)|UK Championship|19:30:00|23:30:00|Primo turno - Dal Crucible Theatre di Sheffield, nel Regno Unito, il piu' importante appuntamento di snooker dell'anno: i campioni del tavolo verde si sfidano per ottenere il titolo di Campione del mondo.
 |![Icon](https://guidatv.sky.it/uuid/db769fe8-3054-4c3c-acbc-c0cc46cd3565/cover?md5ChecksumParam=0d31b5bf3975deed90ce8b1fed787b1a)|Coppa del Mondo|23:30:00|00:00:00|Soelden. Slalom Gigante M 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
 |![Icon](https://guidatv.sky.it/uuid/da0e4292-2a87-4834-8847-32e5d25d701e/cover?md5ChecksumParam=0d31b5bf3975deed90ce8b1fed787b1a)|Coppa del Mondo|00:00:00|00:30:00|Soelden. Slalom Gigante M 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

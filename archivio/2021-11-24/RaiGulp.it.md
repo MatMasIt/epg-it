@@ -132,3 +132,6 @@
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il mistero di Campus 12|23:20:00|23:30:00|Ep38 - Quando la giovane Bo sparisce all'improvviso, suo fratello Noah e' disperato: con lei sono sparite tutte le sue cose e Bo non compare piu' nelle foto di famiglia... E' mai esistita davvero?
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Il mistero di Campus 12|23:30:00|23:45:00|Ep39 - Quando la giovane Bo sparisce all'improvviso, suo fratello Noah e' disperato: con lei sono sparite tutte le sue cose e Bo non compare piu' nelle foto di famiglia... E' mai esistita davvero?
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Game On!|23:45:00|00:05:00|S1 Ep8 La sconfitta ti rende piu' forte - Dopo aver creato il Frisbee videogame, Zac viene assunto da una nota azienda di videogiochi di Orlando. Iniziera' una nuova vita.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

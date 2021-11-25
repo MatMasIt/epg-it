@@ -96,3 +96,6 @@
 |![Icon](https://guidatv.sky.it/uuid/efbbdb15-7e4b-4010-8269-578d591a5a7c/cover?md5ChecksumParam=91da804f03d38b28b3067f5cf802690b)|Grandi misteri della Storia|20:50:00|22:25:00|S1 Ep2 D.B. Cooper, il dirottatore scomparso - 2020. Eric Ulis, il piu' grande esperto sul caso di D.B. Cooper, ha svolto delle indagini per diversi anni e ora pensa di poter svelare la verita'. Replica Ep. 26 nov 12:45 .
 |![Icon](https://guidatv.sky.it/uuid/aaa42888-16ee-4bb9-8bea-f49b46444740/cover?md5ChecksumParam=8f3c0d99962c108ee3cd853e9534900f)|UFO Investigation|22:25:00|23:15:00|S1 Ep1 Squadra Speciale Alieni - 2017: il New York Times pubblica un'inchiesta su un programma che identifica le minacce aerospaziali. Un ex ufficiale, Luis Elizondo, ne ha confermato l'esistenza. Prossimo Ep. 26 nov 00:15 . Replica Ep. 26 nov 09:15 .
 |![Icon](https://guidatv.sky.it/uuid/115fab91-9f75-4912-ac6e-9a0fb660dc17/cover?md5ChecksumParam=8f3c0d99962c108ee3cd853e9534900f)|UFO Investigation|23:15:00|00:10:00|S1 Ep2 Il Giorno Che Piovvero Ufo - Per la prima volta, alcuni militari della marina statunitense, rivelano nuovi dettagli su strani incontri. Gli UFO stanno osservando i nostri oceani? Prossimo Ep. 26 nov 23:55 . Replica Ep. 26 nov 10:10 .
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

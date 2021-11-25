@@ -53,3 +53,6 @@
 |![Icon](https://guidatv.sky.it/uuid/34ea1ec3-a53a-4395-8179-7be995ccbf6d/cover?md5ChecksumParam=a5f800a048efce2642b0422f7412ca95)|Le prime 48 ore|21:55:00|22:50:00|S23 Ep5 Uno stallo pericoloso - 2020. Un padre di tre figli viene ucciso al lavoro. I sospettati si scontrano con la Polizia. La Squadra Omicidi di Tulsa si attiva. Prossimo Ep. 02 dic 22:55 CI. Replica Ep. 26 nov 02:40 CI.
 |![Icon](https://guidatv.sky.it/uuid/a753609c-3ea4-4ef8-8e2b-e620cae93cf2/cover?md5ChecksumParam=fd71f8b6ffce2ddb3f1b7fa6e5c955d0)|La Ragazza dei Parioli|22:50:00|23:50:00|S1 Ep1 Parte 1 - Marianna, introdotta quattordicenne alla prostituzione minorile, condivide la sua verita' e i suoi ricordi: tutto comincio' per gioco, ma divento' un dramma che sconvolse l'Italia. Replica Ep. 26 nov 21:20 CI.
 |![Icon](https://guidatv.sky.it/uuid/a753609c-3ea4-4ef8-8e2b-e620cae93cf2/cover?md5ChecksumParam=fd71f8b6ffce2ddb3f1b7fa6e5c955d0)|La Ragazza dei Parioli|23:50:00|00:50:00|S1 Ep2 Parte 2 - Marianna, introdotta quattordicenne alla prostituzione minorile, condivide la sua verita' e i suoi ricordi: tutto comincio' per gioco, ma divento' un dramma che sconvolse Roma e l' Replica Ep. 26 nov 22:15 CI.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -37,3 +37,6 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|22:30:00|23:00:00|I momenti piu' emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu' emozionanti dei grandi eventi sportivi.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -30,3 +30,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ad2f9e02-3dad-47dc-bc63-fefcb4e00893/cover?md5ChecksumParam=d4786d02492e742529d33ee913e8f20c)|S.y.n.a.p.s.e. - pericolo in rete|18:32:10|20:15:10|Thriller informatico con Ryan Phillippe. Un giovane programmatore e' chiamato a lavorare per una potente societa'. Ma cosa si nasconde dietro al successo? Regia di P. Howitt; USA 2000
 |![Icon](https://guidatv.sky.it/uuid/769ee253-bccc-42a9-936e-b97c961a93d6/cover?md5ChecksumParam=c8faed34c9374115447c5d85b2fb13e1)|The Chronicles of Riddick|20:15:11|22:12:11|Riddick approda sul pianeta Helion Prime ed e' coinvolto in una guerra contro i Necromongers, razza di conquistatori guidata da Lord Marshal. Con Vin Diesel Regia di D. Twohy; USA 2004
 |![Icon](https://guidatv.sky.it/uuid/52586110-4e97-468c-8654-5c560e6e1979/cover?md5ChecksumParam=3c1b6cdaaa64549910af1e7decc4312c)|John Wick - Capitolo 2|22:12:58|00:13:58|Sequel di &quot;John Wick&quot;, con Keanu Reeves. Il leggendario Uomo Nero rientra nel giro per contrastare il boss che tenta la scalata ai vertici della criminalita'. Regia di C. Stahelski; USA 2017
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

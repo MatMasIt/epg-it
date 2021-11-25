@@ -69,3 +69,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mega Truck Show|21:15:00|22:10:00|Nuovi obiettivi - I Dirty 7 dimostrano che sono ancora i migliori del Paese. I ragazzi si preparano per un'epica rivincita contro il Team Georgia, l'unica squadra in grado di batterli.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mega Truck Show|22:10:00|23:10:00|Lotte - I Dirty 7 sono pronti alla sfida quando i Dirty Deeds del sud della Florida dimostrano di essere i re delle paludi. Uno sfortunato corridore perde una portiera del tir.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mega Truck Show|23:10:00|00:05:00|Posta in gioco - I Dirty 7 affrontano gli Adreanaline Rush, una squadra di star. I medici intervengono dopo un terribile scontro e Spiker alza la posta in gioco.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

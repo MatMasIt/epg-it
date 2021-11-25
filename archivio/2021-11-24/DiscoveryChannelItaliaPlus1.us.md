@@ -64,3 +64,6 @@
 |![Icon](https://guidatv.sky.it/uuid/c0ff380a-02d9-4a6a-8803-3a088b41e14f/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|21:55:00|22:50:00|S7 Ep7 Il ghiaccio - Atz Lee e Charlotte si affrettano per salvare una mucca prima che sia troppo tardi. Un viaggio alla ricerca di gamberetti tra padre e figlio diventa mortale a causa di un enorme ghiacciaio.
 |![Icon](https://guidatv.sky.it/uuid/c19c39d0-ce29-47cf-bab8-082bbb73236a/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|22:50:00|23:50:00|S7 Ep8 Il Giorno del Ringraziamento - I Kilcher mostrano le nuove modifiche al rifugio per il Giorno del Ringraziamento. La famiglia spiega le nuove aggiunte organizzando una festa e condividendo dei bei momenti.
 |![Icon](https://guidatv.sky.it/uuid/cc0d44fb-7775-42d9-b600-c64084abd14e/cover?md5ChecksumParam=f5c6b22a08fee0f65cd6234114f8ddb5)|Ai confini della civilta'|23:50:00|00:45:00|S7 Ep9 Gli zombie - Otto e August sono alla rischiosa ricerca di un'enorme gru. Charlotte, Eivin e Eve lottano contro la marea per salvare una mucca. Lee e Jane vanno a pesca in kayak.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

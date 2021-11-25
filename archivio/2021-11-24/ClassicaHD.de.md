@@ -42,3 +42,6 @@
 |![Icon](https://guidatv.sky.it/uuid/8e468b09-1cbd-4bcb-85fe-5d23a3fcedce/cover?md5ChecksumParam=a5d77f72f9969cfd464ac701e46cde87)|Da Ponte &amp; Friends|20:10:00|23:00:00|Spettacolo di C.Orazi, F.Zimei - con G.P.Judica, S.Jicia, G.Sala, L.Bakirci - musiche di Mozart, Chinei, Cimarosa - A. Casellati, dir. - P.Gavazzeni, P.Maranghi, reg. (Vicenza, Teatro Olimpico - 2021)
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Georg Solti|23:00:00|00:00:00|Bartok, Il castello di Barbablu. L'unica opera di Bartok, andata in scena la prima volta a Budapest nel 1918 - con S.Sass, K.Kovacs, London Philharmonic Orch., G.Solti dir., M.Szinetar, reg. (1981)
 |![Icon](https://guidatv.sky.it/uuid/c38c3d52-8441-4e83-93f9-1556a73064e8/cover?md5ChecksumParam=f5f74f8a6cb4041d2f1b5d5c2c25075a)|Concorso Etta e Paolo Limiti|00:00:00|01:30:00|Edizione 2021 del Concorso internazionale per giovani cantanti lirici - con A.Mihaylova, D.Giangregorio, M.Gaudenzi, F.Bossi, A.Mihailova - Orch. Sinfonica Italiana - B.Venezi, dir.(Teatro Arcimboldi)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

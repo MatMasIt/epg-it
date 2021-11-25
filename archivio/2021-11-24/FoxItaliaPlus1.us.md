@@ -116,3 +116,6 @@
 |![Icon](https://guidatv.sky.it/uuid/a7349702-81dc-4a38-83cc-3b5e2f4736c3/cover?md5ChecksumParam=8934081cb663430d80a91c8c9c10912f)|American Dad|23:05:00|23:30:00|S10 Ep1 La fantastica provetta di Steve e Snot - Non riuscendo a trovare nessuna ragazza che accetti di andare al ballo di fine anno con loro, Steve e Snot decidono di clonarne due... Prox Ep. 26 nov 11:40. Rep. 26 nov 11:15
 |![Icon](https://guidatv.sky.it/uuid/f6f93045-5150-454e-a3c1-b3067737b13c/cover?md5ChecksumParam=8934081cb663430d80a91c8c9c10912f)|American Dad|23:30:00|23:55:00|S10 Ep2 Poltergasm - Per qualche strano motivo, un'insoddisfazione sessuale di Francine libera un fantasma, uno spirito malvagio che si mette a tormentare tutta la famiglia. Prox Ep. 26 nov 22:40. Rep. 26 nov 11:40
 |![Icon](https://guidatv.sky.it/uuid/fd3b8b88-1aab-4190-b273-df444d3861f2/cover?md5ChecksumParam=df8aa3d2c3dc38233b93762b29e98967)|I Simpson|23:55:00|00:20:00|S20 Ep17 Il buono, il tristo e il drogattivo - Bart decide di diventare un 'buon samaritano', solo per conquistare il cuore di una ragazza di nome Jenny. Intanto Lisa cerca un modo per curare la sua depressione. Prox Ep. 26 nov 18:55. Rep. 26 nov 18:30
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

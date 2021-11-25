@@ -231,3 +231,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Le debat|23:11:00|23:53:00|Raphael Kahane et ses invites debattent, commentent et analysent le grand sujet d'actualite du jour. Les telespectateurs peuvent interagir en direct sur les reseaux sociaux : #DebatF24.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Focus|23:53:00|00:00:00|Un reportage long format realise par les correspondants de France 24 est analyse en plateau.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Le journal|00:00:00|00:15:00|24h/24, 7j/7 un bulletin d'informations est presente en direct depuis la redaction.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -38,3 +38,6 @@
 |![Icon](https://guidatv.sky.it/uuid/e3fd5da7-93e1-40ab-a37c-912850ddd61c/cover?md5ChecksumParam=4d2f0a118408426da09369c419cd993e)|Fox Business Tonight|22:00:00|23:00:00|Rotating anchors highlight current market trends.
 |![Icon](https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79)|The Evening Edit|23:00:00|00:00:00|Liz McDonald interviews the Industries experts.
 |![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

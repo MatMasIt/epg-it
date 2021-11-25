@@ -29,3 +29,6 @@
 |![Icon](https://guidatv.sky.it/uuid/64562ef4-3889-44df-b691-fe76e8aa806d/cover?md5ChecksumParam=dfb4b404039d04f47a11139eeccf6cb3)|La vita che verra' - Herself|20:15:00|22:00:00|Phyllida Lloyd dirige una storia di rinascita con Clare Dunne. Una donna fugge con le sue figlie da un marito violento. Non riuscendo a trovare casa, decidera' di costruirne una da se' (GBR/IRL 2020)
 |![Icon](https://guidatv.sky.it/uuid/98752879-2d2b-4097-a3ea-0b3744eb3c1c/cover?md5ChecksumParam=1ca4853af1f90dd8cddb70e3fed846af)|Bombshell - La voce dello scandalo|22:00:00|23:55:00|Charlize Theron, Nicole Kidman e Margot Robbie nel biopic che ricostruisce il caso Roger Ailey. Il potente capo di Fox News viene accusato di molestie sessuali dalle sue dipendenti (USA 2019)
 |![Icon](https://guidatv.sky.it/uuid/b6e62e4f-15ff-4910-b494-073d7c3f40f5/cover?md5ChecksumParam=6f8ca794268c81754d40e3dc235a1f41)|The Tale|23:55:00|01:50:00|Laura Dern ed Ellen Burstyn in un dramma targato HBO. A partire dal ritrovamento di un racconto, una donna ripercorre la relazione proibita avuta con due adulti quando aveva 13 anni (USA/GER 2018)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

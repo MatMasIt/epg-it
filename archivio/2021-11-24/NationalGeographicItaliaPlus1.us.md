@@ -60,3 +60,6 @@
 |![Icon](https://guidatv.sky.it/uuid/49f55347-3769-4933-ba14-b1ab7a716e69/cover?md5ChecksumParam=ee07ee70459299031d9216813af6237a)|Maradona: le verita' nascoste|21:55:00|22:55:00|Il racconto degli anni di carriera piu' controversi e affascinanti di Diego Armando Maradona, attraverso le immagini di repertorio e le parole di chi lo ha conosciuto. Rep. 19 dic 06:00
 |![Icon](https://guidatv.sky.it/uuid/e5385c17-a629-429e-a46f-97b47fbc7620/cover?md5ChecksumParam=3a8be8e06be377d5b1a3152dfd3dea04)|Mondi antichi con Albert Lin|22:55:00|23:50:00|Viaggio nel passato - Albert Lin e' in Giordania per svelare i segreti di Petra e per capire come hanno fatto le popolazioni nomadi a costruire dei canali d'acqua in mezzo al deserto.
 |![Icon](https://guidatv.sky.it/uuid/d9518570-ec2d-4d7f-aed9-19494528bd94/cover?md5ChecksumParam=1bf95f0528c192c9ddb7e2b1bdd1fdbc)|L'Eldorado della droga: viaggio in prima classe|23:50:00|00:45:00|...prima classe. Crimini di famiglia - Una madre, accompagnata dai suoi figli, trasporta pacchetti di cocaina. Intanto, gli agenti hanno dei forti sospetti su una coppia che potrebbe avere con se' della droga. Prox Ep. 26 nov 17:15. Rep. 26 nov 13:30
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

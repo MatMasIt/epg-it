@@ -22,3 +22,6 @@
 |![Icon](https://guidatv.sky.it/uuid/30bc8f1d-35b5-47bd-bf86-c396b75e5d12/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|18:09:37|20:43:37|.. casa (diretta) - - L'occhio del Grande Fratello e' acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu' famoso della televisione
 |![Icon](https://guidatv.sky.it/uuid/30bc8f1d-35b5-47bd-bf86-c396b75e5d12/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|20:43:56|23:29:56|.. casa (diretta) - - L'occhio del Grande Fratello e' acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu' famoso della televisione
 |![Icon](https://guidatv.sky.it/uuid/30bc8f1d-35b5-47bd-bf86-c396b75e5d12/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|23:30:22|00:52:22|.. casa (diretta) - - L'occhio del Grande Fratello e' acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu' famoso della televisione
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

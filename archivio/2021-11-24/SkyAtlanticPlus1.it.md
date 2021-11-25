@@ -58,3 +58,6 @@
 |![Icon](https://guidatv.sky.it/uuid/2bc84998-ff6f-4426-a619-89597616a918/cover?md5ChecksumParam=171c09c18f0b27c3bb52f759e9ce15ac)|Hannibal|22:05:00|22:55:00|S2 Ep12 Tome-wan - Durante una seduta di terapia, Will rivela ad Hannibal come avrebbe voluto ucciderlo. Jack, sempre piu' impaziente, ottiene a sorpresa un'importante testimonianza per Will. Prox ed ultimo Ep. 2 dic 21:15. Rep. 26 nov 14:00
 |![Icon](https://guidatv.sky.it/uuid/15197698-c1a1-42c1-8bad-9f0ef6d7f534/cover?md5ChecksumParam=53d56a538887168cb064564ffb277595)|Gomorra - Stagione finale|22:55:00|23:45:00|S5 Ep1 - Mentre Napoli e' ormai ridotta in macerie, la guerra tra Genny e i fratelli Levante procede sempre piu' sanguinosa. Ma Genny sta per scoprire qualcosa che cambiera' tutti gli equilibri. Prox Ep. 25 nov 23:45. Rep. 26 nov 19:25
 |![Icon](https://guidatv.sky.it/uuid/bb2c7830-4ec5-4ec6-97e0-6798e2b99163/cover?md5ChecksumParam=53d56a538887168cb064564ffb277595)|Gomorra - Stagione finale|23:45:00|00:40:00|S5 Ep2 - A Riga, Genny e Ciro sono di nuovo faccia a faccia, ma non c'e' tempo per parlare. Ciro e' in affari con i russi e ora che don Aniello e' morto serve un nuovo broker o gli accordi salteranno. Prox Ep. 26 nov 03:00. Rep. 26 nov 20:15
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -18,3 +18,6 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|SAY WAAAD|19:00:00|21:00:00|Say Waaad con Wad
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia Remix|21:00:00|23:00:00|Il meglio del morning show di Radio DEEJAY con Linus e Nicola Savino
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La musica di Radio Deejay|23:00:00|07:00:00|I videoclip piu' belli, 100% Radio Deejay
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -28,3 +28,6 @@
 |![Icon](https://guidatv.sky.it/uuid/f9ad1c4c-3e2a-4178-b15f-a23b0f08c766/cover?md5ChecksumParam=b711a4a8db12772bd06d86820fbcf5d2)|L'ultimo Vermeer|18:10:00|20:15:00|Biopic prodotto da Ridley Scott con Guy Pearce e Claes Bang. 1945: un ex ufficiale olandese indaga su un artista accusato di aver venduto un dipinto di Jan Vermeer ai nazisti (USA 2019)
 |![Icon](https://guidatv.sky.it/uuid/0d95c591-d96f-4348-8568-9a61604ef0cf/cover?md5ChecksumParam=a41e0dbf4598eb453a81459e770bad17)|Anna Rosenberg|20:15:00|22:00:00|Claudia Gerini e' la protagonista di una pellicola sul femminicidio. In un commissariato francese, la disputa tra una donna e un poliziotto ostile degenera fino a tragiche conseguenze (FRA 2020)
 |![Icon](https://guidatv.sky.it/uuid/1d9cd124-08c9-4003-b7cb-737f8168f8dd/cover?md5ChecksumParam=2c55f8b81ac63f32ce98b00cc3c8a9d0)|Il profeta|22:00:00|00:40:00|Gran Premio della Giuria a Cannes al regista Jacques Audiard per un avvincente dramma carcerario. Un ragazzo si adatta alla violenta realta' del carcere diventando un potente gangster (FRA/ITA 2009)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

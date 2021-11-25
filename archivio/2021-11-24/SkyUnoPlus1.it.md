@@ -47,3 +47,6 @@
 |![Icon](https://guidatv.sky.it/uuid/5bb044bb-afe5-4acf-8962-d7fa1f241265/cover?md5ChecksumParam=f126cb710b85ec784c4b5c51cd71280c)|X Factor Daily|19:30:00|20:10:00|S15 Ep25 - L'appuntamento quotidiano di X Factor 2021 per scoprire tutti i dettagli del percorso dei concorrenti. Un viaggio dietro le quinte tra assegnazioni, prove dei brani e interviste.
 |![Icon](https://guidatv.sky.it/uuid/ee36be77-0491-4cd2-ac1c-6bd77f9b7b9d/cover?md5ChecksumParam=573dd648a8f51dc40cd44cdeb0873845)|Quattro matrimoni|20:10:00|21:15:00|S5 Ep7 - Costantino della Gherardesca mette in sfida 4 spose under 30, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle proprie avversarie.
 |![Icon](https://guidatv.sky.it/uuid/babc2250-7482-40d0-b079-691626a79d57/cover?md5ChecksumParam=7d52601b175cfabeb68fbaf6142a22ae)|X Factor|21:15:00|00:10:00|S15 Ep11 Live 5 - Sul palco di X Factor, prosegue la sfida dei concorrenti rimasti in gara di Mika, Manuel Agnelli, Emma e Hell Raton. Super ospite della puntata: Ed Sheeran.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -63,3 +63,6 @@
 |![Icon](https://guidatv.sky.it/uuid/a0689cdd-2dc6-4142-9c5d-16acd5edee24/cover?md5ChecksumParam=561351b93315e406fd3461beffce5fc5)|Ghostbusters II|20:30:00|22:25:00|Regia di I.Reitman, con D. Aykroyd, B.Murray, S.Weaver; USA 1989. Dopo 5 anni di inattivita', gli acchiappafantasmi Peter, Egon e Ray ritornano ad occuparsi di una sospetta melma rosa comparsa nelle fogne di New York...
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Spartacus - La guerra dei dannati|22:25:00|23:30:00|S4 Ep9 Morti e morituri - Crasso scopre che un romano in vista vuole il merito della sconfitta di Spartacus. Il gladiatore, intanto, cerca di assicurarsi una merce di scambio contro i romani
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Spartacus - La guerra dei dannati|23:30:00|00:30:00|S4 Ep10 La vittoria - Anche se Spartacus e i suoi compagni ribelli sono in minoranza, affrontano per l'ultima volta i romani in un'epica battaglia per la liberta'
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

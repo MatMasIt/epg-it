@@ -51,3 +51,6 @@
 |![Icon](https://guidatv.sky.it/uuid/9a79c536-699b-44b2-9995-93c0fb5e5642/cover?md5ChecksumParam=4418048ee72c439452f1919a2d371833)|Champions League|22:05:00|23:00:00|Sei giorni di Maiorca - La nuova competizione su pista prende il nome di UCI Track Champions League. Il programma prevede sei round che vedranno quattro diversi campioni: i migliori corridori sprint e endurance M/F.
 |![Icon](https://guidatv.sky.it/uuid/bf21e8b5-719c-4dba-89bc-9ffe8cfc9bee/cover?md5ChecksumParam=2e5ec59f1047e3c61a47fc4c42b76d06)|Coppa del Mondo|23:00:00|00:00:00|Ostersund. Sprint M - Le spettacolari gare della Coppa del Mondo di biathlon 2021-2022. Campioni in carica i norvegesi Johannes Bo e Tiril Eckhoff.
 |![Icon](https://guidatv.sky.it/uuid/23620bf9-6065-4513-b171-2cab5969ba80/cover?md5ChecksumParam=2e5ec59f1047e3c61a47fc4c42b76d06)|Coppa del Mondo|00:00:00|00:30:00|Ostersund. Inseguimento M - Le spettacolari gare della Coppa del Mondo di biathlon 2021-2022. Campioni in carica i norvegesi Johannes Bo e Tiril Eckhoff.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

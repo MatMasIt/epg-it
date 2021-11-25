@@ -57,3 +57,6 @@
 |![Icon](https://guidatv.sky.it/uuid/41625376-06c7-4792-a215-1e72422c597a/cover?md5ChecksumParam=57e6835b11d3e9929c10e0551f7b6634)|Uomini e Donne|19:03:49|20:28:49|La nuova edizione del programma di Maria De Filippi: l'appuntamento quotidiano con il talk show dei sentimenti.
 |![Icon](https://guidatv.sky.it/uuid/1cde6ced-3e96-42a7-a73e-f1419cb4230d/cover?md5ChecksumParam=9004aea63528fb834cde12ba439d5f65)|C'e' post@ per te|20:29:04|22:48:04|Tom Hanks e Meg Ryan insieme in una commedia ormai divenuta un cult. Kathleen e Joe sono rivali in affari, ma un giorno, tutto cambia. Regia di N. Ephron; USA 1998
 |![Icon](https://guidatv.sky.it/uuid/41625376-06c7-4792-a215-1e72422c597a/cover?md5ChecksumParam=57e6835b11d3e9929c10e0551f7b6634)|Uomini e Donne|22:48:31|00:16:31|La nuova edizione del programma di Maria De Filippi: l'appuntamento quotidiano con il talk show dei sentimenti.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

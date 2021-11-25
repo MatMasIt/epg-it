@@ -271,3 +271,6 @@
 |![Icon](https://guidatv.sky.it/uuid/6787b39b-0793-4732-9912-9f04e986abec/cover?md5ChecksumParam=5b27863e7221bad271712279bbfef355)|The Mr. Bean Animated Series|23:40:00|23:50:00|S2 Ep28 - Un nuovo amico - Mr Bean ha un nuovo amico un gabbiano. A volte pero' gli amici possono prendersi un po' troppa confidenza..
 |![Icon](https://guidatv.sky.it/uuid/2b924653-ec37-4da5-a418-aaf5317cc5ab/cover?md5ChecksumParam=5b27863e7221bad271712279bbfef355)|The Mr. Bean Animated Series|23:50:00|00:00:00|S2 Ep29 - L'ascensore - Mr Bean vede un'auto giocattolo in un centro commerciale e vuole comprarla. Ma durante il tragitto verso resta bloccato nell'ascensore.
 |![Icon](https://guidatv.sky.it/uuid/13f4731d-1f1a-4c0a-914d-6ef6eef128ad/cover?md5ChecksumParam=5b27863e7221bad271712279bbfef355)|The Mr. Bean Animated Series|00:00:00|00:10:00|S2 Ep30 - La buca - Mr Bean scava una buca nel giardino di Mrs Wicket per piantare l'ombrellone e trova una bomba.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

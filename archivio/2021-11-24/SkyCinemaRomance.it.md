@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/d0576c89-19bc-43a7-802b-d5f44d097540/cover?md5ChecksumParam=f55405bf72995b744ec9476bd90a5934)|Ne' Giulietta ne' Romeo|20:00:00|21:50:00|Esordio alla regia per Veronica Pivetti in un film sul tema dell'omosessualita'. Un adolescente, figlio di genitori separati, s'innamora di un ragazzo e decide di rivelarlo alla famiglia (ITA 2015)
 |![Icon](https://guidatv.sky.it/uuid/d754c079-35b7-4d21-a77e-096fec3a3c16/cover?md5ChecksumParam=ebe6d7b6aed6e5e9676073a60969802a)|Someone, Somewhere|21:50:00|23:45:00|L'amore ai giorni nostri nella spensierata commedia romantica di Cedric Klapisch, che segue la ricerca dell'anima gemella di due trentenni parigini: Remy e Melanie (FRA 2019)
 |![Icon](https://guidatv.sky.it/uuid/6a8cce82-2ddd-4d09-9daa-56d676b01dc7/cover?md5ChecksumParam=b27c65f147eadf348728c4380a475f86)|Attimo per attimo|23:45:00|01:20:00|Lily Tomlin e John Travolta in un dramma sentimentale. Una donna divorziata inizia una relazione con un ragazzo squattrinato, malgrado la differenza d'eta' e di estrazione sociale (USA 1978)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

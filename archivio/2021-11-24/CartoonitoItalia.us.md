@@ -102,3 +102,6 @@
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Blue's Clues &amp; You!|21:15:00|22:35:00|Una simpatica serie educativa e interattiva per bambini nella quale Kevin, un ragazzo, e Blue, una cagnolina pupazzo, scoprono insieme ai telespettatori il mondo che li circonda.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Titti e Silvestro|22:35:00|23:00:00|Le avventure immortali del gatto piu' maldestro e sfortunato del mondo dei cartoni, al costante inseguimento del delizioso e dispettoso canarino Titti.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Simsalagrimm|23:00:00|00:15:00|Le piu' belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

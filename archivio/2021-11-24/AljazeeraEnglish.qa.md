@@ -82,3 +82,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fighting Insectageddon|23:30:00|00:00:00|Earthrise goes to New Zealand and Britain to explore ways in which scientists are racing to stop the collapse of the planet's insect populations.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

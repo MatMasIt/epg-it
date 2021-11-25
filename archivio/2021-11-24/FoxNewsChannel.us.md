@@ -40,3 +40,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gutfeld!|22:00:00|23:00:00|Special - Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Special Report|23:00:00|00:00:00|Mike Emanuel reports on the days events from Washington DC.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tucker Carlson Tonight|00:00:00|01:00:00|Special - Tucker Carlson brings a live hour of spirited debate.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

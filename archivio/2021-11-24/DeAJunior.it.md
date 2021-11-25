@@ -298,3 +298,6 @@
 |![Icon](https://guidatv.sky.it/uuid/21976c4b-8d18-4759-9162-cd96b63a650c/cover?md5ChecksumParam=38d00c75856c51f9713e044c4bde23ff)|Zecchino Show!|23:00:00|23:50:00|S1 Ep9 - Condotto dall'inedita coppia Massimiliano Ossini e Federico Russo lo show mette in gara i piu' grandi successi dello Zecchino d'Oro di ieri e di oggi in una frizzante gara in cui i protagonisti saranno solo i bambini e le loro canzoni.
 |![Icon](https://guidatv.sky.it/uuid/7f720883-9c3b-4eea-bf08-1094e9f079e8/cover?md5ChecksumParam=22c752a2b71fac6f59b60fac5e85f387)|Adriana, Tino e me|23:50:00|00:00:00|S2 Ep17 Il valzer del moscerino - Con i balli, i salti, le giravolte e le canzoncine di Adriana e Tino e con la borsa magica di Nina, la ginnastica si trasforma in un divertente gioco!
 |![Icon](https://guidatv.sky.it/uuid/25e65d92-912a-400f-b103-2d703b2dc60d/cover?md5ChecksumParam=22c752a2b71fac6f59b60fac5e85f387)|Adriana, Tino e me|00:00:00|00:15:00|S2 Ep18 Il sirtaki di Icaro - Con i balli, i salti, le giravolte e le canzoncine di Adriana e Tino e con la borsa magica di Nina, la ginnastica si trasforma in un divertentissimo gioco!
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

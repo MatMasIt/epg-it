@@ -52,3 +52,6 @@
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Un principe per l'estate|20:10:00|21:50:00|Mandy e' un'assistente che aspira a diventare un'esperta di pubbliche relazione. Ha l'opportunita' di mettere alla prova le proprie capacita' quando conosce il principe britannico Colin di Edgemer
 |![Icon](https://guidatv.sky.it/uuid/bb0ce216-ad9c-4a12-a31b-eaf053359106/cover?md5ChecksumParam=2effd95e76efb63047bb08f184df4f1f)|La dura verita'|21:50:00|23:40:00|Regia di Robert Luketic, con Katherine Heigl, Gerard Butler, Bree Turner; USA 2009. Abby e' una produttrice televisiva iperefficiente sempre alla ricerca del grande amore romantico. Mike e' l'irriverente conduttore di un talk show che demolisce sistematicamente ogni concezione...
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Law &amp; Order: Unita' Vittime Speciali|23:40:00|00:30:00|S4 Ep16 Torturata - La piu' longeva serie della TV ispirata alle storie della squadra speciale di New York chiamata a risolvere reati e crimini che coinvolgono le vittime piu' indifese.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

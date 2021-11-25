@@ -74,3 +74,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Viceversa|22:30:00|23:30:00|A cura della Redazione Giornalistica
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|00Verde in pillole|23:30:00|00:00:00|Un format itinerante che si snoda tra immagini suggestive e inedite della Repubblica e dei territori limitrofi, interviste ad esperti e personaggi del territorio
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Televendita|00:00:00|00:30:00|Televendita
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

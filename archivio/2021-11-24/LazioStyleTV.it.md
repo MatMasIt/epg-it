@@ -30,3 +30,6 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tempi Supplementari (diretta)|19:45:00|20:30:00|Salotto post partita con interviste esclusive e approfondimenti
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|UEL Lokomotiv Mosca-Lazio|20:30:00|22:30:00|Mosca, Stadio Lokomotiv, Europa League, gruppo E, fase a gironi, 25 novembre 2021
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Serie A 2021/2022 Lazio-Inter|22:30:00|00:30:00|Roma, Stadio Olimpico, Campionato di Serie A 2021/2022 - ottava giornata 16 ottobre 2021
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -144,3 +144,6 @@
 |![Icon](https://guidatv.sky.it/uuid/7dd4b204-a166-4dd5-8044-cacaf7b76792/cover?md5ChecksumParam=ff23b06d282bdc827bd1c22be33eb305)|L'Officina dei mostri|23:20:00|23:40:00|S4 Ep3 Rock Round - Un'avventura a ritmo di rock n'roll. Il team dell'Officina dei Mostri deve realizzare un demone della tempesta che genera fulmini con la sua chitarra elettrica.
 |![Icon](https://guidatv.sky.it/uuid/74c6178b-4cdf-4930-8f72-24ebe8905dae/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|23:40:00|00:00:00|S2 Ep7 Circuito Go Kart - Per Steven la velocita' nell'esecuzione dei suoi trucchi di magia e' essenziale. Per questo oggi incontra dei ragazzi campioni di Go Kart.
 |![Icon](https://guidatv.sky.it/uuid/73feff4e-3fe0-47b0-89bf-132e67a14ecb/cover?md5ChecksumParam=50c7c3e728c9dcdd7e14bbe6fde1e708)|Street of Magic|00:00:00|00:25:00|S2 Ep8 Scuola di basket - A Steven piace moltissimo giocare a basket cosi' oggi ha deciso di andare a trovare una squadra di pallacanestro, per fare due tiri e ovviamente un po' di magia!
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

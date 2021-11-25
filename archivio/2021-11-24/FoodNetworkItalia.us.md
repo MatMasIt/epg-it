@@ -55,3 +55,6 @@
 |![Icon](https://guidatv.sky.it/uuid/9036cf8a-7dcc-40c4-b222-994eb783fac1/cover?md5ChecksumParam=60d3fbe52fca4d6343d562fcc9fab0c4)|Pizza Hero - La sfida dei forni|21:30:00|22:35:00|S1 Ep7 Altamura - Gabriele Bonci, il nostro Pizza Hero, intraprende un viaggio tra i forni italiani. Oggi la sfida per contendersi il restyling del negozio sara' ad Altamura. Quale sara' il forno vincitore?
 |![Icon](https://guidatv.sky.it/uuid/eae58e3b-9dae-40c7-b741-e1642f3b9f95/cover?md5ChecksumParam=60d3fbe52fca4d6343d562fcc9fab0c4)|Pizza Hero - La sfida dei forni|22:35:00|23:40:00|S1 Ep1 Milano - Gabriele Bonci, il nostro Pizza Hero, intraprende un viaggio tra i forni italiani. Tra infornate di pizzette e focacce, oggi la sfida sara' a Milano.
 |![Icon](https://guidatv.sky.it/uuid/722932d0-5667-45fd-90d2-f7b9d7e84c0b/cover?md5ChecksumParam=60d3fbe52fca4d6343d562fcc9fab0c4)|Pizza Hero - La sfida dei forni|23:40:00|00:45:00|S1 Ep2 Roma - Gabriele Bonci, il nostro Pizza Hero, intraprende un viaggio tra i forni italiani. Tra infornate di schiacciata e pinsa, oggi la sfida sara' a Roma. Quale forno vincera' il restyling completo del negozio?
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

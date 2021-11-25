@@ -31,3 +31,6 @@
 |![Icon](https://guidatv.sky.it/uuid/99acbd3f-573d-4fc1-8514-bc2fa2d1dbe8/cover?md5ChecksumParam=2359b2017187907c6549546c579de9b0)|Never back down - mai arrendersi|20:15:07|22:07:07|Un giovane dal difficile passato, per vendicarsi di un'umiliazione subita, si inserisce nel mondo dei combattimenti di arti marziali. Con Sean Faris, Amber Heard Regia di J. Wadlow; USA 2008
 |![Icon](https://guidatv.sky.it/uuid/97e4d2ad-3e38-4fee-807b-1c17c75c7d31/cover?md5ChecksumParam=88c8e24e6449b52ce717c236b1949a97)|Death race|22:07:31|23:56:31|In questo remake Jason Statham e' un ex pilota, ora in carcere, costretto a disputare una gara con un'auto tecnicamente modificata. Se vincera' tornera' libero. Regia di P. Anderson; USA 2008
 |![Icon](https://guidatv.sky.it/uuid/eb0aee15-b23e-4ba8-bc41-fa8f094615ed/cover?md5ChecksumParam=d1a73b62891d00260a094073abdd6e9a)|Il rito|23:56:58|01:48:58|Antony Hopkins esorcista in un horror ambientato a Roma. Una riflessione cupa sulla costante presenza del male nella vita umana. Regia di M. Hafstrom; USA 2011
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -108,3 +108,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Modena notte|23:30:00|23:45:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio notte|23:45:00|00:00:00|Il Telegiornale di Reggio Emilia e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna notte|00:00:00|00:15:00|Il Telegiornale di Bologna e provincia
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

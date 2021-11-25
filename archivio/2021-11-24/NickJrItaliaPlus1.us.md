@@ -154,3 +154,6 @@
 |![Icon](https://guidatv.sky.it/uuid/b5237f9f-6062-4f6e-8317-b0e4b8280122/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:25:00|23:40:00|S1 Ep25 Ambrogio, il Gatto Stilista - Tutti i gatti sono in entusiasti per l'arrivo di Ambrogio, il famoso gatto stilista. Quando pero' giunge in citta', Ambrogio e' schivo e scontroso.
 |![Icon](https://guidatv.sky.it/uuid/33ba64c6-e70a-4ace-8948-2adf76043657/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:40:00|23:50:00|S1 Ep26 Un Nuovo Amico per Pilou - Mentre gli altri Buffycats sono impegnati, Pilou e' alla ricerca di un compagno di giochi. Inaspettatamente arriva Baby Pie, un dolcissimo cucciolo di gatto.
 |![Icon](https://guidatv.sky.it/uuid/5eb349cb-185b-4c6a-a764-b75ebf55aa94/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:50:00|00:05:00|S1 Ep27 Gatti in nero - I Buffycats stanno giocando a battaglia spaziale con Cosmo, quando una navicella fa un atterraggio d' emergenza nel giardino di Nonna Pina! e' Astricat, la gattina aliena.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

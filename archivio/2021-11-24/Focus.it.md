@@ -58,3 +58,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dfcd9ba6-2a6d-4efc-a00e-aa9b89253a2e/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|20:14:35|21:02:35|S7 Ep3 Sulle tracce dei Pitti - Larcheologa Bellinger in Scozia fa luce sui resti di una costruzione sulla cima di una montagna e su incisioni poco distanti attribuite allantico popolo dei Pitti.
 |![Icon](https://guidatv.sky.it/uuid/94105975-f234-4a0a-b17b-89db834de0ee/cover?md5ChecksumParam=fd9c00bc63419834930a03134e96f2bd)|Cose di questo mondo|21:02:41|21:58:41|S7 Ep4 Vichinghi: fra mito e realta' - Le immagini satellitari rivelano un cimitero vichingo in Norvegia con i simboli delle mitologia e una particolare tomba a forma di stella.
 |![Icon](https://guidatv.sky.it/uuid/c7431f73-3e01-4412-b4bb-5c95059aaa33/cover?md5ChecksumParam=f006037012141718c4edd53792dffe92)|Freedom oltre il confine - Focus|21:59:16|00:37:16|S1 Ep12 Freedom oltre il confine-21 - focus, 12 - Roberto Giacobbo ci conduce in un viaggio per scoprire l'ignoto e farsi stupire dalle meraviglie della natura e della storia.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -236,3 +236,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Debate|23:32:00|23:52:00|Francois Picard and his guest panel debate the topic of the day. Viewers and web users can interact directly with the team using the #F24Debate hashtag.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Focus|23:52:00|00:00:00|Exclusive reports from the France 24 correspondents around the world.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|00:00:00|00:15:00|An international news bulletin, presented live from the newsroom.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

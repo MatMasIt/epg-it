@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/da51685e-1ae1-41aa-8071-d96b2287a446/cover?md5ChecksumParam=eb8490327adffda0342eecb2c9e7f746)|Wanted - Scegli il tuo destino|20:15:00|22:10:00|James McAvoy, Morgan Freeman e Angelina Jolie in un action ispirato all'omonima graphic novel. Una donna misteriosa introduce un timido impiegato in una societa' segreta di giustizieri (USA 2008)
 |![Icon](https://guidatv.sky.it/uuid/8e48fed3-bb59-4be2-a24a-57997e4a65ca/cover?md5ChecksumParam=501b1ea99b661f9c951ad6d20062dbdb)|Ai confini del male|22:10:00|00:00:00|Edoardo Pesce e Massimo Popolizio nel thriller Sky Original di Vincenzo Alfieri. Due ragazzi scomparsi dopo un rave, un paese terrorizzato. I carabinieri Meda e Rio sono chiamati a indagare (ITA 2021)
 |![Icon](https://guidatv.sky.it/uuid/00b64313-46ff-4eca-9d60-cb569fb47b3c/cover?md5ChecksumParam=568326b5171e341d5809becf8a9311a8)|Way Down - Rapina alla Banca di Spagna|00:00:00|01:55:00|Action targato Sky Original di Jaume Balaguero' con Freddie Highmore. Uno studente di ingegneria escogita un piano per rubare un leggendario tesoro dall'inviolabile Banca di Spagna (SPA 2021)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

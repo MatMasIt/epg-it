@@ -59,3 +59,6 @@
 |![Icon](https://guidatv.sky.it/uuid/d095cb64-abbd-4a1d-af6d-0395ec33e093/cover?md5ChecksumParam=be132cdd612ae54b90d07fe544b04b8d)|Dr.ssa Michelle: questione di famiglia|22:00:00|22:50:00|Il lavoro della dottoressa Michelle non si ferma mai, nemmeno per il Ringraziamento. La veterinaria e le sue due figlie si occupano di animali di ogni genere. Rep. 28 nov 21:10
 |![Icon](https://guidatv.sky.it/uuid/2513fa00-6205-428e-9128-a0713beeb94b/cover?md5ChecksumParam=06f85a7c67399ceaf60f8874b7f433cc)|Wild Argentina|22:50:00|23:40:00|La costa della Patagonia - La Patagonia si estende dalle giungle del Brasile fino all'estrema punta meridionale del Sud America. Questo luogo ospita creature spettacolari. Prox ed ultimo Ep. 26 nov 23:45. Rep. 4 dic 10:10
 |![Icon](https://guidatv.sky.it/uuid/97351c4f-3729-4ccb-a1d2-7f2d1ce01911/cover?md5ChecksumParam=c48c90b6ee5039b5bd775a61385ca835)|Animal Fight Club: speciale Felini|23:40:00|00:35:00|Scopriamo le tattiche usate dagli animali piu' feroci della natura. Dalle creature piu' piccole ai grandi predatori, analizziamo le tecniche usate per catturare le prede. Rep. 16 dic 23:45
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

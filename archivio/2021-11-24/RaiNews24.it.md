@@ -177,3 +177,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News + Rassegna stampa|23:30:00|23:55:00|La rassegna stampa delle notizie pubblicate dai principali quotidiani nazionali.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meteo|23:55:00|00:00:00|Informazioni sul tempo che fara': previsioni in tempo reale lette da una Miss e consigli di viaggio.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News|00:00:00|00:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

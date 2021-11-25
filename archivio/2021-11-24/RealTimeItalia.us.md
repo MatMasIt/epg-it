@@ -50,3 +50,6 @@
 |![Icon](https://guidatv.sky.it/uuid/be054480-1666-4610-b068-2b0162c66cf7/cover?md5ChecksumParam=67180ed7861471741d1b3b163539ad92)|Dr. Pimple Popper: la dottoressa schiacciabrufoli|22:20:00|23:10:00|...schiacciabrufoli. S3 Ep18 Pelle da alligatore - Terry non incontra i suoi nipoti a causa di un'escrescenza sul naso. Remi ha una pelle simile a un alligatore e non si prende cura di se stessa.
 |![Icon](https://guidatv.sky.it/uuid/be054480-1666-4610-b068-2b0162c66cf7/cover?md5ChecksumParam=67180ed7861471741d1b3b163539ad92)|Dr. Pimple Popper: la dottoressa schiacciabrufoli|23:10:00|00:00:00|...schiacciabrufoli. S3 Ep19 Naso gigantesco - Roger ha enormi bozzoli sul naso e perde pus, attira gli insetti e respira con difficolta'. Inoltre, due sorelle hanno enormi escrescenze sul volto.
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Dr. Pimple Popper: la dottoressa schiacciabrufoli|00:00:00|00:50:00|...schiacciabrufoli. S3 Ep20 Santa Claus - E' Natale nello studio di Sandra Lee pronta a scartare nuovissime patologie. Tra i pazienti un Babbo Natale con un'enorme protuberanza sul collo.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

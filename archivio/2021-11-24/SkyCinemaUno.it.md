@@ -31,3 +31,6 @@
 |![Icon](https://guidatv.sky.it/uuid/80a34d72-fa05-439b-9104-ed2d233e489e/cover?md5ChecksumParam=7f3e2de5ddaf9ac8c50e86e718d6b64f)|Lasciami Andare|18:20:00|20:15:00|Stefano Mordini dirige Stefano Accorsi, Valeria Golino e Maya Sansa in un thriller-drama a Venezia. Due ex coniugi riaffrontano il trauma per la prematura scomparsa del figlio (ITA 2020)
 |![Icon](https://guidatv.sky.it/uuid/45256e40-834c-4a62-ad8c-bd4f3d09fee5/cover?md5ChecksumParam=52b272eb9fd0e02dfb6bf4bec0b6a947)|Fire Squad - Incubo di fuoco|20:15:00|22:35:00|Intenso dramma catastrofico tratto da una storia vera con Josh Brolin, Miles Teller e Jeff Bridges. 2013: un gruppo di vigili del fuoco deve domare un gigantesco incendio in Arizona (USA 2017)
 |![Icon](https://guidatv.sky.it/uuid/1e38b712-1958-4643-a0ad-2e27cd5bf879/cover?md5ChecksumParam=ead39bcd967ac2478b1d15f351f54b66)|Boys - All You Need Is Rock|22:35:00|00:20:00|Commedia con Neri Marcore', Marco Paolini, Giovanni Storti e Giorgio Tirabassi. Quattro uomini maturi, membri di una band negli anni 70, hanno la chance per tornare sulla cresta dell'onda (ITA 2021)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

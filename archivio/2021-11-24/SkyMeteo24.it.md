@@ -126,3 +126,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky Meteo 24 - My Way 1|20:30:00|20:45:00|Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali. Le informazioni sul traffico in autostrada e nelle grandi citta' del servizio My Way.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky Meteo24 1|20:45:00|21:00:00|Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Ogni 15 minuti previsioni regionali, nazionali e internazionali.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky Meteo24 1|21:00:00|05:00:00|Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Ogni 15 minuti previsioni regionali, nazionali e internazionali.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

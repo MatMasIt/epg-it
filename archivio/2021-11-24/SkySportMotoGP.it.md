@@ -74,3 +74,6 @@
 |![Icon](https://guidatv.sky.it/uuid/b4cd3bb2-852c-4883-953d-5f7dc412ed70/cover?md5ChecksumParam=cc0944c91363ff3c832760d07ba42b3e)|Brembo, un mito per tutti|22:30:00|23:00:00|Andiamo alla scoperta di una straordinaria realta' industriale tutta italiana, ricca di passione e di tecnologia.
 |![Icon](https://guidatv.sky.it/uuid/e95cb158-c8fd-436d-8586-1e1976d0cecb/cover?md5ChecksumParam=c6e449d8da02dfbe10e4f2fc0f4340f0)|GP Algarve: Moto2|23:00:00|00:00:00|GP Algarve: Moto2 Race 2 - Sul circuito di Algarve in pista la Moto2, dove i piloti si affrontano in gara 2 il CEV, campionato europeo velocita'. TC: Rosario Triolo e Paolo Beltramo.
 |![Icon](https://guidatv.sky.it/uuid/fb9d99cf-b9e9-4d4e-84ac-2d53de279310/cover?md5ChecksumParam=d712d95f9d03452874304c50eb99ec3a)|GP Aragona: Moto2|00:00:00|01:00:00|GP Aragona: Moto2 Race 1 - Ritorna il CEV - campionato europeo velocita' - della Moto2 con le moto del team Boscoscuro che continuano a dominare la classifica. TC: Rosario Triolo e Paolo Beltramo.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -97,3 +97,6 @@
 |![Icon](https://guidatv.sky.it/uuid/22ad938a-4398-4251-b239-15fcf6bcfe53/cover?md5ChecksumParam=9e2bf094747a9e9fb66d94a36ef02079)|Ep. 5|23:00:00|23:30:00|Ep. 5 - Il meglio della tre giorni europea analizzato da Leo Di Bello e i suoi ospiti. I temi piu' importanti raccontati attraverso i gol, le dichiarazioni e i personaggi di Champions, Europa e Conference League.
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|23:30:00|00:00:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
 |![Icon](https://guidatv.sky.it/uuid/828d77de-dfd8-44f1-8564-68948060251c/cover?md5ChecksumParam=2925716953fd9da275fb05848692753f)|Night Line|00:00:00|00:30:00|Tutto quello che e' accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

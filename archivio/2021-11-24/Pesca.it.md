@@ -89,3 +89,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ca64286d-3236-4682-88e7-a088eb357007/cover?md5ChecksumParam=c9bc22aa8d98af1c75609c40e8314488)|Lenze tese con Mauro Pitorri|23:00:00|23:30:00|Ep. 1 - Avventura dedicata al carpfishing in terra slovena, dove Mauro scopre un itinerario bellissimo: tante catture, alcune davvero di buona taglia, e la presentazione di un rig inedito. Prox Ep. 26 nov 0:30. Rep. 26 nov 12:00
 |![Icon](https://guidatv.sky.it/uuid/2234e89f-b683-4989-9b9b-881c9d14700c/cover?md5ChecksumParam=c9bc22aa8d98af1c75609c40e8314488)|Lenze tese con Mauro Pitorri|23:30:00|00:00:00|Ep. 2 - Mauro Pitorri, canna da spinning alla mano, si cimenta nella pesca leggera dell'urban fishing, alla ricerca di lucci, perca, cavedani, e, sorpresa, incontra una gigantesca carpa. Prox Ep. 5 dic 21:00. Rep. 26 nov 12:30
 |![Icon](https://guidatv.sky.it/uuid/f96c7f3f-5f65-4339-afce-03c5d5994709/cover?md5ChecksumParam=79ce95c27dd492e3999482770bfa2282)|Cronache di pesca dalla barca|00:00:00|00:30:00|Ep. 14 - Torna il capitano Sandro Onofaro, per la decima edizione del programma che porta lo spettatore a pesca dalla barca in giro per il Mediterraneo. Prox ed ultimo Ep. 29 nov 22:00. Rep. 26 nov 13:00
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

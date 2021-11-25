@@ -59,3 +59,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep19 Emozioni Mortali - Melinda aiuta una donna perseguitata da un fantasma. Jim cerca di abituarsi alla sua vita come Sam, ma si rende conto di quanto tutto sia difficile.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

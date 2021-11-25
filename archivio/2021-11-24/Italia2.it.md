@@ -93,3 +93,6 @@
 |![Icon](https://guidatv.sky.it/uuid/b3bac7cf-488b-4ba7-8968-e3036b0fdf76/cover?md5ChecksumParam=46baa34db630723e9e2e180cc83f7fdc)|One Piece|22:39:15|23:07:15|S1 Ep17 Pericolo in arrivo - Il mostro di Caesar Clown - Rufy, Franky e Robin cominciano a combattere con i centauri e i marine mentre Law e Chopper entrano nel laboratorio.
 |![Icon](https://guidatv.sky.it/uuid/f9d084e8-982b-4f79-b67e-4984d9c151b4/cover?md5ChecksumParam=46baa34db630723e9e2e180cc83f7fdc)|One Piece|23:08:07|23:37:07|S1 Ep18 Sfida pericolosa - Il vero potere di Caesar Clown! - Zoro si accorge che i frammenti di Smiley stanno intossicando il lago: Sanji si tuffa per recuperarlo.
 |![Icon](https://guidatv.sky.it/uuid/abdfec50-bf11-4cd4-b51c-5ec0c13b0c84/cover?md5ChecksumParam=8c87b16dc38789fa0d8177386de6e70d)|Fire Force|23:37:58|00:07:58|S2 Ep17 Ragazzi, siate deboli - 8a Brigata, Haijima e Cappe Bianche uniscono le forze per fermare Nataku che rischia di distruggere l'intera Tokyo con un'enorme esplosione.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -1,5 +1,5 @@
 # Boing Italia
-> Programmazione di Mercoledì 24 Novembre 2021
+> Programmazione di Giovedì 25 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
@@ -56,9 +56,7 @@
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|The Looney Tunes Show|11:00:00|11:10:00|Le avventure piu' divertenti di Bugs Bunny, Wile E. Coyote, Duffy Duck, Titti e tanti altri.
 |![Icon](https://guidatv.sky.it/uuid/2c66bf96-9719-448e-99ef-359fd1ed6120/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|11:10:00|11:55:00|Le incredibili avventure di Craig Williams nella giungla urbana di Herkleston insieme ai suoi due amici Kelsey e John Paul.
 |![Icon](https://guidatv.sky.it/uuid/2c66bf96-9719-448e-99ef-359fd1ed6120/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|11:55:00|12:25:00|Le incredibili avventure di Craig Williams nella giungla urbana di Herkleston insieme ai suoi due amici Kelsey e John Paul.
-|![Icon](https://guidatv.sky.it/uuid/2c66bf96-9719-448e-99ef-359fd1ed6120/cover?md5ChecksumParam=74d615ca20136baa90c719e196bb8a0e)|Craig|12:25:00|12:50:00|Le incredibili avventure di Craig Williams nella giungla urbana di Herkleston insieme ai suoi due amici Kelsey e John Paul.
-|![Icon](https://guidatv.sky.it/uuid/bad3b2cc-4308-454d-a802-be50914a1283/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo straordinario mondo di Gumball|12:50:00|13:20:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
-|![Icon](https://guidatv.sky.it/uuid/bad3b2cc-4308-454d-a802-be50914a1283/cover?md5ChecksumParam=4035b3ed6aae8bc58566469c96d16230)|Lo straordinario mondo di Gumball|13:20:00|14:00:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
+|![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Boing Challenge - Sfide in famiglia|12:25:00|14:00:00|Un game show che vede coinvolte 24 famiglie provenienti da tutta Italia: ogni settimana si sfideranno per mettere alla prova le loro abilita', sia fisiche che mentali.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Power Rangers: Dino Fury|14:00:00|14:30:00|Un esercito di potenti alieni approda sulla Terra, minacciando la vita. Una nuova squadra di Power Rangers, alimentata dal potere preistorico dei dinosauri, viene reclutata per affrontare la minaccia.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|DC Super Hero Girls - La Serie|14:30:00|15:00:00|Supergirl viene accolta nel Team Super Hero High, mentre il Junior Detective Club investiga sulle misteriose violazioni della sicurezza che riguardano i tubi del teletrasporto.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|DC Super Hero Girls - La Serie|15:00:00|15:25:00|Supergirl viene accolta nel Team Super Hero High, mentre il Junior Detective Club investiga sulle misteriose violazioni della sicurezza che riguardano i tubi del teletrasporto.

@@ -76,3 +76,6 @@
 |![Icon](https://guidatv.sky.it/uuid/5f483608-d607-4b77-9665-5309013b1932/cover?md5ChecksumParam=3bcf24e52c3a7f0473603e6ceac207dc)|Striscia la notizia|19:38:09|20:43:09|Tg satirico che amplia quotidianamente il suo impegno di denuncia, dando voce ai cittadini/consumatori e cercando di risolvere problemi.
 |![Icon](https://guidatv.sky.it/uuid/d3af5886-f288-4fad-8572-9e8f1ce637b3/cover?md5ChecksumParam=b88ca6c85d830f94934493a9004fa0d0)|Zelig|20:43:19|23:40:19|Ritorna la grande comicita' di Zelig, Claudio Bisio e Vanessa Incontrada conducono la nuova edizione di Zelig, con la partecipazione dei piu' grandi talenti comici italiani e nuovi emergenti.
 |![Icon](https://guidatv.sky.it/uuid/639bdc6d-3463-4af5-842f-2bf5b0325add/cover?md5ChecksumParam=3db8cae41a975edfbb992f606760daec)|Tg5|23:40:54|00:20:54|Appuntamento con le notizie piu' importanti, nazionali ed internazionali, a cura della redazione giornalistica di Canale 5
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

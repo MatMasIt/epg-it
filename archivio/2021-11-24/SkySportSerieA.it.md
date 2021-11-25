@@ -46,3 +46,6 @@
 |![Icon](https://guidatv.sky.it/uuid/46e4d204-b2b7-474a-a126-d1dfaadcfa5a/cover?md5ChecksumParam=2de7f3bc3996e9037102078eefb48bce)|Sassuolo - Cagliari|23:00:00|23:15:00|Serie A - 13a g. Emiliani per evitare la 3a sconfitta di fila dopo Empoli e Udinese. Sardi con un solo successo, 3 pari e 8 ko. In campionato non hanno mai vinto a Reggio Emilia. TC: Massara-Orsi.
 |![Icon](https://guidatv.sky.it/uuid/25556027-0b4b-40f5-b687-385d50acd94b/cover?md5ChecksumParam=64cb93be015cdb45333e67fb094c7705)|Pisa - Benevento|23:15:00|23:45:00|Serie B - 13a g. Pisa senza vittorie da 5 turni. -2 dal Brescia. Non ha mai battuto il Benevento nei 2 precedenti di B, 1 pari e 1 ko. Campani per evitare il 3rzo ko di fila. TC: Riccardo Gentile.
 |![Icon](https://guidatv.sky.it/uuid/783f9aab-0c8d-4d5b-8f9b-71291e844e8f/cover?md5ChecksumParam=373755f197d097227f5bed925d5bad6b)|Reggina - Cremonese|23:45:00|01:30:00|Serie B - 13a g. Amaranto con 4 vittorie nelle ultime 5 gare. -2 dalla vetta. In casa non hanno mai perso con la Cremonese, 2 vittorie e 1 pari. Lombardi senza vittorie da 5 turni. TC: Bruno Palermo.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

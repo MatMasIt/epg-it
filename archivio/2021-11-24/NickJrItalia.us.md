@@ -154,3 +154,6 @@
 |![Icon](https://guidatv.sky.it/uuid/6887ebc2-ebf5-4515-9966-dc42760285ca/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:30:00|23:40:00|S1 Ep30 Missione soffitta - I Buffycats stanno aspettando le tagliatelle di Nonna Pina, ma fino a quando la soffitta non sara' rimessa in ordine non potranno mangiarle!
 |![Icon](https://guidatv.sky.it/uuid/f9c4cb04-e1e2-4227-beb7-fa361134688b/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:40:00|23:55:00|S1 Ep31 II gatto volante - Edison, il gatto scienziato, e' famoso per le sue invenzioni e questa volta ha creato un paio di ali meccaniche: Polpetta sogna di volare leggiadro come un uccellino.
 |![Icon](https://guidatv.sky.it/uuid/7fa09d65-21cc-4da1-85a3-f8da94c8a580/cover?md5ChecksumParam=b4cc484619be8db2ce4f69eeb370d68a)|44 gatti|23:55:00|00:05:00|S1 Ep32 Il tesoro di Tutankatmon - Quatermain, un coraggioso gatto archeologo, e' alla ricerca del tesoro del Faraone Tutankhamon, e i Buffycats non vedono l'ora di unirsi a questa gattastica avventura!
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

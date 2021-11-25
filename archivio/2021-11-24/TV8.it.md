@@ -53,3 +53,6 @@
 |![Icon](https://guidatv.sky.it/uuid/22ad938a-4398-4251-b239-15fcf6bcfe53/cover?md5ChecksumParam=9e2bf094747a9e9fb66d94a36ef02079)|Ep. 5|23:00:00|23:30:00|Ep. 5 - Il meglio della tre giorni europea analizzato da Leo Di Bello e i suoi ospiti. I temi piu' importanti raccontati attraverso i gol, le dichiarazioni e i personaggi di Champions, Europa e Conference League.
 |![Icon](https://guidatv.sky.it/uuid/cb6d7b93-422b-4807-9f92-4940dc7536f7/cover?md5ChecksumParam=247babc7238929cc229396aa39334096)|Terzo Tempo Tutti i Gol di Europa League|23:30:00|00:00:00|Le partite della seconda competizione calcistica europea per club rivissute attraverso le azioni piu' belle ed i gol piu' spettacolari.
 |![Icon](https://guidatv.sky.it/uuid/8d237c40-0c4a-4c6f-8375-ebd9663ef124/cover?md5ChecksumParam=d678d557facbe30871e9f41c875e5a27)|Terzo Tempo Tutti i Gol di Champions|00:00:00|00:30:00|Le partite della prima competizione calcistica europea per club rivissute attraverso le azioni piu' belle ed i gol piu' spettacolari.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

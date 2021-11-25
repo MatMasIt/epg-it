@@ -62,3 +62,6 @@
 |![Icon](https://guidatv.sky.it/uuid/c724f693-212b-4ab6-8370-93af48749e23/cover?md5ChecksumParam=bb6e3568db65abbc6280f76e189a1020)|La partita nel fango - Un giorno nella vita di Maradona|20:12:01|21:01:01|.. vita di Maradona - Omaggio al &quot;pibe de oro&quot; nell'anniversario della sua scomparsa. Il ricordo della storica partita giocata ad Acerra, nel fango, per aiutare un bambino malato. ITA 2021
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Silenzio, parla diego - speciale editato|21:01:37|22:05:37|Speciale dedicato a Maradona, con la voce dell'indimenticabile numero 10 di Napoli e Argentina saranno ripercorsi la vita, , i successi e gli eccessi di una delle piu' grandi icone del... ITA 2021
 |![Icon](https://guidatv.sky.it/uuid/88214538-7685-4e13-add9-56b2247f6371/cover?md5ChecksumParam=f6b5525aca3b6bc1b10b4bb29fb45249)|Into the Sun|22:06:15|00:04:15|Il governatore di Tokyo viene assassinato e per scoprire i moventi ed i mandanti dell'omicidio viene incaricato l'agente della CIA Travis Hunter. Con S. Seagal. Regia di Mink; USA 2005
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

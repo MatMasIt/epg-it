@@ -53,3 +53,6 @@
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Le due facce della legge|21:10:00|22:10:00|Ep8 Una morte improvvisa - Le indagini parallele di Vanessa, una detective, e Justine, giudice procuratore, le porteranno a scoprire che esiste un legame forte tra di loro.
 |![Icon](https://guidatv.sky.it/uuid/b8021863-6155-495a-83e7-ca7a83ad0965/cover?md5ChecksumParam=f0287c741376d5f8ccf17e26a1e5a467)|Elementary|22:10:00|23:10:00|S5 Ep15 Il lato sbagliato della strada - Dopo tre anni di assenza, Kitty Winter ritorna a New York per avvisare Holmes sulle intenzioni di un pericoloso killer legato a un vecchio caso.
 |![Icon](https://guidatv.sky.it/uuid/b8021863-6155-495a-83e7-ca7a83ad0965/cover?md5ChecksumParam=f0287c741376d5f8ccf17e26a1e5a467)|Elementary|23:10:00|00:10:00|S5 Ep16 Fedelta' - Watson e Kitty vogliono provare che esiste un collegamento tra alcuni omicidi e una cospirazione governativa internazionale. Inoltre alcune novita' creano tensione tra lei e Sherlock.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

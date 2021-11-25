@@ -76,3 +76,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Israel Business Weekly|23:00:00|23:30:00|Israel Business Weekly is a magazine program bringing you an insider to look into the latest break throughs out of the Start Up Nation and the vibrant and broad business relationship between Israel and the U.S
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Holyland Uncovered|23:30:00|00:00:00|Holy Land Uncovered is a weekly magazine about faith, religion and history of the region
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ZOOM IN|00:00:00|01:00:00|Zoom In goes beyond the catchy soundbites or viral video clips, to get to the heart of the stories impacting life across the Middle East, and around the world.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -110,3 +110,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ab70d737-158f-4c48-bb4c-d55d9aca9660/cover?md5ChecksumParam=f5dc82add5b39d1d3d08b98845d4a74c)|Grandi maestri|21:15:00|22:05:00|Signorelli fu un pittore che attinse a numerose influenze e diverse scuole pittoriche, cercando uno stile proprio e originale, che si nota nella pittura dei corpi nudi. Prox Ep. 2 dic 21:15. Rep. 26 nov 14:30
 |![Icon](https://guidatv.sky.it/uuid/882298db-756c-4c8e-84ae-47e90e71d83c/cover?md5ChecksumParam=5f5652e977a10536fb161a777f7de2ab)|Tintoretto - Un Ribelle A Venezia|22:05:00|23:45:00|La voce di S. Accorsi ci accompagna alla scoperta di Tintoretto, prolifico artista della Venezia del '500. Una produzione internazionale Sky Arte ideata da M.G. Mazzucco (ITA 2019)
 |![Icon](https://guidatv.sky.it/uuid/e6bddfbc-9bc8-4552-94c9-fd0cab34d2f6/cover?md5ChecksumParam=ed7a6e198e022c2d0a4600394b692a8d)|Art Raiders - Caccia ai tombaroli|23:45:00|00:35:00|...Triade Capitolina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Triade Capitolina. Prox ed ultimo Ep. 27 nov 0:00. Rep. 27 nov 23:00
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

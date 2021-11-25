@@ -55,3 +55,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Medea|21:40:00|23:10:00|Teatro
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Brian Johnson, una vita on the road|23:10:00|23:55:00|Brian Johnson, cantante degli AC/DC, racconta in chiave intima alcuni dei protagonisti della storia del Rock.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Devolution, una teoria Devo|23:55:00|00:55:00|Quaranta anni fa, cinque studenti della Kent State University decisero di mettere in musica le loro osservazioni sul costume e la societa'. Scopriamo una delle band piu' incomprese della storia.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

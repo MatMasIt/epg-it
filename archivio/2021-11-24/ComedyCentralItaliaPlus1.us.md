@@ -104,3 +104,6 @@
 |![Icon](https://guidatv.sky.it/uuid/1c4864e5-22b4-4274-a38d-d27c3a6a06bf/cover?md5ChecksumParam=c477b13dfa7032a9311c54bec5ba3bc6)|Friends|22:55:00|23:25:00|S10 Ep8 Tutti in Ritardo - Dopo che Monica annuncia che quest'anno non preparera' la consueta cena del Ringraziamento, Phoebe la convince a ripensarci
 |![Icon](https://guidatv.sky.it/uuid/c166232c-d08b-4ac4-b75c-5a84877e84b9/cover?md5ChecksumParam=7cc826904ca878694a675cb716e8bc5a)|Most Ridiculous|23:25:00|23:55:00|S2 Ep17 - Lo show che passa in rassegna i video piu' demenziali che navigano indisturbati sul web grazie al commento dissacrante di due icone della comicita'. Gabriele Cirilli e Dario Cassini.
 |![Icon](https://guidatv.sky.it/uuid/f2d57658-e65d-41eb-b852-d1c2952c89fd/cover?md5ChecksumParam=6b60244ce5311e20bbe2c064abd041a9)|S.C.Q.R. Sono comici questi romani|23:55:00|01:00:00|S1 Ep8 - Antonio Giuliani e Ludovica Leoni sono i padroni di casa di SCQR il contenitore di Comedy Central dedicato alla comicita' romana
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

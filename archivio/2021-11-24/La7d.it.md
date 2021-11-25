@@ -64,3 +64,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Elisabetta e Filippo: L'amore e i...|21:30:00|22:25:00|...doveri della Corona - Una storia d'amore suggellata da un matrimonio da favola nel 1947. Nei decenni successivi, la coppia ha dovuto affrontare molte sfide, pubbliche e private, ma il loro legame e' rimasto saldo nel tempo.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Outlier: Katherine Johnson. Oltre i...|22:25:00|23:25:00|...limiti - La storia e gli incredibili successi della matematica afroamericana Katherine Johnson (1918 - 2020), il cui brillante genio permise agli astronauti di viaggiare nello spazio.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La vera storia di Donna Olimpia|23:25:00|00:35:00|Nella Roma del XVII, Donna Olimpia Maidalchini ricopri' un ruolo di grande importanza: responsabile dell'elezione a papa del cognato, divenne in seguito la dominatrice indiscussa della corte papale.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

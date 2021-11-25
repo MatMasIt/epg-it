@@ -54,3 +54,6 @@
 |![Icon](https://guidatv.sky.it/uuid/007b9113-2288-43f7-86ab-684773a944e6/cover?md5ChecksumParam=d11ccace808699de038e7037f81a2691)|Freddie Mercury - A Kind Of Magic|20:25:00|21:40:00|Regia di M. Cain. A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
 |![Icon](https://guidatv.sky.it/uuid/ed017e1a-7926-47fa-8b0e-a4751c98ad77/cover?md5ChecksumParam=b80ec52e205affcd8dde10dd86d99427)|Freddie Mercury - The Great Pretender|21:40:00|23:25:00|Regia di R. Thomas; GBR 2012 (105 min). A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
 |![Icon](https://guidatv.sky.it/uuid/007b9113-2288-43f7-86ab-684773a944e6/cover?md5ChecksumParam=d11ccace808699de038e7037f81a2691)|Freddie Mercury - A Kind Of Magic|23:25:00|00:20:00|Regia di M. Cain. A 30 anni dalla morte di Freddie Mercury ricordiamo la piu' grande star del secolo scorso con una serata dedicata alla vita, alle difficolta' e ai successi del leggendario frontman.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -54,3 +54,6 @@
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Dave's Old Porn - Tutti pazzi per il...|22:15:00|22:45:00|...per il porno. S1 Ep5 - The Body of Sex - In compagnia di tanti ospiti, Dave Attell analizza il mondo del porno, in particolare i film degli anni '70 e '80 che hanno segnato questa industria cinematografica. Prox Ep. The Body of Sex 25 nov 23:45. Rep. 29 nov 0:15
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Dave's Old Porn - Tutti pazzi per il...|22:45:00|23:15:00|...per il porno. S1 Ep6 - The Body of Sex - In compagnia di tanti ospiti, Dave Attell analizza il mondo del porno, in particolare i film degli anni '70 e '80 che hanno segnato questa industria cinematografica. Prox Ep. The Body of Sex 28 nov 03:00. Rep. 29 nov 0:45
 |![Icon](https://guidatv.sky.it/uuid/dc8e1477-b012-4250-83b4-d8feb24095a8/cover?md5ChecksumParam=a25b6efd5adf72b8baf2a0d86d8679b2)|Big Like Me - Le dimensioni del sesso|23:15:00|01:00:00|Regia di G. Bergman. The Body of Sex - Greg Bergman realizza un'inchiesta sull'importanza delle dimensioni per un uomo. Greg ci rivela i suoi incontri con persone comuni e terapeuti che hanno affrontato il problema. Prox Ep. The Body of Sex 26 nov 02:00. Rep. 29 nov 01:15
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

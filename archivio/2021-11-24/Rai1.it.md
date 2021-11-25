@@ -74,3 +74,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|19:00:00|19:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita' nel telegiornale di RaiUno.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Soliti ignoti - Il ritorno|19:30:00|20:25:00|Otto identita' ignote e altrettante figure nascoste. Amadeus guida le indagini di un concorrente che, per vincere il montepremi, dovra' ricorrere a logica, intuito e capacita' di osservazione.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Porta a Porta|22:40:00|00:20:00|Bruno Vespa offre approfondimenti sui temi di attualita' politica ed economia, sui fatti di cronaca e di costume, sugli eventi e i protagonisti della cultura e dello spettacolo.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

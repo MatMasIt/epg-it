@@ -236,3 +236,6 @@
 |![Icon](https://guidatv.sky.it/uuid/497646d2-e64d-43da-b631-fd4831cb57a2/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:35:00|23:45:00|S1 Ep25 - La festa della mamma - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
 |![Icon](https://guidatv.sky.it/uuid/8dce4357-5fff-4d70-a7e5-6ed934d2ac7b/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|23:45:00|00:00:00|S1 Ep25 - I nuovi insegnanti - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
 |![Icon](https://guidatv.sky.it/uuid/9d4dbd2a-6cbe-4641-8ed4-b209d1db3a3d/cover?md5ChecksumParam=6480d952e0b99b9619ffc890b1b59654)|Robotboy|00:00:00|00:05:00|S1 Ep26 - Incontro di wrestling - Robot Boy e` un automa molto speciale e divertente che vive con Tommy e i suoi amici per sfuggire dalle grinfie del cattivissimo dott.Kamikazy.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

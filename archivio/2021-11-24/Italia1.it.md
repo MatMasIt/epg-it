@@ -88,3 +88,6 @@
 |![Icon](https://guidatv.sky.it/uuid/aff229cb-b4c0-4263-86da-b110ee802119/cover?md5ChecksumParam=f03005f8e642a1c950a4f207168ffdd8)|NCIS - Unita' Anticrimine|19:29:33|20:18:33|S6 Ep7 La resa dei conti - Un agente in servizio di sorveglianza in una banca di Quantico viene ucciso durante una rapina.
 |![Icon](https://guidatv.sky.it/uuid/9f60951e-2121-4cfd-b0c3-3fb5ec0c47ad/cover?md5ChecksumParam=30b118c6ef5c6dad8f6ebe533e812b3b)|The Great Wall|20:18:50|22:14:50|Kolossal con protagonista Matt Damon. Nella Cina del XII secolo, due mercenari europei sono coinvolti in una guerra all'ombra della Grande Muraglia. Regia di Y. Zhang; CHN 2016
 |![Icon](https://guidatv.sky.it/uuid/8e1a1c9a-98d8-4364-a936-b1fcf08bd868/cover?md5ChecksumParam=2b762e1da7f7c6ca74a5f77f3da1a857)|300|22:15:42|00:28:42|Dall'omonima graphic novel. Per fermare l'avanzata dei Persiani, le citta' greche formano un'alleanza guidata dal re spartano Leonida e da 300 soldati. Con Gerard Butler Regia di Z. Snyder; USA 2007
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

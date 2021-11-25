@@ -31,3 +31,6 @@
 |![Icon](https://guidatv.sky.it/uuid/8d711953-7479-4771-9139-206dea774785/cover?md5ChecksumParam=eaeb99e2ec4f0d029e7b802533985ee6)|Ti amo troppo per dirtelo|20:15:04|21:45:04|F. Scianna (&quot;Baaria&quot;) e J. Trinca (&quot;Fortunata&quot;) sono Pietro e Francesca, fidanzati prossimi al matrimonio. Ma l'arrivo di Stella cambiera' il loro rapporto. Regia di M. Ponti; ITA 2011
 |![Icon](https://guidatv.sky.it/uuid/58b28c07-257f-4406-a87f-215965ce88a7/cover?md5ChecksumParam=8a43691ca80104c348be6fd4c937362d)|No problem|21:45:06|23:26:06|Commedia diretta ed interpretata da Vincenzo Salemme. Un attore di fiction viene scambiato da un bambino per il personaggio che interpreta. Con Sergio Rubini Regia di V. Salemme; ITA 2008
 |![Icon](https://guidatv.sky.it/uuid/75319e64-8288-4bea-9dd5-2b8814102859/cover?md5ChecksumParam=06c470aafb1dad981d1987719502b7f4)|Il ragazzo di campagna|23:26:39|00:57:39|Cult movie. R. Pozzetto e' Artemio, quarantenne che non si e' mai allontanato dal paese di campagna dov'e' nato. Un giorno decide di trasferirsi a Milano Regia di Castellano; ITA 1984
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

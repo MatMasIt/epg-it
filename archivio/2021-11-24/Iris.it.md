@@ -32,3 +32,6 @@
 |![Icon](https://guidatv.sky.it/uuid/4ceb9c1f-b111-40a5-ad8b-096699f94ce2/cover?md5ChecksumParam=e0936f43f525c3b50d916560cf05a9a6)|Die Hard - Duri a morire|20:14:28|22:43:28|Terzo capitolo della saga con B. Willis. Per evitare una strage, il poliziotto McClane dovra' assecondare le richieste di uno psicopatico. Regia di J. McTiernan; USA 1995
 |![Icon](https://guidatv.sky.it/uuid/5b5d2e4e-acd4-45e9-926e-88eb8ecc7601/cover?md5ChecksumParam=c19b2a56b1e805868cc039f9c0c90c47)|Scuola di cult|22:43:37|22:58:37|In questa rubrica Enrico Tamburini e Susanna Fontana, ci raccontano segreti, retroscena e tantissime curiosita' del grande mondo del cinema.
 |![Icon](https://guidatv.sky.it/uuid/ee23a118-d3a0-4d9d-8e8f-9c6f1c4a1ebf/cover?md5ChecksumParam=9e55962d538af4a9d556a5291240da27)|Arma letale 4|22:59:24|01:19:24|Quarto episodio della saga. Gli agenti Riggs e Murtaugh affrontano la nuova malavita cinese che ha preso piede a Los Angeles. Con Mel Gibson, Danny Glover. Regia di R. Donner; USA 1998
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

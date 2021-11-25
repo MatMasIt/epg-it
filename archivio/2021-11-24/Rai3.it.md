@@ -69,3 +69,6 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La versione di Fiorella|22:30:00|23:00:00|Ep14 - In compagnia di tanti ospiti, Fiorella Mannoia viaggia nel tempo, ricordando e confrontando con l'attualita' eventi accaduti in passato, fino a immaginarli nel futuro.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg3 Linea Notte|23:00:00|00:00:00|Le ultime notizie e i temi del giorno con ospiti in studio, collegamenti in diretta e rassegna stampa. Una finestra sul mondo per essere sempre aggiornati.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo 3|00:00:00|00:05:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

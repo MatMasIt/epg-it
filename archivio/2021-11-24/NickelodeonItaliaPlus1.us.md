@@ -151,3 +151,6 @@
 |![Icon](https://guidatv.sky.it/uuid/bb0f2f5b-83dc-4c0d-9129-b0e77619ac35/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|23:35:00|23:45:00|S1 Ep47 Scaricare Scossa #48 - Albein e' smanioso di andare in piscina per provare una nuova invenzione che gli permette di stare a galla senza fatica. Macabro e Kripta si rifiutano di andare.
 |![Icon](https://guidatv.sky.it/uuid/94ae3bf5-d912-413f-b37e-b457a0c65a2e/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|23:45:00|00:00:00|S1 Ep48 Nuovi Talenti - Scossa e Macabro pregano Albein di ripensarci e non fare quello che sta per fare. Ma lui ormai ha deciso: entra in campo a giocare la partita di pallone con Gaston e gli altri.
 |![Icon](https://guidatv.sky.it/uuid/9c7fe47d-cc66-427a-8695-6de1d6087698/cover?md5ChecksumParam=ff3ca12fce0103d972ff6958ff9250fc)|O.P.S. - Orrendi Per Sempre|00:00:00|00:10:00|S1 Ep21 Svegli per sempre - Scossa, Macabro e Albein hanno deciso di dire addio alle notti di sonno, vogliono stare sempre svegli, come Kripta che non dorme mai.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

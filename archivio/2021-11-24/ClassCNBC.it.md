@@ -39,3 +39,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea mercati Notte|21:00:00|21:15:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull'andamento del mercato e delle borse
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Report|21:15:00|22:10:00|Il Tg della finanza - tutti i fatti del giorno commentati con ospiti in studio
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La giornata di ClassCnbc|22:10:00|06:00:00|Il meglio della giornata di ClassCnbc - interviste, approfondimenti ed esclusive curate dalla redazione di class cnbc
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

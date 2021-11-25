@@ -62,3 +62,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|22:30:00|23:00:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Special Report|23:00:00|00:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Stanley Tucci: Searching for Italy|00:00:00|01:00:00|Stanley Tucci feasts on pizza in Naples, on a whirlwind tour to find the freshest mozzarella and the best San Marzano tomatoes, and enjoys a spectacular spaghetti and zucchini.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

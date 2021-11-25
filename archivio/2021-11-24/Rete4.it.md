@@ -52,3 +52,6 @@
 |![Icon](https://guidatv.sky.it/uuid/7e54e2d7-eccd-42ef-9b08-66d63c8304b2/cover?md5ChecksumParam=7494e46d26f33777015ba024c138218d)|Stasera Italia|19:30:00|20:25:00|Programma a cura della redazione del Tg4, che si occupa di politica e dei principali casi di cronaca e attualita'.
 |![Icon](https://guidatv.sky.it/uuid/3e2f3f9f-29c0-4f6a-ae76-01a09ec1a34b/cover?md5ChecksumParam=e5a87f2f5d11efdb5cbc2cb52f25bed2)|Dritto e rovescio|20:25:49|23:50:49|Prodotto da Videonews e condotto da Paolo Del Debbio. Al centro del programma, l'attualita' politico-economica del Paese raccontata dai suoi protagonisti.
 |![Icon](https://guidatv.sky.it/uuid/ef4c4435-67f0-4dcb-9bfd-8058eee16bb3/cover?md5ChecksumParam=8ae4622bd2f1a701ade8aa931103728c)|Slow Tour Padano|23:51:44|00:51:44|Slow Tour Padano
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

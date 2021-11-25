@@ -48,3 +48,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M'ama, e' moda al primo sguardo|22:00:00|23:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|23:00:00|00:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

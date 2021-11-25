@@ -99,3 +99,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ad9a520d-81ce-401c-b58e-312150e19c20/cover?md5ChecksumParam=6cff828f7c7313d6d3ce105e9a9643e0)|L'erba del Barone|22:40:00|23:05:00|S1 Ep2 Finocchietto / Aneto - Il 'Barone' Andrea Lo Cicero spiega come impiegare al meglio le erbe aromatiche: in ogni puntata suggerisce due ricette, collegandosi poi con Igles Corelli e Marco Sabellico per avere consigli. Prox Ep. 26 nov 17:30.
 |![Icon](https://guidatv.sky.it/uuid/89c773a9-8712-480e-9af3-b7051626a621/cover?md5ChecksumParam=575e6f82c42d6296eb9409c6b134cdfa)|Giorgione: orto e cucina - Cascia e...|23:05:00|23:40:00|...cortile. S26 Ep2 Pollo - Il nostro beniamino, l'amabile Giorgiorne, e' sempre in cerca dei migliori ingredienti per creare ricette gustosissime, questa volta dedicandosi agli animali da cortile. Prox Ep. 26 nov 13:30. Rep. 26 nov 09:00
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Le grandi cantine|23:40:00|00:10:00|S2 Ep1 Caviro - Un programma alla scoperta delle tradizioni delle piu' importanti famiglie vinicole italiane. Prox Ep. 26 nov 08:30. Rep. 1 dic 08:30
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

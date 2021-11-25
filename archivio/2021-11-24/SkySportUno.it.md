@@ -44,3 +44,6 @@
 |![Icon](https://guidatv.sky.it/uuid/b49d0a45-fcdb-4720-9c74-7a2a7c942177/cover?md5ChecksumParam=7672144fc2b077cacd82a3ffb8f7c92b)|25/11/21|22:00:00|23:00:00|...Conference League. 25/11/21 - Le immagini dei match della 5a giornata di Europa e Conference League, le interviste ai protagonisti e i commenti della giornata. In studio Di Bello, Cirillo, Marani, Marinozzi e Bergomi.
 |![Icon](https://guidatv.sky.it/uuid/22ad938a-4398-4251-b239-15fcf6bcfe53/cover?md5ChecksumParam=9e2bf094747a9e9fb66d94a36ef02079)|Ep. 5|23:00:00|23:30:00|Ep. 5 - Il meglio della tre giorni europea analizzato da Leo Di Bello e i suoi ospiti. I temi piu' importanti raccontati attraverso i gol, le dichiarazioni e i personaggi di Champions, Europa e Conference League.
 |![Icon](https://guidatv.sky.it/uuid/9c3e9f1a-862b-40b4-b0d1-7406e5b34543/cover?md5ChecksumParam=67624474fa6be021168e48889c4577b9)|Maradona: morte di un D10|23:30:00|01:00:00|Trasmesso ad un anno dalla morte, documentario che narra la vita della superstar campione della Coppa del Mondo FIFA Diego Armando Maradona.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

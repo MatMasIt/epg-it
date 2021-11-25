@@ -68,3 +68,6 @@
 |![Icon](https://guidatv.sky.it/uuid/17b82b06-22ee-4445-b0a8-934033c5668a/cover?md5ChecksumParam=71e5d23ef393036d0fc940a7c8a61540)|Person of Interest|22:28:05|23:13:05|S5 Ep1 Morte apparente - Finch e i suoi compagni sono braccati dagli uomini di Samaritan, ma riescono a tornare alla base nella metropolitana e a portare in salvo la Macchina.
 |![Icon](https://guidatv.sky.it/uuid/0ab15a42-a5eb-4e30-b05e-7063e92c4434/cover?md5ChecksumParam=b41d4f2a09d84c6efa51f64c240cb9e0)|Cold case - Delitti irrisolti|23:13:11|23:58:11|S5 Ep6 Ragazzo prodigio - Terrance Carter, un geniale quattordicenne nato per la matematica, viene assassinato nel 2002 con un colpo d'arma da fuoco. Il caso viene riaperto.
 |![Icon](https://guidatv.sky.it/uuid/88e76bcf-adff-4221-9eb4-0b3d78755547/cover?md5ChecksumParam=c42e12f1bd619f88f5a3a2ad0c953b21)|Rizzoli &amp; Isles|23:58:51|00:41:51|S4 Ep3 Una brava ragazza - Giorno di festa in casa Rizzoli. La famiglia si riunisce per il battesimo del piccolo T.J ma la funzione viene interrotta da due eventi.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

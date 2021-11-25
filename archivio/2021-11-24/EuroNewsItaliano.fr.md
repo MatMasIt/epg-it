@@ -147,3 +147,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:00:00|23:30:00|Live headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:30:00|00:00:00|Live headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Live headlines, breaking news, analysis and interviews from Europe's News Centre.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

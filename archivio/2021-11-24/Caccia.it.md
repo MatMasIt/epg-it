@@ -92,3 +92,6 @@
 |![Icon](https://guidatv.sky.it/uuid/c08e9577-39fb-4674-b552-21cd25fe96f8/cover?md5ChecksumParam=9629f3c3eafe4106e8fcecf6fa3fbe4d)|Caccia e tecnologia|23:00:00|23:30:00|Ep. 2 Il contenimento notturno - Alessio Ragazzo e Salvatore Leanza affrontano un argomento delicato: il controllo delle specie invasive effettuato di notte con ottiche di ultima generazione. Prox Ep. 28 nov 21:00. Rep. 26 nov 12:00
 |![Icon](https://guidatv.sky.it/uuid/4755d4c3-c9d3-44de-9819-2079098b9616/cover?md5ChecksumParam=68c4d61b6b980580881798e8f440f369)|A caccia di ungulati|23:30:00|00:00:00|Ep. 4 Camoscio in Val Brembana. 2a parte - Scopriamo la caccia al camoscio sulle Prealpi Orobiche. Prox Ep. 28 nov 21:30. Rep. 26 nov 12:30
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/f3458217-187d-4e47-b108-0977138cd40a/cover?md5ChecksumParam=04e43e131fa0edda206c43491d163f2e)|Caccia al capriolo in Europa 1|00:00:00|00:30:00|Ep. 4 Sulle tracce di papa' - Siamo ad Obora Hunting Academy e attraverso le parole del giovane cacciatore Federico Liboi, ricordiamo uno dei suoi fondatori, il suo papa': Danilo Liboi. Prox Ep. 29 nov 22:00. Rep. 26 nov 13:00
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

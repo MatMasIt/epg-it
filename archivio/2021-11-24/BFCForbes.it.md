@@ -108,3 +108,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|23:00:00|23:30:00|Ep20 - Il nuovo approfondimento settimanale a cura di Antonio Potenza, Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi. Ospite della puntata Christophe Mallet, responsabile per lo sviluppo internazionale OFI Asset Management
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Speciali|23:30:00|00:00:00|Risparmia, investi, cresci con Michael Pino.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY|00:00:00|00:30:00|Ep82 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

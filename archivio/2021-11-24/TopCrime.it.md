@@ -61,3 +61,6 @@
 |![Icon](https://guidatv.sky.it/uuid/44ce9cef-41d6-4c74-8073-9873ce10d2f2/cover?md5ChecksumParam=01f750162fd4fc5362142c85ec2074e8)|Law &amp; Order: Unita' Speciale|21:50:21|22:39:21|S15 Ep18 Crimine d'onore - Una ragazza indiana viene stuprata a Central Park da due sconosciuti. Le indagini pero' porteranno a una verita' ben diversa dal racconto della giovane.
 |![Icon](https://guidatv.sky.it/uuid/06e830cd-bfbc-4fd3-b188-88156b162344/cover?md5ChecksumParam=01f750162fd4fc5362142c85ec2074e8)|Law &amp; Order: Unita' Speciale|22:39:27|23:31:27|S15 Ep19 Infanzia violata - L'Unita' Vittime Speciali soccorre una bambina di sei anni lasciata sola e chiusa in casa dalla madre. Quest'ultima pero' risulta essere a sua volta una vittima.
 |![Icon](https://guidatv.sky.it/uuid/a242643c-fb86-45a4-8bb5-d90af5269b61/cover?md5ChecksumParam=40552aa4674798339767f8c61e4b815f)|All Rise 1|23:32:17|00:18:17|S1 Ep19 Litigando a Los Angeles - La consueta compostezza a cui Emily ha abituato tutti svanisce quando si trova a dover difendere un ragazzo accusato di violenza domestica.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

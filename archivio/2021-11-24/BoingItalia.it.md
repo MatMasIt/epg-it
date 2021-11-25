@@ -74,3 +74,6 @@
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'isola degli Eroi - Spagna|20:55:00|21:05:00|Dopo il successo delle due edizioni italiane de 'L'isola degli eroi', arriva l'attesissima edizione spagnola: un gameshow che vedra' protagonisti nuovi giovani concorrenti in una incontaminata isola.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|L'isola degli Eroi - Spagna|21:05:00|21:55:00|Dopo il successo delle due edizioni italiane de 'L'isola degli eroi', arriva l'attesissima edizione spagnola: un gameshow che vedra' protagonisti nuovi giovani concorrenti in una incontaminata isola.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Dragon Ball Super|21:55:00|00:30:00|A 30 anni dalla sua nascita, l'ultima serie di 'Dragon Ball' ambientata sei mesi dopo la presunta morte di Majin Bu. Goku lavora nei campi sperando di potersi allenare un giorno da Re Kaio.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -323,3 +323,6 @@
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:45:00|23:50:00|Ep42 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:50:00|23:55:00|Ep43 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
 |![Icon](https://guidatv.sky.it/uuid/kids_cover_l4Al8lvJi.png)|Brave Bunnies|23:55:00|00:05:00|Ep44 - Bop e Boo, due fratelli coniglietti di Bunny Town, partono con la famiglia alla scoperta del mondo. Animati da curiosita' e coraggio. i Brave Bunnies iniziano un viaggio 'on the road'.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -31,3 +31,6 @@
 |![Icon](https://guidatv.sky.it/uuid/27b836f6-f618-46a6-802d-bb1d3650c57f/cover?md5ChecksumParam=bd1f5f998fdfd3ea3a5bce6a03fcc301)|Ma cosa ci dice il cervello|20:00:00|21:50:00|Riccardo Milani dirige Paola Cortellesi e un super cast nella commedia campione d'incassi. Giovanna mette le sue abilita' di agente segreto al servizio degli amici per vendicarli (ITA 2019)
 |![Icon](https://guidatv.sky.it/uuid/8f4475c7-3eea-46f6-b9df-51715b2be4d2/cover?md5ChecksumParam=0f52fd546c14689e04ab69589bccf08e)|Io, loro e Lara|21:50:00|23:50:00|Carlo Verdone dirige e interpreta una commedia con Laura Chiatti. Un prete missionario torna a Roma, trova la sua famiglia allo sbando e incontra una ragazza che gli stravolge la vita (ITA 2010)
 |![Icon](https://guidatv.sky.it/uuid/2e75562e-6810-487a-bbc5-fde19783693b/cover?md5ChecksumParam=133fbaf5412d81a9c527ffa6d0bd63a0)|Detective a 2 ruote|23:50:00|01:25:00|Mistero, azione e comicita' in una miscela esplosiva. Un giovane poliziotto deve infiltrarsi in un liceo frequentato da ragazzi benestanti per scovare l'autore di un omicidio (USA 2005)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

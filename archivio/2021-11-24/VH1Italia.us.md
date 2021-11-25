@@ -42,3 +42,6 @@
 |![Icon](https://guidatv.sky.it/uuid/5b44ef84-2c08-41b6-9678-793133edd920/cover?md5ChecksumParam=979ecc1eead6087de109a927dcfcd34d)|Ex On The Beach Italia|21:10:00|22:10:00|S2 Ep7 - Abbiamo lasciato Matteo in escandescenza, e lo ritroviamo con le idee ancora piu' chiare. Matteo ha deciso, Nikita non puo' e non deve giocare
 |![Icon](https://guidatv.sky.it/uuid/d3b7fe41-4507-4b96-95a8-7d83ab755741/cover?md5ChecksumParam=979ecc1eead6087de109a927dcfcd34d)|Ex On The Beach Italia|22:10:00|23:30:00|S2 Ep8 - Matteo, Sasha e Andrea attendono in spiaggia l'arrivo di una ex. Ad uscire dall'acqua e' Wendy, l'insospettabile ex di Sasha, che fin da subito attira l'attenzione di Matteo.
 |![Icon](https://guidatv.sky.it/uuid/d30964d4-3f06-4a50-a6ba-cf341b1585d8/cover?md5ChecksumParam=979ecc1eead6087de109a927dcfcd34d)|Ex On The Beach Italia|23:30:00|00:20:00|S2 Ep9 - In una fantastica villa dell'Andalusia, tra spiagge, locali e vita caliente, un gruppo di single sta per affrontare una meravigliosa vacanza per conoscersi e realizzare i propri sogni d'amore
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

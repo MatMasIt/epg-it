@@ -131,3 +131,6 @@
 |![Icon](https://guidatv.sky.it/uuid/47b02918-dbe1-494f-b4a0-a296a8063ca6/cover?md5ChecksumParam=75e54f7b37e1b44e29a320a65f01525d)|Gatti contro cani|21:55:00|22:45:00|Il bullo - Jackson e Zoe incontrano Marti, il proprietario di un cucciolo Bloodhound che infastidisce il suo Sphynx. Inoltre, gli esperti accorrono in aiuto anche dei neofidanzati Olga e Daryl.
 |![Icon](https://guidatv.sky.it/uuid/36e508b2-c4fb-4d06-bad6-af66d5c7ceb7/cover?md5ChecksumParam=0478ce5aa8e59bdf0d0febc2166d0775)|Il mio gatto e' indemoniato|22:45:00|23:35:00|Max odia la mia famiglia - Come nella maggior parte delle famiglie italiane, Anna e suo figlio Chris sono molto uniti. Ma a causa del comportamento terribile del gatto Max, il loro legame e' in pericolo.
 |![Icon](https://guidatv.sky.it/pixel/selector/uuid/eb94e4b3-3fda-4ff4-b148-02186c0fa7d6/cover?md5ChecksumParam=0478ce5aa8e59bdf0d0febc2166d0775)|Il mio gatto e' indemoniato|23:35:00|00:20:00|Buddha infastidisce Hector - Hector e Rick sono migliori amici e compagni di stanza ma sono ai ferri corti a causa di Buddha, il gatto di Rick. La creatura non sopporta Hector: riuscira' ad essere addomesticato?
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

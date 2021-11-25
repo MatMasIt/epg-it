@@ -72,3 +72,6 @@
 |![Icon](https://guidatv.sky.it/uuid/673ba207-61e2-458b-8de0-17d1e0407a79/cover?md5ChecksumParam=990957575cba5ee97f0775bdd4bac8db)|Rush Mondiale|23:00:00|23:30:00|Febbre da F1: il meglio dei weekend di Citta' del Messico, San Paolo e Losail, tutte le emozioni nella fase decisiva del mondiale 2021.
 |![Icon](https://guidatv.sky.it/uuid/999c662a-aa5c-45d9-8c4e-849adbf8ddb6/cover?md5ChecksumParam=84639b4bfeee04ba35581273de4121c8)|Pre Gara|23:30:00|00:00:00|Pre Gara - Prima e dopo le prove in pista i commenti, le analisi e gli approfondimenti sul Gran Premio.
 |![Icon](https://guidatv.sky.it/uuid/81696ed3-4b54-4bfa-be14-7624d04f23f5/cover?md5ChecksumParam=d1e145c93860311c879d33c20769d665)|GP Qatar|00:00:00|01:00:00|Edizione n.72. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Hamilton in pole position. TC: Vanzini-Gene'-Chinchero.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

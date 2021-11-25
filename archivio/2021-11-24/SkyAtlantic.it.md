@@ -58,3 +58,6 @@
 |![Icon](https://guidatv.sky.it/uuid/15197698-c1a1-42c1-8bad-9f0ef6d7f534/cover?md5ChecksumParam=53d56a538887168cb064564ffb277595)|Gomorra - Stagione finale|21:55:00|22:45:00|S5 Ep1 - Mentre Napoli e' ormai ridotta in macerie, la guerra tra Genny e i fratelli Levante procede sempre piu' sanguinosa. Ma Genny sta per scoprire qualcosa che cambiera' tutti gli equilibri. Prox Ep. 25 nov 23:45. Rep. 26 nov 19:25
 |![Icon](https://guidatv.sky.it/uuid/bb2c7830-4ec5-4ec6-97e0-6798e2b99163/cover?md5ChecksumParam=53d56a538887168cb064564ffb277595)|Gomorra - Stagione finale|22:45:00|23:40:00|S5 Ep2 - A Riga, Genny e Ciro sono di nuovo faccia a faccia, ma non c'e' tempo per parlare. Ciro e' in affari con i russi e ora che don Aniello e' morto serve un nuovo broker o gli accordi salteranno. Prox Ep. 26 nov 03:00. Rep. 26 nov 20:15
 |![Icon](https://guidatv.sky.it/uuid/887779e6-767b-45b1-8976-b19736a0c8b7/cover?md5ChecksumParam=b392d003dcca5cb77b439af45c2fd992)|I Borgia|23:40:00|00:40:00|S2 Ep5 Ascensione - Avido di potere, Cesare e' disposto a tutto pur di lasciare il Sacro Collegio dei Cardinali. Nel frattempo Lucrezia rischia di dover sposare il principe Alfonso Di Calabria. Prox Ep. 26 nov 01:40.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

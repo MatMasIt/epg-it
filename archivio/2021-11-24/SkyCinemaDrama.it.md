@@ -30,3 +30,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ee222d7d-898a-49f0-a9fb-ed36e7ad5181/cover?md5ChecksumParam=f7f06f6a73f208e80f00d052c5868d1f)|Brubaker|20:00:00|22:15:00|Un classico del filone carcerario con Robert Redford e Morgan Freeman. Il direttore di un penitenziario si finge detenuto per conoscere le condizioni dei carcerati e poterle migliorare (USA 1980)
 |![Icon](https://guidatv.sky.it/uuid/e74c2722-000b-4e41-b80d-aace756a049a/cover?md5ChecksumParam=def2d26d6d04c48de8c5e6f6b5813db0)|Il delitto Mattarella|22:15:00|00:00:00|Aurelio Grimaldi ricostruisce l'omicidio di Piersanti Mattarella, avvenuto nel 1980, e ripercorre le indagini compiute dal sostituto procuratore Pietro Grasso e dal giudice Giovanni Falcone (ITA 2019)
 |![Icon](https://guidatv.sky.it/uuid/5472d172-8fe9-4c20-965d-1ce4854a053d/cover?md5ChecksumParam=7ea456bf1ab750081a00fec927f31635)|All the Way|00:00:00|02:15:00|Biopic HBO prodotto da Steven Spielberg con Bryan Cranston. I retroscena del primo tumultuoso anno alla Casa Bianca di Lyndon B. Johnson, che divenne presidente dopo l'omicidio di JFK (USA 2016)
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

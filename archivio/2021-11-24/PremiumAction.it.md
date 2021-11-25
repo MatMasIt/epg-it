@@ -68,3 +68,6 @@
 |![Icon](https://guidatv.sky.it/uuid/50d06eca-2daf-45ea-af46-c57eba56c7bf/cover?md5ChecksumParam=2f3f0da3e48f541ddc291f8c2f53a21c)|The Vampire Diaries|22:23:14|23:05:14|S4 Ep18 Vita in provincia - Rebekah ed Elena trovano Katherine in una cittadina di provincia. Elena decide di spacciarsi per lei, per trovare la cura, ma invece si imbatte in Elijia.
 |![Icon](https://guidatv.sky.it/uuid/82cf5fb3-ef82-457f-bc12-f5b9f1ab5dec/cover?md5ChecksumParam=59a1be090531b4e9cf7fb64cbceea183)|Izombie 4 - 1^TV|23:06:04|23:49:04|S4 Ep6 My fair Zombie lady - Dopo la decapitazione di Mama, Liv collabora con i superstiti dell'organizzazione. Fa rientrare cinque persone a New Seattle e le guarisce in un modo un po' teatrale.
 |![Icon](https://guidatv.sky.it/uuid/69b6057b-35be-416e-8b78-ee50bb90bb9c/cover?md5ChecksumParam=f4d71313ba90ff8463302aa4f27f1fc6)|Supernatural|23:49:04|00:34:04|S12 Ep9 Primo sangue - Mary viene contattata da Castiel, che la informa che i suoi figli sono stati sequestrati dal governo. Dean e Sam vengono portati in un luogo sconosciuto.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

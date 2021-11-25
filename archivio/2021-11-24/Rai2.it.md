@@ -62,3 +62,6 @@
 |![Icon](https://guidatv.sky.it/uuid/8ba2261c-9ee6-4144-8626-4fa9677b9a7a/cover?md5ChecksumParam=e26d7674a0fd417309302a75e1cdd216)|NCIS Los Angeles|18:40:00|19:30:00|S9 Ep24 Senza uscita - La squadra va in Messico per prelevare Derrick dalla villa del generale Vasquez e per riportarlo in patria. La missione si complica quando si perdono le tracce di Hidoko.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg2|19:30:00|20:00:00|Il quotidiano appuntamento con l'informazione, l'attualita' dell'ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg2 Post|20:00:00|20:20:00|Politica ma anche economia, esteri e cronaca. Uno spazio dedicato all'attualita'. In primo piano i fatti del giorno con i loro protagonisti. Un racconto dettagliato, senza filtri.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

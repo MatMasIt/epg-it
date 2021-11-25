@@ -52,3 +52,6 @@
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Predatori di gemme|21:20:00|22:15:00|Studenti - Nel tentativo di aggiungere valore al loro opale, i Tunnel Rats prendono esempio dagli Opal Queen. I Young Guns hanno finalmente dei macchinari funzionanti.
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Predatori di gemme|22:15:00|23:10:00|Calamita' - I Bushmen affrontano le conseguenze delle inondazioni quando qualcosa inizia a crollare. I Tunnel Rats sono costretti a trovare soluzioni alternative.
 |![Icon](https://guidatv.sky.it/uuid/intrattenimento_cover_oiOcEGjG-.png)|Border Security: terra di confine|23:10:00|00:05:00|Ep. 6 - Ogni giorno, circa 250.000 persone attraversano i 23 ponti che collegano gli USA e il Messico. Seguiamo il lavoro degli agenti che controllano gli spostamenti.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -44,3 +44,6 @@
 |![Icon](https://guidatv.sky.it/uuid/204f4baa-937b-4e2b-a270-3244499ade55/cover?md5ChecksumParam=53849a86f25111a9e740254b7e436251)|Golden State - Philadelphia|21:30:00|22:00:00|Le migliori partite della stagione 2021-22, una delle piu' imprevedibili e spettacolari di sempre.
 |![Icon](https://guidatv.sky.it/uuid/a113fe3c-5391-434f-94b1-8fa9283a9d59/cover?md5ChecksumParam=0421740b8d9096d540bc8b14ee8cdb58)|Fenerbahce - Efes|22:00:00|23:45:00|Eurolega, 12a g - Il derby di Istanbul potrebbe segnare una svolta per il Fener che ha perso 6 delle ultime 7 partite. Dall'altra parte i campioni in carica dell'Efes. TC: Geri De Rosa.
 |![Icon](https://guidatv.sky.it/uuid/9b5decaa-b61c-408f-9da0-a37167ff8898/cover?md5ChecksumParam=0610025b4baf81ba58d738d649643f73)|#SkyBuffaRacconta Davis '76|23:45:00|00:30:00|Ep. 2 - L'altro cammino di Santiago e' compiuto. Pietrangeli, Panatta, Bertolucci, Barazzutti e Zugarelli conquistano la Coppa Davis. La prima e unica mai vinta dall'Italia dal 1900 ad oggi.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

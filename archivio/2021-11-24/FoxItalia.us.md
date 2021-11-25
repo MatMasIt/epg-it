@@ -115,3 +115,6 @@
 |![Icon](https://guidatv.sky.it/uuid/fd3b8b88-1aab-4190-b273-df444d3861f2/cover?md5ChecksumParam=df8aa3d2c3dc38233b93762b29e98967)|I Simpson|22:55:00|23:20:00|S20 Ep17 Il buono, il tristo e il drogattivo - Bart decide di diventare un 'buon samaritano', solo per conquistare il cuore di una ragazza di nome Jenny. Intanto Lisa cerca un modo per curare la sua depressione. Prox Ep. 26 nov 0:20. Rep. 26 nov 18:30
 |![Icon](https://guidatv.sky.it/uuid/6e25dbea-b32e-4189-a47f-1cbada743a39/cover?md5ChecksumParam=df8aa3d2c3dc38233b93762b29e98967)|I Simpson|23:20:00|23:45:00|S20 Ep18 Papa' la sa piu' corta! - Homer prende la decisione di essere piu' presente nella vita di Bart e Lisa, ma il suo approccio troppo entusiasta rende tutto terribilmente imbarazzante per i suoi figli. Prox Ep. 26 nov 0:45. Rep. 26 nov 18:55
 |![Icon](https://guidatv.sky.it/uuid/43d803f0-fb65-4365-abba-b29bddc8c177/cover?md5ChecksumParam=df8aa3d2c3dc38233b93762b29e98967)|I Simpson|23:45:00|00:10:00|S20 Ep19 Waverly Hills 9021-D'oh - I Simpson si creano una residenza fittizia a Waverly Hills per permettere a Bart e Lisa di iscriversi nella scuola d'elite di quel quartiere. Prox Ep. 27 nov 0:00. Rep. 26 nov 19:20
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

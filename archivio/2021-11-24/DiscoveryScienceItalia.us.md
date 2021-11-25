@@ -70,3 +70,6 @@
 |![Icon](https://guidatv.sky.it/uuid/ce7a6a68-56e5-42a1-a51e-d13cbdef1f60/cover?md5ChecksumParam=3fb25988b93d1be352fbf2b37a0ecefe)|Body Bizarre|21:55:00|22:55:00|S2 Un amore diverso - Al contrario - Un adolescente che ha una ragazza transgender inizia la sua trasformazione sessuale. Una donna cinese vive con i piedi e le mani al contrario.
 |![Icon](https://guidatv.sky.it/uuid/ed2a1db1-e6b1-4e58-8412-31bf8ddc457f/cover?md5ChecksumParam=0a6811f78b5ee74ca1f3d78cb3441715)|Indagini sotto i mari|22:55:00|23:50:00|S2 Ep2 Lotta infuocata - Nel 2014, a bordo della Norman Atlantic scoppia un terribile e disastroso incendio. Cosa lo ha causato e perche' le fiamme si sono sviluppate cosi' velocemente?
 |![Icon](https://guidatv.sky.it/uuid/2f3afb79-7c38-419a-b706-142870808533/cover?md5ChecksumParam=0a6811f78b5ee74ca1f3d78cb3441715)|Indagini sotto i mari|23:50:00|00:45:00|S2 Ep5 Lady Mary - Marzo 2009: un'imbarcazione da pesca affonda al largo della costa del New Jersey. 6 membri dell'equipaggio muoiono, c'e' solo un sopravvissuto. Cosa e' accaduto alla Lady Mary?
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

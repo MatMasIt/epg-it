@@ -79,3 +79,6 @@
 |![Icon](https://guidatv.sky.it/uuid/5f2ac078-27ae-4aad-ac09-9796cdfc77e7/cover?md5ChecksumParam=9adb8ecb5312460885cca3b695cc9761)|The Bold Type|22:24:17|23:06:17|S3 Ep2 Di piu' - Jane inizia la procedura per il congelamento degli ovuli ma decide di tenere a debita distanza Ryan da questa situazione.
 |![Icon](https://guidatv.sky.it/uuid/ec31c279-7194-47b8-af48-07b9b4b9b10f/cover?md5ChecksumParam=970e4adb31883f5b81b773257600d464)|Rise|23:06:56|23:49:56|S1 Ep3 Quali fiori sbocceranno - Continuano le prove dello spettacolo mentre Simon annuncia di essere in procinto di trasferirsi in un altro liceo.
 |![Icon](https://guidatv.sky.it/uuid/0b950218-d027-42e5-82bc-ce01db53fdfe/cover?md5ChecksumParam=698f0be94f8a8a67dc3e6b2c1b40340b)|God Friended Me|23:50:55|00:32:55|S2 Ep18 - Ali ha potra' iniziare una nuova cura sperimentale anticancro che sembrerebbe efficace, ma la decisione finale spetta a Tammy.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

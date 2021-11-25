@@ -235,3 +235,6 @@
 |![Icon](https://guidatv.sky.it/uuid/852bf9c9-3154-4660-8839-462268823925/cover?md5ChecksumParam=24c725fa717bf59b8eaa58eb33837bd6)|Teen Titans Go!|23:35:00|23:50:00|S1 Ep27 - Le migliori canzoni dei Teen Titans - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Le migliori canzoni dei Teen Titans scelte da Birdarang.
 |![Icon](https://guidatv.sky.it/uuid/43e8712a-37c0-4882-b778-e2616b848439/cover?md5ChecksumParam=124c7fe5b33ca1c3a36407675e35ca2a)|Teen Titans Go!|23:50:00|00:00:00|S1 Ep10 - Polpetta Party - Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - Cyborg costringe i suoi amici a fare un polpetta party
 |![Icon](https://guidatv.sky.it/uuid/b3128bb5-db94-4003-b5c9-cb1d80ff3e04/cover?md5ChecksumParam=24c725fa717bf59b8eaa58eb33837bd6)|Teen Titans Go!|00:00:00|00:10:00|S1 Ep28 - Le migliori canzoni d'amore - con S. Menville, K. Payton, T. Strong. Dal 25/11 al 5/12 CN +1 diventa Teen Titans Go Channel! - La classifica delle migliori canzoni d'amore dei Teen Titans.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

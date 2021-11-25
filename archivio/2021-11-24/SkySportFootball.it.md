@@ -44,3 +44,6 @@
 |![Icon](https://guidatv.sky.it/uuid/d16d4223-ca8b-45d7-99d2-ad79c633d8a8/cover?md5ChecksumParam=68f718e5e6de170dcc6b76a0b57406ba)|Lokomotiv Mosca - Lazio|22:00:00|22:30:00|UEFA Europa League - 5a g. Russi ancora senza vittorie, 2 pareggi e 2 sconfitte. La Lazio, a -3 dal Galatasaray, non ha mai perso con la Lokomotiv Mosca, 1 vittoria e 2 pari. TC: Barone-Orsi.
 |![Icon](https://guidatv.sky.it/uuid/601614f1-23a9-4c1b-a6bf-d2d9accfcaf4/cover?md5ChecksumParam=fafea1f8e15ff1f749c5e527fcebcb38)|Spartak Mosca - Napoli|22:30:00|23:00:00|UEFA Europa League - 5a g. Per lo Spartak Mosca finora un solo successo, proprio contro gli azzurri. Napoli mai vittorioso nei 3 precedenti, 2 pareggi e 1 sconfitta. TC: Dario Massara.
 |![Icon](https://guidatv.sky.it/uuid/0d9f8be3-4529-4f27-987f-4022677acb5e/cover?md5ChecksumParam=346c65ba24b0dde364d8efeb57e80c42)|Atletico Madrid - Milan|23:00:00|01:00:00|UEFA Champions League - 5a g. Spagnoli a -1 dal Porto. Milan obbligato a vincere per sperare di rimanere in Europa. Ha sempre perso nei 3 precedenti di Champions. TC: Andrea Marinozzi.
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

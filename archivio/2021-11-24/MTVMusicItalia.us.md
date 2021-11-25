@@ -54,3 +54,6 @@
 |![Icon](https://guidatv.sky.it/uuid/32c6a6cd-71fe-4e0c-b105-ae527fd2eadd/cover?md5ChecksumParam=d562bcd11071a81037f7ccdd0cd33f08)|Top 10 Dance|20:00:00|20:45:00|La classifica dei 10 pezzi piu' ballati del momento!
 |![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|20:45:00|00:00:00|I video piu' fighi del momento, i pezzi piu' forti, gli artisti piu' amati, le ultime novita: tutto questo in 100% Music!
 |![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|00:00:00|06:00:00|I video piu' fighi del momento, i pezzi piu' forti, gli artisti piu' amati, le ultime novita: tutto questo in 100% Music!
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
