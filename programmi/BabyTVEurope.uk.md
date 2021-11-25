@@ -1,5 +1,5 @@
 # Baby TV Europe
-> Programmazione di Mercoledì 24 Novembre 2021
+> Programmazione di Giovedì 25 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
