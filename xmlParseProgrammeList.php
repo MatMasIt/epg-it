@@ -2,7 +2,7 @@
 function ITDate($UNIX)
 {
     $mesi = array(
-        1 => 'gennaio', 'Febbraio', 'Marzo', 'Aprile',
+        1 => 'Gennaio', 'Febbraio', 'Marzo', 'Aprile',
         'Maggio', 'Giugno', 'Luglio', 'Agosto',
         'Settembre', 'Ottobre', 'Novembre', 'Dicembre'
     );
