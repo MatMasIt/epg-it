@@ -37,6 +37,7 @@ function xmlParseList($fileName)
     $res = [];
     if (file_exists($fileName)) {
         $xml = simplexml_load_file($fileName);
+        if ($xml === false) exit("Cannot parse xml");
         foreach ($xml->channel as $channel) {
             $res["channels"][(string) $channel["id"]] = ["title" => (string) $channel->{'display-name'}];
         }
@@ -45,7 +46,7 @@ function xmlParseList($fileName)
             $res["channels"][(string) $programme["channel"]]["programmes"][] = $data;
         }
     } else {
-        exit('Failed to open test.xml.');
+        exit('Failed to access test.xml.');
     }
     return $res;
 }
