@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Giovedì 25 Novembre 2021
+> Programmazione di Venerdì 26 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
