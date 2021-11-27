@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Venerdì 26 Novembre 2021
+> Programmazione di Sabato 27 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
