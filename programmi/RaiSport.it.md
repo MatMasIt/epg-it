@@ -3,33 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|00:15:00|00:30:00|Lake Louise. Discesa Libera M - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|00:30:00|01:00:00|I momenti piu' emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Mondiali 1982: Italia - Argentina|01:00:00|02:45:00|Calcio Storico - Le immagini d'archivio piu' belle che hanno fatto la storia del calcio. Rivediamo le imprese sportive dei grandi campioni del passato.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Mondiali 1986: Argentina - Inghilterra|02:45:00|05:00:00|Calcio Storico - Le immagini d'archivio piu' belle che hanno fatto la storia del calcio. Rivediamo le imprese sportive dei grandi campioni del passato.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu' emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|07:00:00|07:10:00|I momenti piu' emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|09:15:00|10:30:00|Ruka. 15 km a Tecnica Classica M - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol'unov, tra le donne l'americana Jessica Diggins.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ISU Grand Prix Series|10:30:00|12:20:00|Gran Prix Russia - Programma Libero M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|12:20:00|12:40:00|I momenti piu' emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ISU Grand Prix Series|12:40:00|14:10:00|Gran Prix Russia - Programma Libero Danza su Ghiaccio - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Gli Imperdibili|14:10:00|14:15:00|Backstage, anteprime, eventi e curiosita' dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|14:15:00|14:50:00|Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol'unov, tra le donne l'americana Jessica Diggins.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|14:50:00|15:00:00|Si accendono i riflettori sul 'circo bianco'. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|15:00:00|16:00:00|Killington. Slalom Gigante F 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|16:00:00|16:15:00|Si accendono i riflettori sul 'circo bianco'. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ISU Grand Prix Series|16:15:00|17:20:00|Gran Prix Russia - Programma Libero Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|17:20:00|17:50:00|Ruka. 10 km a Tecnica Classica C - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol'unov, tra le donne l'americana Jessica Diggins.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|17:50:00|18:00:00|Si accendono i riflettori sul 'circo bianco'. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|18:00:00|19:00:00|Killington. Slalom Gigante F 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|19:00:00|19:15:00|Si accendono i riflettori sul 'circo bianco'. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|19:15:00|20:30:00|Lake Louise. Discesa Libera M - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita' in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo: Campionato Italiano (live)|20:30:00|22:20:00|2a prova. Circuito FIBIS Challenge - Stecca - Le sfide piu' affascinanti tra i campioni della stecca.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato (live)|22:20:00|23:00:00|1a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:20:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato (live)|23:20:00|23:30:00|2a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|ISU Grand Prix Series|23:30:00|01:00:00|Gran Prix Russia - Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu' emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
@@ -47,6 +20,25 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|19:30:00|20:45:00|I momenti piu' emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo: FIBIS Challenge|20:45:00|23:45:00|Stecca 2a Prova - Le grandi sfide dei maestri della Federazione Italiana di Biliardo Sportivo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:45:00|01:00:00|I momenti piu' emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu' emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|07:00:00|08:55:00|I momenti piu' emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto|08:55:00|10:10:00|Il meglio del campionato italiano di calcio di Serie A e B con tutti i risultati e la classifica aggiornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Anteprima - La Domenica Sportiva|10:10:00|10:30:00|Le anticipazioni di quello che vedremo a La Domenica Sportiva.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Domenica Sportiva|10:30:00|11:15:00|L'appuntamento con l'informazione sportiva targata Rai: commenti a caldo sui principali avvenimenti sportivi della giornata calcistica e di tutti gli altri sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|11:15:00|12:35:00|Prova Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita' si sfidano per la conquista della coppa piu' ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|12:35:00|14:10:00|Prova Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita' si sfidano per la conquista della coppa piu' ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|14:10:00|14:30:00|I momenti piu' emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo: FIBIS Challenge|14:30:00|17:00:00|Stecca 2a Prova - Le grandi sfide dei maestri della Federazione Italiana di Biliardo Sportivo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Triathlon: Europei Cross|17:00:00|17:30:00|Tre sport racchiusi in un unica disciplina: il triathlon. Le avvicenti sfide tra ciclismo, corsa e nuoto con i migliori protagonisti europei.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|17:30:00|17:50:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclocross: International Cyclocross...|17:50:00|18:50:00|...Selle SMP. Brugherio 1a tappa - Ottava edizione, composta da 5 prove, 2 internazionali e 3 nazionali. La prima tappa a Brugherio poi Ancona, Vittorio Veneto, Fae' di Oderzo e San Fior.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|C Siamo|18:50:00|19:35:00|Tutto il meglio dai campi della Serie C.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Padova - Pro Vercelli|19:35:00|22:00:00|Serie C - 16a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Totale|22:00:00|23:00:00|Seguiamo ogni settimana il 'pianeta football', italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclocross: International Cyclocross...|23:15:00|00:15:00|...Selle SMP. Brugherio 1a tappa - Ottava edizione, composta da 5 prove, 2 internazionali e 3 nazionali. La prima tappa a Brugherio poi Ancona, Vittorio Veneto, Fae' di Oderzo e San Fior.
 
 
 

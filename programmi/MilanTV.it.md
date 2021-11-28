@@ -3,23 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Napoli-15/10/2021|02:40:00|04:45:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|04:45:00|05:00:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Empoli-07/11/2021|05:00:00|06:40:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Bologna vs Milan-23/10/2021|06:40:00|08:30:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|08:30:00|08:40:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Roma-18/09/2021|08:40:00|10:25:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-02/03/2019|10:55:00|12:50:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|12:50:00|13:00:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Conferenza Stampa Pioli-Live|13:00:00|13:25:00|Alla vigilia della prossima sfida che attende il suo Milan, Stefano Pioli risponde a tutte le domande dei giornalisti in conferenza stampa a Milanello: impressioni, sensazioni, scelte di formazione e punto sulle condizioni della squadra verso un nuovo impegno
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Pomigliano vs Milan-14/11/2021|13:25:00|15:05:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION-INZAGHI|15:35:00|16:10:00|GOL COLLECTION-INZAGHI
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Cagliari vs Milan-19/09/2020|16:10:00|17:55:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Conferenza Stampa Pioli|17:55:00|18:20:00|Alla vigilia della prossima sfida che attende il suo Milan, Stefano Pioli risponde a tutte le domande dei giornalisti in conferenza stampa a Milanello: impressioni, sensazioni, scelte di formazione e punto sulle condizioni della squadra verso un nuovo impegno
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Rinnovo Pioli|18:20:00|19:35:00|Da Casa Milan la firma sul prolungamento del contratto del mister rossonero
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Dudelange-29/11/2018|19:35:00|21:20:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-02/10/2016|21:20:00|23:20:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Fiorentina vs Milan-20/11/2021|23:20:00|01:10:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Bologna vs Milan-23/10/2021|01:10:00|02:55:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Roma-18/09/2021|02:55:00|05:00:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Cagliari vs Milan-19/09/2020|05:00:00|06:40:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
@@ -42,6 +25,25 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Milan vs Sassuolo|22:00:00|22:55:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l'analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Pioli-Premio Lidholm|22:55:00|23:30:00|Milan Tv-Pioli-Premio Lidholm
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION-SHEVCHENKO|23:30:00|00:15:00|GOL COLLECTION-SHEVCHENKO
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atalanta vs Milan-03/10/2021|00:15:00|02:05:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Roma-10/10/2021|02:05:00|03:50:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:50:00|04:45:00|Milan Tv-Speciale Mazzoni
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|04:45:00|05:00:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Pomigliano vs Milan-14/11/2021|05:00:00|06:40:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Addicted Bossari|06:40:00|06:50:00|Milan Tv-Addicted Bossari
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Juventus-19/11/2021|08:45:00|10:25:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|10:25:00|11:25:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-11/03/2018|11:25:00|13:20:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Dubai|13:20:00|13:25:00|Milan Tv-Speciale Dubai
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Empoli-07/11/2021|13:25:00|15:20:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletico Madrid vs Milan-24/11/2021|15:20:00|17:05:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-28/11/2021|17:05:00|18:55:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Milan vs Sassuolo|18:55:00|19:50:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l'analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi'-Live|20:00:00|21:30:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell'ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|21:30:00|21:40:00|Milan Tv-Allenamenti
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Premiazione Fondazione Milan|21:40:00|21:50:00|Premiazione Fondazione Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-28/11/2021|21:50:00|23:40:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-07/04/2014|23:40:00|01:25:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 
 
 
