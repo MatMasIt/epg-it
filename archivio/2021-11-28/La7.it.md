@@ -1,0 +1,72 @@
+# La 7
+> Programmazione di Domenica 28 Novembre 2021
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Un colpo all'italiana|01:00:00|03:00:00|Regia di P. Collinson, con M.Caine, N.Coward; GBR 1969 (120 min). Uscito di prigione, Charlie mette a segno una rapina da 4 milioni di dollari ai danni della Fiat. La fuga' sara' rocambolesca.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|05:40:00|05:50:00|La sintesi senza filtri della settimana, con le piu' importanti novita' dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 84 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 84 - Programma di informazione e approfondimento sui temi di attualita', con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|08:40:00|09:35:00|Ep. 11 - 'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Camera con vista|09:35:00|10:00:00|Ep. 35 - La sintesi senza filtri della settimana delle piu' importanti novita' dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'ingrediente perfetto|10:00:00|10:45:00|Ep. 12 - Programma di cucina condotto da Roberta Capua e dall'esperto della dieta chetogenica Gianluca Mech. Ogni piatto viene preparato con un ingrediente perfetto: la salute e il benessere.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Mica pizza e fichi|10:45:00|11:15:00|S3 Ep17 - Un format dedicato a uno dei simboli dell'identita' culturale italiana, uno dei cibi piu' noti, amati e celebrati nel mondo: la pizza.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'aria che tira - Il diario|11:15:00|12:30:00|Ep. 24 - L'economia del nostro paese a confronto con chi lo vive ogni giorno, tra difficolta', speranze e certezze. Conduce Myrta Merlino.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:00:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Non e' l'Arena|13:00:00|17:00:00|Ep. 9 - Il programma di Massimo Giletti che punta i riflettori sui temi e i protagonisti della piu' stretta attualita' politica, sociale e della cronaca.
+|![Icon](https://guidatv.sky.it/uuid/fa6b8b11-0496-4e42-ae05-51d48fc568ee/cover?md5ChecksumParam=54db00307a636012d4cbfaf06c8004a0)|La patata bollente|17:00:00|19:00:00|Regia di Steno, con R.Pozzetto, E.Fenech; ITA 1979 (120 min). Un operaio comunista salva dal pestaggio un collega omosessuale e lo ospita per curarlo. La convivenza innesca pettegolezzi e maldicenze.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|19:35:00|20:15:00|Ep. 20 - Un programma di attualita' e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Atlantide|20:15:00|00:00:00|J.F.K. Revisited / Tutta la verita' sul complotto - Il documentario che ricostruisce il complotto per uccidere John Fitzgerald Kennedy. Un'intervista esclusiva al suo autore Oliver Stone.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|00:10:00|00:50:00|Ep. 20 - Un programma di attualita' e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|00:50:00|01:45:00|Ep. 11 - 'La TV in chat' che seleziona i momenti piu' divertenti e ironici dei personaggi piu' amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Black Rain - Pioggia sporca|01:45:00|03:40:00|Regia di R. Scott, con A.Garcia, M.Douglas; USA 1989 (115 min). Due detective americani collaborano con degli incomprensibili poliziotti di Tokyo nella caccia a un mafioso fuggiasco.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|03:40:00|04:00:00|Ep. 84 - Programma di informazione e approfondimento sui temi di attualita', con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'aria che tira - Il diario|04:00:00|05:00:00|Ep. 24 - L'economia del nostro paese a confronto con chi lo vive ogni giorno, tra difficolta', speranze e certezze. Conduce Myrta Merlino.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|05:40:00|05:50:00|La sintesi senza filtri della settimana, con le piu' importanti novita' dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell'oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 85 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 85 - Programma di informazione e approfondimento sui temi di attualita', con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|08:40:00|10:00:00|Ep. 72 - Spazio mattutino dedicato all'approfondimento sulla politica e l'attualita' con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L'aria che tira|10:00:00|12:30:00|Ep. 61 - Myrta Merlino racconta fatti e retroscena dell'economia e della societa' italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:15:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada', tutto quanto fa politica|13:15:00|15:40:00|Ep. 53 - Il programma di attualita' del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l'Italia reale e quella 'nascosta'.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|I Segreti della Corona|15:40:00|17:00:00|La successione al trono - Negli ultimi decenni, due unioni reali hanno catturato l'attenzione mediadica: la regina Elisabetta con il principe Filippo e il principe William con Kate Middleton.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|17:00:00|18:00:00|S4 Ep20 Destini Incrociati - Melinda si occupa di un fantasma che disturba la registrazione di un programma nella piazza di Grandview. In seguito, riceve una notizia che le cambiera' la vita.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep21 Casa di bambole - La casa delle bambole di una bambina e' infestata dagli spiriti. Melinda scopre che il fatto e' collegato alla morte degli zii della piccola.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|19:35:00|20:40:00|Ep. 56 - Condotto da Lilli Gruber, l'access prime time quotidiano di approfondimento giornalistico dei fatti di attualita', con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/6a444a7a-2e54-4598-9d61-52ce759fada1/cover?md5ChecksumParam=f88e46b1a416b078e0d5dd4a13532c17)|Grey's Anatomy|20:40:00|21:30:00|S17 Ep10 Respira - Due pazienti, madre e figlia, sono entrambe in crisi respiratoria, ma in ospedale c'e' un solo respiratore libero. Nel frattempo, la cognata di Hayes giunge al pronto soccorso.
+|![Icon](https://guidatv.sky.it/uuid/5e2252ce-7bfd-4b66-9e9d-2db118a5bd7d/cover?md5ChecksumParam=f88e46b1a416b078e0d5dd4a13532c17)|Grey's Anatomy|21:30:00|22:20:00|S17 Ep11 Scusarsi non sempre e' la soluzione - Giunge in ospedale una coppia di neosposi gravemente feriti in un incidente. Jackson, intanto, si mostra fin troppo generoso con i malati di COVID.
+|![Icon](https://guidatv.sky.it/uuid/42bceac3-4e37-4336-89ac-874ba549626e/cover?md5ChecksumParam=e686964ecf4abde239081c14545344d3)|Lie to Me|22:20:00|23:10:00|S2 Ep11 Battere il diavolo - L'antico mentore di Lightman e' convinto che un suo studente sia psicopatico: si apre cosi' un'indagine. Locker e Torres conoscono una persona che ha avvistato un ufo.
+|![Icon](https://guidatv.sky.it/uuid/0a3e713e-3660-4e6d-a307-c66124f36d94/cover?md5ChecksumParam=e686964ecf4abde239081c14545344d3)|Lie to Me|23:10:00|00:00:00|S2 Ep12 Sette anni dopo - Gillian e Cal si ritrovano a dover rivivere alcuni tragici eventi del loro passato: tra questi, un ex collega di Lightman del Pentagono, ucciso da una bomba.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d'attualita' e i fatti di cronaca, di politica, di economia e societa', selezionati dalla redazione di La7.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
