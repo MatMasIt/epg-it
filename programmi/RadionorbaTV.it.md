@@ -1,5 +1,5 @@
 # Radionorba TV
-> Programmazione di Sabato 27 Novembre 2021
+> Programmazione di Domenica 28 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
