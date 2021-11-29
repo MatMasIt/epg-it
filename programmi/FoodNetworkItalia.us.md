@@ -1,5 +1,5 @@
 # Food Network Italia
-> Programmazione di Domenica 28 Novembre 2021
+> Programmazione di Lunedì 29 Novembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
