@@ -3,25 +3,25 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Pomigliano vs Milan-14/11/2021|01:25:00|03:05:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|03:05:00|03:40:00|Milan Tv-Speciale Magliette
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:40:00|04:25:00|Milan Tv-Speciale Mazzoni
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Pioli-Premio Lidholm|04:25:00|05:00:00|Milan Tv-Pioli-Premio Lidholm
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Empoli-07/11/2021|05:00:00|06:45:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-28/11/2021|06:45:00|08:35:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi'-29/11/2021|08:35:00|10:05:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell'ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-21/01/2019|10:05:00|12:00:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Podcast L'incanto di Pato|12:00:00|12:05:00|Podcast L'incanto di Pato
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Rinnovo Pioli|12:05:00|13:15:00|Da Casa Milan la firma sul prolungamento del contratto del mister rossonero
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Liverpool vs Milan-15/09/2021|15:00:00|16:50:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-07/04/2014|16:50:00|18:30:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi'-29/11/2021|18:30:00|20:00:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell'ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Box To Box-30/11/2021|20:00:00|20:30:00|La partita vista con la lente d'ingrandimento: il focus a cura di Maurizio Ferrari e Andrea Maldera analizza tutti i dettagli e i principali aspetti tattici dell'ultimo match di Serie A disputato dal Milan
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Sassuolo-28/11/2021|20:30:00|22:20:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-16/12/2020|22:20:00|00:10:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Empoli-07/11/2021|00:10:00|01:55:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:45:00|04:35:00|Milan Tv-Speciale Mazzoni
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|On The Road-Messias|04:35:00|05:00:00|On The Road-Messias
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Box To Box-30/11/2021|08:35:00|09:10:00|La partita vista con la lente d'ingrandimento: il focus a cura di Maurizio Ferrari e Andrea Maldera analizza tutti i dettagli e i principali aspetti tattici dell'ultimo match di Serie A disputato dal Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-16/12/2020|11:00:00|12:50:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Roma-10/10/2021|12:50:00|14:35:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Porto-03/11/2021|14:35:00|16:25:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-21/01/2019|16:25:00|18:10:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Box To Box-30/11/2021|18:10:00|18:45:00|La partita vista con la lente d'ingrandimento: il focus a cura di Maurizio Ferrari e Andrea Maldera analizza tutti i dettagli e i principali aspetti tattici dell'ultimo match di Serie A disputato dal Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pre Partita-Genoa vs Milan-Live|18:45:00|19:55:00|Anticipazioni, collegamenti, esclusive, approfondimenti. Milan TV entra in partita con i suoi tifosi 75 minuti prima del fischio d'inizio della gara ufficiale che vede impegnati i giocatori rossoneri
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-Live|19:55:00|20:50:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Tavella|20:50:00|21:00:00|Behind The Scene Tavella
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-Live|21:00:00|22:00:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Genoa vs Milan-Live|22:00:00|22:55:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l'analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION-SHEVCHENKO|22:55:00|23:45:00|GOL COLLECTION-SHEVCHENKO
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-01/12/2021|23:45:00|01:30:00|Il Milan e' in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Genoa vs Milan|01:30:00|02:20:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l'analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Premiazione Fondazione Milan|02:20:00|02:35:00|Premiazione Fondazione Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Milan vs Inter|04:45:00|05:00:00|Behind The Scene Milan vs Inter
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|05:00:00|06:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - A casa di Bennancer|06:45:00|07:00:00|Milan Tv - A casa di Bennancer
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|07:00:00|08:50:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
