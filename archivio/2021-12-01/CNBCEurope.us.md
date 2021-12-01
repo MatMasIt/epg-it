@@ -17,7 +17,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|A look at how the markets are moving, what's driving them and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|22:00:00|22:30:00|Josephine Gotianun-Yap - A CEO discusses the COVID-19 pandemic and her plans for the future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside E-Commerce|22:00:00|22:30:00|Singapore is analysed to reveal the future of e-commerce
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day's national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia's business trading day.
@@ -35,7 +35,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|A look at how the markets are moving, what's driving them and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside E-Commerce|22:00:00|22:30:00|Singapore is analysed to reveal the future of e-commerce
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|22:00:00|22:30:00|Thailand: Innovation and Technology - Details are shared about why Energy Absolute is betting on electric vehicles.
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day's national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia's business trading day.
