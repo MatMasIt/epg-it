@@ -4,87 +4,6 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:30:00|01:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:00:00|01:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:30:00|02:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:00:00|02:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:30:00|03:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:00:00|03:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:30:00|04:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:00:00|04:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:30:00|04:51:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|04:51:00|05:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:00:00|05:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:30:00|06:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:00:00|06:13:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:13:00|06:27:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:27:00|06:41:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:41:00|06:52:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|06:52:00|07:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|07:00:00|07:11:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|07:11:00|07:26:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|07:26:00|07:39:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|07:39:00|07:50:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Witness|07:50:00|08:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people's lives.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|08:00:00|08:12:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|08:12:00|08:27:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|08:27:00|08:40:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|08:40:00|08:51:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|08:51:00|09:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|09:00:00|09:11:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|09:11:00|09:25:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|09:25:00|09:39:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|09:39:00|09:50:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Witness|09:50:00|10:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people's lives.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|10:00:00|10:14:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|10:14:00|10:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|10:30:00|10:44:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|10:44:00|11:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|11:00:00|11:12:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|11:12:00|11:27:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|11:27:00|11:41:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|11:41:00|11:52:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|11:52:00|12:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|12:00:00|12:11:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|12:11:00|12:26:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|12:26:00|12:39:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|12:39:00|12:50:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Witness|12:50:00|13:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people's lives.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:00:00|13:13:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:13:00|13:28:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:28:00|13:40:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:40:00|13:52:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|13:52:00|14:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:00:00|14:14:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:14:00|14:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:30:00|14:44:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:44:00|15:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|15:00:00|15:11:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|15:11:00|15:26:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|15:26:00|15:39:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|15:39:00|15:50:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Witness|15:50:00|16:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people's lives.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:00:00|16:11:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:11:00|16:27:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:27:00|16:40:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:40:00|16:51:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|16:51:00|17:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|17:00:00|17:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|17:30:00|18:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|18:00:00|18:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|18:30:00|19:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|19:00:00|19:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|19:30:00|20:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|20:00:00|20:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|20:30:00|21:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:00:00|21:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:30:00|22:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:00:00|22:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:30:00|23:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:00:00|23:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:30:00|00:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:30:00|00:52:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|00:52:00|01:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:00:00|01:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
@@ -162,6 +81,91 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|23:00:00|23:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|23:30:00|00:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|00:00:00|00:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|00:00:00|00:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|00:30:00|00:48:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|00:48:00|01:00:00|Euronews' State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|01:00:00|01:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|01:30:00|02:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|02:00:00|02:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|02:30:00|03:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|03:00:00|03:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|03:30:00|04:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|04:00:00|04:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|04:30:00|05:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|05:00:00|05:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|05:30:00|05:51:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|05:51:00|06:00:00|Euronews' State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|06:00:00|06:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|06:30:00|07:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|07:00:00|07:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|07:30:00|07:50:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|07:50:00|08:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|08:00:00|08:13:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|08:13:00|08:26:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|08:26:00|08:40:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|08:40:00|09:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|09:00:00|09:14:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|09:14:00|09:28:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|09:28:00|09:41:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|09:41:00|10:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|10:00:00|10:17:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|10:17:00|10:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|10:32:00|10:46:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|10:46:00|11:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|11:00:00|11:15:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|11:15:00|11:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|11:32:00|11:50:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|11:50:00|12:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|12:00:00|12:10:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|12:10:00|12:20:00|Euronews' State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|12:20:00|12:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|12:32:00|12:47:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|12:47:00|13:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|13:00:00|13:13:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|13:13:00|13:26:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|13:26:00|13:40:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|13:40:00|14:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|14:00:00|14:10:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Edge|14:10:00|14:30:00|Follow people pushing boundaries using new ways of doing things.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|14:30:00|14:45:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|14:45:00|15:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|15:00:00|15:11:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|15:11:00|15:31:00|Euronews' State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|15:31:00|15:45:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|15:45:00|16:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|16:00:00|16:15:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|16:15:00|16:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|16:32:00|16:46:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|16:46:00|17:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|17:00:00|17:14:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|17:14:00|17:33:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|17:33:00|17:47:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|17:47:00|18:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|18:00:00|18:19:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|18:19:00|18:33:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|18:33:00|18:47:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|18:47:00|19:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|19:00:00|19:15:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|19:15:00|19:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|19:32:00|19:46:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|19:46:00|20:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|20:00:00|20:15:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|20:15:00|20:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|20:32:00|20:46:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|20:46:00|21:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|21:00:00|21:16:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|21:16:00|21:28:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Edge|21:28:00|21:45:00|Follow people pushing boundaries using new ways of doing things.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|21:45:00|22:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|22:00:00|22:15:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|22:15:00|22:32:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|22:32:00|22:47:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|22:47:00|23:00:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|23:00:00|23:26:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|23:26:00|23:38:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|23:38:00|23:48:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|23:48:00|00:00:00|Euronews' State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Weekend|00:00:00|00:18:00|The leading news stories of the moment.
 
 
 
