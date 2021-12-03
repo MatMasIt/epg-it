@@ -1,5 +1,5 @@
 # DeA Kids +1
-> Programmazione di Giovedì 02 Dicembre 2021
+> Programmazione di Venerdì 03 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
