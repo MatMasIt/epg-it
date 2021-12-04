@@ -1,5 +1,5 @@
 # Class CNBC
-> Programmazione di Venerdì 03 Dicembre 2021
+> Programmazione di Sabato 04 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
