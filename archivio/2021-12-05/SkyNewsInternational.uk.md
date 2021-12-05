@@ -1,0 +1,106 @@
+# Sky News International
+> Programmazione di Sabato 04 Dicembre 2021
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:00:00|00:30:00|All the news from across the world plus sport and weather in 30 minutes.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:30:00|01:00:00|All the news from across the world plus sport and weather in 30 minutes.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|01:00:00|01:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|01:30:00|02:00:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|02:00:00|02:30:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|02:30:00|03:00:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|03:00:00|03:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|03:30:00|04:00:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|04:00:00|04:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|04:30:00|05:00:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|05:00:00|05:30:00|With Colin Brazier and Jayne Secker - Colin Brazier and Jayne Secker with live coverage of breaking news and lively debate on the big stories and issues of the day.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|05:30:00|06:00:00|A lively discussion about some of the stories featuring in the morning newspapers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|06:00:00|06:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|06:30:00|07:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|07:00:00|07:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|07:30:00|08:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|08:00:00|08:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|08:30:00|09:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|09:00:00|09:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|09:30:00|10:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|10:00:00|10:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/04e35638-4c22-4fa9-8ef3-b3f1a8346b6b/cover?md5ChecksumParam=f505085e7d93f647d44e3bfae44a2ceb)|Sky News Including FYI|10:30:00|11:00:00|All the latest news stories, plus FYI the news programme for younger viewers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|11:00:00|11:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/e3108016-d822-4006-a8ae-b7cfb184aafa/cover?md5ChecksumParam=8fd451231e5b1ac0ffc9e20a3f1bcc5b)|A Week in Interviews|11:30:00|12:00:00|Highlights of some of the best interviews on Sky News over the last seven days.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|12:00:00|12:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|12:30:00|13:00:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|13:00:00|13:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|13:30:00|14:00:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|14:00:00|14:30:00|Live coverage of the weekend's main news stories and events. Plus, regular sports updates.
+|![Icon](https://guidatv.sky.it/uuid/04e35638-4c22-4fa9-8ef3-b3f1a8346b6b/cover?md5ChecksumParam=f505085e7d93f647d44e3bfae44a2ceb)|Sky News Including FYI|14:30:00|15:00:00|All the latest news stories, plus FYI the news programme for younger viewers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|15:00:00|15:30:00|Live coverage of the weekend's main news stories and events. Plus, regular sports updates.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|15:30:00|16:00:00|Live coverage of the weekend's main news stories and events. Plus, regular sports updates.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|16:00:00|16:30:00|Live coverage of the weekend's main news stories and events. Plus, regular sports updates.
+|![Icon](https://guidatv.sky.it/uuid/04e35638-4c22-4fa9-8ef3-b3f1a8346b6b/cover?md5ChecksumParam=f505085e7d93f647d44e3bfae44a2ceb)|Sky News Including FYI|16:30:00|17:00:00|All the latest news stories, plus FYI the news programme for younger viewers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|17:00:00|17:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|17:30:00|18:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|18:00:00|18:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|18:30:00|19:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|19:00:00|19:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|19:30:00|20:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|20:00:00|20:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|20:30:00|21:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|21:00:00|21:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|21:30:00|22:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/06ab5b82-8150-439c-b27c-99b03b418ad3/cover?md5ChecksumParam=b6b20f50f7d5ea4b2d51f64e113f1314)|Sky News at 10|22:00:00|22:30:00|Gillian Joseph - Gillian Joseph presents a round-up of all the main news stories of the day with reports and analysis from our team of correspondent around the world.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|22:30:00|23:00:00|A lively look at some of the stories that are featuring in tomorrow morning's newspapers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|23:00:00|23:30:00|The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|23:30:00|00:00:00|A review of tomorrow's newspapers with a panel of guests and passionate debate about the stories they cover.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:00:00|00:30:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:00:00|00:30:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:30:00|01:00:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|01:00:00|01:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|01:30:00|02:00:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|02:00:00|02:30:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|02:30:00|03:00:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|03:00:00|03:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|03:30:00|04:00:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|04:00:00|04:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|04:30:00|05:00:00|With Colin Brazier and Jayne Secker - Colin Brazier and Jayne Secker with live coverage of breaking news and lively debate on the big stories and issues of the day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|05:00:00|05:30:00|With Colin Brazier and Jayne Secker - Colin Brazier and Jayne Secker with live coverage of breaking news and lively debate on the big stories and issues of the day.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|05:30:00|06:00:00|A lively discussion about some of the stories featuring in the morning newspapers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|06:00:00|06:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|06:30:00|07:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|07:00:00|07:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|07:30:00|08:00:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/5398f760-72b0-4fea-b56a-9f0640ccb23f/cover?md5ChecksumParam=b425bf20f1977a10418f7e89b4bcb67c)|Sky News|08:00:00|08:30:00|Join Stephen Dixon for all the news from home and abroad, the latest sport and weather and a review of the weekend papers.
+|![Icon](https://guidatv.sky.it/uuid/0646daa7-88d2-4cd2-ab02-a9d312ffc63b/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|08:30:00|09:30:00|On Sunday - Trevor Phillips interviews a range of high profile guests on some of the biggest news stories of the week.
+|![Icon](https://guidatv.sky.it/uuid/f3d1d971-8926-4fd4-a0e1-8bba7577fba5/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|09:30:00|10:00:00|The Take - Analysis of some of the interviews from this morning's programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|10:00:00|10:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/04e35638-4c22-4fa9-8ef3-b3f1a8346b6b/cover?md5ChecksumParam=f505085e7d93f647d44e3bfae44a2ceb)|Sky News Including FYI|10:30:00|11:00:00|All the latest news stories, plus FYI the news programme for younger viewers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|11:00:00|11:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/aca92470-e728-4afd-9430-1e236d63ad02/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|11:30:00|12:00:00|Highlights - Another chance to see some of the interviews from this morning's programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|12:00:00|12:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|12:30:00|13:00:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|13:00:00|13:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|13:30:00|14:00:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|14:00:00|14:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/04e35638-4c22-4fa9-8ef3-b3f1a8346b6b/cover?md5ChecksumParam=f505085e7d93f647d44e3bfae44a2ceb)|Sky News Including FYI|14:30:00|15:00:00|All the latest news stories, plus FYI the news programme for younger viewers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|15:00:00|15:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|15:30:00|16:00:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|16:00:00|16:30:00|Live coverage of main weekend news stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/aca92470-e728-4afd-9430-1e236d63ad02/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|16:30:00|17:00:00|Highlights - Another chance to see some of the interviews from this morning's programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|17:00:00|17:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|17:30:00|18:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|18:00:00|18:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/aca92470-e728-4afd-9430-1e236d63ad02/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|18:30:00|19:00:00|Highlights - Another chance to see some of the interviews from this morning's programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|19:00:00|19:30:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|19:30:00|20:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|20:00:00|20:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|20:30:00|21:00:00|A round-up of all the day's main news stories from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|21:00:00|21:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/aca92470-e728-4afd-9430-1e236d63ad02/cover?md5ChecksumParam=c3484016739a4f669cd47af97eb475ac)|Trevor Phillips|21:30:00|22:00:00|Highlights - Another chance to see some of the interviews from this morning's programme.
+|![Icon](https://guidatv.sky.it/uuid/06ab5b82-8150-439c-b27c-99b03b418ad3/cover?md5ChecksumParam=b6b20f50f7d5ea4b2d51f64e113f1314)|Sky News at 10|22:00:00|22:30:00|Gillian Joseph - Gillian Joseph presents a round-up of all the main news stories of the day with reports and analysis from our team of correspondent around the world.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|22:30:00|23:00:00|A lively look at some of the stories that are featuring in tomorrow morning's newspapers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|23:00:00|23:30:00|The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|23:30:00|00:00:00|A review of tomorrow's newspapers with a panel of guests and passionate debate about the stories they cover.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:00:00|00:30:00|News reports on the big stories from the UK and around the world.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
