@@ -1,5 +1,5 @@
 # Rai Movie
-> Programmazione di Sabato 04 Dicembre 2021
+> Programmazione di Domenica 05 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
