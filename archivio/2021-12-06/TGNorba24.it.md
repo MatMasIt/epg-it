@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Domenica 05 Dicembre 2021
+> Programmazione di Lunedì 06 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
