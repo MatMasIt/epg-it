@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Lunedì 06 Dicembre 2021
+> Programmazione di Martedì 07 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
