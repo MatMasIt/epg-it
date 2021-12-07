@@ -3,30 +3,18 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:13:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:13:00|00:27:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:27:00|00:40:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:40:00|01:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:00:00|01:21:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:21:00|01:34:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:34:00|01:45:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:45:00|02:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:00:00|02:20:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:20:00|02:31:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:31:00|02:43:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:43:00|03:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:00:00|03:14:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:14:00|03:26:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:26:00|03:38:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:38:00|04:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:00:00|04:12:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:12:00|04:25:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:25:00|04:38:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:38:00|05:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:00:00|05:13:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:13:00|05:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:30:00|05:50:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|05:50:00|06:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:30:00|01:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:00:00|01:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|01:30:00|02:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:00:00|02:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|02:30:00|03:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:00:00|03:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|03:30:00|04:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:00:00|04:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|04:30:00|05:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:00:00|05:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|05:30:00|06:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:00:00|06:14:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:14:00|06:34:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Good Morning Europe|06:34:00|06:44:00|Euronews's flagship morning show: breaking news, journalism, analysis and social media reporting from 'The Cube' on the biggest stories affecting Europe and the world.
@@ -57,8 +45,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|12:42:00|13:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:00:00|13:12:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:12:00|13:32:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:32:00|13:48:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ocean|13:48:00|14:00:00|Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:32:00|13:42:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|13:42:00|14:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:00:00|14:12:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:12:00|14:30:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|14:30:00|14:42:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
@@ -143,17 +131,20 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:30:00|16:42:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Now|16:42:00|17:00:00|Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|17:00:00|17:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|17:30:00|18:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|17:30:00|17:50:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|17:50:00|18:00:00|'The Exchange' looks beyond the boardroom and reports on the people, businesses, ideas and innovations that are at the forefront of the business conversation in the 21st century.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|18:00:00|18:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|18:30:00|19:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|19:00:00|19:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|19:30:00|20:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|20:00:00|20:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|20:30:00|21:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|20:30:00|20:50:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Conversation|20:50:00|21:00:00|Exclusive 20-minute interviews live on Euronews, euronews.com and YouTube, followed by 40 minutes live chat with web viewers.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:00:00|21:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:30:00|22:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:00:00|22:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:30:00|23:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:30:00|22:50:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Global Conversation|22:50:00|23:00:00|Exclusive 20-minute interviews live on Euronews, euronews.com and YouTube, followed by 40 minutes live chat with web viewers.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:00:00|23:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:30:00|00:00:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe's News Centre.
