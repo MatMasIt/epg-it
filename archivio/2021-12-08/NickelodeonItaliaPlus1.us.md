@@ -1,5 +1,5 @@
 # Nickelodeon Italia +1
-> Programmazione di Martedì 07 Dicembre 2021
+> Programmazione di Mercoledì 08 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
