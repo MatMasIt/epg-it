@@ -10,29 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|07:00:00|09:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Olly Doo, tendenza con stile|09:00:00|10:00:00|ITA. Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita' ed eleganza, attenzione alla qualita' dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Carillo Home Ogni casa ha il suo vestito|10:00:00|11:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|11:00:00|12:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Hekla &amp; Co., Lo spirito delle donne|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Hekla un'azienda fondata nel 1997, specializzata in produzione di maglieria tricot, attenta alla selezione di filati di qualita' e al loro trattamento.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Carillo Home Ogni casa ha il suo vestito|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|14:00:00|15:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|16:00:00|17:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale con Hekla|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|18:00:00|19:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Olly Doo, tendenza con stile|19:00:00|20:00:00|ITA. Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita' ed eleganza, attenzione alla qualita' dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|20:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un Diamonique a Natale|23:00:00|00:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un Diamonique a Natale|07:00:00|09:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique sotto l'albero|09:00:00|10:00:00|Non perdere le fantastiche idee regalo Diamonique di quest'anno! Gioielli preziosi con l'inconfondibile stile Diamonique, in confezioni originali e..da appendere all'albero!
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Simulante Opale|10:00:00|11:00:00|ITA. TV Shopping
@@ -48,6 +25,30 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un Diamonique a Natale|21:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, Il gran finale|22:00:00|23:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|BaByliss Paris,Reinventa i tuoi capelli|09:00:00|10:00:00|ITA. Scopri QVC. Scopri BaByliss fin dalla sua creazione nel 1961, BaByliss si e' affermata come un vero esperto dell'acconciatura e della bellezza.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Demetra Closet, la musa della moda|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con H. Koenig|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Dipinto di Blu, il talento per la moda|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Dipinto di Blu una collezione dal design elegante per soddisfare le donne dai gusti piu' sofisticati grazie ad una costante ricerca di materiali e linee sempre nuovi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Demetra Closet, la musa della moda|15:00:00|16:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale con Babyliss|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|etoo, moda in movimento|19:00:00|20:00:00|ITA. Scopri Qvc. Scopri etoo, brand dedicato alla donna dinamica e sportiva, sempre pronta ai cambiamenti della giornata, amante della moda e attenta allo stile
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Appuntamento in Cucina|20:00:00|21:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu' di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Dipinto di Blu, il talento per la moda|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Dipinto di Blu una collezione dal design elegante per soddisfare le donne dai gusti piu' sofisticati grazie ad una costante ricerca di materiali e linee sempre nuovi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade, le hit piu' calde della moda|23:00:00|00:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 
