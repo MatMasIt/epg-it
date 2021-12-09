@@ -1,5 +1,5 @@
 # Premium Action
-> Programmazione di Mercoledì 08 Dicembre 2021
+> Programmazione di Giovedì 09 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
