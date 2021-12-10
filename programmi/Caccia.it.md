@@ -1,5 +1,5 @@
 # Caccia
-> Programmazione di Giovedì 09 Dicembre 2021
+> Programmazione di Venerdì 10 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
