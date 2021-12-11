@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Venerdì 10 Dicembre 2021
+> Programmazione di Sabato 11 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
