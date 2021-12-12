@@ -1,0 +1,56 @@
+# QVC Italia
+> Programmazione di Sabato 11 Dicembre 2021
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|07:00:00|08:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Doll10, Ridefinisci la bellezza|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Doll10, una linea di bellezza che mette la scienza e le innovazioni della tecnologia al servizio della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Philips, Nuove tecnologie di bellezza|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Philips, un'azienda tecnologica diversificata che mette la sua ricerca e le sue innovazioni al servizio della bellezza.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un weekend di sorprese|12:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita' e passione|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita' del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale: Campo Marzio|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Doll10, Ridefinisci la bellezza|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Doll10, una linea di bellezza che mette la scienza e le innovazioni della tecnologia al servizio della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale Carlotta Neri|20:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Fero', il lusso che arreda la tua casa|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Fero', preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita' regalando un'esperienza di lusso e piacere.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita' e passione|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita' del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|23:00:00|00:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|07:00:00|08:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|08:00:00|09:00:00|ITA. Scopri Galieti un'azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buongiorno bellezza!|10:00:00|12:00:00|ITA. Ogni domenica alle 11,c'e' un momento in piu' da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu' belle
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un weekend di sorprese|12:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|14:00:00|15:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|15:00:00|16:00:00|ITA. Scopri Galieti un'azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|16:00:00|17:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale in Cucina|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|18:00:00|19:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Bianca, tutto il fascino del platino|19:00:00|20:00:00|ITA. Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita' italiana dona una finitura esclusiva ed un'ineguagliabile brillantezza.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale in Casa|20:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|21:00:00|22:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all'avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa|22:00:00|23:00:00|ITA. Scopri Qvc. Fatti accompagnare dai nostri personal shopper alla scoperta di tanti prodotti adatti a tutti i gusti e tutte le case.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

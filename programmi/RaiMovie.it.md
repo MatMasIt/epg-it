@@ -1,5 +1,5 @@
 # Rai Movie
-> Programmazione di Sabato 11 Dicembre 2021
+> Programmazione di Domenica 12 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
