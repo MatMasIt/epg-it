@@ -1,5 +1,5 @@
 # Fox News Channel
-> Programmazione di Domenica 12 Dicembre 2021
+> Programmazione di Lunedì 13 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
