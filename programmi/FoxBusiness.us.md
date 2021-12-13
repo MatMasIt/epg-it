@@ -4,9 +4,9 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
-|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|01:00:00|02:00:00|Mike Rowe discusses the importance of America's industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|01:00:00|02:00:00|Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
 |![Icon](https://guidatv.sky.it/uuid/3101a174-50ee-4cfa-97e5-1df08ee07874/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|02:00:00|03:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
-|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|03:00:00|05:00:00|Mike Rowe discusses the importance of America's industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|03:00:00|05:00:00|Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
 |![Icon](https://guidatv.sky.it/uuid/3101a174-50ee-4cfa-97e5-1df08ee07874/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|05:00:00|06:00:00|Maria Bartiromo highlights current stock market trends.
 |![Icon](https://guidatv.sky.it/uuid/c80c788c-c24c-465b-a79d-077622d1cc0c/cover?md5ChecksumParam=8206e927fca31b162f115acc2413b53d)|Strange Inheritance|06:00:00|08:00:00|Families decide what to do with bizarre inheritances.
 |![Icon](https://guidatv.sky.it/uuid/3101a174-50ee-4cfa-97e5-1df08ee07874/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|08:00:00|09:00:00|Maria Bartiromo highlights current stock market trends.

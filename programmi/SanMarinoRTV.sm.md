@@ -8,14 +8,14 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|SMRTV Notte|01:20:00|06:15:00|Il meglio dei programmi della giornata
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Televendita|06:15:00|06:30:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italian Restaurant|06:30:00|07:25:00|Con Nancy Brilly, Gigi Proietti
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|L'arte del cinema|07:25:00|07:35:00|Charlie Chaplin
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|L&#039;arte del cinema|07:25:00|07:35:00|Charlie Chaplin
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Piloti|07:35:00|07:55:00|Con Enrico Bertolino e Max Tortora
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|#Burdel|07:55:00|08:20:00|Ragazzi dagli 11 ai 16 anni, ci raccontano dei loro sogni nel cassetto, quello che amano fare nel tempo libero, che cosa rappresentano per loro gli amici, il rapporto con il mondo degli adulti.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il giornalino di Gian Burrasca|08:20:00|10:00:00|Con Rita Pavone, Valeria Valeri, Ivo Garrani
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A tutto Gas Historic|10:00:00|10:25:00|Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita' 2019
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A tutto Gas Historic|10:00:00|10:25:00|Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita&#039; 2019
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Televendita|10:25:00|10:40:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Serial Times|10:40:00|11:05:00|Magazine sulle serie televisive. A cura di Sergio Gamberale
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Khorakhane'|11:05:00|11:50:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Khorakhane&#039;|11:05:00|11:50:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Che dio ci aiuti 2|11:50:00|12:50:00|Con Elena Sofia Ricci, Francesca Chillemi, Lino Guanciale, Valeria Fabrizi
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TG SPORT|12:50:00|13:00:00|Notizie sportive
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TG SAN MARINO|13:00:00|13:15:00|Notizie sammarinesi e dal mondo
@@ -24,7 +24,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Televendita|14:05:00|14:35:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Secret animals|14:35:00|15:15:00|Secret Animals
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In che verso va il mondo|15:15:00|15:30:00|15^Serie. La poesia torna sul piccolo schermo insieme a Davide Rondoni, poeta e scrittore.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A bale'|15:30:00|16:30:00|2021. Un format che San Marino Rtv dedica alla canzone popolare, rigorosamente in dialetto. Con Roberto Chiesa e la cantante Luana Babini voce storica dell'orchestra Casadei
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A bale&#039;|15:30:00|16:30:00|2021. Un format che San Marino Rtv dedica alla canzone popolare, rigorosamente in dialetto. Con Roberto Chiesa e la cantante Luana Babini voce storica dell&#039;orchestra Casadei
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Chacha Batija|16:30:00|17:10:00|Chacha Batija
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il restauratore 2|17:10:00|18:15:00|Con Lando Buzzanca, Paolo Calabresi, Beatrice Fazi, Anna Safroncik
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TG SPORT|18:15:00|18:30:00|Notizie sportive
@@ -64,8 +64,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Driving|19:00:00|19:07:00|Redazionale Automobilistico
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Dolce Valentina|19:07:00|19:55:00|Telenovela
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Generazione Z|19:55:00|20:10:00|Magazine ragazzi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Khorakhane'|20:10:00|20:55:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Carosello Carosone|20:55:00|22:45:00|Regia di Lucio Pellegrini con Eduardo Scarpetta, Vincenzo Nemolato, Ludovica Martino, Nicolo' Pasetti, Flavio Fumo
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Khorakhane&#039;|20:10:00|20:55:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Carosello Carosone|20:55:00|22:45:00|Regia di Lucio Pellegrini con Eduardo Scarpetta, Vincenzo Nemolato, Ludovica Martino, Nicolo&#039; Pasetti, Flavio Fumo
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Eurocops|22:45:00|23:40:00|Poliziesco
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Piloti|23:40:00|00:00:00|Con Enrico Bertolino e Max Tortora
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Televendita|00:00:00|00:30:00|Televendita

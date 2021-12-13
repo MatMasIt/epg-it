@@ -13,7 +13,7 @@
 |![Icon](https://guidatv.sky.it/uuid/70f8c220-63c8-4296-b21e-2bdeed54d017/cover?md5ChecksumParam=5a4d6f28d63e8fd9947519de242b4bf8)|Mediabuzz|08:00:00|09:00:00|The state of the media news. With Howie Kurtz.
 |![Icon](https://guidatv.sky.it/uuid/6569d04f-66e6-444b-9530-295fedfe14a6/cover?md5ChecksumParam=58835f4f5ebb5953bc1783cb929f24ec)|Fox &amp; Friends First|09:00:00|11:00:00|Heather Childers, Jillian Mele and Rob Schmitt highlight the latest in news, weather, sports and entertainment.
 |![Icon](https://guidatv.sky.it/uuid/1a322b1b-ee61-4911-b7d4-20dbe77d930d/cover?md5ChecksumParam=2c06fa2ea09852606a462604817271f0)|Fox &amp; Friends|11:00:00|14:00:00|Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America's Newsroom|14:00:00|16:00:00|Bill Hemmer and Dana Perino report the days news.
+|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America&#039;s Newsroom|14:00:00|16:00:00|Bill Hemmer and Dana Perino report the days news.
 |![Icon](https://guidatv.sky.it/uuid/e7029708-8127-41a8-b3ff-d653e4ae2831/cover?md5ChecksumParam=af652d2507cbc35801f6221b2f2d0775)|The Faulkner Focus|16:00:00|17:00:00|Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews.
 |![Icon](https://guidatv.sky.it/uuid/832410a2-29b2-4754-8f12-f32397742800/cover?md5ChecksumParam=185e12f7f78aad4e8531a23200d73a27)|Outnumbered|17:00:00|18:00:00|Rotating panel featuring four women and one man, gives a fresh take on the days news.
 |![Icon](https://guidatv.sky.it/uuid/1a204662-96a8-416d-b818-1390c5cddf3c/cover?md5ChecksumParam=f25f171449cdac725e68708a9307fe36)|America Reports|18:00:00|20:00:00|John Roberts and Sandra Smith report the days news.
@@ -21,8 +21,8 @@
 |![Icon](https://guidatv.sky.it/uuid/cc652ed4-6b15-462b-9cca-54e02813f844/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|21:00:00|22:00:00|Neil Cavuto has all the days business news and market moves.
 |![Icon](https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|22:00:00|23:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
 |![Icon](https://guidatv.sky.it/uuid/70e3d89b-a9ec-4ebe-9b05-f992f7534a31/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|23:00:00|00:00:00|Bret Baier reports on the days events from Washington DC.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today's news.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today's news.
+|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
+|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
 |![Icon](https://guidatv.sky.it/uuid/6648ece2-9394-4dde-b1b9-5805848c8752/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|01:00:00|02:00:00|Tucker Carlson brings a live hour of spirited debate.
 |![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|02:00:00|03:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
 |![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|03:00:00|04:00:00|Laura Ingraham discusses the issues our country is in turmoil about.
@@ -33,7 +33,7 @@
 |![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|08:00:00|09:00:00|Laura Ingraham discusses the issues our country is in turmoil about.
 |![Icon](https://guidatv.sky.it/uuid/6569d04f-66e6-444b-9530-295fedfe14a6/cover?md5ChecksumParam=58835f4f5ebb5953bc1783cb929f24ec)|Fox &amp; Friends First|09:00:00|11:00:00|Heather Childers, Jillian Mele and Rob Schmitt highlight the latest in news, weather, sports and entertainment.
 |![Icon](https://guidatv.sky.it/uuid/1a322b1b-ee61-4911-b7d4-20dbe77d930d/cover?md5ChecksumParam=2c06fa2ea09852606a462604817271f0)|Fox &amp; Friends|11:00:00|14:00:00|Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America's Newsroom|14:00:00|16:00:00|Bill Hemmer and Dana Perino report the days news.
+|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America&#039;s Newsroom|14:00:00|16:00:00|Bill Hemmer and Dana Perino report the days news.
 |![Icon](https://guidatv.sky.it/uuid/e7029708-8127-41a8-b3ff-d653e4ae2831/cover?md5ChecksumParam=af652d2507cbc35801f6221b2f2d0775)|The Faulkner Focus|16:00:00|17:00:00|Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews.
 |![Icon](https://guidatv.sky.it/uuid/832410a2-29b2-4754-8f12-f32397742800/cover?md5ChecksumParam=185e12f7f78aad4e8531a23200d73a27)|Outnumbered|17:00:00|18:00:00|Rotating panel featuring four women and one man, gives a fresh take on the days news.
 |![Icon](https://guidatv.sky.it/uuid/1a204662-96a8-416d-b818-1390c5cddf3c/cover?md5ChecksumParam=f25f171449cdac725e68708a9307fe36)|America Reports|18:00:00|20:00:00|John Roberts and Sandra Smith report the days news.
@@ -41,7 +41,7 @@
 |![Icon](https://guidatv.sky.it/uuid/cc652ed4-6b15-462b-9cca-54e02813f844/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|21:00:00|22:00:00|Neil Cavuto has all the days business news and market moves.
 |![Icon](https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|22:00:00|23:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
 |![Icon](https://guidatv.sky.it/uuid/70e3d89b-a9ec-4ebe-9b05-f992f7534a31/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|23:00:00|00:00:00|Bret Baier reports on the days events from Washington DC.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today's news.
+|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
 
 
 
