@@ -68,11 +68,11 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:25:00|19:40:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:40:00|19:55:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|19:55:00|20:10:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:10:00|20:25:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:25:00|20:40:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:40:00|20:55:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:55:00|21:10:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|21:10:00|21:20:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:10:00|20:25:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:25:00|20:40:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:40:00|20:55:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:55:00|21:10:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|21:10:00|21:20:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|21:20:00|21:35:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|21:35:00|21:50:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|21:50:00|22:05:00|Notiziario
@@ -133,11 +133,11 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Pomeriggio Norba|13:45:00|15:50:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|15:50:00|16:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 sport|16:05:00|16:20:00|Gli avvenimenti sportivi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:20:00|16:35:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:35:00|16:50:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:50:00|17:05:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|17:05:00|17:20:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|17:20:00|17:35:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista'. Cronaca e attualita' con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:20:00|16:35:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:35:00|16:50:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|16:50:00|17:05:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|17:05:00|17:20:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|17:20:00|17:35:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|17:35:00|17:50:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|17:50:00|18:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Salute Magazine|18:05:00|18:20:00|Notiziario
