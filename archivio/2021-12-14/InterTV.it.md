@@ -3,22 +3,76 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Match|01:15:00|02:15:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Cambiasso|02:15:00|02:45:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|02:45:00|03:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della prima puntata Macarena Portales e Anja S nstevold.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Materazzi|03:00:00|03:15:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Palacio|03:15:00|03:45:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Ventola|03:45:00|04:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Cagliari 21/22|04:00:00|06:00:00|Il match della stagione 2021/22 tra Inter e Cagliari.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|06:00:00|12:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|12:00:00|18:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|18:00:00|00:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|00:00:00|06:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|00:00:00|06:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|06:00:00|12:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|12:00:00|18:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|18:00:00|00:00:00|Inter Tv
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter TV|00:00:00|06:00:00|Inter Tv
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|00:00:00|00:15:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della seconda puntata Elin Landstrom.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|00:15:00|00:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Cagliari 21/22|00:30:00|02:30:00|Il match della stagione 2021/22 tra Inter e Cagliari.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 14/15|02:30:00|03:00:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2014/15 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Genoa U19|03:00:00|03:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Genoa Under 19.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|03:45:00|04:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|06:15:00|06:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:30:00|06:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|06:45:00|07:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|07:00:00|07:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|07:15:00|07:30:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della prima puntata Calhanoglu, Skriniar, D&#039;Ambrosio e Cordaz.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma-Inter 21/22|07:30:00|09:30:00|Il match della stagione 2021/22 tra Roma e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Cagliari 21/22|09:30:00|10:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|12:45:00|13:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Cagliari 21/22|13:00:00|13:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 05/06|15:30:00|16:00:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2005/06 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo Women|16:00:00|16:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Women.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|16:45:00|17:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Showreel Ronaldo|17:00:00|17:30:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della terza puntata Ronaldo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Cagliari 21/22|17:30:00|18:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|18:00:00|18:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|18:30:00|18:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|18:45:00|19:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della prima puntata Macarena Portales e Anja Sonstevold.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|19:00:00|19:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo Women|19:15:00|20:00:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Women.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|20:00:00|20:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Inter-Napoli|20:30:00|21:00:00|Un viaggio nel passato di Inter-Napoli: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Hellas Verona-Inter 21/22|21:00:00|23:00:00|Il match della stagione 2021/22 tra Hellas Verona e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|23:00:00|23:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|23:15:00|23:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|00:00:00|00:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|00:00:00|00:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 00/01|02:30:00|03:00:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2000/01 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo Women|03:00:00|03:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Women.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|03:45:00|04:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Venezia-Inter 21/22|04:00:00|06:00:00|Il match della stagione 2021/22 tra Venezia e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|06:15:00|06:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:30:00|06:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|06:45:00|07:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|07:00:00|07:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|07:15:00|07:30:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della quarta puntata Perisic, Vecino, Dimarco e Ranocchia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sampdoria-Inter 21/22|07:30:00|09:30:00|Il match della stagione 2021/22 tra Sampdoria e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|09:30:00|10:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Fiorentina-Inter 21/22|10:00:00|12:00:00|Il match della stagione 2021/22 tra Fiorentina e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|12:45:00|13:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Showreel Milito|13:00:00|13:30:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della sesta puntata Milito.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma-Inter 21/22|13:30:00|15:30:00|Il match della stagione 2021/22 tra Roma e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|15:30:00|16:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 17/18|16:45:00|17:15:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2017/18 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Showreel Vieri|17:15:00|18:00:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della quarta puntata Vieri.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Lazio-Inter|18:00:00|18:30:00|Un viaggio nel passato di Lazio-Inter: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|18:30:00|18:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|18:45:00|19:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|19:00:00|19:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|19:15:00|19:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 11/12|19:30:00|20:00:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2011/12 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo Women|20:00:00|20:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Women.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|20:45:00|21:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della terza puntata Correa, Kolarov, Handanovic e Sensi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|23:00:00|23:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|23:15:00|23:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Sassuolo Women|23:30:00|00:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Inter-Atalanta|00:00:00|00:30:00|Un viaggio nel passato di Inter-Atalanta: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
 
 
 

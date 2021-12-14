@@ -10,29 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita&#039; e passione|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|10:00:00|11:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|11:00:00|12:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale|12:00:00|13:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio, formule di benessere|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Syrio un&#039;azienda italiana che opera nel canale farmacia, parafarmacia ed erboristeria che offre un&#039;ampia gamma di Integratori Alimentari.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale SaluteFitness|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scalda il tuo look|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Scalda il tuo Look. Nei mesi piu&#039; freddi e&#039; divertente giocare con gli accessori, sia in casa che fuori casa.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale con Ottoman|20:00:00|21:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Samsung|21:00:00|22:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Salute e Fitness|22:00:00|23:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta del modo migliore per curare la propria salute ed essere sempre belli e in forma.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|07:00:00|09:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|09:00:00|11:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|11:00:00|12:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
@@ -46,6 +23,29 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera Bellezza, la gioia del Natale|20:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|22:00:00|23:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con G3 Ferrari|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|10:00:00|11:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Perricone MD, Scienza e bellezza|13:00:00|14:00:00|ITA. Scopri QVC. Scopri i prodotti del Dr. Perricone, con acido Alfa Lipoico sono adatti a tutti i tipi di pelle. Trattamenti anti eta&#039; che migliorano la luminosita&#039; cutanea e aiutano a prevenire le rughe.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|15:00:00|16:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Regala un sorriso a Natale in Cucina|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|19:00:00|20:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Adesso e&#039; Moda, la gioia del Natale|20:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|22:00:00|23:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Stoneline, cucina sana e senza grassi|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Stoneline, linea di prodotti di alta qualita&#039; per cucinare senza grassi e rendere le pietanze piu&#039; sane, senza rinunciare al gusto.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 
