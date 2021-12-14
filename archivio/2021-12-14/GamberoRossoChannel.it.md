@@ -1,5 +1,5 @@
 # Gambero Rosso Channel
-> Programmazione di Lunedì 13 Dicembre 2021
+> Programmazione di Martedì 14 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
