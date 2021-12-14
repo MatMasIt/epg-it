@@ -1,0 +1,69 @@
+# La 7
+> Programmazione di Lunedì 13 Dicembre 2021
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|00:10:00|00:50:00|Ep. 24 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|00:50:00|01:45:00|Ep. 13 - &#039;La TV in chat&#039; che seleziona i momenti piu&#039; divertenti e ironici dei personaggi piu&#039; amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Un padre in prestito|01:45:00|03:45:00|Regia di C. Menges, con W.Hurt, N.Yapp; USA/GBR 1994 (120 min). Solitario e timido, Graham si fa affidare un ragazzino orfano di madre e con un padre in prigione. Andare d&#039;accordo non sara&#039; facile...
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Il diario|03:45:00|05:00:00|Ep. 28 - La trasmissione di Myrta Merlino che racconta e analizza l&#039;economia e la politica piu&#039; vicine alla vita di tutti i giorni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|05:40:00|05:50:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 99 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 99 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|08:40:00|10:00:00|Ep. 84 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|10:00:00|12:30:00|Ep. 71 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 63 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|17:00:00|18:00:00|S4 Ep1 L&#039;incendiaria - Melinda e Jim conoscono Eli, un giovane psicologo che, dopo essere scampato a un incendio, ha cominciato a sentire la voce dei fantasmi.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep2 Compagni di scuola - Melinda viene invitata al funerale di un suo ex compagno di liceo, dove viene avvicinata da una conoscente che crede di essere perseguitata dal defunto.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|19:35:00|20:40:00|Ep. 66 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/4c18ca1c-c1a0-4a78-95bb-404eefb2424e/cover?md5ChecksumParam=f88e46b1a416b078e0d5dd4a13532c17)|Grey&#039;s Anatomy|20:40:00|21:30:00|S17 Ep14 Alza lo sguardo figliolo - Jackson decide di andare a trovare suo padre: l&#039;incontro non sara&#039; facile, ma grazie a questo riuscira&#039; finalmente a vedere le cose nella giusta prospettiva.
+|![Icon](https://guidatv.sky.it/uuid/0abd4e2c-9042-4e21-9ab2-1041fb00f984/cover?md5ChecksumParam=f88e46b1a416b078e0d5dd4a13532c17)|Grey&#039;s Anatomy|21:30:00|22:20:00|S17 Ep15 Tradizione - Koracick e Levi cercano di salvare il nonno di una donna incinta mentre lei entra in travaglio. Nel frattempo, Jackson comunica la sua notizia ai colleghi.
+|![Icon](https://guidatv.sky.it/uuid/9d623d20-df90-4659-8406-7c6c5834c16e/cover?md5ChecksumParam=e12c8b7cef00fdd45be8e8e32524c22b)|The Aviator|22:20:00|01:30:00|Regia di M. Scorsese, con L.DiCaprio, C.Blanchett; DEU/JPN 2004 (190 min). La vita del celebre produttore cinematografico e pioniere dell&#039;aeronautica Howard Hughes, famoso per le sue relazioni sentimentali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|01:30:00|02:10:00|Ep. 66 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Camera con vista|02:10:00|02:40:00|Ep. 37 - La sintesi senza filtri della settimana delle piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|02:40:00|05:00:00|Ep. 71 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:40:00|05:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:45:00|05:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 100 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 100 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|08:40:00|10:00:00|Ep. 85 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|10:00:00|12:30:00|Ep. 72 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 64 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|17:00:00|18:00:00|S4 Ep3 Il fantasma Avatar - Ned mostra a Melinda la comunita&#039; di giochi virtuale al quale e&#039; iscritto, cosi&#039; la donna scopre che un fantasma si serve di Internet per tormentare le ragazze.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep4 La nave dei fantasmi - Melinda e Jim partono per una crociera romantica, ma un fantasma rovina loro la festa. Tocchera&#039; come sempre a Melinda risolvere il problema.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|19:35:00|20:15:00|Ep. 67 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Di martedi&#039;|20:15:00|00:00:00|Ep. 15 - Talk-show condotto da Giovanni Floris, dove confronti politici, reportage e interviste sul campo approfondiscono i temi scottanti della settimana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
