@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Martedì 14 Dicembre 2021
+> Programmazione di Mercoledì 15 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
