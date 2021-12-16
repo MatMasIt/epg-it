@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Mercoledì 15 Dicembre 2021
+> Programmazione di Giovedì 16 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
