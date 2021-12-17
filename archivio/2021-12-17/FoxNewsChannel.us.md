@@ -1,5 +1,5 @@
 # Fox News Channel
-> Programmazione di Giovedì 16 Dicembre 2021
+> Programmazione di Venerdì 17 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
