@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Venerdì 17 Dicembre 2021
+> Programmazione di Sabato 18 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
