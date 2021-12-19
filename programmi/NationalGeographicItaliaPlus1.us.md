@@ -1,5 +1,5 @@
 # National Geographic Italia +1
-> Programmazione di Sabato 18 Dicembre 2021
+> Programmazione di Domenica 19 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
