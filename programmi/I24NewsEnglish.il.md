@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Lunedì 20 Dicembre 2021
+> Programmazione di Martedì 21 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
