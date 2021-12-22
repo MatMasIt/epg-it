@@ -1,5 +1,5 @@
 # Fox News Channel
-> Programmazione di Martedì 21 Dicembre 2021
+> Programmazione di Mercoledì 22 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
