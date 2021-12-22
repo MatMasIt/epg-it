@@ -37,25 +37,17 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|12Tg Parma|13:40:00|14:00:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna|14:00:00|14:30:00|Il Telegiornale di Bologna e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|14:30:00|15:00:00|Il Telegiornale della Romagna
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Buone cose|15:00:00|15:50:00|Buone Cose e&#039; un viaggio alla scoperta delle brave persone che producono quello che arriva, sulle nostre tavole. Filosofie e tradizioni in grado di evidenziare qualita&#039;, sicurezza e sostenibilita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Dare &amp; Avere|15:50:00|16:30:00|E&#039; il settimanale di Telereggio che approfondisce le notizie e le tematiche relative all&#039;economia, al lavoro e alla finanza.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sesto Set|16:30:00|17:00:00|Servizi, commenti, interviste sul campionato A1 maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Nero&amp;Verde|17:00:00|17:45:00|Focus sul Sassuolo calcio.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|91esimo minuto|15:00:00|16:15:00|Tutto cio&#039; che accade sui campi di gioco dei campionati di calcio dilettantistico della provincia e non solo, con sintesi delle partite, interviste e ospiti in studio
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Barba e Capelli|16:15:00|17:30:00|Un salone da barbiere d&#039;altri tempi con poltrone vecchio stile ed acconciatore all&#039;opera, i protagonisti delle diverse discipline commentano gli avvenimenti sportivi della settimana.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bologna Racconta|17:30:00|17:45:00|La citta&#039; si racconta attraverso storie, protagonisti, avvenimenti, curiosita&#039;
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Affari Quotidiani|18:05:00|18:30:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Modena|18:30:00|19:00:00|Il Telegiornale di Modena e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meteo|19:00:00|19:05:00|Appuntamento quotidiano con le previsioni meteo di Emiliameteo.it
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Bologna|19:05:00|19:15:00|Notiziario sportivo di Bologna e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|LoSport Reggio|19:15:00|19:20:00|Notiziario sportivo di Reggio Emilia e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Affari Quotidiani|19:20:00|19:25:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Presse|19:25:00|19:30:00|Notizie dall&#039;Italia e dal mondo
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|19:30:00|20:00:00|Il Telegiornale della Romagna
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|19:00:00|19:30:00|Il Telegiornale della Romagna
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio|19:30:00|20:00:00|Il Telegiornale di Reggio Emilia e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna|20:00:00|20:30:00|Il Telegiornale di Bologna e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio|20:30:00|21:00:00|Il Telegiornale di Reggio Emilia e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|12Tg Parma|21:00:00|21:20:00|Il Telegiornale di Parma e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|21:20:00|21:30:00|Notiziario sportivo di Modena e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tv Giornale Ferrara|21:30:00|22:00:00|il Telegiornale di Ferrara e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zona D|22:00:00|23:30:00|Tutto sul calcio dei dilettanti. Dall&#039;eccellenza alla prima categoria da Piacenza a Rimini con i commenti dei massimi esperti del settore.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Motivi Familiari|20:30:00|22:30:00|La trasmissione live di Andrea Barbi con Marco Ligabue (fratello di Luciano) e Alberto Bertoli (figlio di Pierangelo) che racconta, canta e suona la musica d.o.c.
+|![Icon](https://guidatv.sky.it/uuid/75f7496e-5fb5-49b8-b880-4e805efc34f0/cover?md5ChecksumParam=77b06111b63a437f939d3ec6d186b1df)|Salute &amp; Benessere|22:30:00|23:30:00|Dedicata ai temi della sanita&#039; e della salute, ogni settimana la trasmissione affronta un tema diverso e si confronta con i professionisti delle aziende sanitarie.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Modena notte|23:30:00|23:45:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio notte|23:45:00|00:00:00|Il Telegiornale di Reggio Emilia e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna notte|00:00:00|00:15:00|Il Telegiornale di Bologna e provincia
@@ -93,17 +85,27 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|12Tg Parma|13:40:00|14:00:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna|14:00:00|14:30:00|Il Telegiornale di Bologna e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|14:30:00|15:00:00|Il Telegiornale della Romagna
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|91esimo minuto|15:00:00|16:15:00|Tutto cio&#039; che accade sui campi di gioco dei campionati di calcio dilettantistico della provincia e non solo, con sintesi delle partite, interviste e ospiti in studio
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Barba e Capelli|16:15:00|17:30:00|Un salone da barbiere d&#039;altri tempi con poltrone vecchio stile ed acconciatore all&#039;opera, i protagonisti delle diverse discipline commentano gli avvenimenti sportivi della settimana.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A tutta bici|15:00:00|16:00:00|Rotocalco settimanale dedicato agli appassionati e ai tifosi del grande ciclismo
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il medico e il cittadino|16:00:00|17:00:00|Dedicata ai temi della sanita&#039; e della salute, ogni settimana la trasmissione affronta un tema diverso e si confronta con i professionisti delle aziende sanitarie.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Casa &amp; bonus|17:00:00|17:30:00|Settimanale di informazione sulla Casa. Le ultime novita&#039; per quanto riguarda i bonus sulle ristrutturazioni edilizie e incentivi fiscali.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bologna Racconta|17:30:00|17:45:00|La citta&#039; si racconta attraverso storie, protagonisti, avvenimenti, curiosita&#039;
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Affari Quotidiani|18:05:00|18:30:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Modena|18:30:00|19:00:00|Il Telegiornale di Modena e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|19:00:00|19:30:00|Il Telegiornale della Romagna
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio|19:30:00|20:00:00|Il Telegiornale di Reggio Emilia e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meteo|19:00:00|19:05:00|Appuntamento quotidiano con le previsioni meteo di Emiliameteo.it
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Bologna|19:05:00|19:15:00|Notiziario sportivo di Bologna e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|LoSport Reggio|19:15:00|19:20:00|Notiziario sportivo di Reggio Emilia e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Affari Quotidiani|19:20:00|19:25:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Presse|19:25:00|19:30:00|Notizie dall&#039;Italia e dal mondo
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Romagna|19:30:00|20:00:00|Il Telegiornale della Romagna
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna|20:00:00|20:30:00|Il Telegiornale di Bologna e provincia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Motivi Familiari|20:30:00|22:30:00|La trasmissione live di Andrea Barbi con Marco Ligabue (fratello di Luciano) e Alberto Bertoli (figlio di Pierangelo) che racconta, canta e suona la musica d.o.c.
-|![Icon](https://guidatv.sky.it/uuid/75f7496e-5fb5-49b8-b880-4e805efc34f0/cover?md5ChecksumParam=77b06111b63a437f939d3ec6d186b1df)|Salute &amp; Benessere|22:30:00|23:30:00|Dedicata ai temi della sanita&#039; e della salute, ogni settimana la trasmissione affronta un tema diverso e si confronta con i professionisti delle aziende sanitarie.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio|20:30:00|21:00:00|Il Telegiornale di Reggio Emilia e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|12Tg Parma|21:00:00|21:20:00|Il Telegiornale di Parma e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Trc Sport Modena|21:20:00|21:30:00|Notiziario sportivo di Modena e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tv Giornale Ferrara|21:30:00|22:00:00|il Telegiornale di Ferrara e provincia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ViaEmiliaNet|22:00:00|22:30:00|Racconta quell&#039;economia reale che lungo la via Emilia concentra distretti di prim&#039;ordine,Made in Italy manifatturiero e agroindustria. In sinergia con ViaEmiliaNet, il portale web dell&#039;economia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Dentro la Citta&#039;|22:30:00|23:00:00|Settimanale di approfindimento sulla citta&#039; di Bologna
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Caffe&#039; da brivido|23:00:00|23:30:00|Rotocalco televisivo sul cinema Horror
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Modena notte|23:30:00|23:45:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Reggio notte|23:45:00|00:00:00|Il Telegiornale di Reggio Emilia e provincia
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Telegiornale Bologna notte|00:00:00|00:15:00|Il Telegiornale di Bologna e provincia
