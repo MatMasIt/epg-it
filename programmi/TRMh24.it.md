@@ -1,5 +1,5 @@
 # TRM h24
-> Programmazione di Mercoledì 22 Dicembre 2021
+> Programmazione di Giovedì 23 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
