@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Giovedì 23 Dicembre 2021
+> Programmazione di Venerdì 24 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
