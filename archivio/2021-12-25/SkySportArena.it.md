@@ -1,5 +1,5 @@
 # Sky Sport Arena
-> Programmazione di Venerdì 24 Dicembre 2021
+> Programmazione di Sabato 25 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
