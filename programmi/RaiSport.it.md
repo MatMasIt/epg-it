@@ -3,23 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|00:35:00|01:00:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|02:35:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Rai Sport|02:35:00|05:00:00|Speciale: Pablito per Sempre - A un anno di distanza dalla morte di Paolo Rossi uno speciale dedicato alla sua vita calcistica e umana.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|07:00:00|10:00:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Sassari - Tenerife|10:00:00|12:10:00|Champions League, Girone A - La Basketball Champions League 2021-2022, la principale competizione europea per club organizzata dalla FIBA. Detentrice del titolo e&#039; S.P. Burgos.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|12:10:00|12:40:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reparto Corse|12:40:00|13:10:00|Occhi puntati sul mondo dei motori.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Rai Sport|13:10:00|14:20:00|Speciale: Pablito per Sempre - A un anno di distanza dalla morte di Paolo Rossi uno speciale dedicato alla sua vita calcistica e umana.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|16:00:00|17:30:00|San Candido. SkyCross - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|17:30:00|18:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|18:00:00|18:40:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reparto Corse|18:40:00|19:40:00|Occhi puntati sul mondo dei motori.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|19:40:00|20:10:00|Review - Sport &amp; Movies - Riviviamo il meglio dello sport.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|20:10:00|23:50:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:50:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|07:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|07:00:00|08:45:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
@@ -29,6 +12,22 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|18:45:00|19:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|02:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|02:00:00|05:00:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|05:00:00|05:30:00|Riviviamo il meglio dello sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|07:00:00|07:25:00|Riviviamo il meglio dello sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|07:25:00|09:05:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Italia - Inghilterra|09:05:00|12:30:00|UEFA Euro 2020 - Finale. Riviviamo le emozioni della finale di Wembley in cui gli Azzurri di Mancini hanno conquistato il trofeo per la seconda volta nella storia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|12:30:00|13:40:00|Dendermonde. Prova Elite F Finali - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|13:40:00|13:55:00|Riviviamo il meglio dello sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|13:55:00|15:30:00|Dendermonde. Prova Elite M Finali - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Un anno di calcio|15:30:00|16:30:00|Riviviamo le emozioni calcistiche dell&#039;anno appena concluso. I trionfi, le sconfitte, le imprese ed i protagonisti dello sport piu&#039; amato dagli italiani.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|16:30:00|17:05:00|Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Firenze - Scandicci|17:05:00|19:25:00|Serie A1 F, 13a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Modena - Monza|19:25:00|22:00:00|Superlega, 13a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|22:00:00|23:10:00|Dendermonde. Prova Elite F Finali - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|23:10:00|00:45:00|Dendermonde. Prova Elite M Finali - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
 
 
 
