@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Sabato 25 Dicembre 2021
+> Programmazione di Domenica 26 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
