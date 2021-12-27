@@ -1,5 +1,5 @@
 # Rai News 24
-> Programmazione di Domenica 26 Dicembre 2021
+> Programmazione di Lunedì 27 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
