@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Lunedì 27 Dicembre 2021
+> Programmazione di Martedì 28 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
