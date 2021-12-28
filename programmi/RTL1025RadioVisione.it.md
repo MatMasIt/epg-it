@@ -3,6 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Nessun Dorma|00:00:00|02:00:00|Nessun Dorma, il nuovo esilarante talk show notturno di Mauro Coruzzi, in arte Platinette. Con il maggiordomo di Cetraro, Armando Piccolillo, il night social man, Leo Di Mauro, e i telefonisti Paolo R
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Ma la notte no|02:00:00|05:00:00|Ma la notte no e&#039; il programma del fine settimana di RTL 102.5, per chi ama fare le ore piccole. I racconti della notte, gli aneddoti di chi vive l&#039;altra parte del giorno e, come sempre, la nostra bu
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Non Stop News|05:00:00|08:00:00|Non Stop News e&#039; il magazine di informazione di RTL 102.5 a cura della redazione giornalistica. Approfondimenti d&#039;attualita&#039;, cronaca, collegamenti con i corrispondenti di RTL 102.5 dall&#039;Italia e dal
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Famiglia Giu&#039; Al Nord|08:00:00|10:00:00|La famiglia giu&#039; al nord e&#039; la famiglia piu&#039; allargata della radiofonia italiana: humor, simpatia e la migliore musica di RTL 102.5 per iniziare al meglio la giornata!
