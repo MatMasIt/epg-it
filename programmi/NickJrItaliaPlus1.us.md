@@ -1,5 +1,5 @@
 # Nick Jr Italia +1
-> Programmazione di Martedì 28 Dicembre 2021
+> Programmazione di Mercoledì 29 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
