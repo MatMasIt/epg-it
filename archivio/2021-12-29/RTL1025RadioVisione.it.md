@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Martedì 28 Dicembre 2021
+> Programmazione di Mercoledì 29 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
