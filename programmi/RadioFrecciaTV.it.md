@@ -21,7 +21,8 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Terra di nessuno|16:00:00|17:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Molo 17|17:00:00|19:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|L&#039;arca dell&#039;arte e del libero pensiero|19:00:00|21:00:00|Interagisci con noi al +39 366 663 44 66
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|L&#039;ultima luna|21:00:00|23:00:00|Interagisci con noi al +39 366 663 44 66
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|L&#039;ultima luna|21:00:00|22:00:00|Interagisci con noi al +39 366 663 44 66
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Rebel yell|22:00:00|23:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Rebel yell|23:00:00|02:00:00|Interagisci con noi al +39 366 663 44 66
 
 
