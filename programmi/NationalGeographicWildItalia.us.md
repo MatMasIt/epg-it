@@ -1,5 +1,5 @@
 # National Geographic Wild Italia
-> Programmazione di Mercoledì 29 Dicembre 2021
+> Programmazione di Giovedì 30 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
