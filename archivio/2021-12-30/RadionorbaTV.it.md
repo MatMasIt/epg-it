@@ -39,10 +39,10 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Breaking News|17:00:00|17:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Il Driving Time|17:05:00|18:00:00|Con Federico L&#039;Olandese Volante - Uno dei piu&#039; grandi dj italiani, on air ogni giorno dal lunedi al venerdi per intrattenere il pubblico con la sua inconfondibile voce e simpatia.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Breaking News|18:00:00|18:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Preserale|18:05:00|20:00:00|Con Angela Tangorra e Mauro Dalsogno - Tre ore di intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|20:00:00|22:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|23:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Music Night|23:00:00|04:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Capodanno in musica in diretta da Bari|18:05:00|20:05:00|Capodanno in musica in diretta da Bari - Capodanno in musica in diretta da Bari
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Capodanno in musica in diretta da Bari|20:05:00|22:05:00|Capodanno in musica in diretta da Bari - Capodanno in musica in diretta da Bari
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Capodanno in musica in diretta da Bari|22:05:00|23:00:00|Capodanno in musica in diretta da Bari - Capodanno in musica in diretta da Bari
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Weekend Compilation Night|23:00:00|06:00:00|Weekend Compilation Night - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
 
 
 

@@ -141,10 +141,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:00:00|21:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|21:30:00|22:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:00:00|22:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:30:00|23:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:00:00|23:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|23:30:00|00:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Euronews Tonight|22:30:00|22:52:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union|22:52:00|05:00:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
 
 
 
