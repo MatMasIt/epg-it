@@ -1,5 +1,5 @@
 # Discovery Channel Italia +1
-> Programmazione di Giovedì 30 Dicembre 2021
+> Programmazione di Venerdì 31 Dicembre 2021
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
