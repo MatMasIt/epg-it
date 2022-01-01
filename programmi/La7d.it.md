@@ -1,5 +1,5 @@
 # La 7 d
-> Programmazione di Venerdì 31 Dicembre 2021
+> Programmazione di Sabato 01 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
