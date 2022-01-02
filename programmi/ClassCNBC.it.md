@@ -1,5 +1,5 @@
 # Class CNBC
-> Programmazione di Sabato 01 Gennaio 2022
+> Programmazione di Domenica 02 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
