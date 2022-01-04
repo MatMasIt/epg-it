@@ -10,29 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|07:00:00|09:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scopri Diamonique!|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Diamonique, brand che simula il diamante in modo impeccabile per esaudire il desiderio di ogni donna di brillare tutti i giorni con un gioiello diverso.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|11:00:00|12:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|12:00:00|13:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all&#039;avanguardia e studi clinici dimostrati.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Dipinto di Blu, il talento per la moda|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Dipinto di Blu una collezione dal design elegante per soddisfare le donne dai gusti piu&#039; sofisticati grazie ad una costante ricerca di materiali e linee sempre nuovi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|14:00:00|15:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elemis, Natura, tecnologia, bellezza|15:00:00|16:00:00|ITA. Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all&#039;avanguardia e studi clinici dimostrati.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|16:00:00|17:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Stoneline, cucina sana e senza grassi|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Stoneline, linea di prodotti di alta qualita&#039; per cucinare senza grassi e rendere le pietanze piu&#039; sane, senza rinunciare al gusto.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|18:00:00|19:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Dipinto di Blu, il talento per la moda|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Dipinto di Blu una collezione dal design elegante per soddisfare le donne dai gusti piu&#039; sofisticati grazie ad una costante ricerca di materiali e linee sempre nuovi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scopri Diamonique!|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Diamonique, brand che simula il diamante in modo impeccabile per esaudire il desiderio di ogni donna di brillare tutti i giorni con un gioiello diverso.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con By Suardi|21:00:00|22:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta dei tessuti piu&#039; innovativi e alla moda per vestire la tua casa con stile e con Suardi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Stoneline, cucina sana e senza grassi|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Stoneline, linea di prodotti di alta qualita&#039; per cucinare senza grassi e rendere le pietanze piu&#039; sane, senza rinunciare al gusto.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nina Leonard, lo stile Newyorkese|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nina Leonard, lo stile Newyorkese|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Salute e Fitness|09:00:00|10:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta del modo migliore per curare la propria salute ed essere sempre belli e in forma.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mitarotonda, Classe e stile di oggi|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Mitarotonda un marchio e una collezione di scarpe che nasce per rispondere a specifiche esigenze della donna contemporanea.
@@ -48,6 +25,29 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nina Leonard, lo stile Newyorkese|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Rowenta|22:00:00|23:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|07:00:00|09:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Sui Tetti di Parigi, scarpe tres chic|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lo stile del relax con Cuddl Duds|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Doll10, Ridefinisci la bellezza|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Doll10, una linea di bellezza che mette la scienza e le innovazioni della tecnologia al servizio della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lo stile del relax con Cuddl Duds|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nails Inc.,Manicure con effetti speciali|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Nails Inc. gli smalti piu&#039; fashion formulati con le piu&#039; recenti tecnologie professionali e creati per donne che esigono qualita&#039; senza compromessi e risultati immediati.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Doll10, Ridefinisci la bellezza|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Doll10, una linea di bellezza che mette la scienza e le innovazioni della tecnologia al servizio della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Evolve Beauty, la natura della bellezza|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Evolve Beauty, brand che non contiene ingredienti di origine animale e che predilige materie prime di origine naturale e biologica.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Adesso e&#039; Moda|20:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Periea|22:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Officina della moda, The fashion factory|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 
