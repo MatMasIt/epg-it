@@ -1,5 +1,5 @@
 # CNN International Europe
-> Programmazione di Lunedì 03 Gennaio 2022
+> Programmazione di Martedì 04 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
