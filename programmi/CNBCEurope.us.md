@@ -17,7 +17,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|A look at how the markets are moving, what&#039;s driving them and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|22:00:00|22:30:00|Thailand: Infrastructure - Amata Corp relies on technology to keep ahead; Kerry Express Thailand expands.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|What Next for the Quad?|22:00:00|22:30:00|Economia
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
@@ -35,7 +35,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|A look at how the markets are moving, what&#039;s driving them and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|What Next for the Quad?|22:00:00|22:30:00|Economia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|22:00:00|22:30:00|Jim Hagemann Snabe - Jim Hagemann Snabe discusses technology and sustainability.
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.

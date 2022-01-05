@@ -3,34 +3,32 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Empoli-07/11/2021|01:35:00|03:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|03:20:00|03:55:00|Milan Tv-Speciale Magliette
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:55:00|04:35:00|Milan Tv-Speciale Mazzoni
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV-PILLOLA TWITCH|04:35:00|05:00:00|Milan TV-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION CHAMPIONS 93/94|06:45:00|07:00:00|GOL COLLECTION CHAMPIONS 93/94
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-01/12/2021|07:00:00|08:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Sampdoria vs Milan-11/12/2021|08:50:00|10:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Best Of 2021|10:35:00|10:45:00|Milan Tv-Best Of 2021
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Podcast L&#039;incanto di Pato|10:45:00|10:50:00|Podcast L&#039;incanto di Pato
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs vs Roma-28/06/2020|10:50:00|12:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Roma vs Milan-01/05/2021|12:55:00|14:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|UNFILTERED NOVEMBRE|14:40:00|14:50:00|UNFILTERED NOVEMBRE
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Bianco vs Milan Rosso-1993|14:50:00|16:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Tifosi a Firenze|16:35:00|16:45:00|Speciale Tifosi a Firenze
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Fiorentina vs Milan-20/11/2021|16:45:00|18:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|18:35:00|18:55:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Sacchi|18:55:00|19:35:00|Milan Tv-Itw Sacchi
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|19:35:00|19:45:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Best Of 2021|19:45:00|19:55:00|Milan Tv-Best Of 2021
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Addicted Saturinino|19:55:00|21:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Under My Skin-Krunic|21:40:00|21:50:00|Under My Skin-Krunic
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Roma-31/08/2018|21:50:00|23:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Roma-2000/2001|23:45:00|01:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-01/12/2021|01:30:00|03:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|03:20:00|03:55:00|Milan Tv-Speciale Magliette
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:55:00|04:30:00|Milan Tv-Speciale Mazzoni
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Addicted Saturinino|04:30:00|04:50:00|Milan Tv-Addicted Saturinino
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Roma-26/10/2020|04:30:00|04:50:00|Milan Tv-Addicted Saturinino
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|UNFILTERED SETTEMBRE|04:50:00|05:00:00|UNFILTERED SETTEMBRE
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Roma-10/10/2021|05:00:00|06:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma vs Milan-28/02/2021|06:40:00|06:55:00|Soulmates Desailly Savicevic Massaro
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Icons Maldini|08:45:00|08:55:00|Milan Tv-Icons Maldini
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Spal-04/12/2021|08:55:00|10:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma vs Milan-28/02/2021|10:40:00|10:50:00|Milan Tv-Allenamenti
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Roma-31/08/2018|10:50:00|12:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Conferenza Stampa Pioli-Live|12:45:00|13:10:00|Alla vigilia della prossima sfida che attende il suo Milan, Stefano Pioli risponde a tutte le domande dei giornalisti in conferenza stampa a Milanello: impressioni, sensazioni, scelte di formazione e punto sulle condizioni della squadra verso un nuovo impegno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Best Of 2021|13:10:00|13:25:00|Milan Tv-Best Of 2021
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Roma vs Milan-Live|13:25:00|14:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Tavella|14:20:00|14:30:00|Behind The Scene Tavella
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Roma vs Milan-Live|14:30:00|15:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs All Stars-Addio calcio Baresi|15:25:00|17:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Best Of 2021|19:15:00|19:25:00|Milan Tv-Best Of 2021
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Conferenza Stampa Pioli|19:25:00|19:50:00|Alla vigilia della prossima sfida che attende il suo Milan, Stefano Pioli risponde a tutte le domande dei giornalisti in conferenza stampa a Milanello: impressioni, sensazioni, scelte di formazione e punto sulle condizioni della squadra verso un nuovo impegno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Presentazione Libro Adrenalina|19:50:00|20:45:00|Presentazione Libro Adrenalina
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma vs Milan-28/02/2021|20:45:00|22:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Roma-26/10/2020|22:30:00|00:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Spal-04/12/2021|00:25:00|02:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Roma-10/10/2021|02:10:00|03:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|03:55:00|04:45:00|Milan Tv-Speciale Magliette
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Roma vs Milan|04:45:00|05:00:00|Behind The Scene Roma vs Milan
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|05:00:00|11:00:00|Milan Tv
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|11:00:00|17:00:00|Milan Tv
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|17:00:00|23:00:00|Milan Tv
