@@ -1,5 +1,5 @@
 # MTV Music Italia
-> Programmazione di Martedì 04 Gennaio 2022
+> Programmazione di Mercoledì 05 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
