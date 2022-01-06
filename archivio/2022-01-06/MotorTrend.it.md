@@ -1,5 +1,5 @@
 # Motor Trend
-> Programmazione di Mercoledì 05 Gennaio 2022
+> Programmazione di Giovedì 06 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
