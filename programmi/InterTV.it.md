@@ -1,5 +1,5 @@
 # Inter TV
-> Programmazione di Giovedì 06 Gennaio 2022
+> Programmazione di Venerdì 07 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
