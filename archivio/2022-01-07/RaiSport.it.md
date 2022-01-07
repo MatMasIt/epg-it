@@ -3,21 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Un anno di calcio|07:00:00|08:00:00|Riviviamo le emozioni calcistiche dell&#039;anno appena concluso. I trionfi, le sconfitte, le imprese ed i protagonisti dello sport piu&#039; amato dagli italiani.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Conegliano - Busto Arsizio|08:00:00|10:30:00|Coppa Italia F, Final Four. 1a semiifinale - Le partite che decidono la Coppa Italia del volley in rosa.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Milano - V. Bologna|10:30:00|12:20:00|Serie A, 13a g - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torneo I Quattro Trampolini|12:20:00|13:00:00|...Trampolini. Innsbruck. HS 130 Individuale - Il Torneo dei Quattro Trampolini e&#039; un appuntamento imperdibile per gli appassionati di salto con gli sci, ma e&#039; un grande spettacolo per tutti.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Cross del Campaccio (live)|13:00:00|14:45:00|La manifestazione e&#039; giunta alla sua 65esima edizione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|14:45:00|15:00:00|Zagabria. Slalom Speciale M 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Milano - Piacenza (live)|15:00:00|17:30:00|Superlega, 16a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|17:30:00|17:40:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|17:40:00|18:40:00|Zagabria. Slalom Speciale M 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci (live)|18:40:00|19:00:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|19:00:00|19:30:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torneo I Quattro Trampolini|19:30:00|21:00:00|...Trampolini. Bischofshofen. HS 142 Individuale - Il Torneo dei Quattro Trampolini e&#039; un appuntamento imperdibile per gli appassionati di salto con gli sci, ma e&#039; un grande spettacolo per tutti.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Coppa Italia F (live)|21:00:00|23:35:00|Final Four. Finale - Le partite che decidono la Coppa Italia del volley in rosa.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:35:00|01:20:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|01:20:00|03:05:00|Bayern Monaco - Aston Villa: Coppa dei Campioni 26-5-82 Finale - Riviviamo il meglio dello sport.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|03:05:00|05:00:00|Lussemburgo-Inghilterra/Italia-Portogallo Under 21 del 12-10-77 Finale - Riviviamo il meglio dello sport.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|05:00:00|05:30:00|Riviviamo il meglio dello sport.
@@ -36,6 +21,31 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Calcio Totale (live)|22:00:00|23:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Rai Sport|23:00:00|23:15:00|Notte - Ogni giorno le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|01:00:00|02:05:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|02:05:00|02:50:00|Roma - Juventus 6-3-1983 2ndo tempo - Riviviamo il meglio dello sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Memory|02:50:00|05:00:00|Inter-Torino 21-12-1980 1mo tempo - Riviviamo il meglio dello sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Tokyo 2020|07:00:00|08:15:00|The Best Of - A Tokyo i migliori atleti del mondo inseguono il sogno di una vita, conquistare una medaglia ai Giochi Olimpici.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|08:15:00|08:30:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|08:30:00|09:30:00|Maribor. Slalom Gigante F 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|09:30:00|10:30:00|Adelboden. Slalom Gigante M 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|10:30:00|10:45:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|10:45:00|11:15:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|11:15:00|11:30:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|11:30:00|12:30:00|Maribor. Slalom Gigante F 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|12:30:00|13:30:00|Adelboden. Slalom Gigante M 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|13:30:00|13:45:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Gli Imperdibili|13:45:00|13:50:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reggiana - Modena|13:50:00|16:00:00|Serie C - 21a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Europei|16:00:00|16:50:00|2a g - Ad Herenveen, in Olanda, si sfidano i migliori pattinatori su ghiaccio del continente, tutti a caccia del titolo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Monza - Ravenna|16:50:00|19:20:00|Superlega, 17a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Trentino - Volley Bergamo|19:20:00|21:55:00|Serie A1 F, 14a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|21:55:00|22:20:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato|22:20:00|23:00:00|Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:20:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato|23:20:00|23:30:00|Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:30:00|02:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 
 
 
