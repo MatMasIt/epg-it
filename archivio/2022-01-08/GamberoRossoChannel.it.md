@@ -1,5 +1,5 @@
 # Gambero Rosso Channel
-> Programmazione di Venerdì 07 Gennaio 2022
+> Programmazione di Sabato 08 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
