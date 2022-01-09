@@ -1,0 +1,72 @@
+# CNN International Europe
+> Programmazione di Sabato 08 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Erin Burnett OutFront|00:00:00|01:00:00|Erin Burnett stays ahead of the headlines, delivering a show that&#039;s in-depth and informative.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|01:00:00|03:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|03:00:00|05:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Michael Holmes|05:00:00|05:15:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketplace Africa|05:15:00|05:30:00|Senegal builds a vaccine manufacturing facility they say will produce and distribute millions of doses of the Covid-19 shot; Devki Group&#039;s path to success and goals for the future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|05:30:00|06:00:00|Meet four South African Paralympians who are living proof that mental strength and the right attitude can lead to seemingly impossible physical achievements.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connecting Africa|06:00:00|06:30:00|Smart Africa is the Rwanda-based organization developing the digital infrastructure on the continent; the Tony Elumelu Foundation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Expo 2020|06:30:00|07:00:00|Countries come together at the World Expo in Dubai with promising projects harnessing the power of the elements air, earth, water, and sun, to create a more sustainable future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|07:00:00|07:30:00|We talk to the Grammy Award-winning recording artist and his family about the moves they&#039;ve made to establish the singer as the self-proclaimed &#039;African Giant&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Special|07:30:00|07:45:00|Celebrating 30 years of independence from the Soviet Union, in 2021, Uzbekistan is a young country with a youthful population hoping to put the country on the international map.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketplace Africa|07:45:00|08:00:00|Backyard ponds and large-scale fish farms are helping Ghana sustainably raise popular fish; the importance of reducing the private sector&#039;s carbon footprint.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Michael Holmes|08:00:00|09:00:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Ivan Watson - 1^TV|09:00:00|11:00:00|Live from Hong Kong, Ivan Watson brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Expo 2020|11:00:00|11:30:00|Countries come together at the World Expo in Dubai with promising projects harnessing the power of the elements air, earth, water, and sun, to create a more sustainable future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|11:30:00|12:00:00|Meet four South African Paralympians who are living proof that mental strength and the right attitude can lead to seemingly impossible physical achievements.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day Saturday - 1^TV|12:00:00|13:00:00|Christi Paul and Boris Sanchez report the latest news and top stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day Saturday - 1^TV|13:00:00|14:00:00|Christi Paul and Boris Sanchez report the latest news and top stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Smerconish|14:00:00|15:00:00|Michael Smerconish tackles the American political and news stories of the week.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|15:00:00|16:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|16:00:00|17:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|17:00:00|17:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|17:30:00|18:00:00|In Nigeria, a rising Nollywood producer is empowering the next generation of filmmakers; a British-Ghanaian hairstylist is elevating the natural hair movement across continents.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|18:00:00|19:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|19:00:00|20:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|20:00:00|21:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|21:00:00|22:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|22:00:00|22:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|22:30:00|23:00:00|Meet four South African Paralympians who are living proof that mental strength and the right attitude can lead to seemingly impossible physical achievements.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|23:00:00|00:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|00:00:00|01:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|00:00:00|01:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Saturday - 1^TV|01:00:00|02:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport Presents|02:30:00|03:00:00|Coy Wire looks back on, and forward to, an Olympic year like no other.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|03:00:00|03:30:00|Meet four South African Paralympians who are living proof that mental strength and the right attitude can lead to seemingly impossible physical achievements.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|03:30:00|04:00:00|We talk to the Grammy Award-winning recording artist and his family about the moves they&#039;ve made to establish the singer as the self-proclaimed &#039;African Giant&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connecting Africa|04:00:00|04:30:00|Smart Africa is the Rwanda-based organization developing the digital infrastructure on the continent; the Tony Elumelu Foundation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketplace Africa|04:30:00|04:45:00|Senegal builds a vaccine manufacturing facility they say will produce and distribute millions of doses of the Covid-19 shot; Devki Group&#039;s path to success and goals for the future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketplace Africa|04:45:00|05:00:00|Backyard ponds and large-scale fish farms are helping Ghana sustainably raise popular fish; the importance of reducing the private sector&#039;s carbon footprint.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Michael Holmes|05:00:00|05:30:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Expo 2020|05:30:00|06:00:00|Countries come together at the World Expo in Dubai with promising projects harnessing the power of the elements air, earth, water, and sun, to create a more sustainable future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Special Report|06:00:00|07:00:00|CNN&#039;s Dr. Sanjay Gupta investigates the effects of marijuana, following several families who have seen positive effects of marijuana use for their children with Autism.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|07:00:00|07:30:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|07:30:00|08:00:00|We talk to the Grammy Award-winning recording artist and his family about the moves they&#039;ve made to establish the singer as the self-proclaimed &#039;African Giant&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|08:00:00|09:00:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kristie Lu Stout|09:00:00|11:00:00|Live from Hong Kong, Kristie Lu Stout brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connecting Africa|11:00:00|11:30:00|Smart Africa is the Rwanda-based organization developing the digital infrastructure on the continent; the Tony Elumelu Foundation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|11:30:00|12:00:00|We talk to the Grammy Award-winning recording artist and his family about the moves they&#039;ve made to establish the singer as the self-proclaimed &#039;African Giant&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day Sunday - 1^TV|12:00:00|13:00:00|Christi Paul and Boris Sanchez report the latest news and top stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Politics|13:00:00|14:00:00|An insider&#039;s look into the key stories of the week from John King and a group of America&#039;s top political reporters.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|State of the Union with Jake Tapper|14:00:00|15:00:00|Jake Tapper brings together major news makers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fareed Zakaria GPS|15:00:00|16:00:00|Fareed Zakaria GPS takes a comprehensive look at foreign affairs and the policies shaping our world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Reliable Sources|16:00:00|17:00:00|CNN&#039;s Reliable Sources examines how journalists do their jobs and how the media affect the stories they cover.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|17:00:00|17:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|17:30:00|18:00:00|Meet four South African Paralympians who are living proof that mental strength and the right attitude can lead to seemingly impossible physical achievements.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Expo 2020|18:00:00|18:30:00|Countries come together at the World Expo in Dubai with promising projects harnessing the power of the elements air, earth, water, and sun, to create a more sustainable future.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|18:30:00|19:00:00|We talk to the Grammy Award-winning recording artist and his family about the moves they&#039;ve made to establish the singer as the self-proclaimed &#039;African Giant&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|19:00:00|20:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|20:00:00|21:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|21:00:00|22:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|22:00:00|22:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connecting Africa|22:30:00|23:00:00|Smart Africa is the Rwanda-based organization developing the digital infrastructure on the continent; the Tony Elumelu Foundation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|23:00:00|00:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|00:00:00|01:00:00|Updates of the latest news from around the world.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
