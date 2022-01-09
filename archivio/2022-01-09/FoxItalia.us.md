@@ -1,5 +1,5 @@
 # Fox Italia
-> Programmazione di Sabato 08 Gennaio 2022
+> Programmazione di Domenica 09 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
