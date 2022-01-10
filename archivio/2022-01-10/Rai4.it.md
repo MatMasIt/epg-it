@@ -1,5 +1,5 @@
 # Rai 4
-> Programmazione di Domenica 09 Gennaio 2022
+> Programmazione di Lunedì 10 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
