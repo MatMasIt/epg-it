@@ -1,5 +1,5 @@
 # DeA Junior
-> Programmazione di Lunedì 10 Gennaio 2022
+> Programmazione di Martedì 11 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
