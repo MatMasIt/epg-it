@@ -1,5 +1,5 @@
 # Sky Cinema Due
-> Programmazione di Martedì 11 Gennaio 2022
+> Programmazione di Mercoledì 12 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
