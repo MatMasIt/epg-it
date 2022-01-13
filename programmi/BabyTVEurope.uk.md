@@ -1,5 +1,5 @@
 # Baby TV Europe
-> Programmazione di Mercoledì 12 Gennaio 2022
+> Programmazione di Giovedì 13 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
