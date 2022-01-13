@@ -10,21 +10,22 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Cogal|09:00:00|10:00:00|ITA. Scopri Qvc. Fatti accompagnare dai nostri personal shopper alla scoperta di Cogal e tanti prodotti adatti a tutti I gusti e tutte le case.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vitaform, Piedi felici|10:00:00|11:00:00|ITA. Scopri Qvc. Scopri Vitaform, da 25 anni produce calzature comode, eleganti e rispettose dei movimenti e dell&#039;anatomica del piede, cosi&#039; che le sue funzioni vengono tutte rispettate.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|11:00:00|12:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Cogal|12:00:00|13:00:00|ITA. Scopri Qvc. Fatti accompagnare dai nostri personal shopper alla scoperta di Cogal e tanti prodotti adatti a tutti I gusti e tutte le case.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wellness Play con Syrio|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers il tuo stile in primo piano|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers il tuo stile in primo piano|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Syrio B-Lift, Formule di bellezza|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers il tuo stile in primo piano|19:00:00|20:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|20:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Giacconi e cappotti collection|22:00:00|23:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta della collezione di cappotti per scaldare il tuo invernno.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|07:00:00|09:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|G3 Ferrari, semplicemente casa|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|10:00:00|11:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Sconti d&#039;inverno con Diamonique|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wellness Play con Loux by DdB|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|15:00:00|16:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Loux by DdB, indossa il lusso del relax|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|19:00:00|20:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Appuntamento in Cucina|20:00:00|21:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la casa con Crown Bedding|21:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con G3 Ferrari|22:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade, le hit piu&#039; calde della moda|23:00:00|00:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
@@ -33,21 +34,21 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Damart, benessere sulla pelle|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Damart, brand di intimo per la vita di tutti i giorni, che dal 1953 offre capi moderni e dal comfort assoluto, garantito dalla tecnologia Thermolactyl.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|BaByliss Paris,Reinventa i tuoi capelli|10:00:00|11:00:00|ITA. Scopri QVC. Scopri BaByliss fin dalla sua creazione nel 1961, BaByliss si e&#039; affermata come un vero esperto dell&#039;acconciatura e della bellezza.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|11:00:00|12:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scalda il tuo look|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Scalda il tuo Look. Nei mesi piu&#039; freddi e&#039; divertente giocare con gli accessori, sia in casa che fuori casa.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wellness Play con Salute&amp;Fitness|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Enjoy, divertirsi con la moda|15:00:00|16:00:00|ITA. Enjoy e&#039; il brand di moda che cattura le tendenze del momento e le reinterpreta.Il suo stile si rivolge a tutte le donne che amano giocare con la moda ed esprimersi attraverso il proprio look.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scalda il tuo look|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Scalda il tuo Look. Nei mesi piu&#039; freddi e&#039; divertente giocare con gli accessori, sia in casa che fuori casa.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|BaByliss Paris,Reinventa i tuoi capelli|19:00:00|20:00:00|ITA. Scopri QVC. Scopri BaByliss fin dalla sua creazione nel 1961, BaByliss si e&#039; affermata come un vero esperto dell&#039;acconciatura e della bellezza.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Adesso e&#039; Moda|20:00:00|22:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il tuo benessere con Homedics|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Crown Bedding, qualita&#039; al tuo riposo|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Crown Bedding produttore da oltre cento anni di soluzioni di riposo pratiche e funzionali.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade veste Bianca della Torre|07:00:00|09:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Shair, I professionisti dell&#039;haircare|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Questione di Stile|10:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Kipling, borse per ogni momento|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Kipling, borse ed accessori conosciuti per eleganza del design e qualita&#039;. Ampia gamma di colori e dimensioni per prodotti classici e moderni caratterizzati da linee accattivanti.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wellness Play con Skechers|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade veste Colour Lab|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|N.1 PERFETTO,il make up delle Star|15:00:00|16:00:00|ITA. Scopri N.1 Perfetto.Linea di make-up creata da Paolo Pinna per donare alla pelle un aspetto piu&#039; luminoso.La luce viene creata grazie all&#039;ingrediente-chiave di tutta la linea, la polvere di diamante.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Gli imperdibili delle 5|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade veste Dipinto di Blu|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|N.1 PERFETTO,il make up delle Star|19:00:00|20:00:00|ITA. Scopri N.1 Perfetto.Linea di make-up creata da Paolo Pinna per donare alla pelle un aspetto piu&#039; luminoso.La luce viene creata grazie all&#039;ingrediente-chiave di tutta la linea, la polvere di diamante.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Centigrade veste Dipinto di Blu|21:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Skechers, Calzature e lifestyle|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Imedeen, nutre la bellezza della pelle|23:00:00|00:00:00|ITA. Scopri QVC. Scopri IMEDEEN un marchio di alta gamma che crea formule mirate per le diverse esigenze della pelle, tutte pensate per ridurre la visibilita&#039; di linee d&#039;espressione e rughe.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 

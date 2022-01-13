@@ -14,9 +14,9 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|02:27:00|02:42:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|02:42:00|03:01:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:01:00|03:16:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:16:00|03:29:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:29:00|03:44:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:44:00|04:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:16:00|03:31:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|03:31:00|03:51:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:51:00|04:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:00:00|04:08:00|Buongiorno - almanacco
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:08:00|04:17:00|Buongiorno - almanacco
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:17:00|04:26:00|Buongiorno - almanacco
@@ -134,8 +134,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Pomeriggio Norba|13:45:00|15:50:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|15:50:00|16:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 sport|16:05:00|16:20:00|Gli avvenimenti sportivi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|16:20:00|16:35:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|16:35:00|16:50:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|16:20:00|16:35:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|16:35:00|16:50:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|16:50:00|17:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Salute Magazine|17:05:00|17:20:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 sport|17:20:00|17:35:00|Gli avvenimenti sportivi
@@ -143,29 +143,30 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|17:50:00|18:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|18:05:00|18:20:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TG Norba 24 LIS|18:20:00|18:25:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Salute Magazine|18:25:00|18:40:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|18:40:00|18:55:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|18:25:00|18:40:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Salute Magazine|18:40:00|18:55:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|18:55:00|19:10:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:10:00|19:25:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:25:00|19:40:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:40:00|19:55:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|19:55:00|20:10:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:10:00|20:25:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:25:00|20:40:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:40:00|20:55:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|20:55:00|21:05:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|21:05:00|21:20:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|19:25:00|19:40:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|19:40:00|19:50:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|19:50:00|20:05:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|20:05:00|20:20:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|20:20:00|20:35:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|20:35:00|20:50:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|20:50:00|21:05:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|21:05:00|21:20:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|21:20:00|21:35:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|21:35:00|21:50:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Colori|21:50:00|22:05:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Zoom Cronaca|21:50:00|22:05:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|22:05:00|22:20:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|22:20:00|22:35:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|22:35:00|22:54:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|22:54:00|23:09:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|23:09:00|23:24:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|23:24:00|23:43:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|23:43:00|23:58:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|23:58:00|00:13:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|22:35:00|22:50:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|22:50:00|23:05:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|23:05:00|23:20:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|23:20:00|23:35:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|23:35:00|23:50:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Il Graffio|23:50:00|00:00:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|00:00:00|00:15:00|Notiziario
 
 
 
