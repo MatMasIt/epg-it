@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Giovedì 13 Gennaio 2022
+> Programmazione di Venerdì 14 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
