@@ -1,5 +1,5 @@
 # Sky Uno
-> Programmazione di Venerdì 14 Gennaio 2022
+> Programmazione di Sabato 15 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
