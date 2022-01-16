@@ -3,46 +3,47 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
-|![Icon](https://guidatv.sky.it/uuid/6648ece2-9394-4dde-b1b9-5805848c8752/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|01:00:00|02:00:00|Tucker Carlson brings a live hour of spirited debate.
-|![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|02:00:00|03:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
-|![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|03:00:00|04:00:00|Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about.
-|![Icon](https://guidatv.sky.it/uuid/9ee62089-3415-498a-8037-2bbc53ff6709/cover?md5ChecksumParam=f23115ed59ac614334d8337936cea0a9)|Gutfeld!|04:00:00|05:00:00|Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture.
-|![Icon](https://guidatv.sky.it/uuid/7d94ec2e-945a-42ab-9efd-73cb35d40682/cover?md5ChecksumParam=0752ae143bb8f70a1448458da8e6d205)|Fox News @ Night|05:00:00|06:00:00|Host Shannon Bream - Shannon Bream gives news analysis on the most compelling stories.
-|![Icon](https://guidatv.sky.it/uuid/6648ece2-9394-4dde-b1b9-5805848c8752/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|06:00:00|07:00:00|Tucker Carlson brings a live hour of spirited debate.
-|![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|07:00:00|08:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
-|![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|08:00:00|09:00:00|Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about.
-|![Icon](https://guidatv.sky.it/uuid/6569d04f-66e6-444b-9530-295fedfe14a6/cover?md5ChecksumParam=58835f4f5ebb5953bc1783cb929f24ec)|Fox &amp; Friends First|09:00:00|11:00:00|Hosts Heather Childers, Jillian Mele and Rob Schmitt - Heather Childers, Jillian Mele and Rob Schmitt highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/1a322b1b-ee61-4911-b7d4-20dbe77d930d/cover?md5ChecksumParam=2c06fa2ea09852606a462604817271f0)|Fox &amp; Friends|11:00:00|14:00:00|Hosts Ainsley Earhardt, Steve Doocy and Brian Kilmeade - Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America&#039;s Newsroom|14:00:00|16:00:00|Hosts Bill Hemmer and Dana Perino - Bill Hemmer and Dana Perino report the days news.
-|![Icon](https://guidatv.sky.it/uuid/e7029708-8127-41a8-b3ff-d653e4ae2831/cover?md5ChecksumParam=af652d2507cbc35801f6221b2f2d0775)|The Faulkner Focus|16:00:00|17:00:00|Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews.
-|![Icon](https://guidatv.sky.it/uuid/832410a2-29b2-4754-8f12-f32397742800/cover?md5ChecksumParam=185e12f7f78aad4e8531a23200d73a27)|Outnumbered|17:00:00|18:00:00|Rotating panel featuring four women and one man, gives a fresh take on the days news.
-|![Icon](https://guidatv.sky.it/uuid/1993b12c-04ef-44c1-84b6-3d4c7bc1d9ca/cover?md5ChecksumParam=f25f171449cdac725e68708a9307fe36)|America Reports|18:00:00|20:00:00|Hosts John Roberts and Sandra Smith - John Roberts and Sandra Smith report the days news.
-|![Icon](https://guidatv.sky.it/uuid/7ac6ca0e-822e-44b0-8d49-fefdc1e080a9/cover?md5ChecksumParam=a720921eabe958d104353cda28b11daa)|The Story|20:00:00|21:00:00|Host Martha MacCallum - Martha MacCallum focuses on the issues that are most important to Americans.
-|![Icon](https://guidatv.sky.it/uuid/cc652ed4-6b15-462b-9cca-54e02813f844/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|21:00:00|22:00:00|Neil Cavuto has all the days business news and market moves.
-|![Icon](https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|22:00:00|23:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
-|![Icon](https://guidatv.sky.it/uuid/70e3d89b-a9ec-4ebe-9b05-f992f7534a31/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|23:00:00|00:00:00|Bret Baier reports on the days events from Washington DC.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
-|![Icon](https://guidatv.sky.it/uuid/6648ece2-9394-4dde-b1b9-5805848c8752/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|01:00:00|02:00:00|Tucker Carlson brings a live hour of spirited debate.
-|![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|02:00:00|03:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
-|![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|03:00:00|04:00:00|Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about.
-|![Icon](https://guidatv.sky.it/uuid/9ee62089-3415-498a-8037-2bbc53ff6709/cover?md5ChecksumParam=f23115ed59ac614334d8337936cea0a9)|Gutfeld!|04:00:00|05:00:00|Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture.
-|![Icon](https://guidatv.sky.it/uuid/7d94ec2e-945a-42ab-9efd-73cb35d40682/cover?md5ChecksumParam=0752ae143bb8f70a1448458da8e6d205)|Fox News @ Night|05:00:00|06:00:00|Host Shannon Bream - Shannon Bream gives news analysis on the most compelling stories.
-|![Icon](https://guidatv.sky.it/uuid/6648ece2-9394-4dde-b1b9-5805848c8752/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|06:00:00|07:00:00|Tucker Carlson brings a live hour of spirited debate.
-|![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|07:00:00|08:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
-|![Icon](https://guidatv.sky.it/uuid/9d44aded-99a3-4a09-969a-8a1ea2a1a0af/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|08:00:00|09:00:00|Host Laura Ingraham - Laura Ingraham discusses the issues our country is in turmoil about.
-|![Icon](https://guidatv.sky.it/uuid/6569d04f-66e6-444b-9530-295fedfe14a6/cover?md5ChecksumParam=58835f4f5ebb5953bc1783cb929f24ec)|Fox &amp; Friends First|09:00:00|11:00:00|Hosts Heather Childers, Jillian Mele and Rob Schmitt - Heather Childers, Jillian Mele and Rob Schmitt highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/1a322b1b-ee61-4911-b7d4-20dbe77d930d/cover?md5ChecksumParam=2c06fa2ea09852606a462604817271f0)|Fox &amp; Friends|11:00:00|14:00:00|Hosts Ainsley Earhardt, Steve Doocy and Brian Kilmeade - Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
-|![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America&#039;s Newsroom|14:00:00|16:00:00|Hosts Bill Hemmer and Dana Perino - Bill Hemmer and Dana Perino report the days news.
-|![Icon](https://guidatv.sky.it/uuid/e7029708-8127-41a8-b3ff-d653e4ae2831/cover?md5ChecksumParam=af652d2507cbc35801f6221b2f2d0775)|The Faulkner Focus|16:00:00|17:00:00|Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews.
-|![Icon](https://guidatv.sky.it/uuid/832410a2-29b2-4754-8f12-f32397742800/cover?md5ChecksumParam=185e12f7f78aad4e8531a23200d73a27)|Outnumbered|17:00:00|18:00:00|Rotating panel featuring four women and one man, gives a fresh take on the days news.
-|![Icon](https://guidatv.sky.it/uuid/1993b12c-04ef-44c1-84b6-3d4c7bc1d9ca/cover?md5ChecksumParam=f25f171449cdac725e68708a9307fe36)|America Reports|18:00:00|20:00:00|Hosts John Roberts and Sandra Smith - John Roberts and Sandra Smith report the days news.
-|![Icon](https://guidatv.sky.it/uuid/7ac6ca0e-822e-44b0-8d49-fefdc1e080a9/cover?md5ChecksumParam=a720921eabe958d104353cda28b11daa)|The Story|20:00:00|21:00:00|Host Martha MacCallum - Martha MacCallum focuses on the issues that are most important to Americans.
-|![Icon](https://guidatv.sky.it/uuid/cc652ed4-6b15-462b-9cca-54e02813f844/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|21:00:00|22:00:00|Neil Cavuto has all the days business news and market moves.
-|![Icon](https://guidatv.sky.it/uuid/98aa916c-e4b7-4631-870a-d41bce09656f/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|22:00:00|23:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
-|![Icon](https://guidatv.sky.it/uuid/70e3d89b-a9ec-4ebe-9b05-f992f7534a31/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|23:00:00|00:00:00|Bret Baier reports on the days events from Washington DC.
-|![Icon](https://guidatv.sky.it/uuid/954a9b6e-eefe-485a-98bf-0bd20e59ceeb/cover?md5ChecksumParam=f697e190c4353815daea7025e57b8394)|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
+|![Icon]()|Unfiltered|00:00:00|01:00:00|Dan Bongino exposes bias in the media and lies pushed by politicians and the left.
+|![Icon]()|Watters World|01:00:00|02:00:00|Jesse Watters hosts with compelling guests and top newsmakers.
+|![Icon]()|Justice with Judge Jeanine|02:00:00|03:00:00|Judge Jeanine Pirro&#039;s insights on the legal news of the week.
+|![Icon]()|Unfiltered|03:00:00|04:00:00|Dan Bongino exposes bias in the media and lies pushed by politicians and the left.
+|![Icon]()|Watters World|04:00:00|05:00:00|Jesse Watters hosts with compelling guests and top newsmakers.
+|![Icon]()|Fox &amp; Friends Sunday|05:00:00|09:00:00|Hosts Pete Hegseth, Rachel Campos-Duffy and Will Cain - Pete Hegseth, Rachel Campos-Duffy and Will Cain highlight the latest in news, weather, sports and entertainment.
+|![Icon]()|Sunday Morning Futures|09:00:00|10:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
+|![Icon]()|Mediabuzz|10:00:00|11:00:00|The state of the media news. With Howie Kurtz.
+|![Icon]()|Fox News Live|11:00:00|12:00:00|Hosts Eric Shawn and Arthel Neville - Fox News Live on Fox News Channel reports the latest national and world news. Hosts Eric Shawn and Arthel Neville.
+|![Icon]()|Fox News Live|12:00:00|13:00:00|Host Mike Emanuel - Fox News Live on Fox News Channel reports the latest national and world news. Host Mike Emanuel.
+|![Icon]()|Fox News Sunday|13:00:00|14:00:00|Host John Roberts - John Roberts interviews the top newsmakers of the week.
+|![Icon]()|Sunday Morning Futures|14:00:00|15:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
+|![Icon]()|Fox News Live|15:00:00|16:00:00|Hosts Eric Shawn and Arthel Neville - Fox News Live on Fox News Channel reports the latest national and world news. Hosts Eric Shawn and Arthel Neville.
+|![Icon]()|The Big Sunday Show|16:00:00|17:00:00|Hosts Lara Trump, Leo Terrell, Joey Jones, Jackie DeAngelis - Lara Trump, Leo Terrell, Joey Jones, Jackie DeAngelis discuss the big news of the day.
+|![Icon]()|Fox Report with Jon Scott|17:00:00|18:00:00|Highlights the latest developments and breaking news in the U.S. and around the globe.
+|![Icon]()|Sunday Night in America|18:00:00|19:00:00|An insightful analysis and a new outlook on the latest issues facing the country. With Trey Gowdy.
+|![Icon]()|Life, Liberty &amp; Levin|19:00:00|20:00:00|Long Form interviews covering History, Philosophy and economics. With Mark Levin.
+|![Icon]()|The Next Revolution|20:00:00|21:00:00|Steve Hilton focuses on the impact of the populist movement throughout the world.
+|![Icon]()|Sunday Night in America|21:00:00|22:00:00|An insightful analysis and a new outlook on the latest issues facing the country. With Trey Gowdy.
+|![Icon]()|Life, Liberty &amp; Levin|22:00:00|23:00:00|Long Form interviews covering History, Philosophy and economics. With Mark Levin.
+|![Icon]()|The Next Revolution|23:00:00|00:00:00|Steve Hilton focuses on the impact of the populist movement throughout the world.
+|![Icon]()|Sunday Night in America|00:00:00|01:00:00|An insightful analysis and a new outlook on the latest issues facing the country. With Trey Gowdy.
+|![Icon]()|Sunday Night in America|00:00:00|01:00:00|An insightful analysis and a new outlook on the latest issues facing the country. With Trey Gowdy.
+|![Icon]()|Fox News Sunday|01:00:00|02:00:00|Host John Roberts - John Roberts interviews the top newsmakers of the week.
+|![Icon]()|The Next Revolution|02:00:00|03:00:00|Steve Hilton focuses on the impact of the populist movement throughout the world.
+|![Icon]()|Fox &amp; Friends First|03:00:00|05:00:00|Hosts Griff Jenkins and Ashley Strohmier - Griff Jenkins and Ashley Strohmier highlight the latest in news, weather, sports and entertainment.
+|![Icon]()|The Next Revolution|05:00:00|06:00:00|Steve Hilton focuses on the impact of the populist movement throughout the world.
+|![Icon]()|Fox Nation Presents|06:00:00|07:00:00|News Special.
+|![Icon]()|Fox News Sunday|07:00:00|08:00:00|The interviews to the top newsmakers of the week.
+|![Icon]()|Mediabuzz|08:00:00|09:00:00|The state of the media news. With Howie Kurtz.
+|![Icon]()|Fox &amp; Friends First|09:00:00|11:00:00|Hosts Heather Childers, Jillian Mele and Rob Schmitt - Heather Childers, Jillian Mele and Rob Schmitt highlight the latest in news, weather, sports and entertainment.
+|![Icon]()|Fox &amp; Friends|11:00:00|14:00:00|Hosts Ainsley Earhardt, Steve Doocy and Brian Kilmeade - Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
+|![Icon]()|America&#039;s Newsroom|14:00:00|16:00:00|Hosts Bill Hemmer and Dana Perino - Bill Hemmer and Dana Perino report the days news.
+|![Icon]()|The Faulkner Focus|16:00:00|17:00:00|Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews.
+|![Icon]()|Outnumbered|17:00:00|18:00:00|Rotating panel featuring four women and one man, gives a fresh take on the days news.
+|![Icon]()|America Reports|18:00:00|20:00:00|Rotating panelist report the days news.
+|![Icon]()|The Story|20:00:00|21:00:00|A focus on the issues that are most important to Americans.
+|![Icon]()|Your World|21:00:00|22:00:00|Neil Cavuto has all the days business news and market moves.
+|![Icon]()|The Five|22:00:00|23:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
+|![Icon]()|Special Report|23:00:00|00:00:00|Bret Baier reports on the days events from Washington DC.
+|![Icon]()|Fox News Primetime|00:00:00|01:00:00|Rotating group of Fox News opinion hosts give their take on today&#039;s news.
 
 
 
