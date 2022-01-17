@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Domenica 16 Gennaio 2022
+> Programmazione di Lunedì 17 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
