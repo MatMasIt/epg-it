@@ -3,20 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|La ricerca della felicita&#039;|00:13:26|02:11:26|Gabriele Muccino dirige Will Smith in un film toccante, ispirato alla vita di Chris Gardner, tenace e geniale padre single rimasto senza lavoro. Regia di G. Muccino; USA 2006
-|![Icon]()|Chinese Box|02:11:29|03:55:29|Da un romanzo di P. Theroux. Un giornalista inglese, Jeremy Irons, e&#039; perdutamente innamorato di un&#039;ex ragazza di vita che sogna di sposare un ricco cinese. Regia di W. Wang; HKG 1997
-|![Icon]()|I sicari di hitler|03:55:39|06:00:39|Un gruppo di ufficiali tedeschi tenta di eliminare Hitler con l&#039;aiuto del Controspionaggio inglese. Regia di R. Habib, con D. Addams, F. Fabrizi; FRA 1959
-|![Icon]()|Distretto di Polizia|06:01:02|06:41:02|S7 Ep3 Corsa contro il tempo - Sara e Alberto sono due tossicodipendenti alla ricerca disperata di denaro per una dose. Rapinano un bar dove casualmente si trova Raffaele.
-|![Icon]()|Chips i/a|06:41:03|07:36:03|S1 Ep49 L&#039; unica traccia - L&#039;agente Steve Wedemeyer rimane vittima di un incidente automobilistico e Jon e Ponch imdagano sulle manovre del conducente.
-|![Icon]()|Chips i/a|07:36:07|08:28:07|S1 Ep50 I falsari - Jon e Ponch vengono incaricati di svolgere le indagini per recuperare il denaro e smascherare i falsari che stanno facendo circolare banconote false.
-|![Icon]()|Chisum|08:28:59|10:48:59|Chisum e&#039; un allevatore, ed e&#039; tra i fondatori della cittadina di Lincoln; come gli altri maggiorenti del paese, e&#039; sempre piu&#039; preoccupato... Regia di A. Mclaglen, con J. Wayne, F. Tucker; USA 1970
-|![Icon]()|Out of time|10:49:15|13:08:15|Matt, comandante di polizia, indaga su un duplice omicidio. Tutti gli indizi che emergono, portano a lui come principale sospettato. Con Denzel Washington, Eva Mendes Regia di C. Franklin; USA 2004
-|![Icon]()|Di nuovo in gioco|13:08:34|15:23:34|Clint Eastwood e&#039; un&#039;anziano scopritore di talenti del baseball che sta perdendo la vista. Con la figlia, Amy Adams, si reca ad incontrare una giovane promessa. Regia di R. Lorenz; USA 2012
-|![Icon]()|Note di cinema &#039;22|15:24:33|15:40:33|La giornalista Anna Praderio firma questa rubrica che approfondisce, con servizi e interviste ai protagonisti del cinema italiano e internazionale, gli eventi legati al mondo dello spettacolo.
-|![Icon]()|Conspiracy - La cospirazione|15:41:02|17:51:02|Legal thriller con Al Pacino ed Anthony Hopkins. Ben Cahill e&#039; un ambizioso avvocato che si trova coinvolto in una lotta di potere tra due figure molto ingombranti. Regia di S. Shimosawa; USA 2016
-|![Icon]()|007 - Il domani non muore mai|17:51:57|20:11:57|Il magnate della comunicazione Carver vuole la terza guerra mondiale per creare scoop esclusivi. Bond e la collega dei servizi segreti cinesi devono fermarlo. Regia di R. Spottiswoode; GBR 1997
-|![Icon]()|L&#039; inganno (di s. coppola)|20:12:34|22:06:34|Premio per la miglior regia a Cannes. Durante la Guerra Civile americana, un soldato viene soccorso dalle donne di un collegio femminile. Con Nicole Kidman. Regia di S. Coppola; USA 2016
-|![Icon]()|Little Children|22:06:51|00:38:51|Con il premio Oscar Kate Winslet. Coppie sposate e frustrate da partner noiosi, figli viziati e vite prevedibili. In apparenza, famiglie perfette. Regia di T. Field; USA 2006
 |![Icon]()|Frank Costello faccia d&#039;angelo|00:39:01|02:21:01|Frank Costello e&#039; un killer della mala, ora tra due fuochi: la polizia e&#039; sulle sue tracce ed i suoi datori di lavoro vogliono eliminarlo. Regia di J. Melville, con A. Delon, N. Delon; FRA 1967
 |![Icon]()|L&#039; estate impura|02:21:05|03:57:05|Un ispettore di polizia torna nella cittadina balneare francese in cui e&#039; cresciuto per indagare su una serie di omicidi. Con P. Noiret e S. Sandrelli. Regia di P. Granier-Deferre; FRA 1987
 |![Icon]()|Chips i/a|03:57:33|04:43:33|S1 Ep49 L&#039; unica traccia - L&#039;agente Steve Wedemeyer rimane vittima di un incidente automobilistico e Jon e Ponch imdagano sulle manovre del conducente.
@@ -33,6 +19,21 @@
 |![Icon]()|Walker Texas Ranger|19:05:00|19:59:00|S2 Ep15 Cowboy - Alex ha deciso di vagliare l&#039;offerta di lavoro di uno studio legale, ma prima del colloquio, viene rapita assieme ad un magnate del petrolio. Walker si mette sulle loro tracce.
 |![Icon]()|Gangster squad|19:59:00|22:29:00|Cast prestigioso. Los Angeles 1949, la citta&#039; e&#039; ai piedi del boss Mickey Cohen; tra giudici e agenti corrotti, il sergente O&#039;Mara resiste alla corruzione dilagante. Regia di R. Fleischer; USA 2013
 |![Icon]()|La ricerca della felicita&#039;|22:29:25|00:21:25|Gabriele Muccino dirige Will Smith in un film toccante, ispirato alla vita di Chris Gardner, tenace e geniale padre single rimasto senza lavoro. Regia di G. Muccino; USA 2006
+|![Icon]()|Note di cinema &#039;22|00:22:19|00:56:19|La giornalista Anna Praderio firma questa rubrica che approfondisce, con servizi e interviste ai protagonisti del cinema italiano e internazionale, gli eventi legati al mondo dello spettacolo.
+|![Icon]()|Missione in oriente - il brutto..|00:57:00|02:56:00|.. americano - Nel sud est asiatico, l&#039;ambasciatore americano Mc White e&#039; alle prese con un forte sentimento anti-americano. Con Marlon Brando Regia di G. Englund; USA 1963
+|![Icon]()|Un uomo chiamato Charro|02:56:00|04:36:00|Elvis Presley nei panni di un uomo, detto Charro, che prova ad abbandonare la professione di bandito per iniziare una vita onesta. Regia di C. Warren, con E. Presley, I. Balin; USA 1969
+|![Icon]()|Distretto di Polizia|04:36:00|05:25:00|S6 Ep13 Giornata al massimo - Il X Tuscolano e&#039; impegnato nella caccia a due ragazze sui vent&#039;anni che nel giro di poche ore, a volto scoperto, hanno svaligiato una boutique.
+|![Icon]()|Zanzibar|05:25:14|05:42:14|S1 Ep39 Cavallo di razza - Arturo ha un cavallo da corsa che soffre di una particolare nevrosi: non avendo mai vinto una gara, si sente un cane e quindi abbaia.
+|![Icon]()|Hazzard|05:43:00|06:45:00|S1 Ep1 La bisca ambulante - Bo e Luke, per guadagnare un po&#039; di soldi, accettano un lavoro dalla signora Helen, ma il camion che devono guidare nasconde una bisca clandestina in piena regola.
+|![Icon]()|Walker Texas Ranger|06:45:30|07:35:30|S2 Ep16 Mai fidarsi ... - Quando Trivette consegna il denaro sequestrato a dei falsari, mancano 5 milioni. Viene quindi sospeso dal servizio, ma Walker e&#039; convinto della sua innocenza.
+|![Icon]()|Sugarland express|07:36:00|09:21:00|Esordio alla regia per S. Spielberg. Una donna convince il marito ad evadere di prigione, nonostante gli rimangano solo 4 mesi da scontare. Con G. Hawn, M. Sacks. Regia di S. Spielberg; USA 1974
+|![Icon]()|The Blues Brothers|09:21:19|12:30:19|Pietra miliare del cinema, con John Belushi e Dan Aycroyd. Le avventure di due fratelli &quot; In missione per conto di Dio&quot;, e braccati dalla polizia di Chicago. Regia di J. Landis; USA 1980
+|![Icon]()|Il Dottor Zivago|12:31:00|15:35:00|Vincitore di 5 Premi Oscar e tratto dal libro di Boris Pasternak. Yurij, medico al fronte, ritrova Lara, conosciuta a Mosca anni prima. Regia di D. Lean, con O. Sharif, J. Christie; USA 1965
+|![Icon]()|Amare per sempre|15:35:26|18:14:26|Storia del giovane Hemingway che, arruolatosi, si innamora di un&#039;infermiera che gli ispirera&#039; il personaggio di Catherine Barkley. Con Sandra Bullock Regia di R. Attenborough; USA 1996
+|![Icon]()|Hazzard|18:15:00|19:05:00|S1 Ep1 La bisca ambulante - Bo e Luke, per guadagnare un po&#039; di soldi, accettano un lavoro dalla signora Helen, ma il camion che devono guidare nasconde una bisca clandestina in piena regola.
+|![Icon]()|Walker Texas Ranger|19:05:00|20:00:00|S2 Ep16 Mai fidarsi ... - Quando Trivette consegna il denaro sequestrato a dei falsari, mancano 5 milioni. Viene quindi sospeso dal servizio, ma Walker e&#039; convinto della sua innocenza.
+|![Icon]()|Rullo di tamburi|20:00:00|23:30:00|1872, su incarico del Presidente degli Stati Uniti, Johnny MacKay, un ex soldato, si trova a negoziare un trattato di pace tra coloni ed indiani. Regia di D. Daves; USA 1954
+|![Icon]()|Far West|23:30:12|01:27:12|Dopo una cruenta battaglia contro la tribu&#039; di Falco Nero, il tenente Hazard viene inviato in missione con una guida indiana per trattare. Regia di R. Walsh, con T. Donahue, S. Pleshette; USA 1964
 
 
 

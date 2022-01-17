@@ -3,32 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|The Originals|00:12:45|00:56:45|S3 Ep2 Minaccia imminente - Hayley non si fa viva durante la luna piena; Elijah e Jackson sono preoccupati per lei, dopo che i bracconieri hanno cominciato a cacciare i lupi nel Bayou.
-|![Icon]()|The Originals|00:57:10|01:37:10|S3 Ep3 Ci vediamo all&#039;inferno o a New Orleans - Klaus ed Elijah sono costretti ad unirsi per capire le reali motivazioni che hanno spinto Lucien a venire a New Orleans.
-|![Icon]()|2 Broke Girls|01:37:16|01:57:16|S5 Ep7 E il debutto in societa&#039; - Caroline viene a sapere che sua nonna Astrid e&#039; stata in coma negli ultimi cinque anni, e ora che si e&#039; risvegliata, desidera vederla.
-|![Icon]()|2 Broke Girls|01:57:27|02:17:27|S5 Ep8 E l&#039;ossessione del basket - Sophie vuole progettare &quot;a tavolino&quot; la bambina che desidera avere, ricorrendo a nuove tecniche genetiche che permettono di sceglierne le caratteristiche.
-|![Icon]()|Showreel|02:17:27|02:36:27|Rubrica autopromozionale.
-|![Icon]()|Squadra Antimafia - Palermo oggi|02:36:27|03:20:27|S2 Ep11 - I documenti sulla copertura di Di Meo sono stati sottratti da De Silva. In carcere Ivan, pero&#039;, considerato un infame, rischia la vita.
-|![Icon]()|Squadra Antimafia - Palermo oggi|03:21:21|04:06:21|S2 Ep12 - Claudia tende una trappola a De Silva, lo convoca con un pretesto, mentre Sandro riesce a sottrargli le chiavi dell&#039;ufficio dove trova il dossier che scagiona Di Meo.
-|![Icon]()|Squadra Antimafia - Palermo oggi|04:06:28|05:38:28|S2 Ep13 - Ivan Di Meo e&#039; stato rapito dagli uomini di Rosy, che vuole sapere da lui dove e&#039; stato nascosto il pc di Lipari.
-|![Icon]()|Showreel|05:38:37|06:15:37|Rubrica autopromozionale.
-|![Icon]()|Arrow - 1^TV|06:16:04|07:01:04|S7 Ep9 Altrimondi - II parte - Oliver e Barry cercano di rientrare ciascuno nel proprio corpo. Vanno a Gotham City con Kara,per cercare il dottor Deegan e qui incontrano Kate Kane,alias Batwoman.
-|![Icon]()|Arrow - 1^TV|07:01:10|07:52:10|S7 Ep10 Mi chiamo Emiko Queen - Oliver inizia la sua collaborazione con la polizia di Star City. Per le strade della citta&#039; si aggira un nuovo Green Arrow, che in realta&#039; e&#039; una donna.
-|![Icon]()|Arrow - 1^TV|07:52:37|08:46:37|S7 Ep11 Peccati del passato - Oliver e Laurel rilasciano un&#039;intervista televisiva dove parlano della loro nuova vita. Il figlio di Hackett vuole uccidere Oliver per vendicare suo padre.
-|![Icon]()|Arrow - 1^TV|08:47:00|09:33:00|S7 Ep12 L&#039;arciere di smeraldo - Una troupe gira un documentario su Oliver, seguendolo ovunque e intervistando tutte le persone che hanno avuto modo di conoscerlo anche come Green Arrow.
-|![Icon]()|Arrow - 1^TV|09:33:58|10:26:58|S7 Ep13 L&#039;assassino di Star City - Dinah e il team Arrow sono alle prese con un serial killer che minaccia anche loro con dei biglietti. Oliver e&#039; in conflitto con William .
-|![Icon]()|Arrow - 1^TV|10:27:04|11:17:04|S7 Ep14 Fratelli e sorelle - Diggle e Lyla rispolverano l&#039;Iniziati Fantasma e usano Diaz come esca per arrivare a Virgilio che a sua volta li condurra&#039; a Dante, finanziatore di terroristi nel mondo.
-|![Icon]()|Arrow - 1^TV|11:17:46|12:08:46|S7 Ep15 Training day - L&#039;alleanza tra il team Arrow e l&#039;SCPD non decolla per la grande diversita&#039; di metodo di lavoro. La Pollard pretende che si seguano le regole delle istituzioni.
-|![Icon]()|Arrow - 1^TV|12:09:34|12:56:34|S7 Ep16 Star City 2040 - Dopo aver ascoltato il messaggio di Felicity inciso su una mini cassetta, William e Mia partono alla ricerca della madre. Le coordinate portano a The Glades.
-|![Icon]()|Arrow - 1^TV|12:57:30|13:51:30|S7 Ep17 L&#039;eredita&#039; - Oliver vuole redimere sua sorella Emiko ma la giovane guerriera non si fa domare. Dante e&#039; pronto a testare i droni che dovrebbero gettare su Star City il gas nervino.
-|![Icon]()|Arrow - 1^TV|13:51:52|14:38:52|S7 Ep18 Canary perduta - Oliver vuole scoprire chi ha ucciso la madre di Emiko, E&#039; convinto che dietro ci sia Dante. Laurel torna a essere Black Siren e si allea con Shadow Thief.
-|![Icon]()|Arrow - 1^TV|14:39:39|15:33:39|S7 Ep19 Spartan - Il Nono Cerchio si impossessa di Archer e con essa vuole sviluppare la tecnologia dell&#039;intelligenza artificiale. Diggle incontra il suo patrigno, un generale dei Marines.
-|![Icon]()|Arrow - 1^TV|15:34:11|16:28:11|S7 Ep20 Confessioni - Oliver e il suo team con l&#039;aiuto di Roy cercheranno di impedire un attacco terroristico nella metropolitana di Star City. Ma le cose non andranno come previsto.
-|![Icon]()|Arrow - 1^TV|16:28:26|17:17:26|S7 Ep21 Prova vivente - Il team Arrow rimane intrappolato nell&#039;esplosione dell&#039;edificio dove li aveva attirati Emiko. Bingsley cerca di arrestare Felicity.
-|![Icon]()|Arrow - 1^TV|17:17:50|18:13:50|S7 Ep22 Hai salvato questa citta&#039;! - Il team Arrow cerca di impedire a Emiko di diffondere l&#039;arma biologica e distruggere Star City. Mia e William si mobilitano per disattivare Archer.
-|![Icon]()|The losers|18:14:47|20:13:47|Adattamento cinematografico dell&#039;omonimo fumetto, con Zoe Saldana. Un gruppo di soldati delle Forze Speciali e&#039; in cerca di rivalsa. Regia di S. White; USA 2010
-|![Icon]()|The Foreigner|20:13:50|22:25:50|Jackie Chan e Pierce Brosnan in un film d&#039;azione tratto da un romanzo. Un padre decide di farsi giustizia da solo dopo la morte della figlia. Regia di M. Campbell; GBR 2017
-|![Icon]()|Samson - La vera storia di Sansone|22:26:19|00:37:19|A Sansone, un ebreo dalla grande forza fisica, Dio affida il compito di condurre il suo popolo in salvo dalla schiavitu&#039;. Con Taylor James. Regia di B. MacDonald; ZAF 2018
 |![Icon]()|The Originals|00:37:45|01:17:45|S3 Ep4 Il lato selvaggio - Per scoprire le reali intenzioni di Tristan, Elijah decide di prendere parte ad una festa organizzata dalla Strige, insieme ad Hayley. Anche Marcel vi prende parte.
 |![Icon]()|The Originals|01:18:07|01:58:07|S3 Ep5 La lettera di Axeman - Mentre Cami e Vincent indagano ugli omicidi, Lucien fa cadere la ragazza in una trappola, portando i sospetti su di lei. In citta&#039; arriva Aurora, primo amore di Klaus.
 |![Icon]()|2 Broke Girls|01:58:38|02:18:38|S5 Ep9 E il problema del sax - La vecchia jazz band di Earl si esibira&#039; nel locale dove ha sempre suonato. La proprietaria Ruby non gradisce la presenza di Earl.
@@ -59,6 +33,36 @@
 |![Icon]()|Big Bang Theory|19:36:00|19:59:00|S8 Ep1 L&#039;interruzione della locomozione - Dopo essere stato derubato di tutto, Sheldon chiama Leonard dall&#039;Arizona per farsi aiutare. L&#039;amico va a prenderlo accompagnato da Amy.
 |![Icon]()|Lanterna verde|19:59:00|22:29:00|Dai fumetti DC Comics. Il temuto Parallax minaccia di distruggere l&#039;Universo: la salvezza e&#039; nelle mani di Lanterna Verde. Con Ryan Reynolds e Blake Lively. Regia di M. Campbell; USA 2011
 |![Icon]()|The Foreigner|22:29:00|00:46:00|Jackie Chan e Pierce Brosnan in un film d&#039;azione tratto da un romanzo. Un padre decide di farsi giustizia da solo dopo la morte della figlia. Regia di M. Campbell; GBR 2017
+|![Icon]()|The Originals|00:46:00|01:26:00|S3 Ep6 Un meraviglioso errore - Elijah e Freya capiscono che Rebekah potrebbe essere la vittima disegnata del piano della Strige. Klaus passa del tempo con Aurora per accertarsi della sua lealta&#039;.
+|![Icon]()|The Originals|01:26:43|02:04:43|S3 Ep7 Il rapimento - Klaus ed Elijah informano Freya che e&#039; arrivato il momento di uccidere Tristan e Lucien. Kinney arresta Camille, ma poi vengono entrambi rapiti da Lucien.
+|![Icon]()|2 Broke Girls|02:05:27|02:25:27|S5 Ep11 E le ragazze immagine - Max e Caroline riescono a partecipare alla Fiera dei Videogiochi facendosi assumere come ragazze immagine.
+|![Icon]()|2 Broke Girls|02:25:43|02:45:43|S5 Ep12 E lo show dei racconta-storie - E&#039; il quinto anniversario del giorno in cui Caroline ha perso tutti i soldi, e ha visto il padre finire in prigione.
+|![Icon]()|Showreel|02:46:09|03:09:09|Rubrica autopromozionale.
+|![Icon]()|Squadra Antimafia - Palermo oggi|03:09:30|03:43:30|S2 Ep16 - In un crescendo di colpi di scena, Claudia Mares incontrera&#039; il Catanese, Fabrizio Corona, colpevole dell&#039;omicidio di Alfiere. Siamo alla resa dei conti.
+|![Icon]()|Squadra Antimafia - Palermo oggi|03:44:00|04:19:00|S3 Ep1 - Durante un&#039;immersione, Claudia Mares rinviene, all&#039;interno di una nave affondata carica di rifiuti tossici, il cadavere di un uomo.
+|![Icon]()|Squadra Antimafia - Palermo oggi|04:19:00|04:53:00|S3 Ep2 - In Duomo proseguono le indagini sul traffico di scorie in cui e&#039; coinvolto anche Gianluca Cosmelli, un imprenditore spezzino.
+|![Icon]()|Showreel|04:53:49|05:49:49|Rubrica autopromozionale.
+|![Icon]()|2 Broke Girls|05:50:15|06:10:15|S5 Ep11 E le ragazze immagine - Max e Caroline riescono a partecipare alla Fiera dei Videogiochi facendosi assumere come ragazze immagine.
+|![Icon]()|2 Broke Girls|06:10:34|06:30:34|S5 Ep12 E lo show dei racconta-storie - E&#039; il quinto anniversario del giorno in cui Caroline ha perso tutti i soldi, e ha visto il padre finire in prigione.
+|![Icon]()|The Last Kingdom|06:31:00|07:11:00|S2 Ep1 Vendetta - Nell&#039;878, l&#039;impavido guerriero Uhtred intraprende il suo viaggio verso nord per vendicare la morte della sua famiglia e riconquistare la sua terra ancestrale, Bebbanburg.
+|![Icon]()|The Last Kingdom|07:11:00|08:05:00|S2 Ep2 La rivincita di Uhtred - Guthred viene incoronato re e riunisce i signori e gli Jarl del Cumbraland per marciare uniti su Eoferwic.
+|![Icon]()|Dr. House - Medical Division|08:05:00|08:56:00|S3 Ep19 Bambini precoci - House si trova alle prese con una diagnosi complicata per individuare la malattia di Lucy, una bambina di sei anni ricoverata per una pericardite.
+|![Icon]()|Dr. House - Medical Division|08:56:00|09:55:00|S3 Ep20 Una lezione per House - Lupe, ventottenne artista della truffa, ha un malore durante una partita a carte: un attacco ischemico transitorio.
+|![Icon]()|Chicago Fire|09:55:00|10:38:00|S4 Ep23 Supereroe - Jimmy affronta Boden, perche&#039; lo ritiene colpevole della morte del fratello; Dawson continua la sua battaglia per avere in affidamento il piccolo Louie.
+|![Icon]()|Big Bang Theory|10:38:00|11:04:00|S8 Ep2 La soluzione del professore associato - L&#039;universita&#039; concede a Sheldon di passare dallo studio della teoria delle stringhe a quello della materia oscura a patto che accetti la promozione.
+|![Icon]()|Big Bang Theory|11:04:00|11:31:00|S8 Ep3 L&#039;insufficienza del primo lancio - Howard viene scelto dalla Nasa per effettuare un lancio con i Los Angeles Angels e Bernadette si offre di aiutarlo.
+|![Icon]()|God Friended Me|11:31:00|12:26:00|S2 Ep5 La figlia del Vescovo - Miles riceve il suggerimento d&#039;amicizia di Claire Thompson, figlia del Vescovo: Claire e&#039; un&#039;ex alcolista che fa l&#039;infermiera nell&#039;ospedale dove fa tirocinio Jaya.
+|![Icon]()|God Friended Me|12:26:00|13:19:00|S2 Ep6 La combattente - Al barbecue di Ray Nicolette, l&#039;investigatore privato aiutato un anno prima, Miles, conosce Elena, un&#039;assistente sociale, e il suo ragazzo, Austin.
+|![Icon]()|The Last Kingdom|13:19:00|14:05:00|S2 Ep1 Vendetta - Nell&#039;878, l&#039;impavido guerriero Uhtred intraprende il suo viaggio verso nord per vendicare la morte della sua famiglia e riconquistare la sua terra ancestrale, Bebbanburg.
+|![Icon]()|The Last Kingdom|14:05:00|14:47:00|S2 Ep2 La rivincita di Uhtred - Guthred viene incoronato re e riunisce i signori e gli Jarl del Cumbraland per marciare uniti su Eoferwic.
+|![Icon]()|Dr. House - Medical Division|14:47:00|15:43:00|S3 Ep19 Bambini precoci - House si trova alle prese con una diagnosi complicata per individuare la malattia di Lucy, una bambina di sei anni ricoverata per una pericardite.
+|![Icon]()|Dr. House - Medical Division|15:43:00|16:33:00|S3 Ep20 Una lezione per House - Lupe, ventottenne artista della truffa, ha un malore durante una partita a carte: un attacco ischemico transitorio.
+|![Icon]()|Tiki Taka - La repubblica del pallone|16:33:00|18:19:00|Protagonisti del mondo del calcio, giornalisti e tifosi vip commentano il weekend calcistico.
+|![Icon]()|Chicago Fire|18:19:00|19:13:00|S4 Ep23 Supereroe - Jimmy affronta Boden, perche&#039; lo ritiene colpevole della morte del fratello; Dawson continua la sua battaglia per avere in affidamento il piccolo Louie.
+|![Icon]()|Big Bang Theory|19:13:00|19:36:00|S8 Ep2 La soluzione del professore associato - L&#039;universita&#039; concede a Sheldon di passare dallo studio della teoria delle stringhe a quello della materia oscura a patto che accetti la promozione.
+|![Icon]()|Big Bang Theory|19:36:00|19:59:00|S8 Ep3 L&#039;insufficienza del primo lancio - Howard viene scelto dalla Nasa per effettuare un lancio con i Los Angeles Angels e Bernadette si offre di aiutarlo.
+|![Icon]()|Tomorrowland - Il mondo di domani|19:59:00|22:44:00|Film di fantascienza con George Clooney. Una ragazza e un geniale inventore affrontano una pericolosa missione per portare alla luce i segreti di un luogo enigmatico. Regia di B. Bird; USA 2015
+|![Icon]()|Lanterna verde|22:44:00|01:01:00|Dai fumetti DC Comics. Il temuto Parallax minaccia di distruggere l&#039;Universo: la salvezza e&#039; nelle mani di Lanterna Verde. Con Ryan Reynolds e Blake Lively. Regia di M. Campbell; USA 2011
 
 
 

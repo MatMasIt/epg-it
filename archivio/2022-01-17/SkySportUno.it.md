@@ -3,26 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Ep. 13|02:00:00|02:30:00|Ep. 13 - La storica rubrica di approfondimento settimanale della NBA: le storie, i personaggi, le interviste e le immancabili top-10 della lega piu&#039; spettacolare del mondo.
-|![Icon]()|On the Evolution of Sports|02:30:00|02:45:00|Gran Risa - Alta Badia. Da 36 anni l&#039;appuntamento piu&#039; importante di slalom gigante maschile di Coppa del Mondo e&#039; sulla Gran Risa. Ripercorriamo la storia di questa pista.
-|![Icon]()|Leo Messi|02:45:00|03:10:00|Giorgio Porra&#039; racconta Messi, dai trionfi nel Barcellona allo sbarco nello stellare Psg. Il romanzo di un fuoriclasse che a Parigi sfida se stesso, la sua leggenda e le leggi del tempo.
-|![Icon]()|Paris - Brest|03:10:00|05:00:00|Ligue 1 - 21a g. Il Paris SG vuole vincere per cancellare un periodo non brillante. Al Parco dei Principi arriva il Brest. TC: Filippo Benincampi.
-|![Icon]()|Juventus - Udinese|05:00:00|06:45:00|Serie A - 22a g. Juventus reduce dal 4-3 in rimonta sulla Roma. Udinese dal 2-6 interno con l&#039;Atalanta. A Torino ha perso 9 delle ultime 10 sfide di campionato. TC: Marinozzi-Marchegiani.
-|![Icon]()|22a g. Ep. 1|06:45:00|07:00:00|22a g. Ep. 1 - La super sfida tra Manchester City e Chelsea, ma anche l&#039;impegno del Watford di Ranieri in casa del Newcastle. Riviviamo gol ed emozioni del sabato di Premier League.
-|![Icon]()|#SkyBuffaRacconta Legends|07:00:00|08:00:00|Storie di Natale, storie di #SkyBuffaRacconta. Grandi vicende umane e imprese sportive che hanno reso leggende i protagonisti dei racconti di Federico Buffa.
-|![Icon]()|Benetton Treviso - Dragons|08:00:00|09:40:00|Challenge Cup - Entrambe alla ricerca della 1a vittoria nella Challenge Cup. Il Benetton T. non puo&#039; sbagliare per provare a qualificarsi agli ottavi contro i gallesi di Newport. TC: Pierantozzi-Fusetti.
-|![Icon]()|Ep. 12|09:40:00|10:00:00|Ep. 12 - Classico appuntamento con la rubrica storica confezionata dalla redazione Sky Sport che accende i riflettori sui temi piu&#039; caldi della settimana.
-|![Icon]()|Milwaukee - Toronto|10:00:00|11:55:00|I ritrovati Raptors dell&#039;interessante matricola Scottie Barnes all&#039;esame dei campioni NBA in carica. TC: Bevacqua-Soragna.
-|![Icon]()|Rennes - Bordeaux|11:55:00|13:55:00|Ligue 1 - 21a g. Il Rennes vuole riscattare la sconfitta di Lens. In Bretagna arriva un Bordeaux in grande difficolta&#039;. TC: Filippo Benincampi.
-|![Icon]()|Liverpool - Brentford|13:55:00|16:00:00|Premier League - 22a g. La matricola Brentford prova a ripetere la grande partita d&#039;andata, quando fermo&#039; il Liverpool in uno spettacolare 3-3. TC: Federico Zancan.
-|![Icon]()|Stadi inglesi emozioni e tradizioni|16:00:00|16:25:00|Stadi inglesi emozioni e tradizioni - Il luogo e lo spirito, ovvero gli stadi piu&#039; belli del mondo, raccontati da Paolo Di Canio con alcuni contributi davvero particolari, tra cui quello di Fabio Capello.
-|![Icon]()|Tottenham - Arsenal|16:25:00|18:25:00|Premier League - 22a g. Primo derby del nord di Londra per Conte. Il suo Tottenham cerca la vittoria contro l&#039;Arsenal per superare in classifica i Gunners e avvicinarsi al 4rto posto. TC: Massimo Marianella.
-|![Icon]()|Conegliano - Roma|18:25:00|20:25:00|Serie A1 F, 15a g - Il campionato femminile gioca la 2a giornata nel nuovo anno, le pantere di Conegliano ospitano la neopromossa Roma. TC: Locatelli-Piccinini.
-|![Icon]()|Fino all&#039;ultimo giro|20:25:00|20:55:00|Dopo la battaglia durissima in Arabia Saudita e prima del duello decisivo di Abu Dhabi, Verstappen e Hamilton si affrontano davanti alle telecamere.
-|![Icon]()|World Rally Championship Presentazione|20:55:00|22:00:00|Il WRC e&#039; pronto per ripartire, e lo fa su Sky Sport da Salisburgo, con la presentazione delle nuovissime vetture Rally1 ibride. Ford, Hyundai e Toyota svelano le loro auto. TC: Rosario Triolo.
-|![Icon]()|Atlanta, the Hero|22:00:00|22:55:00|Federico Buffa nella citta&#039; di Martin Luther King e di Via col Vento: Atlanta. Qui Ali ricomincia a boxare nel &#039;70, qui nel &#039;96 si mostra nella sua grandezza morale e umana.
-|![Icon]()|Storie di Matteo Marani|22:55:00|23:55:00|L&#039;ultimo giro di Ayrton - Come e perche&#039; mori&#039; a Imola il piu&#039; amato pilota di ogni tempo? Storie di Matteo Marani ricostruisce la scomparsa di Senna con documenti esclusivi e immagini mai viste prima.
-|![Icon]()|Ep. 12|23:55:00|00:10:00|Ep. 12 - Classico appuntamento con la rubrica storica confezionata dalla redazione Sky Sport che accende i riflettori sui temi piu&#039; caldi della settimana.
 |![Icon]()|Sassuolo - Verona|00:10:00|02:00:00|Serie A - 22a g. Emiliani con una sola sconfitta nelle ultime 9 giornate. In vantaggio 3-2 nei 6 precedenti di A in casa, 1 pari. Verona con un solo successo negli ultimi 5 turni.TC: Polizzi-Orsi.
 |![Icon]()|75 anni di NBA - La storia in movimento|02:00:00|02:30:00|...storia in movimento - Nella stagione in cui la NBA celebra i suoi primi 75 anni di storia, la redazione NBA al gran completo sceglie i momenti in cui la lega di basket piu&#039; famosa al mondo si e&#039; forgiata ed e&#039; cambiata.
 |![Icon]()|#SkyBuffaRacconta Davis &#039;76|02:30:00|03:15:00|Ep. 2 - L&#039;altro cammino di Santiago e&#039; compiuto. Pietrangeli, Panatta, Bertolucci, Barazzutti e Zugarelli conquistano la Coppa Davis. La prima e unica mai vinta dall&#039;Italia dal 1900 ad oggi.
@@ -41,6 +21,28 @@
 |![Icon]()|NBA 360 (diretta)|18:00:00|23:00:00|Un&#039;abbuffata di basket americano saltando da un campo all&#039;altro, 6 partite e cinque ore live per il primo diretta basket NBA nel ricordo di Martin Luther King.
 |![Icon]()|Louisville Days|23:00:00|00:00:00|La vicenda sportiva e umana di uno dei personaggi piu&#039; influenti della storia del &#039;900 americano: Ali, The Greatest. Non solo un pugile, ma un simbolo di emancipazione e riscatto sociale per i neri.
 |![Icon]()|#SkyBuffaRacconta Ali: Miami, the Glory|00:00:00|01:00:00|Da Louisville a Miami, Da Cassius Clay a Muhammad Ali. Buffa attraversa i luoghi della trasformazione di Ali, entra nella palestra in cui si e&#039; allenato per i match fondamentali della sua carriera.
+|![Icon]()|#SkyBuffaRacconta Ali: Miami, the Glory|00:00:00|01:00:00|Da Louisville a Miami, Da Cassius Clay a Muhammad Ali. Buffa attraversa i luoghi della trasformazione di Ali, entra nella palestra in cui si e&#039; allenato per i match fondamentali della sua carriera.
+|![Icon]()|Atlanta, the Hero|01:00:00|02:00:00|Federico Buffa nella citta&#039; di Martin Luther King e di Via col Vento: Atlanta. Qui Ali ricomincia a boxare nel &#039;70, qui nel &#039;96 si mostra nella sua grandezza morale e umana.
+|![Icon]()|ATP Finals|02:00:00|03:30:00|Zverev - Medvedev Singolare. Finale - In finale a Torino si sfidano il russo Daniil Medvedev, n.2 del mondo e detentore del titolo, e il tedesco Alexander Zverev, n.3 e vincitore nel 2019. TC: Pero-Bertolucci-Ljubicic.
+|![Icon]()|LA Lakers - Utah|03:30:00|06:30:00|Le migliori partite della stagione 2021-22, una delle piu&#039; imprevedibili e spettacolari di sempre.
+|![Icon]()|Grazie Dirk|06:30:00|06:45:00|Grazie Dirk - Dirk Nowitzki racconta le emozioni nel giorno in cui la sua maglia numero 41 raggiunge il soffitto dell&#039;American Airlines Center di Dallas.
+|![Icon]()|Icarus Ultra|06:45:00|07:15:00|Ep. 47 - Avventure, sfide, storie, imprese, curiosita&#039; dal mondo degli sport outdoor: dopo 15 anni alla ricerca del limite Icarus si spinge oltre e diventa... Icarus Ultra.
+|![Icon]()|19a g.|07:15:00|07:45:00|19a g - Riviviamo tutti i gol della 19a giornata di Serie B. Tutte le reti, alcune di pregevole fattura, che contribuiscono a rendere emozionante questo campionato.
+|![Icon]()|Fiorentina - Genoa|07:45:00|09:30:00|Serie A - 22a g. Viola con 5 vittorie e 1 pari nelle ultime 6 gare in casa. Il Genoa cerca la 2a vittoria, finora 9 pari e 11 ko. Al Franchi non vince in A dal 1977. TC: Gentile-Marocchi.
+|![Icon]()|MondoGol|09:30:00|10:15:00|Tutti i gol, le interviste esclusive, le storie e le rubriche piu&#039; curiose dal mondo del calcio internazionale. In studio Gianluigi Bagnulo con Anne Laure Bonnet.
+|![Icon]()|Calciomercato - L&#039;originale|10:15:00|11:15:00|Tutte le notizie sulle trattative del mercato invernale.
+|![Icon]()|LA Lakers - Utah|11:15:00|13:00:00|Le migliori partite della stagione 2021-22, una delle piu&#039; imprevedibili e spettacolari di sempre.
+|![Icon]()|19a g.|13:00:00|13:30:00|19a g - Riviviamo tutti i gol della 19a giornata di Serie B. Tutte le reti, alcune di pregevole fattura, che contribuiscono a rendere emozionante questo campionato.
+|![Icon]()|Calciomercato - L&#039;originale|13:30:00|14:30:00|Tutte le notizie sulle trattative del mercato invernale.
+|![Icon]()|Paris - Brest|14:30:00|16:15:00|Ligue 1 - 21a g. Le partite del massimo campionato francese. Il Lille detiene il titolo.
+|![Icon]()|AEW Rampage|16:15:00|17:00:00|Ep. 3 - Adam Cole affronta Trent Beretta. I neocampioni Jungle Boy &amp; Luchasaurus difendono i titoli tag team contro John Silver &amp; Alex Reynolds. TC: S. Torrisi.
+|![Icon]()|LA Lakers - Utah|17:00:00|18:45:00|Le migliori partite della stagione 2021-22, una delle piu&#039; imprevedibili e spettacolari di sempre.
+|![Icon]()|Grazie Dirk|18:45:00|19:00:00|Grazie Dirk - Dirk Nowitzki racconta le emozioni nel giorno in cui la sua maglia numero 41 raggiunge il soffitto dell&#039;American Airlines Center di Dallas.
+|![Icon]()|Eurolega Prepartita|19:00:00|19:30:00|Le ultime notizie e curiosita&#039; a pochi minuti dalla palla a due.
+|![Icon]()|Milano - Alba|19:30:00|21:30:00|Eurolega, 18a g - La massima competizione per club nel panorama del basket europeo. L&#039;Olimpia Milano, dopo il terzo posto dell&#039;anno scorso, ci riprova, per tornare ad essere tra le grandi del Vecchio Continente.
+|![Icon]()|Eurolega Postpartita (diretta)|21:30:00|21:45:00|Tutti i commenti sulla partita di Eurolega che e&#039; appena terminata.
+|![Icon]()|LA Lakers - Utah|21:45:00|23:30:00|Le migliori partite della stagione 2021-22, una delle piu&#039; imprevedibili e spettacolari di sempre.
+|![Icon]()|Calciomercato - L&#039;originale|23:30:00|00:30:00|Tutte le notizie sulle trattative del mercato invernale.
 
 
 
