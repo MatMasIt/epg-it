@@ -1,0 +1,37 @@
+# Sky Cinema Romance
+> Programmazione di Domenica 16 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Cops 2 - Una banda di poliziotti - Dietro le quinte|01:55:00|02:15:00|...- Dietro le quinte - Tra crimini e risate, le nuove avventure dei poliziotti di Apulia raccontate dal cast al completo, dal regista Luca Miniero e dallo sceneggiatore Sandrone Dazieri.
+|![Icon]()|Autumn in New York|02:15:00|04:05:00|Richard Gere e Winona Ryder in una struggente love story. Sullo sfondo della Grande Mela, un uomo maturo si innamora di una ragazza affetta da una malattia incurabile (USA 2000)
+|![Icon]()|Tutti in piedi|04:05:00|05:55:00|Franck Dubosc e Alexandra Lamy in una commedia romantica politicamente scorretta. Jocelyn, playboy egoista e bugiardo, finge di essere disabile per sedurre la bella Florence (FRA 2018)
+|![Icon]()|Jude|05:55:00|08:00:00|Christopher Eccleston e Kate Winslet nel dramma di Michael Winterbottom tratto dal romanzo di Thomas Hardy. Lo scandaloso amore tra uno scalpellino e sua cugina nell&#039;Inghilterra dell&#039;800 (GBR 1996)
+|![Icon]()|La neve nel cuore|08:00:00|09:45:00|Sarah Jessica Parker, Diane Keaton e Clare Danes in una travolgente commedia. A Natale una rigida manager in carriera fa la conoscenza dell&#039;esuberante famiglia del futuro marito (USA 2005)
+|![Icon]()|Questo o quello - Speciale|09:45:00|10:00:00|Francesco Castelnuovo e Gianni Canova si sfidano sui film dell&#039;adrenalinica saga con Mel Gibson e Danny Glover: Arma Letale, disponibile su Sky Cinema Collection sabato 22 e domenica 23 gennaio.
+|![Icon]()|Un matrimonio all&#039;inglese|10:00:00|11:40:00|Commedia romantica con Jessica Biel, Colin Firth e Kristin Scott Thomas. Inghilterra, anni 20: un&#039;esuberante ragazza americana crea scompiglio nella famiglia del suo sposo (GBR/CAN 2008)
+|![Icon]()|Sognando a New York - In the Heights|11:40:00|14:05:00|Adattamento dell&#039;omonimo musical di Broadway di Lin-Manuel Miranda. Il dominicano Usnavi sogna di tornare nella sua terra, ma non riesce a a sciogliere il legame con la propria comunita&#039; (USA 2021)
+|![Icon]()|Sapori e dissapori|14:05:00|15:50:00|Romantic comedy tra i fornelli con Catherine Zeta-Jones e Aaron Eckhart. La vita di una chef stellata di New York viene stravolta da una nipotina in affido e dal nuovo aiuto cuoco (USA 2007)
+|![Icon]()|P.S. I Love You|15:50:00|18:00:00|Hilary Swank, Gerard Butler e Lisa Kudrow in una commovente love story. Rimasta vedova, Holly riceve delle lettere inviate dal marito prima di morire, con le istruzioni per andare avanti (USA 2007)
+|![Icon]()|Lasciarsi un giorno a Roma|18:00:00|20:00:00|Emozionante film Sky Original di e con Edoardo Leo affiancato da Marta Nieto, Claudia Gerini e Stefano Fresi. Due coppie affrontano il momento piu&#039; delicato della loro lunga vita insieme (ITA/SPA 2021)
+|![Icon]()|Jude|20:00:00|22:10:00|Christopher Eccleston e Kate Winslet nel dramma di Michael Winterbottom tratto dal romanzo di Thomas Hardy. Lo scandaloso amore tra uno scalpellino e sua cugina nell&#039;Inghilterra dell&#039;800 (GBR 1996)
+|![Icon]()|Shall We Dance?|22:10:00|00:00:00|Commedia romantica con Richard Gere, Jennifer Lopez e Susan Sarandon. Un uomo soffocato dalla routine quotidiana ritrova la gioia di vivere grazie a un&#039;insegnante di ballo (USA 2004)
+|![Icon]()|Cake - Ti amo, ti mollo... ti sposo|00:00:00|01:40:00|Commedia sentimentale con Heather Graham e David Sutcliffe. Una ragazza single assume la direzione di una rivista di moda matrimoniale e si innamora di un collaboratore (CAN/USA 2005)
+|![Icon]()|Cake - Ti amo, ti mollo... ti sposo|00:00:00|01:40:00|Commedia sentimentale con Heather Graham e David Sutcliffe. Una ragazza single assume la direzione di una rivista di moda matrimoniale e si innamora di un collaboratore (CAN/USA 2005)
+|![Icon]()|Citta&#039; di carta|01:40:00|03:30:00|Cara Delevingne e Nat Wolff in una romantica avventura dal romanzo di John Green. La bella e misteriosa Margo scompare nel nulla, spingendo il timido e innamorato Quentin a rintracciarla (USA 2015)
+|![Icon]()|100X100Cinema|03:30:00|03:50:00|Arrivano in sala: &#039;Una famiglia vincente - King Richard&#039; con Will Smith e &#039;America Latina&#039; con Elio Germano, mentre su Sky Cinema il film diretto da Claudio Cupellini, &#039;La terra dei figli&#039; (13/01).
+|![Icon]()|Orgoglio e pregiudizio|03:50:00|06:00:00|Keira Knightley in abiti settecenteschi e&#039; l&#039;eroina del classico della letteratura di Jane Austen. L&#039;orgogliosa Elizabeth Bennet s&#039;innamora dell&#039;affascinate e presuntuoso Mister Darcy (GBR/FRA 2005)
+|![Icon]()|Ne&#039; Giulietta ne&#039; Romeo|06:00:00|07:50:00|Esordio alla regia per Veronica Pivetti in un film sul tema dell&#039;omosessualita&#039;. Un adolescente, figlio di genitori separati, s&#039;innamora di un ragazzo e decide di rivelarlo alla famiglia (ITA 2015)
+|![Icon]()|Il paziente inglese|07:50:00|10:30:00|9 Oscar e 2 Golden Globe all&#039;intenso dramma con Ralph Fiennes, Juliette Binoche e Willem Dafoe. Toscana, 2a guerra mondiale: un&#039;infermiera accudisce un uomo che nasconde un tragico segreto (USA 1996)
+|![Icon]()|Miss Potter|10:30:00|12:10:00|Renee Zellweger e Ewan McGregor nella biografia della scrittrice Beatrix Potter. Inghilterra, primo &#039;900, Beatrix si ribella ai genitori per diventare autrice di libri per bambini (GBR/USA 2006)
+|![Icon]()|La fiera della vanita&#039; - Vanity Fair|12:10:00|14:35:00|Mira Nair dirige Reese Witherspoon e Jim Broadbent tra gli scenari dell&#039;Inghilterra ottocentesca. Usando l&#039;astuzia e la bellezza, una ragazza orfana tenta di scalare l&#039;alta societa&#039; (GBR/USA 2004)
+|![Icon]()|La rivincita delle bionde|14:35:00|16:15:00|La commedia che ha lanciato Reese Witherspoon. Per dimostrare al suo ex di non essere una ragazza frivola, Elle si iscrive alla facolta&#039; di legge: indaghera&#039; su un caso di omicidio (USA 2001)
+|![Icon]()|Sai che c&#039;e&#039; di nuovo?|16:15:00|18:10:00|Madonna e Rupert Everett in una commedia di John Schlesinger. Una maestra di yoga e un giardiniere gay, amici per la pelle, fanno sesso dopo una notte di euforia e lei rimane incinta.. (USA 2000)
+|![Icon]()|L&#039;amore in gioco|18:10:00|20:00:00|Drew Barrymore e Jimmy Fallon nel romantico remake americano di &#039;Febbre a 90&#039;. Una manager si innamora di un professore appassionato di baseball e tifosissimo dei Boston Red Sox (USA 2005)
+|![Icon]()|Citta&#039; di carta|20:00:00|21:55:00|Cara Delevingne e Nat Wolff in una romantica avventura dal romanzo di John Green. La bella e misteriosa Margo scompare nel nulla, spingendo il timido e innamorato Quentin a rintracciarla (USA 2015)
+|![Icon]()|5 appuntamenti per farla innamorare|21:55:00|23:30:00|Commedia con Nia Vardalos ambientata in una romantica Manhattan. Una donna rifiuta di uscire con lo stesso uomo per piu&#039; di 5 volte. Fino all&#039;incontro con il bel gestore di un ristorante (USA 2009)
+|![Icon]()|Vita da strega|23:30:00|01:15:00|Nicole Kidman e Will Ferrell in una commedia ispirata alla serie anni 60. Stufa di magie e sortilegi, una strega desidera una nuova vita, ma non riesce a liberarsi della sua identita&#039; (USA 2005)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -1,0 +1,64 @@
+# Rai 4
+> Programmazione di Domenica 16 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|L&#039;angelo del crimine|01:10:00|02:55:00|Regia di L. Ortega, con L.Ferro, C.Darin; ARG 2018. Argentina, anni &#039;70. Carlos, diciassettenne dall&#039;aspetto agelico, si unisce all&#039;amico Ramon in un&#039;escalation nel mondo del crimine.
+|![Icon]()|Rookie Blue|02:55:00|04:00:00|S2 Ep10 I migliori propositi - Gli agenti si occupano di un caso di rapimento: si tratta di Elliott, un bambino che si trovava a un festa di compleanno in un parco giochi.
+|![Icon]()|Rookie Blue|04:00:00|05:05:00|S2 Ep11 Un po&#039; di fiducia - Boyd incarica Andy, Dov e Traci di portare a termine una missione molto particolare: sotto copertura, dovranno recuperare del denaro e della droga .
+|![Icon]()|Elementary|05:05:00|05:45:00|S6 Ep16 Il lato oscuro delle bambole - Holmes e Watson scoprono che l&#039;omicidio di un esperto di robotica e&#039; collegato a una ricerca segreta che la vittima stava svolgendo nel teletrasporto.
+|![Icon]()|Elementary|05:45:00|06:30:00|S6 Ep17 Cacciatore di vermi - Quando uno zoologo viene assassinato, si pensa che il movente sia da ricondurre alle sue numerose relazioni amorose o alle sue ricerche. Holmes e Watson indagano.
+|![Icon]()|Elementary|06:30:00|07:15:00|S6 Ep18 La profezia - Un assassino sceglie le sue vittime basandosi sulle premonizioni di un uomo deceduto, che sosteneva di essere in grado di prevedere le future morti.
+|![Icon]()|Elementary|07:15:00|08:00:00|S6 Ep19 Esperimenti - Holmes e Watson devono localizzare una donna scomparsa. I principali sospetti ricadono su un amico di Holmes.
+|![Icon]()|Elementary|08:00:00|08:45:00|S6 Ep20 Il laccio della morte - La situazione tra Holmes, Watson e Michael si complica ulteriormente quando si consuma l&#039;ennesimo omicidio. Niente e&#039; come sembra.
+|![Icon]()|Wonderland|08:45:00|09:20:00|Ep. 16 - Il magazine settimanale di Rai 4 che approfondisce tutta l&#039;attualita&#039; e la storia della fantascienza, del fantasy e del crime nel campo dell&#039;intrattenimento, tra cinema, serie Tv, videogame, editoria e fumetti.
+|![Icon]()|Rookie Blue|09:20:00|10:10:00|S3 Ep12 Ogni uomo - All&#039;uscita dallo stadio, Dov, Gail e Andy arrestano tre uomini, ma, nella confusione generale, non eseguono una perquisizione corretta: uno ha con se&#039; una pistola...
+|![Icon]()|Rookie Blue|10:10:00|10:55:00|S3 Ep13 Io mai - Gli agenti devono affrontare un pericoloso criminale evaso dalla prigione. Nel frattempo, Andy deve prendere un&#039;importante decisione che cambiera&#039; il corso della sua carriera.
+|![Icon]()|Rookie Blue|10:55:00|11:40:00|S4 Ep1 Sorprese - Swarek e il resto della squadra devono ritrovare Nick e Andy, scomparsi mentre lavoravano sotto copertura.
+|![Icon]()|Pippi Calzelunghe|11:40:00|12:25:00|S4 Ep2 Ritorno a casa - Giunti sul luogo di una chiamata per schiamazzi domestici, Andy e Swarek trovano una vittima pugnalata a morte. Ma nella casa c&#039;e&#039; anche Izzy, la figlia di Oliver Shaw...
+|![Icon]()|Rookie Blue|12:25:00|13:10:00|S4 Ep3 Non meglio, diverso - La squadra e&#039; alla ricerca di un rapinatore che assalta i Bancomat. Dov e Chloe vengono incaricati di occuparsi del caso, ma la cosa comportera&#039; per loro imbarazzo.
+|![Icon]()|The Last Witch Hunter: L&#039;ultimo cacciatore di streghe|13:10:00|15:00:00|...cacciatore di streghe - Regia di B. Eisner, con V.Diesel, E.Wood; USA 2015. Kaulder prosegue la sua lotta contro le streghe, ma la pace tanto agognata con gli uomini viene minata dal ritorno della Strega Regina.
+|![Icon]()|Batman|15:00:00|15:25:00|S3 Ep11 Il pub delle tre campane - Batman, Robin e Batgirl diventano bersarglio dei ladri dei gioielli della Corona, che creeranno un&#039;ingegnosa macchinazione per riuscire a incastrarli.
+|![Icon]()|Batman|15:25:00|15:50:00|S3 Ep12 La torre insanguinata - Sfuggit alla trappola di Fogg, Batman e Robin raggiungono Batgirl e Alfred: insieme dovranno fermare a tutti costi i due folli ladri.
+|![Icon]()|Batman|15:50:00|16:15:00|S3 Ep13 Catwoman pronta a uccidere - Batman, Robin e Batgirl uniscono le loro forze per fermare la felina criminale Catwoman, che ha preso di mira le dieci donne piu&#039; ricche di Gotham City.
+|![Icon]()|Just for Laughs|16:15:00|16:35:00|S17 Ep18 - Una telecamera nascosta osserva i comportamenti di persone comuni coinvolte in situazioni surreali e bizzarre. Variante in salsa canadese dello statunitense Candid Camera.
+|![Icon]()|Scorpion|16:35:00|17:20:00|S1 Ep16 Love Boat - La Scorpion lavora sotto copetura per fermare un criminale che sta trasportando di nascosto alcuni pericolosi missili a bordo di una nave da crociera.
+|![Icon]()|Scorpion|17:20:00|18:05:00|S1 Ep17 Verso Sud - Walter e la squadra devono liberare la figlia del magnate della tecnologia Richard Elia, sequestrata da un gruppo di criminali messicani. I due volano in Messico per salvarla.
+|![Icon]()|Scorpion|18:05:00|18:50:00|S1 Ep18 Sull&#039;orlo del conflitto - Walter e la squadra tentano di evitare che la tensione salga fra i paesi baltici. Il rischio e&#039; una terribile guerra. La stabilita&#039; del pianeta dipende da loro...
+|![Icon]()|Scorpion|18:50:00|19:35:00|S1 Ep19 Scintille d&#039;amore - La squadra deve soccorrere alcuni giovani escursionisti che si sono persi nella foresta. Ma, a causa del vento, l&#039;elicottero di salvataggio finisce tra gli alberi.
+|![Icon]()|Scorpion|19:35:00|20:20:00|S1 Ep20 Incroci - In seguito a un&#039;importante testimonianze, la Scorpion deve proteggere Maya Hernandez, ex contabile di una pericolosa organizzazione criminale.
+|![Icon]()|The Illusionist - L&#039;illusionista|20:20:00|22:15:00|Regia di N. Burger, con E.Norton, P.Giamatti; CZE 2006. Nella Vienna dei primi del &#039;900, un amore combattuto costringe all&#039;esilio forzato un giovane. Ritornera&#039; in veste di supremo illusionista.
+|![Icon]()|Murders on the Railway|22:15:00|23:10:00|Ep. 2 - Regia di W. Simpson. Dagli archivi di Scotland Yard, i casi di omicidio piu&#039; scioccanti della storia moderna. Meticolose ricostruzioni attraverso le storie degli assassini, della polizia e delle vittime.
+|![Icon]()|Anica Appuntamento al cinema|23:10:00|23:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon]()|Bullet Head|23:15:00|00:55:00|Regia di P. Solet, con A.Brody, J.Malkovich; BGR 2017. In fuga dalla polizia, tre criminali si rifugiano in un magazzino in disuso. Ma tra quelle mura si nasconde una terribile minaccia.
+|![Icon]()|Universal Soldier: Regeneration|00:55:00|02:25:00|Regia di J. Hyams, con J.C.Van Damme, D.Lundgren; USA 2009. Un super soldato geneticamente modificato viene addestrato per sventare il pericolosissimo piano di una banda di terroristi.
+|![Icon]()|Kickboxer - La vendetta del guerriero|02:25:00|04:00:00|Regia di J. Stockwell, con A.Moussi, D.Bautista; USA 2016. Il campione mondiale di kickboxer muore in un combattimento. Per vendicarlo, il fratello dovra&#039; sottoporsi a un duro addestramento.
+|![Icon]()|Rookie Blue|04:00:00|05:00:00|S2 Ep12 Di corsa - Andy e Swarek violano le regole: la ragazza, infatti, si reca a casa di lui. Ma all&#039;improvviso giunge anche Jamie Brennan, il quale inizia a fare a Sam dolte domande.
+|![Icon]()|Rookie Blue|05:00:00|05:40:00|S2 Ep13 La grazia del buon Dio - Andy racconta a Traci come e&#039; avvenuta la scomparsa di Sam: il ragazzo si era infiltrato all&#039;interno dell&#039;azienda di Brennan, pluriomicida e trafficante di droga.
+|![Icon]()|The UnXplained|05:40:00|06:25:00|Ep. 1 - Foreste stregate, case infestate, montagne da dove i visitatori non tornano mai vivi. Esistono davvero dei &#039;luoghi maledetti&#039; intrisi di energia oscura?
+|![Icon]()|Medium|06:25:00|07:10:00|S3 Ep22 La quinta vittima - Allison continua ad avere delle visioni sul caso delle donne decapitate. Ma c&#039;e&#039; un problema: ora le sue capacita&#039; percettive sono diventate note al pubblico.
+|![Icon]()|Madam Secretary|07:10:00|07:55:00|S6 Ep9 Carpe Diem - Elisabetta affronta una questione molto delicata quando un conflitto militare in acque internazionali rischia di portare alla terza guerra mondiale.
+|![Icon]()|Madam Secretary|07:55:00|08:40:00|S6 Ep10 Un lungo viaggio - I McCord devono superare molti ostacoli prima di poter festeggiare finalmente le nozze della figlia e l&#039;approvazione di un importante emendamento.
+|![Icon]()|Elementary|08:40:00|09:25:00|S6 Ep19 Esperimenti - Holmes e Watson devono localizzare una donna scomparsa. I principali sospetti ricadono su un amico di Holmes.
+|![Icon]()|Elementary|09:25:00|10:15:00|S6 Ep20 Il laccio della morte - La situazione tra Holmes, Watson e Michael si complica ulteriormente quando si consuma l&#039;ennesimo omicidio. Niente e&#039; come sembra.
+|![Icon]()|Pippi Calzelunghe|10:15:00|11:05:00|S4 Ep2 Ritorno a casa - Giunti sul luogo di una chiamata per schiamazzi domestici, Andy e Swarek trovano una vittima pugnalata a morte. Ma nella casa c&#039;e&#039; anche Izzy, la figlia di Oliver Shaw...
+|![Icon]()|Rookie Blue|11:05:00|11:50:00|S4 Ep3 Non meglio, diverso - La squadra e&#039; alla ricerca di un rapinatore che assalta i Bancomat. Dov e Chloe vengono incaricati di occuparsi del caso, ma la cosa comportera&#039; per loro imbarazzo.
+|![Icon]()|Murder Maps|11:50:00|12:45:00|Ep1 Jack lo Squartatore - Un&#039;analisi che ricostruisce, attraverso il racconto degli esperti, i crimini attribuiti al misterioso killer Jack Lo Squartatore nella Londra del 1888.
+|![Icon]()|Just for Laughs|12:45:00|13:05:00|S18 Ep1 - Una telecamera nascosta osserva i comportamenti di persone comuni coinvolte in situazioni surreali e bizzarre. Variante in salsa canadese dello statunitense Candid Camera.
+|![Icon]()|Derailed - Attrazione letale|13:05:00|14:55:00|Regia di M. Hafstrom, con C.Owen, J.Aniston; USA/GBR 2005. Due manager hanno una appassionata relazione clandestina. Tra loro si insinua uno psicopatico, che inizia a perseguitarli.
+|![Icon]()|Batman|14:55:00|15:20:00|S3 Ep14 Caccia al tesoro - Joker viene prelevato all&#039;uscita del carcere da Catwoman, che ha in mente un superpiano che li coinvolge entrambi. Cosa stanno preparando i due folli criminali?
+|![Icon]()|Batman|15:20:00|15:45:00|S3 Ep15 La mappa del tesoro - Joker e Catwoman mettono a punto il loro piano per rapire Batgirl. Intanto Batman e Robin cercano a tutti i costi di prevenire le azioni dei due super criminali.
+|![Icon]()|Elementary|15:45:00|16:30:00|S6 Ep21 Resti quel che resti - La collaborazione tra Holmes e Watson rischia di essere compromessa quando Joan e&#039; accusata di omicidio. L&#039;indagine si rivela alquanto complicata.
+|![Icon]()|Elementary|16:30:00|17:15:00|S7 Ep1 Le ulteriori avventure - Il nuovo impiego come consulenti per Scotland Yard porta Holmes e Watson a indagare sul caso di una modella colpita con l&#039;acido.
+|![Icon]()|Rookie Blue|17:15:00|18:00:00|S4 Ep4 Ragazzi difficili - Andy ha bisogno di recuperare le forze dopo la sparatoria che ha coinvolto Marlo. Insieme a Gail, intanto, trova un ragazzo rinchiuso in un bagagliaio di una macchina.
+|![Icon]()|Rookie Blue|18:00:00|18:50:00|S4 Ep5 Pillola velenosa - Quando Andy e Marlo arrestano alcuni spacciatori, scopriranno che la loro merce e&#039; stata contaminata con un batterio letale...
+|![Icon]()|Scorpion|18:50:00|19:35:00|S1 Ep21 Senza respiro - Walter e la sua squadra devono fermare un folle scienziato che, minaccia di mettere in circolo del gas nervino all&#039;interno di un centro di ricerca.
+|![Icon]()|Scorpion|19:35:00|20:20:00|S1 Ep22 Sull&#039;orlo del precipizio - Il team cerca di far fronte alle conseguenze della decisione di Walter, ma intanto lui rischia la vita dopo essere finito fuori strada.
+|![Icon]()|Skyline|20:20:00|21:55:00|Regia di C. Strause, G. Strause, con E.Balfour, S.Thompson; USA 2010. Nel cuore della notte, Los Angeles viene invasa da misteriosi fasci di luce. La gente scompare: e&#039; l&#039;inizio di un attacco alieno.
+|![Icon]()|Zombie contro zombie|21:55:00|23:40:00|Regia di S. Ueda, con T.Hamatsu, M.Hosoi; JPN 2017. Una troupe cinematografica sta girando un film sugli zombie, quando le persone iniziano a trasformarsi realmente in morti viventi.
+|![Icon]()|Anica Appuntamento al cinema|23:40:00|23:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon]()|Batman|23:45:00|00:15:00|S3 Ep14 Caccia al tesoro - Joker viene prelevato all&#039;uscita del carcere da Catwoman, che ha in mente un superpiano che li coinvolge entrambi. Cosa stanno preparando i due folli criminali?
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

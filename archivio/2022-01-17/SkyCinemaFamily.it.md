@@ -1,0 +1,39 @@
+# Sky Cinema Family
+> Programmazione di Domenica 16 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Il Ggg - Il grande gigante gentile|00:55:00|02:55:00|Steven Spielberg adatta il romanzo di Roald Dahl nella pellicola con Mark Rylance. Una bambina stringe amicizia con un gigante aiutandolo a frenare la furia cannibale dei suoi simili (USA/IND 2016)
+|![Icon]()|Il viaggio di Norm|02:55:00|04:30:00|Dal Polo Nord a Manhattan in un esilarante film d&#039;animazione. Un orso che sa parlare agli umani raggiunge New York per salvare l&#039;Artico da un imprenditore, ma viene scambiato per un attore (USA 2016)
+|![Icon]()|Quella peste di Sophie|04:30:00|06:20:00|Adattamento del romanzo per bambini ambientato nel XIX secolo. Sophie e&#039; una bambina allegra e impertinente, dice bugie e combina pasticci, facendo disperare chi le sta intorno.. (FRA 2016)
+|![Icon]()|Lo straordinario viaggio di T.S. Spivet|06:20:00|08:05:00|Helena Bonham Carter in un&#039;avventura emozionante. Un bambino prodigio, inventore di una macchina geniale, intraprende un viaggio per ritirare un premio all&#039;insaputa della sua famiglia (FRA 2013)
+|![Icon]()|I pinguini di Madagascar|08:05:00|09:45:00|Spin-off targato DreamWorks della saga di &#039;Madagascar&#039;. Skipper, Kowalski, Rico e Soldato si alleano con una squadra segreta per combattere contro il malvagio Octavius Tentacoli (USA 2014)
+|![Icon]()|Nonno questa volta e&#039; guerra|09:45:00|11:25:00|Robert De Niro, Uma Thurman e Christopher Walken nella commedia Sky Original per tutta la famiglia. Un nonno occupa la stanza del nipote, che fara&#039; di tutto per riconquistare il suo spazio (USA 2020)
+|![Icon]()|Il viaggio di Norm|11:25:00|12:55:00|Dal Polo Nord a Manhattan in un esilarante film d&#039;animazione. Un orso che sa parlare agli umani raggiunge New York per salvare l&#039;Artico da un imprenditore, ma viene scambiato per un attore (USA 2016)
+|![Icon]()|I Goonies|12:55:00|14:55:00|Richard Donner firma una memorabile avventura ideata e prodotta da Steven Spielberg. Un gruppo di ragazzi trova una mappa che conduce al leggendario tesoro di un pirata (USA 1985)
+|![Icon]()|Crumb la strada verso casa|14:55:00|16:20:00|Nuova avventura per Little Crumb. Trasferitosi con i genitori in campagna, il bimbo rimpiange la citta&#039;. Decide cosi&#039; di fuggire con il suo cane Moor, ma sara&#039; rapito con l&#039;amica Anna (NLD 2020)
+|![Icon]()|Turbo|16:20:00|18:00:00|A tutto gas in un rombante film d&#039;animazione della DreamWorks. Turbo e&#039; una lumaca che sogna di correre in pista. Grazie a una sostanza misteriosa, raggiungera&#039; una velocita&#039; supersonica (USA 2013)
+|![Icon]()|La bussola d&#039;oro|18:00:00|20:00:00|Un Oscar al fantasy con Daniel Craig e Nicole Kidman, dal romanzo di Philip Pullman. Una bambina e il suo &#039;daimon&#039; devono sfidare una strega in un luogo popolato da strane creature (GBR/USA 2007)
+|![Icon]()|Genitori vs Influencer|20:00:00|21:40:00|Fabio Volo, Ginevra Francesconi e Giulia De Lellis nella commedia Sky Original di Michela Andreozzi. Un prof si scontra con la figlia teenager per colpa dei social... ma diventa influencer (ITA 2021)
+|![Icon]()|Water Horse - La leggenda degli abissi|21:40:00|23:35:00|Dai creatori de &#039;Le cronache di Narnia&#039;, un&#039;avventura fantasy. Un bambino scopre un cavallo acquatico nei pressi del lago di Lochness e lo nasconde nella sua vasca da bagno (GBR/USA 2007)
+|![Icon]()|100X100Cinema|23:35:00|23:50:00|Ospiti della puntata Edoardo Leo e Marta Nieto, i due interpreti principali del nuovo Sky Original &#039;Lasciarsi un giorno a Roma&#039;, il film di Capodanno di Sky Cinema diretto dallo stesso Leo.
+|![Icon]()|I Goonies|23:50:00|01:50:00|Richard Donner firma una memorabile avventura ideata e prodotta da Steven Spielberg. Un gruppo di ragazzi trova una mappa che conduce al leggendario tesoro di un pirata (USA 1985)
+|![Icon]()|Lo straordinario viaggio di T.S. Spivet|01:50:00|03:40:00|Helena Bonham Carter in un&#039;avventura emozionante. Un bambino prodigio, inventore di una macchina geniale, intraprende un viaggio per ritirare un premio all&#039;insaputa della sua famiglia (FRA 2013)
+|![Icon]()|Questo o quello - Speciale|03:40:00|03:55:00|Francesco Castelnuovo e Gianni Canova si sfidano sui film dell&#039;adrenalinica saga con Mel Gibson e Danny Glover: Arma Letale, disponibile su Sky Cinema Collection sabato 22 e domenica 23 gennaio.
+|![Icon]()|La bussola d&#039;oro|03:55:00|05:55:00|Un Oscar al fantasy con Daniel Craig e Nicole Kidman, dal romanzo di Philip Pullman. Una bambina e il suo &#039;daimon&#039; devono sfidare una strega in un luogo popolato da strane creature (GBR/USA 2007)
+|![Icon]()|Elf|05:55:00|07:35:00|Allegra fiaba natalizia con Will Ferrell. Un bambino finisce nel sacco di Babbo Natale e cresce al Polo Nord insieme agli altri elfi. Da adulto torna a New York alla ricerca dei genitori (USA 2003)
+|![Icon]()|I delitti del BarLume 9 - Speciale|07:35:00|07:55:00|Tra risate, azione e backstage il regista Roan Johnson, insieme al cast, ci svela cosa succedera&#039; al BarLume e a Pineta, dove dietro a ogni scherzo si celano indagini e verita&#039;.
+|![Icon]()|Turbo|07:55:00|09:35:00|A tutto gas in un rombante film d&#039;animazione della DreamWorks. Turbo e&#039; una lumaca che sogna di correre in pista. Grazie a una sostanza misteriosa, raggiungera&#039; una velocita&#039; supersonica (USA 2013)
+|![Icon]()|Bianca &amp; Grey e la pozione magica|09:35:00|11:05:00|Magica storia animata di formazione. L&#039;immaturo Grey ricorre a una pozione per diventare il lupo alfa di cui il branco e Bianca hanno bisogno, ma si ritrova trasformato in un ariete (RUS 2016)
+|![Icon]()|Genitori vs Influencer|11:05:00|12:50:00|Fabio Volo, Ginevra Francesconi e Giulia De Lellis nella commedia Sky Original di Michela Andreozzi. Un prof si scontra con la figlia teenager per colpa dei social... ma diventa influencer (ITA 2021)
+|![Icon]()|Happy Feet|12:50:00|14:40:00|Oscar per il miglior film d&#039;animazione. Un pinguino stonato viene cacciato dalla sua colonia di eccellenti cantanti, ma si riscatta a passo di danza. Golden Globe alla canzone di Prince (AUS/USA 2006)
+|![Icon]()|Water Horse - La leggenda degli abissi|14:40:00|16:35:00|Dai creatori de &#039;Le cronache di Narnia&#039;, un&#039;avventura fantasy. Un bambino scopre un cavallo acquatico nei pressi del lago di Lochness e lo nasconde nella sua vasca da bagno (GBR/USA 2007)
+|![Icon]()|Elf|16:35:00|18:15:00|Allegra fiaba natalizia con Will Ferrell. Un bambino finisce nel sacco di Babbo Natale e cresce al Polo Nord insieme agli altri elfi. Da adulto torna a New York alla ricerca dei genitori (USA 2003)
+|![Icon]()|Tom &amp; Jerry|18:15:00|20:00:00|Tra animazione e live action, le origini di una storica rivalita&#039;. Il topo Jerry giunge in un hotel di New York per assistere a un matrimonio. Per sbarazzarsene, viene assunto il gatto Tom (USA 2021)
+|![Icon]()|Kung Fu Panda 3|20:00:00|21:40:00|Terzo capitolo della spassosa saga animata con l&#039;inarrestabile panda Po. Per affrontare il perfido Kai, Po insegna i segreti del kung fu ai miti abitanti del suo villaggio natale (USA 2016)
+|![Icon]()|Il mio amico Alexis|21:40:00|23:30:00|Una commedia di formazione con la star del calcio Alexis Sanchez. L&#039;attaccante cileno stringe amicizia con il talentuoso dodicenne Tito e riscopre i motivi del suo amore per il football (CHL 2019)
+|![Icon]()|Happy Feet|23:30:00|01:20:00|Oscar per il miglior film d&#039;animazione. Un pinguino stonato viene cacciato dalla sua colonia di eccellenti cantanti, ma si riscatta a passo di danza. Golden Globe alla canzone di Prince (AUS/USA 2006)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

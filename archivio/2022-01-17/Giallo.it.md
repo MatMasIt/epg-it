@@ -1,0 +1,48 @@
+# Giallo
+> Programmazione di Domenica 16 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|I misteri di Brokenwood|00:15:00|02:05:00|S5 Ep4 L&#039;angelo oscuro - Sul limitare di Brokenwood c&#039;e&#039; un manicomio abbandonato, il Brokenwood Downes, che ora ospita dei ritrovi di adolescenti. Una sera una coppia fa una scoperta terribile: un cadavere...
+|![Icon]()|Nightmare Next Door|02:05:00|03:00:00|Le fiamme della passione - Una piccola comunita&#039; agricola dell&#039;Ohio e&#039; scioccata quando i resti carbonizzati di Troy Temar sono rinvenuti in un campo. Un agghiacciante indizio bastera&#039; per scovare il killer?
+|![Icon]()|Murder Comes to Town|03:00:00|03:50:00|S2 Ep9 Il signore delle rocce - La pacifica armonia della citta&#039; montana di Guffey, in Colorado, e&#039; distrutta quando una notte di gennaio una coppia viene massacrata insieme al proprio nipote.
+|![Icon]()|Murder Comes to Town|03:50:00|04:35:00|S2 Ep10 Il diario segreto - Angela e Ashley Hyke scompaiono in una calda notte d&#039;estate. Gli indizi trovati in casa loro, e il criptico diario di Angela, fanno supporre che la storia non finira&#039; bene.
+|![Icon]()|L&#039;investigatore Wolfe|04:35:00|05:00:00|S3 Ep13 Professore in pericolo - Un professore si concede un&#039;avventura, ma un ricattatore minaccia di rivelare tutto. Wolfe riuscira&#039; a trovare il colpevole prima che l&#039;uomo perda il lavoro e il suo matrimonio finisca?
+|![Icon]()|L&#039;investigatore Wolfe|05:00:00|05:30:00|S2 Ep2 Relazione con l&#039;insegnante - Una madre preoccupata sospetta che suo figlio abbia una relazione romantica con la sua giovane e attraente insegnante. L&#039;investigatore privato Brian Wolfe si occupa delle indagini.
+|![Icon]()|Murder Comes to Town|05:30:00|06:25:00|S3 Ep1 Duplice omicidio a Monte Vista - Un messaggio trovato sulla scena di un duplice omidicio indica possibili collegamenti con il traffico di droga. Ma le vittime non erano coinvolte con la droga...
+|![Icon]()|Murder Comes to Town|06:25:00|07:25:00|S3 Ep2 Lo stalker notturno - Il brutale omicidio di una donna di Shenandoah, Iowa, conduce gli investigatori verso le persone piu&#039; vicine alla vittima. Ma non e&#039; quella la strada giusta...
+|![Icon]()|Miss Fisher: delitti e misteri|07:25:00|08:30:00|S2 Ep12 Anime perdute - Il caso della morte di un&#039;adolescente, che porta Jack e Phryne a indagare in una casa di accoglienza per giovani sbandate, mette in pericolo la carriera dello stesso Jack.
+|![Icon]()|Miss Fisher: delitti e misteri|08:30:00|09:45:00|S2 Ep13 Omicidio sotto il vischio - Phryne, Dot, Mac e la zia decidono di passare il Natale di luglio allo chalet con alcuni amici. Peccato che qualcuno inizi a uccidere gli ospiti della casa...
+|![Icon]()|Miss Fisher: delitti e misteri|09:45:00|10:55:00|S3 Ep1 La sirenetta dei miracoli - Miss Fisher e&#039; chiamata ad indagare sulla morte dell&#039;assistente di un mago durante uno spettacolo. Intanto, suo padre arriva dall&#039;Inghilterra...
+|![Icon]()|Miss Fisher: delitti e misteri|10:55:00|12:10:00|S3 Ep2 Morte e aviatori - Una donna viene uccisa davanti alla base dell&#039;Aeronautica di Melbourne, che e&#039; comandata da un&#039;ex fiamma di Phryne, il che provoca tensioni tra lei e Jack.
+|![Icon]()|I misteri di Brokenwood|12:10:00|14:10:00|S5 Ep2 La non futura sposa - Gli investigatori devono svelare il mistero di una sposa, che il giorno del suo addio al nubilato viene trovata morta annegata nel fiume...
+|![Icon]()|Grantchester|14:10:00|15:10:00|S6 Ep3 - L&#039;Ispettore Keating e Will vengono trascinati nelle follie della lotta politica quando la morte di un consigliere porta Grantchester alle elezioni comunali.
+|![Icon]()|Grantchester|15:10:00|16:15:00|S6 Ep4 - Una notte un gruppo di giovani piloti di aereo americani viene portato alla stazione di Polizia in stato di fermo: cosa e&#039; successo?
+|![Icon]()|Vera|16:15:00|18:10:00|S2 Ep3 - Vera indaga sul un giovane uomo morto, drogato e derubato. Si tratta di un caso piu&#039; complesso di come puu&#039; sembrare.
+|![Icon]()|L&#039;ispettore Barnaby|18:10:00|20:10:00|S8 Ep2 Morte nell&#039;acqua - Il presidente del club velico viene trovato morto durante una regata. L&#039;uomo, scapolo, aveva molte amanti, e pare che la gelosia possa essere il movente dell&#039;omicidio.
+|![Icon]()|Vera|20:10:00|22:05:00|S2 Ep4 - Vera indaga sulla morte di un veterano della guerra in Afghanistan, che alla base militare hanno dichiarato suicidio con fretta un po&#039; sospetta.
+|![Icon]()|Tandem|22:05:00|23:15:00|S4 Ep5 Un&#039;arma del passato - Lea e Paul sono chiamati alla cava di bauxite di Sadile, dove e&#039; stato trovato il corpo di una donna. Subito capiscono che i minatori non collaboreranno...
+|![Icon]()|Tandem|23:15:00|00:25:00|S4 Ep6 La pianta mortale - La direttrice dell&#039;Istituto Botanicoviene trovata morta in una cella frigorifera con una pianta non inventariata. Lea e Paul indagano tra i collaboratori della vittima.
+|![Icon]()|I misteri di Brokenwood|00:25:00|02:15:00|S6 Ep1 Un festival esplosivo - Dopo che un omicidio ha funestato l&#039;evento Brokenwood Steampunk, Mike e i suoi finiscono a indagare nel mondo del travestimento ed escapismo, dove ognuno ha un alter ego...
+|![Icon]()|Nightmare Next Door|02:15:00|03:10:00|Scomparsa - Quando Cyndi, 9 anni, e&#039; rapita e uccisa a Lakewood, i ragazzi del quartiere credono di essere in grado di aiutare i detective nelle indagini. Ma come?
+|![Icon]()|Murder Comes to Town|03:10:00|03:50:00|S3 Ep1 Duplice omicidio a Monte Vista - Un messaggio trovato sulla scena di un duplice omidicio indica possibili collegamenti con il traffico di droga. Ma le vittime non erano coinvolte con la droga...
+|![Icon]()|Murder Comes to Town|03:50:00|04:35:00|S3 Ep2 Lo stalker notturno - Il brutale omicidio di una donna di Shenandoah, Iowa, conduce gli investigatori verso le persone piu&#039; vicine alla vittima. Ma non e&#039; quella la strada giusta...
+|![Icon]()|L&#039;investigatore Wolfe|04:35:00|05:00:00|S3 Ep14 Problemi adolescenziali - Una madre si rivolge a Wolfe per trovare suo figlio adolescente. Wolfe e McCarthy scavano nel passato del ragazzo e scoprono che il figlio si infliggeva delle ferite e molto di piu&#039;.
+|![Icon]()|L&#039;investigatore Wolfe|05:00:00|05:30:00|S2 Ep3 Relazione extraconiugale - Una moglie felice sospetta che suo marito abbia una relazione e chiede all&#039;investigatore privato Brian Wolfe di scoprire la verita&#039;.
+|![Icon]()|Murder Comes to Town|05:30:00|06:25:00|S3 Ep3 La verita&#039; su Susan Casey - In Montana la Polizia indaga a fondo sulla misteriosa scomparsa di una donna, madre di quattro figli.
+|![Icon]()|Murder Comes to Town|06:25:00|07:20:00|S3 Ep4 Un posto chiamato casa - Una donna viene trovata morta nel giardino di casa sua nell&#039;Illinois. Indagando nel vicinato, la Polizia scopre un segreto che potrebbe avere a che fare col delitto.
+|![Icon]()|L&#039;ispettore Barnaby|07:20:00|09:20:00|S7 Ep5 Il Maid in Splendour - Il barista dello Splendour Pub di Midsomer viene coinvolto in una storia di amore, gelosia, affari e passione...
+|![Icon]()|I misteri di Brokenwood|09:20:00|11:15:00|S6 Ep1 Un festival esplosivo - Dopo che un omicidio ha funestato l&#039;evento Brokenwood Steampunk, Mike e i suoi finiscono a indagare nel mondo del travestimento ed escapismo, dove ognuno ha un alter ego...
+|![Icon]()|Miss Fisher: delitti e misteri|11:15:00|12:30:00|S3 Ep3 Delitto al ristorante - L&#039;anziana cuoca di un ristorante italiano viene uccisa: il delitto porta a una faida tra famiglie di immigrati italiani tra spaghetti, amore e crimine organizzato.
+|![Icon]()|Miss Fisher: delitti e misteri|12:30:00|13:45:00|S3 Ep4 Sangue e denaro - Un monello di strada assume Phryne per ritrovare suo fratello, facendola arrivare a scoprire una sinistra scia di ragazzi morti. Intanto Hugh e&#039; in difficolta&#039;.
+|![Icon]()|L&#039;ispettore Barnaby|13:45:00|15:45:00|S8 Ep3 Orchis Fatalis - La mostra delle orchidee e&#039; un appuntamento molto importante per Malham Manor. L&#039;omicidio di un coltivatore funesta l&#039;evento di quest&#039;anno, e Barnaby e&#039; chiamato a indagare.
+|![Icon]()|I misteri di Brokenwood|15:45:00|17:40:00|S6 Ep2 Omicidio d&#039;autore - Un famoso scrittore di gialli e&#039; a Brokenwood per la presentazione del suo nuovo romanzo. Ma viene ucciso, proprio nel modo in cui un delitto viene descritto nel suo libro...
+|![Icon]()|Miss Fisher: delitti e misteri|17:40:00|19:00:00|S3 Ep5 Morte e psiche - L&#039;iniziativa di Zia Prudence di aprire la sua casa allo psichiatra e guaritore Samuels, per ospitare il suo sanatorio femminile, portera&#039; ad un serio guaio.
+|![Icon]()|Miss Fisher: delitti e misteri|19:00:00|20:10:00|S3 Ep6 Omicidio al Grand Hotel - La morte di un portiere d&#039;albergo finisce per coinvolgere il Barone Fisher, eccentrico padre di Phryne, che stavolta potrebbe non cavarsela solo col suo fascino.
+|![Icon]()|L&#039;ispettore Barnaby|20:10:00|22:05:00|S8 Ep1 Cose che colpiscono di notte - Un becchino viene trovato morto, con i polsi tagliati. Le indagini della Polizia si rivolgono verso una nuova chiesa spiritualista.
+|![Icon]()|Grantchester|22:05:00|23:10:00|S6 Ep3 - L&#039;Ispettore Keating e Will vengono trascinati nelle follie della lotta politica quando la morte di un consigliere porta Grantchester alle elezioni comunali.
+|![Icon]()|Grantchester|23:10:00|00:15:00|S6 Ep4 - Una notte un gruppo di giovani piloti di aereo americani viene portato alla stazione di Polizia in stato di fermo: cosa e&#039; successo?
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

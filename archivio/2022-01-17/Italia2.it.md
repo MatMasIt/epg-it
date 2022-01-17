@@ -1,0 +1,98 @@
+# Italia 2
+> Programmazione di Domenica 16 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Simulcast radio 101|00:56:50|04:51:50|Simulcast radio 101
+|![Icon]()|Holly e Benji Forever!|04:52:09|05:09:09|S2 Ep23 Iniziano i quarti di finale - Iniziano i quarti di finale. Si sono gia&#039; qualificate per le semifinali le squadre di Toho e della Muppet.
+|![Icon]()|Holly e Benji Forever!|05:09:49|05:31:49|S2 Ep17 Un grande assente - La New Team riesce a battere la Artic grazie ad un goal di Holly proprio all&#039;ultimo minuto. Nel frattempo la Toho sta vincendo contro la Mercury per due a zero.
+|![Icon]()|Holly e Benji Forever!|05:32:23|05:59:23|S2 Ep18 Torna, capitano! - Holly, infortunatosi durante una partita, viene tranquillizzato dal dottore. Nel frattempo proseguono le partite del Campionato Nazionale.
+|![Icon]()|Una spada per Lady Oscar|06:00:00|06:21:00|S1 Ep28 Un innamorato respinto - Oscar, in crisi, chiede a Maria Antonietta il permesso di abbandonare la sua carica di colonnello della guardia. Andre&#039; scopre che presto diventera&#039; cieco.
+|![Icon]()|Una spada per Lady Oscar|06:21:54|06:42:54|S1 Ep29 Una nuova vita - Oscar diventa comandante di guarnigione di soldataglia e Andre&#039; la segue nell&#039;esercito contro il suo volere.
+|![Icon]()|Una spada per Lady Oscar|06:43:44|07:11:44|S1 Ep30 La sfida di Oscar - Il padre di Oscar, desideroso di trovare un marito per la figlia, organizza un ballo in suo onore.
+|![Icon]()|Una spada per Lady Oscar|07:12:17|07:40:17|S1 Ep31 La rabbia popolare - Oscar riceve il compito di scortare un nobile spagnolo e la sua famiglia. Oscar teme l&#039;intromissione di Saint-Just e la situazione precipita.
+|![Icon]()|Una spada per Lady Oscar|07:41:06|08:02:06|S1 Ep32 I nemici del popolo - Oscar vince il suo capo a duello ed intercede affinche&#039; il soldato traditore non venga condannato a morte.
+|![Icon]()|Friends|08:02:59|08:33:59|S9 Ep11 Brutte sorprese - Rachel torna al lavoro per paura che il suo sostituto le rubi il posto. Phoebe intanto trova un posto come comparsa nella soap opera in cui recita di Joey.
+|![Icon]()|Friends|08:34:23|09:02:23|S9 Ep12 Topo d&#039;appartamento - Mike scopre che Phoebe ha in casa un topo che tratta come un animale domestico. Ross intanto e&#039; alle prese con la nuova tata di Emma.
+|![Icon]()|Mike &amp; Molly|09:03:11|09:27:11|S2 Ep22 Prove di nozze - Si scatena il putiferio alle prove di nozze di Mike e Molly quando Vince rivela di non aver mai ottenuto il divorzio dalla prima moglie.
+|![Icon]()|Mike &amp; Molly|09:27:13|09:55:13|S2 Ep23 Il matrimonio - Mike e Molly devono superare parecchi ostacoli, prima di riuscire ad arrivare finalmente all&#039;altare.
+|![Icon]()|Mike &amp; Molly|09:56:10|10:19:10|S3 Ep1 La luna di miele e&#039; finita - Mike entusiasta della luna di miele a Parigi, decide di fare viaggi in tutto il mondo ma una turbolenza durante il viaggio di ritorno, gli fara&#039; cambiare idea.
+|![Icon]()|Mike &amp; Molly|10:20:06|10:42:06|S3 Ep2 Amore spericolato-sesso spericolato - Vince e Joyce fanno del sesso un po&#039; troppo spericolato e Vince rimane bloccato a causa di uno stiramento alla schiena.
+|![Icon]()|Mike &amp; Molly|10:42:25|11:12:25|S3 Ep3 L&#039; ultima fetta - Molly organizza una serata per vedere il film del suo matrimonio. Christina, la ragazza di Carl non partecipa perche&#039; e&#039; uscita con il suo ex marito.
+|![Icon]()|Holly e Benji Forever!|11:12:41|11:33:41|S2 Ep21 Un tiro a sorpresa - Holly si e&#039; slogato una spalla durante il primo tempo della partita contro la squadra della Hot Dog. Intanto i fratelli Derrick hanno segnato il goal del pareggio.
+|![Icon]()|Holly e Benji Forever!|11:33:52|12:01:52|S2 Ep22 Una vittoria sudata - La New Team e la Toho vincono le rispettive partite con la Hot Dog e la Konishi qualificandosi entrambe ai quarti di finale del Campionato Nazionale.
+|![Icon]()|Holly e Benji Forever!|12:02:29|12:23:29|S2 Ep23 Iniziano i quarti di finale - Iniziano i quarti di finale. Si sono gia&#039; qualificate per le semifinali le squadre di Toho e della Muppet.
+|![Icon]()|Tgcom24|12:24:14|12:33:14|Il quotidiano online di News Mediaset: cronaca, politica, esteri, economia, sport, spettacoli e televisione. Cultura, tecnologia, viaggi, salute e meteo.
+|![Icon]()|Holly e Benji Forever!|12:33:42|13:01:42|S2 Ep24 Chi la dura la vince - Continua la partita tra la Flynet e la Majestic. La squadra di Philip Calagan si trova in difficolta&#039; e perde uno a zero.
+|![Icon]()|Holly e Benji Forever!|13:01:51|13:28:51|S2 Ep25 Una collaborazione ideale - Continua la partita tra la New Team e la Hirado e quest&#039;ultima si rivela in tutta la sua potenza. La New Team rischia di essere eliminata.
+|![Icon]()|Naruto Shippuden|13:29:23|13:56:23|S9 Ep28 L&#039;ordine di catturare la volpe a nove code - Speciale - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati...
+|![Icon]()|Naruto Shippuden|13:56:37|14:22:37|S9 Ep29 Naruto contro Meca-Naruto - Speciale - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi
+|![Icon]()|Naruto Shippuden|14:23:29|14:51:29|S9 Ep30 La forza portante del Decacoda - Quando ormai diventa chiaro, ai ninja dell&#039;alleanza, che Obito e&#039; diventato la forza portante del Decacoda, Hashirama tenta di imprigionarlo.
+|![Icon]()|Naruto Shippuden|14:51:35|15:20:35|S1 Ep31 Una breccia - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Naruto Shippuden|15:21:28|15:50:28|S1 Ep32 Il giorno della nascita di naruto - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi...
+|![Icon]()|Naruto Shippuden|15:50:43|16:19:43|S1 Ep33 L&#039; albero divino - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Friends|16:20:29|16:50:29|S9 Ep11 Brutte sorprese - Rachel torna al lavoro per paura che il suo sostituto le rubi il posto. Phoebe intanto trova un posto come comparsa nella soap opera in cui recita di Joey.
+|![Icon]()|Friends|16:50:54|17:16:54|S9 Ep12 Topo d&#039;appartamento - Mike scopre che Phoebe ha in casa un topo che tratta come un animale domestico. Ross intanto e&#039; alle prese con la nuova tata di Emma.
+|![Icon]()|Mike &amp; Molly|17:17:29|17:39:29|S2 Ep22 Prove di nozze - Si scatena il putiferio alle prove di nozze di Mike e Molly quando Vince rivela di non aver mai ottenuto il divorzio dalla prima moglie.
+|![Icon]()|Mike &amp; Molly|17:40:06|18:02:06|S2 Ep23 Il matrimonio - Mike e Molly devono superare parecchi ostacoli, prima di riuscire ad arrivare finalmente all&#039;altare.
+|![Icon]()|Mike &amp; Molly|18:03:01|18:25:01|S3 Ep1 La luna di miele e&#039; finita - Mike entusiasta della luna di miele a Parigi, decide di fare viaggi in tutto il mondo ma una turbolenza durante il viaggio di ritorno, gli fara&#039; cambiare idea.
+|![Icon]()|Mike &amp; Molly|18:25:45|18:52:45|S3 Ep2 Amore spericolato-sesso spericolato - Vince e Joyce fanno del sesso un po&#039; troppo spericolato e Vince rimane bloccato a causa di uno stiramento alla schiena.
+|![Icon]()|Mike &amp; Molly|18:53:26|19:18:26|S3 Ep3 L&#039; ultima fetta - Molly organizza una serata per vedere il film del suo matrimonio. Christina, la ragazza di Carl non partecipa perche&#039; e&#039; uscita con il suo ex marito.
+|![Icon]()|Naruto Shippuden|19:18:40|19:47:40|S1 Ep36 I compagni nel cuore - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Naruto Shippuden|19:48:18|20:18:18|S1 Ep37 Obito uchiha - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Mom|20:18:30|20:37:30|S3 Ep9 Passo dopo passo - Christy continua a vedere Fred e ad avere problemi con Candace. Nonostante cio&#039;, Christy non approva il modo in cui Fred tratta la figlia.
+|![Icon]()|Mom|20:37:36|21:00:36|S3 Ep10 Ritorno di fiamma - Bonnie si sente minacciata dalla presenza di Steve durante gli incontri. Decide di cambiare aria, partecipando alla riunione alcolisti anonimi gay.
+|![Icon]()|Mom|21:01:34|21:26:34|S3 Ep11 Maledette tentazioni - Durante una riunione del gruppo tutte donne, irrompe Julian, un alcolista solo, disperato ed estremamente sexy.
+|![Icon]()|Mom|21:26:41|21:53:41|S3 Ep12 L&#039; ultimo errore di Jodi - Christy ha qualche problema con Jodi, la quale ha iniziato a vedersi con un ragazzo che ha smesso di farsi di eroina da sole sei settimane.
+|![Icon]()|Mom|21:53:46|22:19:46|S3 Ep13 Contrabbando - Alla profonda tristezza, ancora non sopita, per la morte di Jodi, si unisce la rabbia di Marjorie per la decisione di non dirle nulla fino alla fine della sua luna di miele.
+|![Icon]()|Within: Presenze|22:20:09|04:47:09|John Alexander, vedovo, si risposa con Melanie e va ad abitare in una casa il cui precedente proprietario e&#039; scomparso in maniera inspiegabile. Regia di P. Claydon; USA 2016
+|![Icon]()|Holly e Benji Forever!|04:47:10|04:59:10|S2 Ep16 Holly infortunato - Durante la partita tra la New Team e la Artic, Holly si fa male ad una gamba, ma grazie alle cure di Patty puo&#039; continuare a giocare.
+|![Icon]()|Holly e Benji Forever!|05:00:00|05:20:00|S2 Ep21 Un tiro a sorpresa - Holly si e&#039; slogato una spalla durante il primo tempo della partita contro la squadra della Hot Dog. Intanto i fratelli Derrick hanno segnato il goal del pareggio.
+|![Icon]()|Holly e Benji Forever!|05:20:00|05:40:00|S2 Ep22 Una vittoria sudata - La New Team e la Toho vincono le rispettive partite con la Hot Dog e la Konishi qualificandosi entrambe ai quarti di finale del Campionato Nazionale.
+|![Icon]()|Holly e Benji Forever!|05:40:00|05:59:00|S2 Ep23 Iniziano i quarti di finale - Iniziano i quarti di finale. Si sono gia&#039; qualificate per le semifinali le squadre di Toho e della Muppet.
+|![Icon]()|Camera Cafe&#039;|05:59:00|06:05:00|S5 Ep51 Nonna moderna - Le vicende degli impiegati di un&#039;azienda si intrecciano intorno alla macchinetta del caffe&#039;. Con Luca Bizzarri, Paolo Kessisoglu
+|![Icon]()|Camera Cafe&#039;|06:05:00|06:10:00|S5 Ep52 Il dubbio di paolo - Le vicende degli impiegati di un&#039;azienda si intrecciano intorno alla macchinetta del caffe&#039;. Con Luca Bizzarri, Paolo Kessisoglu
+|![Icon]()|Camera Cafe&#039;|06:10:00|06:15:00|S5 Ep53 Insonnia - Le vicende degli impiegati di un&#039;azienda si intrecciano intorno alla macchinetta del caffe&#039;. Con Luca Bizzarri, Paolo Kessisoglu
+|![Icon]()|Camera Cafe&#039;|06:15:00|06:20:00|S5 Ep54 Il fattore geller - Le vicende degli impiegati di un&#039;azienda si intrecciano intorno alla macchinetta del caffe&#039;. Con Luca Bizzarri, Paolo Kessisoglu
+|![Icon]()|Camera Cafe&#039;|06:20:00|06:25:00|S5 Ep55 Ti devo dire una cosa - Le vicende degli impiegati di un&#039;azienda si intrecciano intorno alla macchinetta del caffe&#039;. Con Luca Bizzarri, Paolo Kessisoglu
+|![Icon]()|Black-Ish|06:25:00|06:45:00|S3 Ep3 Chi ha paura dell&#039;uomo nero? - Una situazione sul lavoro porta Dre a discutere di come sia cambiata la percezione delle persone di colore rispetto al periodo della sua gioventu&#039;.
+|![Icon]()|Black-Ish|06:45:00|07:05:00|S3 Ep4 Una vacanza da sballo vip - Dre porta la famiglia al Walt Disney World per una vacanza con il pacchetto VIP. Nel frattempo, Bow, Pops e Ruby partono per un&#039;avventura all&#039;interno del resort.
+|![Icon]()|Black-Ish|07:05:00|07:25:00|S3 Ep5 Jack tuttofare - Dre e Bow cercano di accettare che Jack possa avere un futuro come colletto blue quando lui e Diane portano a casa i risultati dei loro test professionali.
+|![Icon]()|Black-Ish|07:25:00|07:50:00|S3 Ep6 La notte dello sfogo - Il quartiere organizza una notte speciale Halloween, in cui i reati minori diventano legali.
+|![Icon]()|Black-Ish|07:50:00|08:20:00|S3 Ep7 Il ringra-zia-mento - La sorella maggiore di Pops, si unisce alla famiglia per il Ringraziamento, per la gioia di tutti tranne che di Ruby che non puo&#039; sopportare la sua ex-cognata.
+|![Icon]()|Superstore|08:20:00|08:45:00|S3 Ep18 La giornata del piccolo commerciante - Il Cloud Nine ospita la fiera dei piccoli commercianti. C&#039;e&#039; anche lo stand di Jerusha, che vende improbabili indumenti ricamati a mano.
+|![Icon]()|Superstore|08:45:00|09:10:00|S3 Ep19 Strategie di risparmio - Con un jackpot da 30 milioni i commessi del Cloud Nine sognano di vincere al super lotto, ma nella realta&#039; Amy ha bisogno di un aumento di stipendio e lo chiede a...
+|![Icon]()|Superstore|09:10:00|09:35:00|S3 Ep20 Maschietto o femminuccia? - Dopo un&#039;ecografia, la dottoressa scrive su un foglio il sesso del bambino di Dina e lo consegna a Glenn in una busta.
+|![Icon]()|Superstore|09:35:00|10:05:00|S3 Ep21 Una grande famiglia - Jonah e&#039; molto turbato dalla notizia della gravidanza di Amy, ma nonostante i tentativi della ragazza, non riesce a sostenere un confronto con lei.
+|![Icon]()|Superstore|10:05:00|10:30:00|S3 Ep22 Un piano perfetto - Fervono i preparativi per l&#039;arrivo del CEO Neil Penderton e Laurie annuncia ai dipendenti che l&#039;evento verra&#039; trasmesso in diretta streaming.
+|![Icon]()|Mike &amp; Molly|10:30:00|11:00:00|S3 Ep4 La scelta di Molly - Molly vorrebbe rimanere amica di Christina nonostante lei abbia rotto con Carl e Mike la preghi di prendere le parti dell&#039;amico.
+|![Icon]()|Mike &amp; Molly|11:00:00|11:25:00|S3 Ep5 Il capo di Mike - Il capo di Mike, si innamora follemente di Peggy, dopo averla conosciuta al matrimonio di Mike e Molly.
+|![Icon]()|Mike &amp; Molly|11:25:00|11:50:00|S3 Ep6 Il mercatino - Molly decide di svuotare il seminterrato organizzando un mercatino davanti casa, con l&#039;idea di utilizzare quello spazio per andarci a vivere con Mike.
+|![Icon]()|Mike &amp; Molly|11:50:00|12:20:00|S3 Ep7 Nozze coi fichi secchi - Mike e&#039; ammalato per il Giorno del Ringraziamento e Molly e&#039; felice perche&#039; in tal modo evita di passare la giornata davanti ai fornelli.
+|![Icon]()|Mike &amp; Molly|12:20:00|12:42:00|S3 Ep8 Mike, Molly e un bambino - Mike e&#039; sempre piu&#039; preoccupato di non riuscire a dare a Molly il bambino che tanto desidera e chiede aiuto a Carl.
+|![Icon]()|Superstore|12:42:00|13:15:00|S3 Ep18 La giornata del piccolo commerciante - Il Cloud Nine ospita la fiera dei piccoli commercianti. C&#039;e&#039; anche lo stand di Jerusha, che vende improbabili indumenti ricamati a mano.
+|![Icon]()|Superstore|13:15:00|13:40:00|S3 Ep19 Strategie di risparmio - Con un jackpot da 30 milioni i commessi del Cloud Nine sognano di vincere al super lotto, ma nella realta&#039; Amy ha bisogno di un aumento di stipendio e lo chiede a...
+|![Icon]()|Superstore|13:40:00|14:05:00|S3 Ep20 Maschietto o femminuccia? - Dopo un&#039;ecografia, la dottoressa scrive su un foglio il sesso del bambino di Dina e lo consegna a Glenn in una busta.
+|![Icon]()|Superstore|14:05:00|14:30:00|S3 Ep21 Una grande famiglia - Jonah e&#039; molto turbato dalla notizia della gravidanza di Amy, ma nonostante i tentativi della ragazza, non riesce a sostenere un confronto con lei.
+|![Icon]()|Superstore|14:30:00|15:00:00|S3 Ep22 Un piano perfetto - Fervono i preparativi per l&#039;arrivo del CEO Neil Penderton e Laurie annuncia ai dipendenti che l&#039;evento verra&#039; trasmesso in diretta streaming.
+|![Icon]()|Una spada per Lady Oscar|15:00:00|15:25:00|S1 Ep33 Gli ultimi splendori di Versaille - Mentre Rosalie si sposa con Bernard, il cavaliere nero, il principino ereditario non riesce a sopravvivere ad una lunga e terribile malattia.
+|![Icon]()|Una spada per Lady Oscar|15:25:00|15:55:00|S1 Ep34 Robespierre - I rappresentanti del Terzo Stato si rivoltano contro gli ordini del Re e decidono di restare in assemblea permanente fino a nuova decisione.
+|![Icon]()|Holly e Benji Forever!|15:55:00|16:25:00|S2 Ep26 Momento critico - Siamo quasi alla fine del primo tempo tra la New Team e la Hirado. La squadra di Holly non riesce a recuperare lo svantaggio di due goal, che poi salgono a tre.
+|![Icon]()|Holly e Benji Forever!|16:25:00|16:55:00|S2 Ep27 La grande rimonta - La New Team rischia di perdere la partita contro la Hirado. Holly e&#039;infortunato e Ted e Johnny sono in cattive condizioni fisiche.
+|![Icon]()|Mike &amp; Molly|16:55:00|17:25:00|S3 Ep4 La scelta di Molly - Molly vorrebbe rimanere amica di Christina nonostante lei abbia rotto con Carl e Mike la preghi di prendere le parti dell&#039;amico.
+|![Icon]()|Mike &amp; Molly|17:25:00|17:55:00|S3 Ep5 Il capo di Mike - Il capo di Mike, si innamora follemente di Peggy, dopo averla conosciuta al matrimonio di Mike e Molly.
+|![Icon]()|Mike &amp; Molly|17:55:00|18:20:00|S3 Ep6 Il mercatino - Molly decide di svuotare il seminterrato organizzando un mercatino davanti casa, con l&#039;idea di utilizzare quello spazio per andarci a vivere con Mike.
+|![Icon]()|Mike &amp; Molly|18:20:00|18:45:00|S3 Ep7 Nozze coi fichi secchi - Mike e&#039; ammalato per il Giorno del Ringraziamento e Molly e&#039; felice perche&#039; in tal modo evita di passare la giornata davanti ai fornelli.
+|![Icon]()|Mike &amp; Molly|18:45:00|19:10:00|S3 Ep8 Mike, Molly e un bambino - Mike e&#039; sempre piu&#039; preoccupato di non riuscire a dare a Molly il bambino che tanto desidera e chiede aiuto a Carl.
+|![Icon]()|Naruto Shippuden|19:10:00|19:40:00|S1 Ep38 Ti proteggero&#039; sempre - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Naruto Shippuden|19:40:00|20:10:00|S1 Ep39 La promessa mantenuta - In questa stagione gli episodi, anche se ispirati al manga di Masashi Kishimoto costituiscono una saga originale e sono incentrati sul passato di Kakashi Hatake.
+|![Icon]()|Dragonheart 2: Il destino di un..|20:10:00|22:00:00|.. cavaliere - Geoff, un giovane stalliere, scopre Drake, l&#039;ultimo drago vivente. Il ragazzo capisce che il suo sogno di diventare un valoroso cavaliere puo&#039; diventare... Regia di D. Lefler; USA 2000
+|![Icon]()|Mom|22:00:00|22:25:00|S3 Ep9 Passo dopo passo - Christy continua a vedere Fred e ad avere problemi con Candace. Nonostante cio&#039;, Christy non approva il modo in cui Fred tratta la figlia.
+|![Icon]()|Mom|22:25:00|22:50:00|S3 Ep10 Ritorno di fiamma - Bonnie si sente minacciata dalla presenza di Steve durante gli incontri. Decide di cambiare aria, partecipando alla riunione alcolisti anonimi gay.
+|![Icon]()|Mom|22:50:00|23:20:00|S3 Ep11 Maledette tentazioni - Durante una riunione del gruppo tutte donne, irrompe Julian, un alcolista solo, disperato ed estremamente sexy.
+|![Icon]()|Mom|23:20:00|23:45:00|S3 Ep12 L&#039; ultimo errore di Jodi - Christy ha qualche problema con Jodi, la quale ha iniziato a vedersi con un ragazzo che ha smesso di farsi di eroina da sole sei settimane.
+|![Icon]()|Mom|23:45:00|00:10:00|S3 Ep13 Contrabbando - Alla profonda tristezza, ancora non sopita, per la morte di Jodi, si unisce la rabbia di Marjorie per la decisione di non dirle nulla fino alla fine della sua luna di miele.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
