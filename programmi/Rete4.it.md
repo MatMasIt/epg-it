@@ -3,30 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Tg4 ultima ora|00:46:04|01:04:04|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4.
-|![Icon]()|Ieri e oggi in tv|01:04:41|02:45:41|Riviviamo le note e i personaggi degli anni 80 proposti nel popolare programma musicale del periodo.
-|![Icon]()|Xtra|02:46:23|03:04:23|Xtra
-|![Icon]()|Slalom|03:04:58|04:50:58|Lucio e&#039; in vacanza a Sestriere. L&#039;avventura con una bella straniera lo coinvolgera&#039; in un intrigo internazionale. Con Vittorio Gassman, Adolfo Celi Regia di L. Salce; ITA 1965
-|![Icon]()|Ieri e oggi in tv|04:51:14|05:12:14|Il programma che vi fa rivedere i personaggi che hanno fatto la storia della tv dal 1980 ad oggi.
-|![Icon]()|Tg4 ultima ora|05:12:21|05:32:21|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4.
-|![Icon]()|Stasera Italia|05:32:46|06:23:46|Programma di approfondimento giornalistico targato Videonews condotto da Veronica Gentili.
-|![Icon]()|Super partes|06:23:47|07:11:47|Comunicazione politica
-|![Icon]()|ANGOLI DI MONDO &#039;03|07:11:47|07:48:47|S1 Ep60 Brasile-costa d&#039;avorio-egitto-ercolano-favignana - Angoli di mondo &#039;03
-|![Icon]()|Cuore contro cuore|07:49:33|08:54:33|S1 Ep21 Sotto accusa - Giulia difende un ragazzo vittima di mobbing da parte di un datore di lavoro, che fa un uso regolare di tale, abietta, pratica.
-|![Icon]()|Casa Vianello|08:55:13|09:21:13|S6 Ep5 La clausola - La tata dovrebbe andare a trovare la madre per un&#039;occasione speciale: deve conoscere uno zio &#039;americano&#039; che non ha mai visto.
-|![Icon]()|Casa Vianello|09:22:08|09:52:08|S6 Ep6 La suggeritrice - Sandra ha invitato a cena un ospite importante, il direttore d&#039;orchestra Maestro Rosati.
-|![Icon]()|Dalla parte degli animali|09:52:20|10:54:20|Il programma condotto da Michela Vittoria Brambilla per trovare casa a cani, gatti e altri animali abbandonati o in difficolta&#039;, vi mostreremo le loro immagini e vi racconteremo le loro storie.
-|![Icon]()|Tg4 (diretta)|10:55:00|11:20:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
-|![Icon]()|Meteo.it &#039;22 - r4|11:20:00|11:32:00|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
-|![Icon]()|Poirot: Il ritratto di Elsa Greer|11:32:32|13:40:32|Una donna viene accusata di aver avvelenato suo marito e condannata a morte per impiccagione. 14 anni dopo, la figlia, riceve una lettera anonima. Con D. Suchet Regia di P. Unwin; GBR 2003
-|![Icon]()|Hindenburg|13:40:52|16:10:52|Da un fatto realmente accaduto. Nella Germania anteguerra un colonnello ha il compito di individuare il terrorista che intende far esplodere il dirigibile Hindenburg. Regia di R. Wise; USA 1975
-|![Icon]()|Gli uomini della terra selvaggia|16:10:53|17:57:53|Due ex detenuti fanno ritorno in una cittadina mineraria, dov&#039;erano stati arrestati tempo prima, poco dopo aver scoperto un ricco filone d&#039;oro. Regia di D. Daves, con A. Ladd, E. Borgnine; USA 1958
-|![Icon]()|Tg4 (diretta)|17:58:00|18:43:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
-|![Icon]()|Tg4 Ultim&#039;ora|18:43:02|18:54:02|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
-|![Icon]()|Tempesta d&#039;amore 17|18:54:08|19:29:08|S17 Ep94 - Vanessa sembra irremovibile dalla sua decisione di partecipare al campionato di scherma. Maja chiede a Selina di mantenere il segreto sull&#039;identita&#039; di Cornelius.
-|![Icon]()|Stasera Italia|19:30:00|20:24:00|Programma di approfondimento giornalistico targato Videonews condotto da Veronica Gentili.
-|![Icon]()|Stasera Italia|20:24:53|23:27:53|Programma di approfondimento giornalistico targato Videonews condotto da Veronica Gentili.
-|![Icon]()|I signori della truffa|23:28:06|01:44:06|Robert Redford e&#039; Martin Bishop, la mente a capo di un team di hacker, costretto dal governo a recuperare un prezioso decodificatore. Regia di P. Robinson; USA 1992
 |![Icon]()|Tg4 ultima ora|01:44:27|02:02:27|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4.
 |![Icon]()|La contessa bianca|02:03:06|04:07:06|Scritto dal premio Nobel per la letteratura K. Ishiguro, con R. Fiennes (&quot;Il paziente inglese&quot;) e N. Richardson. Un&#039;intensa storia d&#039;amore nella Shangai anni &#039;30. Regia di J. Ivory; GBR 2004
 |![Icon]()|100 stelle &#039;04|04:08:05|04:55:05|Amarcord dei programmi Mediaset con sketch comici e momenti musicali.
@@ -50,6 +26,27 @@
 |![Icon]()|Stasera Italia|19:30:00|20:20:00|Programma a cura della redazione del Tg4, che si occupa di politica e dei principali casi di cronaca e attualita&#039;.
 |![Icon]()|Quarta Repubblica|20:20:00|23:45:00|Il programma condotto da Nicola Porro affronta temi d&#039;attualita&#039;, di politica e di economia in compagnia dei suoi ospiti.
 |![Icon]()|Motive|23:45:00|00:50:00|S1 Ep2 Crimini passionali - La babysitter della figlia di Jacobs, candidato a sindaco, scopre che l&#039;uomo ha nel suo PC dei video compromettenti. Poco dopo viene travolta da una macchina sportiva.
+|![Icon]()|Tg4 ultima ora|00:50:00|01:10:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4.
+|![Icon]()|Quella provincia maliziosa|01:10:00|02:36:00|Un ricco industriale disapprova il rapporto tra il figlio Fabrizio e la bella Antonella, che posa nuda per le riviste maschili. Regia di G. Baldanello, con K. Well, A. Nova; ITA 1975
+|![Icon]()|Music line|02:36:00|05:35:00|Speciali dedicati ai cantanti e ai cantautori che, con la loro musica e le loro parole, hanno scritto la storia della canzone italiana.
+|![Icon]()|Tg4 ultima ora|05:35:00|05:53:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4.
+|![Icon]()|Stasera Italia|05:53:00|06:45:00|Programma a cura della redazione del Tg4, che si occupa di politica e dei principali casi di cronaca e attualita&#039;.
+|![Icon]()|Chips i/a|06:45:00|07:50:00|S1 Ep71 Un incontro salutare - Due stupende ragazze, proprietarie di un&#039;azienda agricola, hanno bisogno dei Chips e la disponibilita&#039; dei due poliziotti non conosce limiti.
+|![Icon]()|Miami Vice|07:50:00|08:50:00|S3 Ep2 Guerra privata di Stone - Crockett ha dei sospetti sull&#039;autenticita&#039; di una cassetta, in cui si mostra come i gruppi sandinisti vengono combattuti da mercenari americani in Nicaragua.
+|![Icon]()|Hazzard 5|08:50:00|09:50:00|S5 Ep6 Tele-comando - Boss assolda tre individui per rapinare l&#039;Hazzard Express che trasporta metalli pregiati per un valore di due milioni di dollari.
+|![Icon]()|Carabinieri|09:50:00|10:55:00|S1 Ep7 Golden goal - Imminente derby di pallone a Citta&#039; della Pieve, Carabinieri contro Guardia di Finanza. Tutta la caserma e&#039; in fermento.
+|![Icon]()|Tg4 (diretta)|10:55:00|11:20:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
+|![Icon]()|Meteo.it &#039;22 - r4|11:20:00|11:58:00|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
+|![Icon]()|La signora in giallo|11:58:00|12:58:00|S6 Ep5 Jack e Bill - Jessica racconta le disavventure del suo amico Bill Boyle, ex giocatore di football che una volta ritiratosi ha deciso di diventare investigatore, ma senza grandi risultati.
+|![Icon]()|Lo sportello di Forum|12:58:00|14:30:00|Programma storico delle reti Mediaset, condotto da Barbara Palombelli, che vede due contendenti affidare la soluzione del loro contrasto al giudizio di un giudice arbitro.
+|![Icon]()|Hamburg - Distretto 21|14:30:00|15:33:00|S7 Ep26 L&#039; incontro truccato - Tarik sorprende la sorella Kayra in atteggiamenti equivoci con Mattes e, in preda alla gelosia, arriva ad aggredire il collega.
+|![Icon]()|I dannati e gli eroi|15:33:00|17:56:00|1881. Un sergente afroamericano e&#039; accusato del duplice delitto di una ragazza e di suo padre. Lo difende il comandante del suo reparto. Regia di J. Ford, con J. Hunter, W. Strode; USA 1960
+|![Icon]()|Tg4 (diretta)|17:56:00|18:45:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
+|![Icon]()|Tg4 Ultim&#039;ora|18:45:00|18:50:00|Informazione quotidiana con le notizie dall&#039;Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche.
+|![Icon]()|Meteo.it &#039;22 - r4|18:50:00|19:30:00|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
+|![Icon]()|Stasera Italia|19:30:00|20:20:00|Programma a cura della redazione del Tg4, che si occupa di politica e dei principali casi di cronaca e attualita&#039;.
+|![Icon]()|Fuori dal Coro|20:20:00|23:45:00|Gli appuntamenti le inchieste i fatti e l&#039;interpretazione dei temi piu&#039; caldi dell&#039;attualita&#039; politica e di cronaca.
+|![Icon]()|Fatal memories - Ricordi mortali|23:45:00|01:29:00|April viene rilasciata dal manicomio in cui era rinchiusa per aver ucciso la madre. Non ricorda nulla ma il passato tornera&#039; a tormentarla. Regia di F. Mann, con I. Ricci, M. Apanowicz; USA 2015
 
 
 

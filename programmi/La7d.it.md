@@ -3,39 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|I menu&#039; di Benedetta|01:40:00|02:40:00|Ep. 93 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
-|![Icon]()|I menu&#039; di Benedetta|02:40:00|03:35:00|Strappo alla regola - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|I menu&#039; di Benedetta|03:35:00|04:30:00|Ep. 91 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|Oroscopo|04:30:00|04:35:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|04:35:00|04:40:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Oroscopo|04:50:00|04:55:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|04:55:00|05:00:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Tg La7|05:00:00|05:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Passion for Fashion|05:10:00|05:35:00|Urban - Regia di L. Saville. L&#039;Hip Hop ha plasmato la moda tanto quanto il mondo della musica. Da Lagerfeld a Wang, fino alle popstar che oggi impreziosiscono le passerelle e agli iconici brand streetwear.
-|![Icon]()|Passion for Fashion|05:35:00|06:00:00|The Great Outdoors - Regia di L. Saville. Levi Strauss creo&#039; il denim per i lavoratori di San Francisco che operavano nelle miniere e nei grandi spazi aperti, ma questo era solo l&#039;inizio...
-|![Icon]()|Passion for Fashion|06:00:00|06:25:00|Accessories - Regia di L. Saville. Una puntata dedicata a tutti gli accessori come borse, scarpe, cappelli, gioielli, che completano il look di tutte le piu&#039; grandi firme della moda.
-|![Icon]()|Discovering Fashion|06:25:00|06:50:00|Regia di L. Saville. Stilista di grandi figure femminili come Grace Kelly ed Elizabeth Taylor, Coco Chanel ha cambiato il modo di vestirsi delle donne.
-|![Icon]()|I menu&#039; di Benedetta|06:50:00|07:45:00|Ep. 94 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
-|![Icon]()|I menu&#039; di Benedetta|07:45:00|08:40:00|Ep. 95 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
-|![Icon]()|I menu&#039; di Benedetta|08:40:00|09:35:00|Finalmente e&#039; domenica - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
-|![Icon]()|I menu&#039; di Benedetta|09:35:00|10:35:00|Ep. 92 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|I menu&#039; di Benedetta|10:35:00|11:35:00|Ep. 93 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|I menu&#039; di Benedetta|11:35:00|12:35:00|Ep. 94 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|I menu&#039; di Benedetta|12:35:00|13:35:00|Ep. 95 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
-|![Icon]()|Josephine, ange gardien|13:35:00|15:25:00|S12 Ep44 Sulle tracce di Yen - Josephine sbarca in Asia e deve aiutare una coppia, Emilie e Victor, che vuole adottare una bambina, ma il cui dossier e&#039; stato perso dall&#039;agenzia.
-|![Icon]()|Josephine, ange gardien|15:25:00|17:15:00|S12 Ep45 Una rivelazione scottante - La missione di Josephine si svolge in una caserma dei pompieri, dove deve aiutare Michel Vercan, che sta ricevendo delle inquietanti lettere anonime.
-|![Icon]()|Tg La7|17:15:00|17:20:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|La cucina di Sonia|17:20:00|17:55:00|Ep. 64 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
-|![Icon]()|La cucina di Sonia|17:55:00|18:30:00|Ep. 8 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
-|![Icon]()|Downton Abbey|18:30:00|19:30:00|S4 Ep6 - Mentre si organizza una festa di compleanno per Robert, il contributo di Rose alla sopresa crea alcune difficolta&#039;. Intanto a Downton si pianifica un nuovo settore produttivo.
-|![Icon]()|Downton Abbey|19:30:00|20:30:00|S4 Ep7 - Il fratello di Cora, il playboy Harold, e&#039; in gravi difficolta&#039;, e Robert parte per l&#039;America per aiutarlo. Violet si ammala e trova conforto nella persona da cui meno se lo aspettava.
-|![Icon]()|Grey&#039;s Anatomy|20:30:00|21:20:00|S15 Ep25 Salto nella nebbia - Una coltre di nebbia avvolge Seattle. Nel frattempo, i medici affrontano ogni giorno le loro mille complicazioni personali e professionali...
-|![Icon]()|Grey&#039;s Anatomy|21:20:00|22:10:00|S16 Ep1 Nient&#039;altro a cui aggrapparsi - In ospedale, a Tom vengono affidate nuove responsabilita&#039;. Intanto, in seguito alla denuncia della Bailey, Meredith, Richard e Alex vengono licenziati.
-|![Icon]()|Grey&#039;s Anatomy|22:10:00|23:00:00|S16 Ep2 Di nuovo in sella - Il licenziamento non impedisce a Meredith di fare diagnosi mediche. Mentre Owen si scontra con il nuovo ruolo di Tom, giunge in ospedale un ferito in un incidente.
-|![Icon]()|Grey&#039;s Anatomy|23:00:00|23:50:00|S16 Ep3 Riuniti - In ospedale giunge una paziente in gravi condizioni: in seguito a una caduta in un cantiere, la donna e&#039; cerebralmente morta. Le sorelle devono decidere se mantenerla in vita.
-|![Icon]()|E&#039; arrivato nostro figlio|23:50:00|01:40:00|Regia di V. Lemercier, con V.Lemercier, G.Lellouche; FRA 2013. Aleksandra e Cyrille decidono di adottare un bambino russo di 7 anni. Le loro vita frenetica pero&#039; subira&#039; un duro contraccolpo.
 |![Icon]()|I menu&#039; di Benedetta|01:40:00|02:40:00|Ep. 94 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
 |![Icon]()|I menu&#039; di Benedetta|02:40:00|03:35:00|Ep. 95 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
 |![Icon]()|I menu&#039; di Benedetta|03:35:00|04:30:00|Finalmente e&#039; domenica - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
@@ -65,6 +32,40 @@
 |![Icon]()|La cucina di Sonia|19:50:00|20:30:00|Ep. 66 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
 |![Icon]()|Josephine, ange gardien|20:30:00|22:25:00|S17 Ep68 Viaggio in Thailandia - Josephine scopre che deve andare in Thailandia, per aiutare Louis Mercier, un medico arrestato per un sospetto traffico di medicinali.
 |![Icon]()|Josephine, ange gardien|22:25:00|00:20:00|S17 Ep69 Una doppia vita - Il nostro speciale angelo arriva in aiuto di Julie Millot alle prese con un marito che porta avanti una seconda vita. Ma non tutto e&#039; cio&#039; che sembra...
+|![Icon]()|ArtBox|00:20:00|00:50:00|Ep. 11 - 3 mostre in 3 centri culturali italiani: &#039;Re-evolution&#039; al MAXXI di Roma, &#039;Il mondo magico&#039; all&#039;Arsenale di Venezia per la Biennale 2017 e &#039;La Terra inquieta&#039; alla Triennale di Milano.
+|![Icon]()|La cucina di Sonia|00:50:00|01:20:00|Ep. 66 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
+|![Icon]()|LIKE - Tutto cio&#039; che piace|01:20:00|01:50:00|Ep. 1 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon]()|La mala educaxxxion|01:50:00|03:10:00|S1 Ep6 Desiderio - Ispirato al noto film di Pedro Almodovar, uno show ritmato e frizzante, condotto da Elena Di Cioccio.
+|![Icon]()|I menu&#039; di Benedetta|03:10:00|04:10:00|Ep. 96 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
+|![Icon]()|In cucina con Vissani - Il meglio|04:10:00|04:30:00|Ep. 7 - Piccoli e preziosi consigli di cucina di Gianfranco Vissani che ci guida tra i luoghi, le abitudini e le eccellenze gastronomiche delle varie regioni italiane.
+|![Icon]()|Oroscopo|04:30:00|04:35:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon]()|Meteo|04:35:00|04:40:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon]()|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon]()|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon]()|Oroscopo|04:50:00|04:55:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon]()|Meteo|04:55:00|05:00:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon]()|Tg La7|05:00:00|05:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon]()|The Good Wife|05:10:00|06:00:00|S1 Ep19 Boom - Alicia si trova a dover affrontare il suo ex capo in aula, Jonas Stern. Intanto Peter continua a usare la scusa della religione per ritornare nel &#039;gioco&#039;.
+|![Icon]()|The Good Wife|06:00:00|06:50:00|S1 Ep20 Buone azioni - Peter segue Alicia fuori dal suo appartamento dopo una discussione e rischia di finire in prigione per non aver rispettato gli arresti domiciliari.
+|![Icon]()|La cucina di Sonia|06:50:00|07:20:00|Ep. 66 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
+|![Icon]()|Josephine, ange gardien|07:20:00|09:10:00|S12 Ep47 Il riscatto di Michael - Questa volta Josephine deve aiutare un giocatore di rugby che ha il sogno di entrare in una squadra del campionato francese.
+|![Icon]()|I menu&#039; di Benedetta|09:10:00|10:10:00|Ep. 101 - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
+|![Icon]()|I menu&#039; di Benedetta|10:10:00|11:10:00|Svuotiamo la dispensa - Consigli per ricette uniche e appetitose fino alla presentazione di un pasto completo da parte della giornalista ed esperta cuoca Benedetta Parodi.
+|![Icon]()|I menu&#039; di Benedetta|11:10:00|12:15:00|Ep. 97 - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
+|![Icon]()|La cucina di Sonia|12:15:00|12:45:00|Ep. 66 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
+|![Icon]()|Grey&#039;s Anatomy|12:45:00|13:35:00|S12 Ep10 Tutto quel che voglio sei tu - Mentre Meredith si riprende dal trauma subito, Callie e Maggie decidono di sottoporre una paziente quindicenne ad un&#039;operazione rischiosa e sperimentale.
+|![Icon]()|Grey&#039;s Anatomy|13:35:00|14:30:00|S12 Ep11 Non spezzarmi il cuore - Una serie di flashback mostra la storia della relazione tra Jackson e April, a partire dal loro primo incontro. April scopre qualcosa che le cambiera&#039; la vita.
+|![Icon]()|Grey&#039;s Anatomy|14:30:00|15:25:00|S12 Ep12 La mia prossima vita - Un paziente di Meredith arriva in ospedale con un possibile aneurisma. Maggie comincia a credere che Richard sia a conoscenza della sua relazione con Andrew.
+|![Icon]()|The Good Wife|15:25:00|16:20:00|S1 Ep21 In bilico - Dopo la fine della competizione tra Cary e Alicia, e&#039; ormai il momento di scegliere, per lo studio, chi tra loro prendera&#039; posto all&#039;interno dell&#039;organico.
+|![Icon]()|The Good Wife|16:20:00|17:15:00|S1 Ep22 Uomini pericolosi - Alicia e&#039; costretta a difendere un tizio che appare palesemente colpevole. L&#039;uomo ha ucciso una donna da lui ammanettata, ma sostiene che sia stata legittima difesa.
+|![Icon]()|Tg La7|17:15:00|17:20:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon]()|Josephine, ange gardien|17:20:00|19:15:00|S13 Ep48 Sorelle nemiche - Questa volta Josephine deve aiutare un giocatore di rugby che ha come sogno quello di entrare in una importante squadra del campionato francese.
+|![Icon]()|I menu&#039; di Benedetta|19:15:00|19:50:00|Senza sensi di colpa - Benedetta Parodi cucina un piatto per noi, mostrandoci velocemente come prepararlo, dagli ingredienti, ai tempi di cottura, ai segreti per servirlo al meglio.
+|![Icon]()|La cucina di Sonia|19:50:00|20:30:00|Ep. 67 - Un goloso viaggio tra i sapori d&#039;Italia con Sonia Peronaci. Un percorso alla scoperta di tante gustose ricette regionali.
+|![Icon]()|Downton Abbey|20:30:00|21:30:00|S4 Ep8 - Rosamund studia un piano per tirar fuori Edith da una situazione imbarazzante. Intanto Isobel sta per ricevere delle attenzioni del tutto inaspettate...
+|![Icon]()|Downton Abbey|21:30:00|22:50:00|S4 Ep9 Christmas Special - La quarta stagione si chiude con una puntata speciale, in cui si rivedranno molti dei personaggi principali di tutta la serie.
+|![Icon]()|Isabella D&#039;Este - La regina del potere|22:50:00|23:55:00|Un approfondimento dedicato a una delle figure femminili piu&#039; importanti e autorevoli del Rinascimento: Isabella d&#039;Este.
+|![Icon]()|Le cortigiane del Rinascimento|23:55:00|00:55:00|Nel Rinascimento, le cortigiane erano dotate di specifici quartieri, proprie case e loro chiese. Divise per status sociale, sono ricordate nell&#039;arte, nella letteratura, nonche&#039; nelle strade cittadine.
 
 
 

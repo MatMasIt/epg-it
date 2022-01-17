@@ -3,23 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Calcio Mondiale|01:00:00|05:30:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
-|![Icon]()|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon]()|Europei|07:00:00|09:00:00|Programma Libero F - Il meglio del pattinaggio europeo su ghiacchio si fida a Tallin, in Estonia, per i titoli continentali.
-|![Icon]()|Studio Sci Alpino (live)|09:00:00|09:15:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon]()|Coppa del Mondo|09:15:00|10:15:00|Wengen. Slalom M 1a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
-|![Icon]()|Studio Sci Alpino (live)|10:15:00|10:30:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon]()|Coppa del Mondo|10:30:00|11:45:00|Zauchensee. SuperG F - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
-|![Icon]()|Studio Sci Alpino (live)|11:45:00|12:00:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon]()|Perle di Sport|12:00:00|12:10:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
-|![Icon]()|Studio Sci Alpino (live)|12:10:00|12:30:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon]()|Coppa del Mondo|12:30:00|13:30:00|Wengen. Slalom M 2a manche - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
-|![Icon]()|Studio Sci Alpino (live)|13:30:00|13:35:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
-|![Icon]()|Europei|13:35:00|16:00:00|Esibizione - Il meglio del pattinaggio europeo su ghiacchio si fida a Tallin, in Estonia, per i titoli continentali.
-|![Icon]()|Coppa del Mondo|16:00:00|16:50:00|Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon]()|Volley: Trento - Monza|16:50:00|19:30:00|Coppa Italia M, Quarti - Le gare che valgono la conquista della Coppa Italia.
-|![Icon]()|Basket: Trieste - Reggio Emilia (live)|19:30:00|23:00:00|Serie A, 16a g - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
-|![Icon]()|Pugilato Story|23:00:00|02:00:00|Titolo Mondiale Pesi Massimi: Muhammad Ali&#039; vs Leon Spinks - Il meglio della storia del pugilato.
 |![Icon]()|Calcio Mondiale|02:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon]()|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon]()|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
@@ -37,6 +20,26 @@
 |![Icon]()|Coppa del Mondo|21:00:00|22:00:00|Flamanville. Prova Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
 |![Icon]()|Sport Disabili: World Para Snow...|22:00:00|23:00:00|...Sports Championships - Una panoramica sulle discipline degli atleti diversamente abili.
 |![Icon]()|Coppa del Mondo|23:00:00|00:30:00|Flamanville. Prova Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon]()|La Ciaspolada|00:30:00|01:00:00|La classica corsa con racchette da neve, le ciaspole, e&#039; giunta alla sua 48esimo edizione.
+|![Icon]()|L&#039;uomo e il mare|01:00:00|01:30:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
+|![Icon]()|Sport Disabili: World Para Snow...|01:30:00|02:00:00|...Sports Championships - Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon]()|Calcio Mondiale|02:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon]()|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon]()|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon]()|Perle di Sport|07:00:00|08:45:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon]()|Carrarese - Siena|08:45:00|11:05:00|Serie C - 22a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon]()|Europei|11:05:00|13:00:00|Programma Libero F - Il meglio del pattinaggio europeo su ghiacchio si fida a Tallin, in Estonia, per i titoli continentali.
+|![Icon]()|Coppa del Mondo|13:00:00|14:20:00|Deer Valley. Aerials - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon]()|Coppa del Mondo|14:20:00|15:50:00|Deer Valley. Moguls - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon]()|Coppa del Mondo|15:50:00|17:05:00|Mosca. Aerials - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon]()|Perle di Sport|17:05:00|17:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon]()|Tg Rai Sport|17:30:00|17:50:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon]()|Coppa del Mondo|17:50:00|19:10:00|Zakopane. HS 140 - Le spettacolari evoluzioni dei campioni internazionali nella 43a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon]()|Coppa del Mondo|19:10:00|20:30:00|Zakopane. HS 140 Team - Le spettacolari evoluzioni dei campioni internazionali nella 43a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon]()|Coppa del Mondo|20:30:00|21:40:00|Nakiska. Ski Cross - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon]()|Coppa del Mondo|21:40:00|23:00:00|Nakiska. Ski Cross - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon]()|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon]()|Sport Disabili: SportAbilia|23:15:00|00:15:00|Una panoramica sulle discipline degli atleti diversamente abili.
 
 
 

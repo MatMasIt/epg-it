@@ -3,34 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|iZombie|00:16:55|00:56:55|S3 Ep11 Stanchi dei complotti - Liv e Blaine, in modalita&#039; zombie completa, irrompono nel poligono dei fratelli Johns. Le vittime sono salvate, ma Harley riesce a fuggire.
-|![Icon]()|Studio aperto &#039;22 - la giornata|00:57:18|01:08:18|I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|Sport Mediaset - Anticipazioni|01:08:47|01:28:47|Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
-|![Icon]()|Straight outta compton|01:28:47|03:46:47|La storia del primo gruppo gangsta rap, dal ghetto di Compton, al successo. Il film racconta i loro esordi, il successo, fino alla rottura. Con J. Mitchell, C. Hawkins. Regia di F. Gray; USA 2015
-|![Icon]()|Studio aperto &#039;22 - la giornata|03:46:47|03:56:47|I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|Atlantis|03:56:47|05:10:47|Un documentario sulla fauna subacquea, fotografato in modo splendido e diretto dal noto regista di Nikita e Leon, Luc Besson. Regia di L. Besson; FRA 1991
-|![Icon]()|Belli dentro|05:10:49|05:34:49|S3 Ep9 Vegemariano - Mariano sta per mangiare il pranzo preparatogli da Ciccio quando entra Matteo che gli parla dei danni di un&#039;alimentazione ricca di grassi.
-|![Icon]()|Belli dentro|05:35:19|06:04:19|S3 Ep10 Two is pegg che one - Ciccio decide di mettersi a dieta perche&#039; Mariano gli ha riferito che a Gonni non piacciono gli uomini con la pancia.
-|![Icon]()|Super partes|06:05:00|06:37:00|Comunicazione politica
-|![Icon]()|Heidi in citta&#039;|06:37:15|08:42:15|Tratto dallomonimo romanzo, Heidi lascia il villaggio tra i monti, il nonno e Peter per trasferirsi in citta&#039; insieme alla zia Dete. Li&#039; incontrera&#039; Clara. Regia di I. Takahata; DEU 1975
-|![Icon]()|Hart of Dixie|08:42:44|09:32:44|S3 Ep18 Di nuovo in sella - Zoe, dopo la fine della sua storia con Joel, accetta l&#039;invito a cena di Vince, un ragazzo conosciuto per caso.
-|![Icon]()|Hart of Dixie|09:33:14|10:26:14|S3 Ep19 L&#039; uomo migliore - Zoe si trova in una posizione scomoda quando Vivian le confida che sta considerando di tornare con il suo ex marito Charles, e le chiede di tenere il segreto con Wade.
-|![Icon]()|Hart of Dixie|10:27:12|11:16:12|S3 Ep20 Di nuovo insieme - Lemon con l&#039;aiuto di Wade, riesce a far recensire il Francie da un noto blogger: Walter Wallen. Anche Zoe si da&#039; un gran da fare per far recensire il Rammer Jammer.
-|![Icon]()|Back to School|11:16:51|11:24:51|25 &quot;ripetenti&quot; VIP sono costretti a tornare sui banchi di scuola per affrontare un vero esame di quinta elementare.
-|![Icon]()|Studio aperto &#039;22|11:25:00|11:58:00|Notizie e approfondimenti in diretta sui temi di attualita&#039; quotidiani a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|Meteo.it &#039;22 - i1|11:58:43|12:04:43|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
-|![Icon]()|Sport Mediaset XXL (diretta)|12:04:57|12:57:57|Mino Taveri conduce l&#039;approfondimento quotidiano sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
-|![Icon]()|E-Planet|12:58:41|13:27:41|Appuntamento con il magazine green all&#039;insegna della sostenibilita&#039;.
-|![Icon]()|L&#039;incredibile storia di Winter il delfino|13:28:31|15:42:31|.. delfino - Morgan Freeman in un film ispirato alla storia vera del delfino Winter e della comunita&#039; che si unisce per salvargli la vita. Regia di C. Smith, con M. Freeman, A. Judd; USA 2011
-|![Icon]()|Master Spy - Una spia per amico|15:42:42|17:20:42|Un agente segreto si risveglia dopo essere rimasto ibernato per quasi 50 anni e fa fatica ad adattarsi al nuovo mondo. Ad aiutarlo c&#039;e&#039; Tim, un simpatico bambino. Regia di P. Van Rijn; NLD 2016
-|![Icon]()|Studio aperto live &#039;22|17:21:35|17:24:35|Notizie e approfondimenti in diretta sui temi di attualita&#039; quotidiani a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|Meteo.it &#039;22 - i1|17:24:45|17:29:45|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
-|![Icon]()|Studio aperto &#039;22|17:30:00|17:56:00|Notizie e approfondimenti in diretta sui temi di attualita&#039; quotidiani a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|Studio aperto mag 2022|17:56:23|18:26:23|Notizie e approfondimenti in diretta sui temi di attualita&#039; quotidiani a cura della redazione giornalistica di Studio Aperto.
-|![Icon]()|C.S.I. Miami|18:26:58|19:28:58|S2 Ep6 L&#039; uragano Anthony - Uno spaventoso uragano colpisce Miami portando un mucchio di lavoro alla Protezione Civile, ma anche a Horatio e ai suoi colleghi.
-|![Icon]()|NCIS - Unita&#039; Anticrimine|19:29:57|20:18:57|S8 Ep5 Concorrenza - La squadra indaga sulla morte di un DJ radiofonico e di un ufficiale di marina che sono stati entrambi uccisi in diretta.
-|![Icon]()|Justice League|20:19:45|22:39:45|Film dell&#039;universo DC Comics con B. Affleck, H. Cavill e J. Momoa. Dopo la morte di Superman, Batman riunisce altri 4 supereroi per difendere l&#039;umanita&#039;. Regia di Z. Snyder; USA 2017
-|![Icon]()|Pressing|22:39:48|00:58:48|Massimo Callegari e Monica Bertini conducono il programma con highlights, gol, immagini e commenti della giornata di calcio di Serie A.
 |![Icon]()|E-Planet|00:59:00|01:27:00|Appuntamento con il magazine green all&#039;insegna della sostenibilita&#039;.
 |![Icon]()|Studio aperto &#039;22 - la giornata|01:27:06|01:43:06|I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.
 |![Icon]()|Sport Mediaset - Anticipazioni|01:43:44|02:03:44|Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
@@ -69,6 +41,47 @@
 |![Icon]()|NCIS - Unita&#039; Anticrimine|19:23:00|20:20:00|S8 Ep6 La formula - Tony e colleghi si occupano dell&#039;omicidio di una scienziata della Marina. Per qualche motivo, Abby sembra essere ossessionata da quest&#039;indagine.
 |![Icon]()|Freedom oltre il confine - Focus|20:20:00|22:45:00|S1 Ep4 - Avventura, scoperta, indagine. Un viaggio alla ricerca della conoscenza per scoprire l&#039;ignoto e farsi stupire dalle meraviglie della natura e della storia
 |![Icon]()|Tiki Taka - La repubblica del pallone|22:45:00|01:00:00|.. pallone (diretta) - - Protagonisti del mondo del calcio, giornalisti e tifosi vip commentano il weekend calcistico.
+|![Icon]()|Studio aperto &#039;22 - la giornata|01:00:00|01:10:00|I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.
+|![Icon]()|Sport Mediaset - Anticipazioni|01:10:00|01:27:00|Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
+|![Icon]()|I segreti dei mega-treni|01:27:00|02:14:00|S1 Ep5 600 Km di alta velocita&#039; - La costruzione dei 600 chilometri della nuova linea ferroviaria ad alta velocita&#039; che collega le citta&#039; francesi di Tours e Bordeaux.
+|![Icon]()|I segreti dei mega-treni|02:14:00|03:01:00|S1 Ep6 Il treno merci piu&#039; grande e sofisticato del mondo - Un team selezionato accuratamente, proveniente da ogni parte degli Stati Uniti, deve spostare un vagone Schnabel Westinghouse WECX800.
+|![Icon]()|City Hunter|03:01:00|03:22:00|S1 Ep29 La giovane illustratrice - Sara Marelloni, giovane e brava illustratrice di storie per l&#039;infanzia, non puo&#039; pubblicare libri a suo nome perche&#039; un potente editore sfrutta il suo lavoro.
+|![Icon]()|City Hunter|03:22:00|03:43:00|S1 Ep30 La conquista di Kreta - Sandro, erede universale dello zio multimilionario, si rivolge ad Hunter perche&#039; lo protegga dalla zia, che lo vuole morto per impossessarsi del patrimonio del marito.
+|![Icon]()|City Hunter|03:43:00|04:04:00|S1 Ep31 Amore senza limiti - Il capo di una banda di motociclisti fa rapire Alice per chiedere un grosso riscatto alla ricca famiglia della giovane.
+|![Icon]()|City Hunter|04:04:00|04:25:00|S1 Ep32 Un killer infallibile - Hunter decide di aiutare Selene ad arrestare un pericoloso killer di fama internazionale, assoldato per eliminare il presidente della Repubblica di Kirenia.
+|![Icon]()|City Hunter|04:25:00|04:46:00|S1 Ep33 Rapsodia d&#039;amore - Falcon chiede consiglio ad Hunter a proposito di una ragazza di cui si e&#039; innamorato. La ragazza rischia la vita perche&#039; sta indagando su un caso di tangenti.
+|![Icon]()|City Hunter|04:46:00|05:06:00|S1 Ep34 Papa&#039; preso in prestito - Una giovane vedova e&#039; perseguitata dal suocero che cerca di sottrarle la figlia. La donna affida la sua bambina ad Hunter e Kreta in modo che la proteggano.
+|![Icon]()|City Hunter|05:06:20|05:06:20|S1 Ep38 L&#039;allieva di Hunter - II parte - Noriko rivela a Kreta che il suo massimo desiderio sarebbe quello di trascorrere una giornata spensierata, come una qualsiasi altra ragazza della sua eta&#039;.
+|![Icon]()|The Carmichael Show|05:07:00|05:40:00|S2 Ep1 Tutti tradiscono - Cynthia scopre che il marito della sua migliore amica la tradisce. Segue il consiglio di Maxine e avvisa la sua amica che pero&#039; non le crede.
+|![Icon]()|L&#039;ape Maia|05:40:00|06:11:00|S1 Ep26 La lucciola Jimmy - Ispirato al famoso libro &quot;L&#039;Ape Maia&quot; di Waldemar Bonsels,il cartone narra le avventure della simpatica e curiosa Ape Maia.
+|![Icon]()|C&#039;era una volta... Pollon|06:11:25|06:39:25|S1 Ep38 - Pollon e&#039; una bambina dai riccioli biondi che abita sul monte Olimpo, e&#039; figlia del dio Apollo e vuole diventare a tutti i costi una Dea.
+|![Icon]()|FIOCCHI DI COTONE PER JEANIE|06:40:00|07:11:00|S1 Ep44 La grande decisione di Jeanie - Jeanie e&#039; una ragazza forte e piena di ideali. Ha un sorriso splendido e suona il pianoforte. La musica lega Jeanie ai suoi migliori amici, Stephen e Bill.
+|![Icon]()|Anna dai capelli rossi|07:11:14|07:39:14|S1 Ep12 Anna confessa - Il cartone animato racconta la vita della piccola Anna Shirley, rimasta orfana dopo pochi mesi dalla nascita e cresciuta dalla signora Thompson.
+|![Icon]()|Chicago Fire|07:40:00|08:35:00|S2 Ep10 Non cosi&#039; - Mcleod ha raggiunto il suo obiettivo: la chiusura della caserma 51. Il quartiere si mobilita contro questa decisione, in particolare Nathan a cui Severide ha salvato la vita.
+|![Icon]()|Chicago Fire|08:35:00|09:32:00|S2 Ep11 La verita&#039; - Alla caserma 51 arriva un nuovo paramedico, Allison Rafferty, affiancata a Shay. Dawson inizia la sua avventura in Accademia dove Severide insegnera&#039;.
+|![Icon]()|Chicago P.D.|09:32:10|10:26:10|S1 Ep1 Indagine mortale - La squadra di Voight e&#039; alle prese con uno spacciatore colombiano che per controllare il mercato della droga comincia a tagliare la testa a tutti coloro che lo ostacolano.
+|![Icon]()|Chicago P.D.|10:26:13|11:14:13|S1 Ep2 Un caso difficile - Diego, il figlio di Antonio, viene rapito da alcuni spacciatori colombiani. Tutta la squadra si mette alla ricerca del bambino.
+|![Icon]()|Back to School|11:15:00|11:25:00|25 &quot;ripetenti&quot; VIP sono costretti a tornare sui banchi di scuola per affrontare un vero esame di quinta elementare.
+|![Icon]()|Studio aperto &#039;22|11:25:00|11:58:00|Notizie e approfondimenti in diretta sui temi di attualita&#039; quotidiani a cura della redazione giornalistica di Studio Aperto.
+|![Icon]()|Meteo.it &#039;22 - i1|11:58:00|12:00:00|Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate.
+|![Icon]()|Grande Fratello Vip|12:00:00|12:07:00|.. i1 - - Aggiornamenti dalla casa del GF Vip
+|![Icon]()|Back to School|12:07:00|12:16:00|25 &quot;ripetenti&quot; VIP sono costretti a tornare sui banchi di scuola per affrontare un vero esame di quinta elementare.
+|![Icon]()|Sport Mediaset - Anticipazioni|12:16:00|12:21:00|Anticipazioni sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
+|![Icon]()|SPORT MEDIASET &#039;21|12:21:00|13:06:00|Approfondimento quotidiano in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.
+|![Icon]()|I Simpson|13:06:12|13:31:12|S13 Ep14 Opere di pubblico dominio - Questo episodio comprende tre parodie di grandi opere letterarie. La prima e&#039; &quot;L&#039;Odissea&quot; di Omero, poi Giovanna D&#039;Arco e infine &quot;Amleto&quot; di Shakesperare.
+|![Icon]()|I Simpson|13:31:21|13:54:21|S13 Ep15 La colpa e&#039; di Lisa - A casa Simpson arriva una esorbitante bolletta del telefono a causa di una telefonata fatta in Brasile.
+|![Icon]()|I Simpson|13:55:00|14:25:00|S13 Ep17 Homer in berlina - Appuntamento con tanti spezzoni che ritraggono Homer in situazioni ridicole e a suo sfavore.
+|![Icon]()|Young Sheldon|14:25:00|14:51:00|S4 Ep6 Orientamento per matricole e l&#039;inventore della lampo - Il dottor Sturgis riceve un&#039;offerta di lavoro presso il nuovo acceleratore di particelle in Texas e non potra&#039; occuparsi di Sheldon.
+|![Icon]()|Big Bang Theory|14:51:03|15:14:03|S5 Ep8 La permutazione dell&#039;isolamento - Amy si sente tradita quando scopre che Penny e Bernadette sono andate a fare shopping senza di lei.
+|![Icon]()|Big Bang Theory|15:15:00|15:40:00|S5 Ep9 La diffusione dell&#039;ornitofobia - Sheldon cerca di superare la sua fobia verso gli uccelli mentre Leonard e Penny tentano di trascorrere un po&#039; di tempo da soli.
+|![Icon]()|Modern Family|15:40:00|16:01:00|S7 Ep4 Il villaggio delle anatre - Phil e&#039; entusiasta per la prossima dischiusura delle uova d&#039;anatra trovate abbandonate anche se Claire ha dei dubbi sull&#039;essere ancora in vita degli animali.
+|![Icon]()|Coppa Italia live 2021/22|16:01:37|16:16:37|Monica Bertini conduce gli highlights di tutte le partite di Coppa Italia 2021-2022 in esclusiva assoluta su Mediaset.
+|![Icon]()|Coppa Italia live 2021/22|16:17:00|18:22:00|Coppa Italia - Ottavi - In diretta dallo stadio Olimpico, i biancocelesti di Maurizio Sarri affrontano i bianconeri di Gabriele Cioffi.
+|![Icon]()|Coppa Italia live 2021/22|18:22:00|18:46:00|Monica Bertini conduce gli highlights di tutte le partite di Coppa Italia 2021-2022 in esclusiva assoluta su Mediaset.
+|![Icon]()|C.S.I. Miami|18:46:00|19:33:00|S2 Ep10 Estremo - Horatio e i suoi colleghi si trovano coinvolti in un macchinoso giro di eventi che ha portato alla morte di Nikki, una ragazza giovane, ricca ed estremamente ribelle.
+|![Icon]()|NCIS - Unita&#039; Anticrimine|19:33:01|20:15:01|S8 Ep7 Padri e figli - Quando si verifica un omicidio di un ex comandante della Marina, Gibbs si imbatte in un pezzo di una vecchia bomba nucleare che era stato perso durante la Guerra Fredda.
+|![Icon]()|Back to School|20:15:11|23:20:11|Con Nicola Savino. 25 &quot;ripetenti&quot; VIP sono costretti a tornare sui banchi di scuola per affrontare un vero esame di quinta elementare
+|![Icon]()|Classe Z|23:20:11|01:09:11|La scuola e&#039; ricominciata ma con una novita&#039;: i ragazzi piu&#039; turbolenti si ritrovano in una nuova classe, una sezione speciale istituita per loro. Regia di G. Chiesa; ITA 2017
 
 
 

@@ -3,32 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Rai News notte|01:05:00|01:10:00|Cronaca, politica, economia, cultura, spettacolo e sport dall&#039;Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale &#039;all news&#039; della Rai.
-|![Icon]()|Mahler, Strauss|01:10:00|01:55:00|Dall&#039;Auditorium di Torino, l&#039;Orchestra Sinfonica Nazionale della Rai diretta da Yutaka Sado esegue &#039;Canti di un viandante per voce e orchestra&#039; di Gustav Mahler e &#039;Till Eulenspiegel Poem&#039; di Richard Strauss.
-|![Icon]()|Wild Italy|01:55:00|02:40:00|L&#039;invasione aliena - Grazie a progetti di reintroduzione, ma anche a fenomeni di espansione spontanei, si assiste in questi anni al ritorno di molte specie di uccelli considerate estinte.
-|![Icon]()|Wild Italy|02:40:00|03:35:00|Gravina - Gravina, il gran canyon nel Mediterraneo. La gravina di Laterza, e le altre della Puglia e della Basilicata, sono fra i piu&#039; grandi canyon d&#039;Europa.
-|![Icon]()|Save the Date|03:35:00|04:05:00|Speciale &#039;Farnesina. Digital Art Experience&#039; - Storia e architettura si fondono con l&#039;arte digitale e visuale nel progetto &#039;Farnesina Digital Art Experience&#039;.
-|![Icon]()|Wild Italy|04:05:00|05:00:00|L&#039;invasione aliena - Grazie a progetti di reintroduzione, ma anche a fenomeni di espansione spontanei, si assiste in questi anni al ritorno di molte specie di uccelli considerate estinte.
-|![Icon]()|Scrivere un classico nel Novecento|05:00:00|05:15:00|Il Fu Mattia Pascal di Luigi Pirandello - Daniele Aristarco e Annamaria Andreoli raccontano &#039;Il fu Mattia Pascal&#039; di Luigi Pirandello.
-|![Icon]()|La via della seta|05:15:00|05:40:00|Tabriz, la citta&#039; dei mercanti - Il bazaar di Tabriz, Iran Settentrionale, e&#039; stato uno snodo cruciale per i mercanti diretti in Oriente. Oggi la citta&#039; e&#039; il centro della comunita&#039; armena.
-|![Icon]()|Wild Italy|05:40:00|06:35:00|Gravina - Gravina, il gran canyon nel Mediterraneo. La gravina di Laterza, e le altre della Puglia e della Basilicata, sono fra i piu&#039; grandi canyon d&#039;Europa.
-|![Icon]()|La via della seta|06:35:00|07:05:00|Iran. Assassini, imperatori e scacchi - Il giornalista francese Alfred de Montesquiou prova a capire la Persia di ieri e l&#039;Iran di oggi.
-|![Icon]()|Art Night|07:05:00|08:55:00|La vita oltre la firma - Neri Marcore&#039; introduce il documentario &#039;L&#039;Hokusai Immaginato&#039;; a seguire una preziosa testimonianza sul restauro della Cappella Sistina.
-|![Icon]()|Appuntamento al cinema|08:55:00|09:00:00|Informazioni, commenti e news sui film in uscita nelle sale cinematografiche italiane.
-|![Icon]()|Il pipistrello|09:00:00|11:40:00|Dal Teatro Comunale di Bologna, &#039;Il pipistrello&#039; di Johann Strauss Jr. Sul podio il Mo Gianluigi Gelmetti.
-|![Icon]()|Save the Date|11:40:00|12:05:00|La Fenice per Venezia - Venezia, proprio come il Teatro La Fenice che la rappresenta, punta sulla forza della cultura per &#039;riemergere&#039; dall&#039;eccezionale acqua alta.
-|![Icon]()|Tuttifrutti|12:05:00|12:30:00|Tuttifrutti, la rubrica di cultura e spettacolo che propone ogni settimana storie gustose di opera e balletto, arte e design, cinema e teatro.
-|![Icon]()|La via della seta|12:30:00|13:00:00|Iran. Assassini, imperatori e scacchi - Il giornalista francese Alfred de Montesquiou prova a capire la Persia di ieri e l&#039;Iran di oggi.
-|![Icon]()|Wild Italy|13:00:00|13:50:00|Equilibri - Mai come in quest&#039;epoca le montagne sono state popolate da grandi animali. Il loro aumento rischia di far sottovalutare i segnali sulla tenuta delle basi stesse della vita.
-|![Icon]()|24/7 Wild|13:50:00|14:40:00|Storie di orsi - In una foresta del Nord America alcuni cuccioli di orso nero si affacciano alla vita. Devono imparare tutto e conquistare un proprio ruolo all&#039;interno del gruppo.
-|![Icon]()|Biennale College danza 2021|14:40:00|15:20:00|Uno speciale dedicato all&#039;edizione 2021 di &#039;Biennale College Danza&#039; e al &#039;restaging&#039; di &#039;FAR&#039; del coreografo inglese Wayne McGregor.
-|![Icon]()|Dialoge. Roma 2020 Terra Sacra|15:20:00|16:35:00|Sull&#039;orma dei suoi celebri &#039;Dialoge&#039;, la coreografa tedesca Sasha Waltz da&#039; vita a una straordinaria performance. Un dialogo tra il corpo, lo spazio e il presente.
-|![Icon]()|Centenario nascita Arturo Toscanini|16:35:00|17:00:00|La biografia e il percorso artistico del Maestro Arturo Toscanini. Documenti e ricordi a cura di Filippo De Luigi.
-|![Icon]()|La Dori - Accademia Bizantina|17:00:00|19:40:00|Dal Festival di Musica antica di Innsbruck: La Dori. Dramma musicale in tre atti su libretto di G. F. Apolloni. Musica di Pietro Antonio Cesti. Accademia Bizantina, direttore Ottavio Dantone.
-|![Icon]()|Rai News notte|19:40:00|19:45:00|Cronaca, politica, economia, cultura, spettacolo e sport dall&#039;Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale &#039;all news&#039; della Rai.
-|![Icon]()|La via della seta|19:45:00|20:15:00|Venezia, porta aperta sull&#039;Oriente - Lungo le calli e i canali, Alfred de Montesquiou inizia il suo viaggio lungo la Via della Seta da Venezia.
-|![Icon]()|Di la&#039; dal fiume e tra gli alberi|20:15:00|22:00:00|Immensa Africa / Ponente ligure, tra le nuvole e il mare - Terzo episodio di &#039;Immensa Africa&#039;. A seguire, Paolo Severini ci guida attraverso l&#039;entroterra del ponente ligure.
-|![Icon]()|Tutti lo sanno|22:00:00|00:10:00|Regia di A. Farhadi, con P.Cruz, J.Bardem; FRA/ITA 2018. Laura torna da Buenos Aires nel suo paesino natale in Spagna per il matrimonio della sorella, ma vecchi rancori...
 |![Icon]()|Tuttifrutti|00:10:00|00:35:00|Tuttifrutti, la rubrica di cultura e spettacolo che propone ogni settimana storie gustose di opera e balletto, arte e design, cinema e teatro.
 |![Icon]()|Rai News notte|00:35:00|00:40:00|Cronaca, politica, economia, cultura, spettacolo e sport dall&#039;Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale &#039;all news&#039; della Rai.
 |![Icon]()|Di la&#039; dal fiume e tra gli alberi|00:40:00|02:25:00|Immensa Africa / Ponente ligure, tra le nuvole e il mare - Terzo episodio di &#039;Immensa Africa&#039;. A seguire, Paolo Severini ci guida attraverso l&#039;entroterra del ponente ligure.
@@ -56,6 +30,31 @@
 |![Icon]()|A Tor Bella Monaca non piove mai|21:15:00|22:50:00|Regia di M. Bocci, con G.Colangeli, C.D&#039;Ursi; ITA 2019. Romolo e Mauro, due fratelli, vivono nel quartiere romano di Tor Bella Monaca. Le tensioni economiche esplodono alla morte della nonna.
 |![Icon]()|Devolution, una teoria Devo|22:50:00|23:50:00|Quaranta anni fa, cinque studenti della Kent State University decisero di mettere in musica le loro osservazioni sul costume e la societa&#039;. Scopriamo una delle band piu&#039; incomprese della storia.
 |![Icon]()|When You&#039;re Strange|23:50:00|01:20:00|Regia di T. DiCillo; USA 2009. Film documentario premiato ai Grammy che ricorda Jim Morrison, l&#039;indimenticabile leader dei Doors scomparso nel 1971.
+|![Icon]()|Rai News notte|01:20:00|01:25:00|Cronaca, politica, economia, cultura, spettacolo e sport dall&#039;Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale &#039;all news&#039; della Rai.
+|![Icon]()|Prossima fermata, America|01:25:00|02:20:00|Da Monterey a Los Angeles - Diretto a Los Angeles, Michael Portillo raggiunge Monterey, un tempo &#039;capitale&#039; delle sardine in scatola e, nella California di oggi, popolare meta turistica.
+|![Icon]()|Wild Italy|02:20:00|03:15:00|Cinghiali - Gli antichi cinghiali maremmani erano piccoli e sobri, mentre i cinghiali del terzo millennio sono il risultato di imprudenti rilasci di animali dell&#039;Est europeo.
+|![Icon]()|24/7 Wild|03:15:00|04:10:00|Storia di un leone - Un giovane leone si affaccia alla vita. Deve imparare tutto, soprattutto a evitare i pericoli di una vita nomade alla ricerca di un branco in cui affermarsi.
+|![Icon]()|Wild Italy|04:10:00|05:00:00|Cinghiali - Gli antichi cinghiali maremmani erano piccoli e sobri, mentre i cinghiali del terzo millennio sono il risultato di imprudenti rilasci di animali dell&#039;Est europeo.
+|![Icon]()|Scrivere un classico nel Novecento|05:00:00|05:10:00|Lo straniero di Albert Camus - Scopriamo &#039;Lo straniero&#039; (L&#039;Etranger) scritto da Albert Camus, tra i venticinque e i ventisette anni.
+|![Icon]()|La via della seta|05:10:00|05:40:00|Yazd, il fuoco sacro di Zarathustra - Dal Giardino di Fin al tempio zoroastriano di Chak Chak fino a Yazd e Isfahan, per un viaggio tra filosofia, religione della Persia antica e moderna.
+|![Icon]()|24/7 Wild|05:40:00|06:30:00|Storia di un leone - Un giovane leone si affaccia alla vita. Deve imparare tutto, soprattutto a evitare i pericoli di una vita nomade alla ricerca di un branco in cui affermarsi.
+|![Icon]()|La via della seta|06:30:00|07:00:00|Bukhara, luce della Transoxiana - A Bukhara, le tracce dell&#039;antica Via della Seta sono ovunque, dagli edifici dall&#039;architettura favolosa ai simboli rituali dei ricami tradizionali.
+|![Icon]()|Art Night|07:00:00|08:00:00|Correggio - Spaziando tra la pittura e i libri, la scultura e la lirica, la fotografia e la musica leggera, Neri Marcore&#039; racconta l&#039;arte a modo suo.
+|![Icon]()|Prossima fermata, America|08:00:00|09:00:00|Da Monterey a Los Angeles - Diretto a Los Angeles, Michael Portillo raggiunge Monterey, un tempo &#039;capitale&#039; delle sardine in scatola e, nella California di oggi, popolare meta turistica.
+|![Icon]()|Ernani|09:00:00|11:15:00|Dal Teatro Comunale di Bologna, &#039;Ernani&#039; di Giuseppe Verdi diretto dal Maestro Roberto Polastri.
+|![Icon]()|Scrivere un classico nel Novecento|11:15:00|11:30:00|Il Fu Mattia Pascal di Luigi Pirandello - Daniele Aristarco e Annamaria Andreoli raccontano &#039;Il fu Mattia Pascal&#039; di Luigi Pirandello.
+|![Icon]()|Prossima fermata, America|11:30:00|12:30:00|San Francisco - California. Michael Portillo segue le linee ferroviarie che contribuirono, gia&#039; a meta&#039; dell&#039;800, alla creazione della ricchezza di questa terra mitica.
+|![Icon]()|La via della seta|12:30:00|13:00:00|Bukhara, luce della Transoxiana - A Bukhara, le tracce dell&#039;antica Via della Seta sono ovunque, dagli edifici dall&#039;architettura favolosa ai simboli rituali dei ricami tradizionali.
+|![Icon]()|Wild Italy|13:00:00|14:00:00|Zanzare - Nessun piccolo animale ha influito sui destini dell&#039;umanita&#039; cosi&#039; tanto quanto la zanzara. Ogni esemplare potrebbe scrivere una pagina di storia.
+|![Icon]()|24/7 Wild|14:00:00|15:00:00|Storia di una scimmia - Una piccola scimmia si affaccia alla vita. Deve imparare tutto, dal procacciarsi il cibo alle regole gerarchiche all&#039;interno del gruppo in cui dovra&#039; diventare adulta.
+|![Icon]()|Donna Rosita nubile|15:00:00|17:10:00|Dramma scritto nel 1935 da Federico Garcia Lorca. Una giovane donna diventa spettatrice della sua vita, che scorre nella vana attesa del fidanzato.
+|![Icon]()|Art Night|17:10:00|18:10:00|Correggio - Spaziando tra la pittura e i libri, la scultura e la lirica, la fotografia e la musica leggera, Neri Marcore&#039; racconta l&#039;arte a modo suo.
+|![Icon]()|Rai News giorno|18:10:00|18:15:00|Cronaca, politica, economia, cultura, spettacolo e sport dall&#039;Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale &#039;all news&#039; della Rai.
+|![Icon]()|Art Night|18:15:00|19:15:00|Renato Guttuso - Spaziando tra la pittura e i libri, la scultura e la lirica, la fotografia e la musica leggera, Neri Marcore&#039; racconta l&#039;arte a modo suo.
+|![Icon]()|Prossima fermata, America|19:15:00|20:15:00|Da Los Angeles a San Diego - Michael Portillo esplora Los Angeles alla ricerca dell&#039;anima ispanica della citta&#039; prima di riprendere il viaggio verso sud...
+|![Icon]()|Don&#039;t Forget to Breathe|20:15:00|21:50:00|Regia di M. Turk, con M.Valant, T.Ugrin; HRV 2019. La vita tranquilla di Klemen e Peter, due fratelli molto uniti, viene sconvolta dall&#039;incontro con la bellissima Sonja.
+|![Icon]()|Roma Caput Disco|21:50:00|23:05:00|Regia di C. Rizza; ITA 2021. Attraverso interviste esclusive, filmati e foto si ripercorre la nascita del mondo delle discoteche romane e l&#039;evoluzione della professione del disc jockey.
+|![Icon]()|The Quiet One - Vita di Bill Wyman|23:05:00|00:45:00|Regia di O. Murray. Un viaggio nella storia dei Rolling Stones - dalla loro formazione al 1993 - attraverso le straordinarie esperienze di Bill Wyman, il &#039;tranquillo&#039; bassista della band.
 
 
 

@@ -3,26 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Round 20|00:15:00|00:30:00|Round 20 - Rivediamo il meglio della massima competizione europea per club.
-|![Icon]()|#SkyBuffaRacconta Legends|00:30:00|01:30:00|Storie di Natale, storie di #SkyBuffaRacconta. Grandi vicende umane e imprese sportive che hanno reso leggende i protagonisti dei racconti di Federico Buffa.
-|![Icon]()|Borussia Dortmund - Friburgo|01:30:00|03:10:00|Bundesliga - 19a g. Dopo la vittoria in rimonta contro l&#039;Eintracht, il Borussia Dortmund deve dare continuita&#039; alla sua stagione. Non sara&#039; facile contro il Friburgo di Christian Streich. TC: Nicolodi.
-|![Icon]()|Barcellona - Milano|03:10:00|05:00:00|Eurolega, 20a g - L&#039;Olimpia torna in campo dopo i molti rinvii e trova una delle grandi favorite. TC: Tranquillo-Meneghin.
-|![Icon]()|Rossi, the last race|05:00:00|05:30:00|Con una camera dedicata abbiamo ripreso ogni momento dei suoi ultimi giorni da pilota di MotoGP. Un racconto in presa diretta con le immagini del suo weekend in pista, delle feste nel box e nel paddock spagnolo.
-|![Icon]()|Un anno di MotoGP|05:30:00|06:30:00|Riviviamo tutte le emozioni della stagione 2021 attraverso le immagini di tutte le gare per celebrare la vittoria mondiale di Fabio Quartararo e del duello con Pecco Bagnaia.
-|![Icon]()|Icarus Ultra|06:30:00|07:00:00|Ep. 44 - Paolo Venturini in un nuovo Running Scenery Green Energy; Winter Experience a Sappada con Patrick Martini; Running Hills sui percorsi di Farra di Soligo; nuovo episodio di DSS Recap.
-|![Icon]()|Adrenalinik|07:00:00|07:30:00|Ep. 12 - Un programma di action sport che abbatte il concetto comune di sport, per conoscere e vivere le discipline piu&#039; adrenaliniche con immagini ed emozioni intense.
-|![Icon]()|Barcellona - Milano|07:30:00|09:20:00|Eurolega, 20a g - L&#039;Olimpia torna in campo dopo i molti rinvii e trova una delle grandi favorite. TC: Tranquillo-Meneghin.
-|![Icon]()|Porsche Esports Carrera Cup Italia|09:20:00|10:40:00|GP Monza - Le gare virtuali della Porsche Esports Carrera Cup Italia. Sei le prove previste in calendario. Trenta piloti pronti a sfidarsi al simulatore di guida.
-|![Icon]()|Rossi, the last race|10:40:00|10:55:00|Con una camera dedicata abbiamo ripreso ogni momento dei suoi ultimi giorni da pilota di MotoGP. Un racconto in presa diretta con le immagini del suo weekend in pista, delle feste nel box e nel paddock spagnolo.
-|![Icon]()|Milwaukee - Toronto|10:55:00|12:55:00|I ritrovati Raptors dell&#039;interessante matricola Scottie Barnes all&#039;esame dei campioni NBA in carica. TC: Bevacqua-Soragna.
-|![Icon]()|Leinster - Montpellier|12:55:00|15:10:00|Heineken Champions Cup, 3a g - Leinster, 4 titoli, battuta a tavolino causa pandemia nell&#039;andata, non puo&#039; sbagliare contro i francesi, campioni in carica della Challenge Cup. TC: Molla- Fusetti.
-|![Icon]()|Northampton Saints - Ulster|15:10:00|17:15:00|Heineken Champions Cup, 3a g - I nordirlandesi hanno vinto le prime due partite, gli inglesi arrivano da due sconfitte. TC: Pierantozzi-Fusetti.
-|![Icon]()|The Boat Show|17:15:00|17:50:00|Ep. 4 - Novita&#039; a vela al Salone di Parigi; test dell&#039;RM 1070, yacht a vela per traversate oceaniche.
-|![Icon]()|Rossi, the last race|17:50:00|18:25:00|Con una camera dedicata abbiamo ripreso ogni momento dei suoi ultimi giorni da pilota di MotoGP. Un racconto in presa diretta con le immagini del suo weekend in pista, delle feste nel box e nel paddock spagnolo.
-|![Icon]()|Conegliano - Roma|18:25:00|20:25:00|Serie A1 F, 15a g - Il campionato femminile gioca la 2a giornata nel nuovo anno, le pantere di Conegliano ospitano la neopromossa Roma. TC: Locatelli-Piccinini.
-|![Icon]()|Round 21|20:25:00|20:40:00|Round 21 - Rivediamo il meglio della massima competizione europea per club.
-|![Icon]()|Barcellona - Milano|20:40:00|22:30:00|Eurolega, 20a g - L&#039;Olimpia torna in campo dopo i molti rinvii e trova una delle grandi favorite. TC: Tranquillo-Meneghin.
-|![Icon]()|Leinster - Montpellier|22:30:00|00:15:00|Heineken Champions Cup, 3a g - Leinster, 4 titoli, battuta a tavolino causa pandemia nell&#039;andata, non puo&#039; sbagliare contro i francesi, campioni in carica della Challenge Cup. TC: Molla- Fusetti.
 |![Icon]()|Speciale Natale|00:15:00|00:45:00|I 40 gol piu&#039; belli e votati di questa prima parte di stagione di Conference, Europa e Champions League. In studio Melissa Satta con Alessandro Bonan e il cantautore Tancredi.
 |![Icon]()|Buffa e Baresi: Libero di sognare|00:45:00|01:25:00|Federico Buffa e Franco Baresi, in un emozionante dialogo al Festivaletteratura di Mantova, presentano l&#039;autobiografia del numero 6 del Milan e della Nazionale, tra successi e intime suggestioni.
 |![Icon]()|Paris - Brest|01:25:00|03:05:00|Ligue 1 - 21a g. Il Paris SG vuole vincere per cancellare un periodo non brillante. Al Parco dei Principi arriva il Brest. TC: Filippo Benincampi.
@@ -47,6 +27,29 @@
 |![Icon]()|Atlanta, the Hero|21:55:00|23:00:00|Federico Buffa nella citta&#039; di Martin Luther King e di Via col Vento: Atlanta. Qui Ali ricomincia a boxare nel &#039;70, qui nel &#039;96 si mostra nella sua grandezza morale e umana.
 |![Icon]()|Rossi, the last race|23:00:00|23:30:00|Con una camera dedicata abbiamo ripreso ogni momento dei suoi ultimi giorni da pilota di MotoGP. Un racconto in presa diretta con le immagini del suo weekend in pista, delle feste nel box e nel paddock spagnolo.
 |![Icon]()|Calciomercato - L&#039;originale|23:30:00|00:25:00|Tutte le notizie sulle trattative del mercato invernale.
+|![Icon]()|Paolo Simoncelli|00:25:00|01:30:00|Paolo Simoncelli - Paolo Simoncelli, accompagnato da Guido Meda, ci porta nei luoghi dove vive, raccontandoci di suo figlio Marco e di quanto di bello si riesca a fare grazie alla sua fondazione.
+|![Icon]()|Augsburg - Eintracht Francoforte|01:30:00|03:10:00|Bundesliga - 19a g. La crisi dell&#039;Augsburg e&#039; sempre piu&#039; profonda e i bavaresi sperano nell&#039;arrivo di Pepi. Avversario l&#039;Eintracht ferito dalla rimonta del Dortmund ma in gran forma. TC: Nicolodi.
+|![Icon]()|Cska Mosca - Asvel Villeurbanne|03:10:00|05:00:00|Eurolega, 21a g - Il Cska di Daniel Hackett, dopo la sonante vittoria di Atene, vuole dare continuita&#039; alla propria stagione. A Mosca arrivano i campioni di Francia dell&#039;Asvel. TC: Geri De Rosa.
+|![Icon]()|Icarus Ultra|05:00:00|05:30:00|Ep. 47 - Avventure, sfide, storie, imprese, curiosita&#039; dal mondo degli sport outdoor: dopo 15 anni alla ricerca del limite Icarus si spinge oltre e diventa... Icarus Ultra.
+|![Icon]()|Lewis 100 e lode|05:30:00|06:30:00|Nel 2021 per un soffio Lewis Hamilton non e&#039; riuscito a conquistare l&#039;ottavo titolo. Ma ha comunque raggiunto e superato le 100 vittorie: la sua e&#039; una carriera da record.
+|![Icon]()|The Boat Show|06:30:00|07:00:00|Ep. 4 - Regate, grandi eventi, saloni nautici tutto dal mondo della cantieristica a vela e a motore. In ogni puntata un personaggio del mondo della nautica si racconta.
+|![Icon]()|19a g.|07:00:00|08:00:00|Tutte le emozioni della giornata di Bundesliga attraverso mini-sintesi delle partite in programma: il modo migliore per non perdersi nulla.
+|![Icon]()|Barcellona - Milano|08:00:00|09:45:00|Eurolega, 20a g - L&#039;Olimpia torna in campo dopo i molti rinvii e trova una delle grandi favorite. TC: Tranquillo-Meneghin.
+|![Icon]()|Round 21|09:45:00|10:00:00|Round 21 - Rivediamo il meglio della massima competizione europea per club.
+|![Icon]()|Fiorentina - Genoa|10:00:00|11:45:00|Serie A - 22a g. Viola con 5 vittorie e 1 pari nelle ultime 6 gare in casa. Il Genoa cerca la 2a vittoria, finora 9 pari e 11 ko. Al Franchi non vince in A dal 1977. TC: Gentile-Marocchi.
+|![Icon]()|Speciale Natale|11:45:00|12:15:00|I 40 gol piu&#039; belli e votati di questa prima parte di stagione di Conference, Europa e Champions League. In studio Melissa Satta con Alessandro Bonan e il cantautore Tancredi.
+|![Icon]()|L&#039;ultima Fede|12:15:00|12:30:00|Dall&#039;ultima gara internazionale in Olanda al 130esimo titolo italiano. Un tuffo intorno a Federica Pellegrini nei giorni dell&#039;addio al nuoto. A cura di Riccardo Re, regia Giovanni Cintoli.
+|![Icon]()|AEW Dynamite|12:30:00|14:15:00|Ep. 2 - CM Punk affronta Wardlow, Sammy Guevara difende il titolo TNT ad interim contro Daniel Garcia. TC: Torrisi-Molla.
+|![Icon]()|AEW Rampage|14:15:00|15:00:00|Ep. 3 - 45 minuti di pura adrenalina con il grande spettacolo sul ring della All Elite Wrestling.
+|![Icon]()|Wasps - Tolosa|15:00:00|16:45:00|Heineken Champions Cup, 3a g - Wasps, inglesi con base a Coventry e 2 titoli in bacheca, contro i piu&#039; vincenti di sempre, 5 titoli, e campioni in carica. TC: Molla-De Rossi.
+|![Icon]()|Conegliano - Roma|16:45:00|18:30:00|Serie A1 F, 15a g - Il campionato femminile gioca la 2a giornata nel nuovo anno, le pantere di Conegliano ospitano la neopromossa Roma. TC: Locatelli-Piccinini.
+|![Icon]()|On the Evolution of Sports|18:30:00|18:45:00|Gran Risa - Alta Badia. Da 36 anni l&#039;appuntamento piu&#039; importante di slalom gigante maschile di Coppa del Mondo e&#039; sulla Gran Risa. Ripercorriamo la storia di questa pista.
+|![Icon]()|Round 21|18:45:00|19:00:00|Round 21 - Rivediamo il meglio della massima competizione europea per club.
+|![Icon]()|Venezia - Bourg en Bresse|19:00:00|21:00:00|...Bresse. EuroCup, 10a g - E&#039; la seconda coppa Europea per importanza: due gironi da 18 partite e poi tabellone tennistico a eliminazione diretta. In corsa anche Virtus Bologna, Reyer Venezia e Aquila Trento.
+|![Icon]()|Ep. 3|21:00:00|21:15:00|Ep. 3 - Le immagini piu&#039; belle, le mete e le classifiche del torneo con Benetton e Zebre.
+|![Icon]()|Ep. 3|21:15:00|21:45:00|Ep. 3 - Le immagini piu&#039; spettacolari, le mete, le interviste e le classifiche della Champions del rugby.
+|![Icon]()|Milano - Alba|21:45:00|23:30:00|Eurolega, 18a g - La massima competizione per club nel panorama del basket europeo. L&#039;Olimpia Milano, dopo il terzo posto dell&#039;anno scorso, ci riprova, per tornare ad essere tra le grandi del Vecchio Continente.
+|![Icon]()|AEW Rampage|23:30:00|00:15:00|Ep. 3 - 45 minuti di pura adrenalina con il grande spettacolo sul ring della All Elite Wrestling.
 
 
 

@@ -10,29 +10,6 @@
 |![Icon]()|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon]()|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon]()|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon]()|In Cucina insieme a Stoneline|07:00:00|09:00:00|ITA. Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon]()|Wynne Lounge, moda comfort di design|09:00:00|10:00:00|ITA. TV Shopping
-|![Icon]()|Buongiorno bellezza!|10:00:00|12:00:00|ITA. Ogni domenica alle 11,c&#039;e&#039; un momento in piu&#039; da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu&#039; belle
-|![Icon]()|In Cucina insieme a Stoneline|12:00:00|13:00:00|ITA. Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon]()|SBC: la tua naturale bellezza|13:00:00|14:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon]()|In Cucina insieme a Stoneline|14:00:00|15:00:00|ITA. Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon]()|Wynne Lounge, moda comfort di design|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon]()|Stoneline, cucina sana e senza grassi|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Stoneline, linea di prodotti di alta qualita&#039; per cucinare senza grassi e rendere le pietanze piu&#039; sane, senza rinunciare al gusto.
-|![Icon]()|Philips, prenditi cura del tuo sorriso|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon]()|In Cucina insieme a Stoneline|18:00:00|19:00:00|ITA. Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon]()|Wynne Lounge, moda comfort di design|19:00:00|20:00:00|ITA. TV Shopping
-|![Icon]()|Mitarotonda, Classe e stile di oggi|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Mitarotonda un marchio e una collezione di scarpe che nasce per rispondere a specifiche esigenze della donna contemporanea.
-|![Icon]()|Stoneline, cucina sana e senza grassi|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Stoneline, linea di prodotti di alta qualita&#039; per cucinare senza grassi e rendere le pietanze piu&#039; sane, senza rinunciare al gusto.
-|![Icon]()|Philips, prenditi cura del tuo sorriso|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon]()|Midnight, I Gioielli della notte|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Midnight, una collezione di gioielli che vuole fare emergere il lato romantico e sensuale di ogni donna.
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon]()|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon]()|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon]()|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon]()|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon]()|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon]()|Replica|06:00:00|07:00:00|ITA. Replica
 |![Icon]()|Midnight, I Gioielli della notte|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Midnight, una collezione di gioielli che vuole fare emergere il lato romantico e sensuale di ogni donna.
 |![Icon]()|Scopri Diamonique!|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Diamonique, brand che simula il diamante in modo impeccabile per esaudire il desiderio di ogni donna di brillare tutti i giorni con un gioiello diverso.
 |![Icon]()|A proposito di Noi|10:00:00|11:00:00|ITA. TV Shopping
@@ -49,6 +26,29 @@
 |![Icon]()|Midnight, I Gioielli della notte|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Midnight, una collezione di gioielli che vuole fare emergere il lato romantico e sensuale di ogni donna.
 |![Icon]()|Soffice Sogno, Lo stile della comodita&#039;|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Soffice Sogno, una linea di scarpe di produzione italiana, che uniscono al comfort l&#039;attenzione alla moda e ai dettagli.
 |![Icon]()|IT Cosmetics, trasformazione visibile|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon]()|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon]()|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon]()|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon]()|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon]()|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon]()|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon]()|IT Cosmetics, trasformazione visibile|07:00:00|09:00:00|ITA. TV Shopping
+|![Icon]()|Denim &amp; Co, femminilita&#039; casual|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Denim &amp;Co, brand di moda che ha pensato ad una collezione molto versatile declinata in stile casual e femminile; perfetto per vivere al meglio tutte le occasioni del tempo libero
+|![Icon]()|Fero&#039;, il lusso che arreda la tua casa|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Fero&#039;, preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita&#039; regalando un&#039;esperienza di lusso e piacere.
+|![Icon]()|The Beauty show con IT Cosmetics|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon]()|Le Babe, scarpe comode e originali|12:00:00|13:00:00|Le Babe nasce in Friuli negli anni &#039;60, affermandosi ben presto nella produzione di calzature &#039;supercomode&#039; dallo stile non convenzionale, colorato e sfizioso.
+|![Icon]()|Demetra Closet, la musa della moda|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon]()|IT Cosmetics, trasformazione visibile|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon]()|Bianca, tutto il fascino del platino|15:00:00|16:00:00|ITA. Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita&#039; italiana dona una finitura esclusiva ed un&#039;ineguagliabile brillantezza.
+|![Icon]()|Gli imperdibili delle 5|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon]()|Fero&#039;, il lusso che arreda la tua casa|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Fero&#039;, preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita&#039; regalando un&#039;esperienza di lusso e piacere.
+|![Icon]()|The Beauty show con IT Cosmetics|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon]()|Denim &amp; Co, femminilita&#039; casual|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Denim &amp;Co, brand di moda che ha pensato ad una collezione molto versatile declinata in stile casual e femminile; perfetto per vivere al meglio tutte le occasioni del tempo libero
+|![Icon]()|Buonasera bellezza!|20:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon]()|Bianca, tutto il fascino del platino|22:00:00|23:00:00|ITA. Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita&#039; italiana dona una finitura esclusiva ed un&#039;ineguagliabile brillantezza.
+|![Icon]()|Nina Leonard, lo stile Newyorkese|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
 |![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
 
 

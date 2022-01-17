@@ -3,34 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Appuntamento al cinema|00:10:00|00:15:00|Informazioni, commenti e news sui film in uscita nelle sale cinematografiche italiane.
-|![Icon]()|Fuori orario. Cose (mai) viste|00:15:00|00:25:00|Io e&#039; un altro. Autoritratti, memorie, sdoppiamenti - Rassegna dedicata al cinema d&#039;essai italiano e internazionale e alla televisione d&#039;autore.
-|![Icon]()|Non c&#039;e&#039; nessuna Dark Side|00:25:00|01:15:00|Regia di E. Negro; ITA 2007 (50 min). Una scheggia dello straordinario lavoro che Erik Negro ha realizzato in 12 anni, tra il 2007 e il 2019.
-|![Icon]()|Provvisorio quasi d&#039;amore|01:15:00|01:30:00|Gelosi e tranquilli - Regia di E. Ghezzi; ITA 1988 (15 min). Tra dubbio e tormento, sette registi diversi raccontano, attraverso sette episodi, l&#039;amore in tutte le sue sfaccettature.
-|![Icon]()|Tommaso|01:30:00|05:30:00|Regia di A. Ferrara, con W.Dafoe, C.Chiriac; ITA/USA 2019 (240 min). Sobrio ormai da sei anni, Tommaso ha abbandonato la sua carriera di regista negli Stati Uniti per trasferirsi in Italia con la sua famiglia.
-|![Icon]()|RaiNews24|05:30:00|07:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
-|![Icon]()|Agora&#039; Weekend|07:00:00|08:05:00|L&#039;informazione condotta da Giusi Sansone. Notizie, opinioni, ospiti e approfondimenti su politica e attualita&#039;. Per essere sempre aggiornati, sette giorni su sette.
-|![Icon]()|Mi manda RaiTre|08:05:00|09:15:00|Attualita&#039; economica, risparmio, fisco, burocrazia e consumi. Federico Ruffo affronta e commenta con ospiti in studio truffe, soprusi, disagi che affliggono i cittadini.
-|![Icon]()|Le parole per dirlo|09:15:00|10:00:00|Ep. 12 - Un viaggio nella lingua italiana con Noemi Gherrero, Valeria Della Valle e Giuseppe Patota. A offrire spunti linguistici, legati per lo piu&#039; al mondo dell&#039;arte, e&#039; Giovanni Muciaccia.
-|![Icon]()|TgR Estovest|10:00:00|10:25:00|Un programma dedicato alla societa&#039; multiculturale in cui le frontiere sono abbattute ed emergono problemi di integrazione.
-|![Icon]()|TgR RegionEuropa|10:25:00|11:00:00|Informazioni e approfondimenti sul rapporto tra le Regioni italiane e l&#039;Unione Europea, dal Parlamento alla Commissione, al Comitato delle Regioni di Bruxelles.
-|![Icon]()|TG3 - TG3 Fuori Linea - Meteo 3|11:00:00|11:25:00|Musica, cinema, arte, libri, stili, tendenze, idee: tutto quanto &#039;fa cultura&#039;. La rubrica settimanale della Redazione Cultura del TG3.
-|![Icon]()|TgR Mediterraneo|11:25:00|11:55:00|Informazione, servizi e reportage dai paesi che si affacciano sul Mar Mediterraneo.
-|![Icon]()|Tg3 L.I.S.|11:55:00|12:00:00|Notizie di cronaca e informazioni dell&#039;ultima ora dedicate ai non udenti.
-|![Icon]()|Radici. L&#039;altra faccia dell&#039;immigrazione|12:00:00|13:00:00|Gambia - La storia di Ali&#039;, arrivato in Italia a 15 anni tra non poche difficolta&#039;. Oggi vive a Matera. Per la prima volta torna nel Gambia e lo fa in compagnia di Davide Demichelis.
-|![Icon]()|Tg Regione - Tg Regione Meteo|13:00:00|13:15:00|Previsioni meteorologiche con attenzione particolare alle condizioni del tempo in ogni singola regione italiana.
-|![Icon]()|Tg3|13:15:00|13:30:00|Il quotidiano appuntamento con l&#039;informazione del Tg3, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
-|![Icon]()|Mezz&#039;ora in piu&#039;|13:30:00|15:00:00|Lucia Annunziata intervista i principali protagonisti dell&#039;attualita&#039; politica, economica e culturale, offrendo approfondimenti sui &#039;dossier&#039; piu&#039; caldi della politica italiana e internazionale.
-|![Icon]()|Mezz&#039;ora in piu&#039; - Il mondo che verra&#039;|15:00:00|15:30:00|Economia, ambiente, equilibri geopolitici. Lucia Annunziata e Antonio Di Bella analizzano le dinamiche estere che ci riguardano sempre piu&#039; da vicino, per capire meglio il mondo che verra&#039;.
-|![Icon]()|Rebus|15:30:00|16:15:00|Ep. 13 - Corrado Augias e Giorgio Zanchini parlano di rappresentanza e fanno un raffronto tra la politica del passato e quella del presente. Ospiti: Nadia Urbinati e Cirino Pomicino.
-|![Icon]()|Kilimangiaro - Di nuovo in viaggio|16:15:00|16:55:00|Camila Raznovich racconta il mondo attraverso la lente del viaggio.
-|![Icon]()|Kilimangiaro|16:55:00|17:55:00|Ep. 14 - Regia di A. Dorigo. Camila Raznovich racconta il mondo attraverso la lente del viaggio. Tra gli ospiti: Maria Sole Bianco, Dario Fabbri di Limes e Mario Tozzi.
-|![Icon]()|Meteo 3|17:55:00|18:00:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
-|![Icon]()|Tg3|18:00:00|18:30:00|Il quotidiano appuntamento con l&#039;informazione del Tg3, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
-|![Icon]()|Tg Regione - Tg Regione Meteo|18:30:00|19:00:00|Previsioni meteorologiche con attenzione particolare alle condizioni del tempo in ogni singola regione italiana.
-|![Icon]()|Che tempo che fa|19:00:00|22:30:00|Ep13 - Affiancato da Filippa Lagerback, Fabio Fazio intervista i grandi ospiti nazionali e internazionali. Inoltre l&#039;ironia di Luciana Littizzetto che commenta i fatti della settimana.
-|![Icon]()|TG3 Mondo - Meteo 3|22:30:00|23:00:00|Il settimanale di notizie dal mondo.
-|![Icon]()|Mezz&#039;ora in piu&#039;|23:00:00|00:25:00|Lucia Annunziata intervista i principali protagonisti dell&#039;attualita&#039; politica, economica e culturale, offrendo approfondimenti sui &#039;dossier&#039; piu&#039; caldi della politica italiana e internazionale.
 |![Icon]()|Mezz&#039;ora in piu&#039; - Il mondo che verra&#039;|00:25:00|00:55:00|Economia, ambiente, equilibri geopolitici. Lucia Annunziata e Antonio Di Bella analizzano le dinamiche estere che ci riguardano sempre piu&#039; da vicino, per capire meglio il mondo che verra&#039;.
 |![Icon]()|Fuori orario. Cose (mai) viste|00:55:00|01:05:00|Io e&#039; un altro. Autoritratti, memorie, sdoppiamenti - Rassegna dedicata al cinema d&#039;essai italiano e internazionale e alla televisione d&#039;autore.
 |![Icon]()|Laceno D&#039;oro 2021: incontro con Elia...|01:05:00|02:05:00|...Suleiman - Il grande cineasta palestinese, Elia Suleiman, ha ricevuto il premio &#039;Laceno D&#039;oro&#039; alla carriera ed e&#039; stato protagonista di un incontro pubblico coordinato da Aldo Spiniello e Sergio Sozzo.
@@ -64,6 +36,39 @@
 |![Icon]()|Un posto al Sole|19:45:00|20:20:00|S26 Ep5861 - Tutti sono molto preoccupati per Patrizio dopo la lite con Alberto. Silvia capisce che i suoi amici non sono propensi ad accettare Giancarl.
 |![Icon]()|Report|20:20:00|22:20:00|Ep. 13 - Inchieste e reportage su temi di cronaca, attualita&#039;, economia e politica con approfondimenti, testimonianze e rivelazioni esclusive. Conduce Sigfrido Ranucci.
 |![Icon]()|La versione di Fiorella|22:20:00|23:00:00|Ep27 - In compagnia di tanti ospiti, Fiorella Mannoia viaggia nel tempo, ricordando e confrontando con l&#039;attualita&#039; eventi accaduti in passato, fino a immaginarli nel futuro.
+|![Icon]()|Tg3 Linea Notte|23:00:00|00:00:00|Le ultime notizie e i temi del giorno con ospiti in studio, collegamenti in diretta e rassegna stampa. Una finestra sul mondo per essere sempre aggiornati.
+|![Icon]()|Meteo 3|00:00:00|00:05:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
+|![Icon]()|Meteo 3|00:00:00|00:05:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
+|![Icon]()|Terza pagina|00:05:00|00:55:00|Ep. 14 - Arte, musica, letteratura, cinema. Licia Troisi introduce le notizie culturali della settimana.
+|![Icon]()|RaiNews24|00:55:00|05:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon]()|RaiNews24|05:00:00|06:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon]()|TgR Buongiorno Italia|06:00:00|06:40:00|La cronaca con gli ultimi avvenimenti della notte, l&#039;economia, lo sport, la cultura, l&#039;ambiente e un&#039;ampia rassegna stampa dagli studi di Milano e Napoli, con collegamenti in diretta dalle varie regioni italiane.
+|![Icon]()|TgR Buongiorno Regione|06:40:00|07:00:00|Le piu&#039; importanti informazioni legate al territorio, tra cui i servizi di Meteo e Mobilita&#039; forniti da Rai Pubblica Utilita&#039; e dal servizio Meteorologico dell&#039;Aeronautica Militare.
+|![Icon]()|Agora&#039;|07:00:00|08:45:00|L&#039;appuntamento con Luisella Costamagna nella &#039;piazza&#039; in cui politica e rappresentanti delle istituzioni si confrontano con i cittadini.
+|![Icon]()|Agora&#039;|08:45:00|09:30:00|Senio Bonini racconta un Paese alle prese con la ripartenza.
+|![Icon]()|Spaziolibero|09:30:00|09:40:00|Famiglie SMA: Vita quotidiana e nuove frontiere terapeutiche.
+|![Icon]()|Elisir|09:40:00|10:55:00|Ep. 90 - Michele Mirabella e Benedetta Rinaldi parlano delle problematiche mediche piu&#039; diffuse e aiutano i telespettatori a comprendere le tante notizie, vere o fase, che riguardano la salute.
+|![Icon]()|Meteo 3|10:55:00|11:00:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
+|![Icon]()|Tg3|11:00:00|11:25:00|Il quotidiano appuntamento con l&#039;informazione del Tg3, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon]()|TG3 Fuori TG|11:25:00|11:45:00|Il quotidiano appuntamento del Tg3 dedicato ai temi che interessano tutti noi. Ospiti, servizi, filmati e collegamenti in diretta per essere sempre aggiornati.
+|![Icon]()|Quante storie|11:45:00|12:15:00|Arte, letteratura, musica, storia, filosofia, politica. Giorgio Zanchini affronta storie, personaggi e temi con l&#039;intento di approfondire alcuni aspetti della complessita&#039; che ci circonda.
+|![Icon]()|Le storie di Passato e presente|12:15:00|13:00:00|Profughi ungheresi - Regia di D. Frasnelli. Rai Cultura - A partire dagli anni 50, l&#039;Italia diventa luogo di approdo per flussi di rifugiati politici, di varia provenienza, legati soprattutto alle dinamiche della guerra fredda.
+|![Icon]()|Tg Regione - Tg Regione Meteo|13:00:00|13:20:00|Previsioni meteorologiche con attenzione particolare alle condizioni del tempo in ogni singola regione italiana.
+|![Icon]()|Tg3 - Meteo 3|13:20:00|13:50:00|I servizi delle principali edizioni del TG3, le rubriche, gli speciali e gli aggiornamenti meteo.
+|![Icon]()|TgR Leonardo|13:50:00|14:05:00|Rubrica di informazione scientifica con aggiornamenti sulle ultime scoperte provenienti da tutto il mondo.
+|![Icon]()|TgR Piazza Affari|14:05:00|14:15:00|Ultime notizie di economia e sull&#039;andamento della borsa. Il notiziario economico quotidiano e&#039; curato dalla redazione di Milano.
+|![Icon]()|Tg3 L.I.S.|14:15:00|14:20:00|Notizie di cronaca e informazioni dell&#039;ultima ora dedicate ai non udenti.
+|![Icon]()|Rai Parlamento Telegiornale|14:20:00|14:25:00|Un resoconto puntuale sull&#039;attualita&#039; di Camera e Senato, sui principali temi dell&#039;agenda politica e le iniziative del Governo.
+|![Icon]()|Il commissario Rex 2|14:25:00|15:05:00|S2 - Le avventure di un detective di un distretto di polizia di Vienna, e del suo intelligentissimo cane Rex.
+|![Icon]()|Aspettando Geo|15:05:00|16:00:00|Anticipazioni e curiosita&#039; sulla puntata odierna di Geo, il programma dedicato alla cura del nostro territorio e della nostra salute, condotto da Sveva Sagramola e da Emanuele Biggi.
+|![Icon]()|Geo|16:00:00|17:55:00|Sveva Sagramola ed Emanuele Biggi raccontano la Terra e le persone, le meraviglie e le fragilita&#039; del nostro paese e di tutto il pianeta.
+|![Icon]()|Meteo 3|17:55:00|18:00:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
+|![Icon]()|Tg3|18:00:00|18:30:00|Il quotidiano appuntamento con l&#039;informazione del Tg3, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon]()|Tg Regione - Tg Regione Meteo|18:30:00|19:00:00|Previsioni meteorologiche con attenzione particolare alle condizioni del tempo in ogni singola regione italiana.
+|![Icon]()|Blob|19:00:00|19:20:00|Con classe e un pizzico di cattiveria, lo storico programma di Enrico Ghezzi rovista nel grande calderone della tv nostrana, alla ricerca dei momenti piu&#039; significativi.
+|![Icon]()|Che succ3de?|19:20:00|19:45:00|Tra satira e comicita&#039;, Geppi Cucciari gioca con le notizie assemblando informazione, intrattenimento social, ospiti, opinioni, sondaggi e tanto divertimento.
+|![Icon]()|Un posto al Sole|19:45:00|20:20:00|S26 Ep5862 - Dopo quanto accaduto tra Alberto e Patrizio, Raffaele si affida alla mediazione di Clara. Un gradito ritorno dal passato movimenta la vita della terrazza.
+|![Icon]()|#cartabianca|20:20:00|23:00:00|Ep. 18 - Politica, economia, immigrazione, sicurezza, pensioni, cronaca, Europa. Bianca Berlinguer racconta i grandi temi della settimana con reportage, collegamenti e ospiti in studio.
 |![Icon]()|Tg3 Linea Notte|23:00:00|00:00:00|Le ultime notizie e i temi del giorno con ospiti in studio, collegamenti in diretta e rassegna stampa. Una finestra sul mondo per essere sempre aggiornati.
 |![Icon]()|Meteo 3|00:00:00|00:05:00|Previsioni meteorologiche della giornata di oggi e per i prossimi giorni.
 
