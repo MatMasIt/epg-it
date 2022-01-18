@@ -3,16 +3,15 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Kudlow Weekend|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
-|![Icon]()|American Built|01:00:00|01:30:00|Stuart Varney interviews architects, engineers and historians about engineering marvels to explain why America is a country leader in growth and innovation.
-|![Icon]()|American Built|01:30:00|02:00:00|Stuart Varney interviews architects, engineers and historians about engineering marvels to explain why America is a country leader in growth and innovation.
-|![Icon]()|Sunday Morning Futures|02:00:00|03:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
-|![Icon]()|How America Works|03:00:00|05:00:00|Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
-|![Icon]()|Sunday Morning Futures|05:00:00|06:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
-|![Icon]()|Strange Inheritance|06:00:00|08:00:00|Families decide what to do with bizarre inheritances.
-|![Icon]()|Sunday Morning Futures|08:00:00|09:00:00|Host Maria Bartiromo - Maria Bartiromo highlights current stock market trends.
-|![Icon]()|Fox Business Tonight|09:00:00|10:00:00|Rotating anchors highlight current market trends.
-|![Icon]()|FBN AM|10:00:00|11:00:00|Takes a look at the critical issues facing the trading day.
+|![Icon]()|Kudlow|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon]()|Kennedy|01:00:00|02:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
+|![Icon]()|Fox Business Tonight|02:00:00|03:00:00|Rotating anchors highlight current market trends.
+|![Icon]()|The Evening Edit|03:00:00|04:00:00|Liz McDonald interviews the Industries experts.
+|![Icon]()|Kudlow|04:00:00|05:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon]()|Kennedy|05:00:00|06:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
+|![Icon]()|Paid Programming|06:00:00|09:00:00|Paid Programming.
+|![Icon]()|Strange Inheritance|09:00:00|10:00:00|Families decide what to do with bizarre inheritances.
+|![Icon]()|Fox Business Tonight|10:00:00|11:00:00|Rotating anchors highlight current market trends.
 |![Icon]()|Mornings with Maria Bartiromo|11:00:00|14:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
 |![Icon]()|Varney &amp; Company|14:00:00|17:00:00|Stuart Varney offers the stock markets latest headlines and business events.
 |![Icon]()|Cavuto Coast to Coast|17:00:00|19:00:00|Neil Cavuto gives the days financial news.

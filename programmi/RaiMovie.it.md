@@ -3,21 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Il rompiscatole|00:25:00|02:00:00|Regia di B. Stiller, con J.Carrey, M.Broderick; USA 1996. Lasciato dalla ragazza, Steven si consola all&#039;idea di montare la tv via cavo, ma non ha fatto i conti con il tecnico squilibrato.
-|![Icon]()|Scemo &amp; + scemo 2|02:00:00|04:00:00|Regia di P. Farrelly, con J.Carrey, J.Daniels; USA 2014. Harry deve rintracciare la figlia avuta da una relazione &#039;lampo&#039; per chiedere la donazione di un rene. Il fidato Lloyd lo accompagnera&#039;?
-|![Icon]()|I cento cavalieri|04:00:00|05:55:00|Regia di V. Cottafavi, con A.Lualdi, A.Foa&#039;; ITA 1964. Nella Spagna del Medioevo, gli arabi conquistano un villaggio. Gli abitanti organizzano una sommossa, aiutati da cento cavalieri.
-|![Icon]()|Le pistolere|05:55:00|07:40:00|Regia di C. Jaque, con B.Bardot, C.Cardinale; FRA/GBR 1972. Maria vorrebbe acquistare un ranch, ma vi si e&#039; installata la fuorilegge Louise, a capo di una banda di sole donne.
-|![Icon]()|Anica Appuntamento al cinema|07:40:00|07:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
-|![Icon]()|Nel sole|07:45:00|09:40:00|Regia di A. Grimaldi, con R.Power, A.Carrisi; ITA 1967. Carlo Carrera, studente e cameriere, s&#039;innamora della ricca Lorena. Fara&#039; di tutto per fingersi miliardario.
-|![Icon]()|Per vivere meglio, divertitevi con noi|09:40:00|11:40:00|Regia di F. Mogherini, con J.Dorelli, M.Vitti; ITA 1978. Una donna crede di essere stata guarita dagli alieni; un marito mette alla prova la fedelta&#039; della moglie; uno scommettitore acquista un cavallo.
-|![Icon]()|Il magnifico fuorilegge|11:40:00|13:10:00|Regia di W. Russell, con R.Ryan, C.Trevor; USA 1951. Tradito da un collega corrotto, un ufficiale americano, dopo la Secessione diventa un bandito.
-|![Icon]()|Attentato ai tre grandi|13:10:00|14:55:00|Regia di U. Lenzi, con K.Clark, H.Frank; FRA/DEU 1967. Seconda Guerra Mondiale. Churchill, De Gaulle e Roosevelt sono riuniti in segreto a Casablanca e qualcuno progetta di assassinarli.
-|![Icon]()|Piedone lo sbirro|14:55:00|16:55:00|Regia di Steno, con A.Merli, B.Spencer; FRA/ITA 1973. A Napoli, l&#039;ispettore Rizzo, ostacolato dal nuovo commissario capo che ne disapprova i metodi, combatte una banda di narcotrafficanti marsigliesi.
-|![Icon]()|L&#039;ombra di Zorro|16:55:00|18:30:00|Regia di J. Romero Marchent, con R.Carra&#039;, F.Latimore; 1962. Le avventure di Zorro, alle prese con le ultime avvisagle della rivolta messicana contro lo Stato della California.
-|![Icon]()|Allegri vagabondi|18:30:00|19:45:00|Regia di J. Horne, con S.Laurel, O.Hardy; USA 1937. In viaggio per consegnare un testamento milionario, Stanlio e Ollio devono fare i conti con il perfido padrone di un saloon.
-|![Icon]()|Il Circo e&#039; fallito|19:45:00|20:10:00|Regia di J. Parrott, con O.Hardy; USA 1932. In seguito al fallimento di un circo, Stanlio e Ollio si ritrovano alle prese con uno scimpanze&#039; gigante.
-|![Icon]()|La banda di Harry Spikes|20:10:00|21:55:00|Regia di R. Fleischer, con L.Marvin, G.Grimes; USA 1974. Tre cowboy inesperti si uniscono al carismatico Harry Spikes, veterano delle rapine. Ma li aspetta un destino di sangue.
-|![Icon]()|I quattro dell&#039;Ave Maria|21:55:00|00:20:00|Regia di G. Colizzi, con B.Spencer, T.Hill; ITA 1968. A due rapinatori viene sottratto il malloppo da un anziano avanzo di galera, Eli Wallache. I tre si incontreranno di nuovo...
 |![Icon]()|Per un dollaro di gloria|00:20:00|01:55:00|Regia di F. Cerchio, con U.Ceriani, H.Arden; ITA 1966. Guerra di Secessione Americana. La battaglia svoltasi negli Stati Confederati del Sud tra la cavalleria francese e i rivoluzionari.
 |![Icon]()|Sinbad il marinaio|01:55:00|04:00:00|Regia di R. Wallace, con D.Fairbanks Jr., M.O&#039;Hara; USA 1947. Avventure esotiche del marinaio Sinbad alla ricerca del tesoro di Alessandro Magno. Dalle &#039;Mille e una notte&#039;.
 |![Icon]()|Le meravigliose avventure di Marco Polo|04:00:00|05:45:00|Regia di D. De La Pantelliere, con H.Buchholtz, A.Quinn; FRA/ITA 1965. Marco Polo si reca in Cina per portare il proprio sostegno al Kublai Khan. Il figlio di questi, sta tentando di destituirlo.
@@ -32,6 +17,22 @@
 |![Icon]()|Tutto in ordine|19:45:00|20:10:00|Regia di J. Parrott, con S.Laurel; USA 1932. Ollio scopre che sua moglie sta per tornare dalle vacanze e allora chiede aiuto a Stanlio per riordinare la casa dopo i bagordi di un party.
 |![Icon]()|Un mercoledi&#039; da leoni|20:10:00|22:20:00|Regia di J. Milius, con J.Vincent, W.Katt; USA 1978. Tre amici che adorano il surf e aspettano la &#039;grande onda&#039; vengono separati dalla guerra del Vietnam che li cambiera&#039; per sempre.
 |![Icon]()|Magnolia|22:20:00|01:45:00|Regia di P.T. Anderson, con T.Cruise, J.Moore; USA 1999. I destini di un gruppo di personaggi di Los Angeles tra amore, morte e ricerca di redenzione. Eccezionale Tom Cruise nel ruolo di guru del sesso.
+|![Icon]()|Anica Appuntamento al cinema|01:45:00|01:50:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon]()|The Search|01:50:00|04:00:00|Regia di M. Hazanavicius, con B.Bejo, A.Bening; FRA 2014. Durante la Guerra in Cecenia del 1999, un bambino di nove anni assiste all&#039;omicidio dei genitori e fugge con il fratellino neonato.
+|![Icon]()|Razza selvaggia|04:00:00|05:30:00|Regia di P. Squitieri, con S.Marconi, S.Madia; ITA 1980. Un giovane campano, ospite da un amico a Torino, scopre il degrado vissuto dagli emigranti meridionali nella malavita.
+|![Icon]()|Toto&#039; le Moko|05:30:00|06:55:00|Regia di C.L. Bragaglia, con Toto&#039;, G.M.Canale; ITA 1949. Una delle piu&#039; riuscite parodie di Toto&#039;. Scelto come erede di un boss, si affida ad una pozione che lo rende coraggioso.
+|![Icon]()|Anica Appuntamento al cinema|06:55:00|07:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon]()|Il ragazzo che sorride|07:00:00|08:55:00|Regia di A. Grimaldi, con A.Carrisi, S.Martinkova; ITA 1969. Giovane ingegnere minerario si trasferisce per lavoro in Africa. Ma la moglie non vuole seguirlo e lui sospetta un tradimento.
+|![Icon]()|High crimes - Crimini di stato|08:55:00|11:10:00|Regia di C. Franklin, con A.Judd, M.Freeman; USA 2002. Un giovane avvocato, Claire, si trova invischiata in un sordido complotto quando decide di difendere suo marito, accusato ingiustamente di crimini di guerra.
+|![Icon]()|Magnolia|11:10:00|14:30:00|Regia di P.T. Anderson, con T.Cruise, J.Moore; USA 1999. I destini di un gruppo di personaggi di Los Angeles tra amore, morte e ricerca di redenzione. Eccezionale Tom Cruise nel ruolo di guru del sesso.
+|![Icon]()|Piedone l&#039;africano|14:30:00|16:25:00|Regia di Steno, con B.Spencer, D.Lassander; DEU/ITA 1978. Un agente sudafricano viene ucciso. Il commissario Rizzo viene incaricato delle indagini su una compagnia mineraria sospetta.
+|![Icon]()|Arrivano i Titani|16:25:00|18:25:00|Regia di D. Tessari, con G.Gemma, A.Lualdi; FRA/ITA 1962. I Titani, guidati da Crios, vengono inviati a Tebe a combattere il ribelle Re Cadmo. La missione sara&#039; piena di imprevisti.
+|![Icon]()|Teste dure|18:25:00|19:35:00|Regia di J. Blystone, con S.Laurel, O.Hardy; USA 1938. Stanlio e Ollio sono combattenti per l&#039;esercito che, dopo essere stati in guerra, tornano a casa reduci ed eroi.
+|![Icon]()|L&#039;eredita&#039;|19:35:00|20:10:00|Regia di J. Parrott, con S.Laurel; USA 1930. Eredi di un ricco zio, Stanlio e Ollio vengono convocati con gli altri parenti nella casa di questi, ma iniziano a sparire uno dopo l&#039;altro...
+|![Icon]()|Non sono un assassino|20:10:00|22:10:00|Regia di A. Zaccariello, con R.Scamarcio, A.Boni; ITA 2019. Il corpo senza vita del giudice Mastropaolo viene ritrovato nella sua villa. Verra&#039; incriminato un suo amico e collega.
+|![Icon]()|Movie Mag|22:10:00|22:35:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon]()|Il cecchino|22:35:00|00:00:00|Regia di M. Placido, con D.Auteil, M.Kassovitz; BEL/FRA 2012. L&#039;arresto di una banda di rapinatori va a monte a causa di un cecchino. Il commissario Maffei scatena una caccia all&#039;uomo.
+|![Icon]()|Il colore nascosto delle cose|00:00:00|02:00:00|Regia di S. Soldini, con V.Golino, A.Giannini; ITA 2017. La travolgente storia tra Emma, risoluta donna non vedente, e Teo, affascinante pubblicitario dal passato tormentato.
 
 
 

@@ -3,9 +3,10 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Asia Street Signs|01:00:00|04:00:00|Market trends and breaking trade information are shared.
-|![Icon]()|Meet the Press|04:00:00|05:00:00|Roundtable talks and interviews address current events.
-|![Icon]()|Capital Connection|05:00:00|06:00:00|Details are shared about trading news in various parts of the world.
+|![Icon]()|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
+|![Icon]()|Asia Street Signs|01:00:00|04:00:00|Anchored at the Singapore Exchange, detailed information is shared about the most significant moves of the day, including market trends and trade information.
+|![Icon]()|News with Shepard Smith|04:00:00|05:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon]()|Capital Connection|05:00:00|06:00:00|Details are shared about breaking news to reveal how the stories from one region have the potential to impact financial markets in other parts of the world.
 |![Icon]()|Squawk Box Europe|06:00:00|09:00:00|As the European markets prepare to open, detailed information is shared about breaking news and market movements from around the world.
 |![Icon]()|Europe Street Signs|09:00:00|10:00:00|Details are shared about breaking economic news in Europe, including live price action in stocks, bonds, currencies and commodities.
 |![Icon]()|Worldwide Exchange|10:00:00|11:00:00|A close look is taken at the global business sector as experts discuss news impacting the international markets as special reports come in from various sites.
@@ -16,7 +17,7 @@
 |![Icon]()|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon]()|US Power Lunch|19:00:00|20:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon]()|US Closing Bell|20:00:00|22:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon]()|Sustainable Future|22:00:00|22:30:00|Details are shared about businesses and entrepreneurs who are focused on saving the plant and securing the future through new technological innovations.
+|![Icon]()|Finding Solutions|22:00:00|22:30:00|Finding Solutions explores the issues of inclusion and diversity.
 |![Icon]()|The Tonight Show|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon]()|NBC Nightly News|23:30:00|00:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
 |![Icon]()|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
@@ -34,7 +35,7 @@
 |![Icon]()|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon]()|US Power Lunch|19:00:00|20:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon]()|US Closing Bell|20:00:00|22:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon]()|Finding Solutions|22:00:00|22:30:00|Finding Solutions explores the issues of inclusion and diversity.
+|![Icon]()|CNBC Conversation|22:00:00|22:30:00|Business leaders, politicians and other public figures are interviewed as they shed light on the person they are behind their public persona.
 |![Icon]()|The Tonight Show|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon]()|NBC Nightly News|23:30:00|00:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
 |![Icon]()|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.

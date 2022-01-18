@@ -4,7 +4,7 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon]()|Ninjago|00:30:00|01:40:00|Kai, Jai, Cole e Zane: le avventure dei quattro guerrieri che combattono per recuperare le 4 potenti armi Spinjitzu, lottando contro gli scheletri del malvagio Garmadon.
-|![Icon]()|Mr. Bean|01:40:00|03:20:00|Le avventure quotidiane del famoso Mr. Bean, un signore inglese imbranato, goffo e invidioso degli altri, che combina sempre molti guai e, per tentare di ripararli, aggrava ancora di piu&#039; le situazioni.
+|![Icon]()|Supernoobs|01:40:00|03:20:00|Le spassose disavventure di quattro amici nerd adolescenti: Kevin, Tyler, Shope e Roach. Per un equivoco, saranno chiamati a salvare il mondo da un terribile virus spaziale.
 |![Icon]()|Lo straordinario mondo di Gumball|03:20:00|05:50:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
 |![Icon]()|Teen Titans Go!|05:50:00|06:25:00|Ritornano il graffiante umorismo e le rocambolesche avventure dei Teen Titans, pronti a salvare il mondo, ma anche a partecipare a bizzarri tornei e pagliacciate.
 |![Icon]()|Looney Tunes Cartoons|06:25:00|07:00:00|Bugs Bunny, Daffy Duck, Porky Pig, Willy il Coyote, Beep Beep e i simpatici protagonisti di Looney Tunes tornano in piccole avventure &#039;short&#039;.
@@ -33,7 +33,7 @@
 |![Icon]()|Looney Tunes Cartoons|17:00:00|17:45:00|Bugs Bunny, Daffy Duck, Porky Pig, Willy il Coyote, Beep Beep e i simpatici protagonisti di Looney Tunes tornano in piccole avventure &#039;short&#039;.
 |![Icon]()|Lo straordinario mondo di Gumball|17:45:00|18:00:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
 |![Icon]()|Lo straordinario mondo di Gumball|18:00:00|18:50:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
-|![Icon]()|Lego Masters Australia|18:50:00|20:00:00|Seguendo le indicazioni dei giudici di gara, otto team mettono in mostra le loro capacita&#039; costruttive creando progetti incredibili con i mattoncini Lego.
+|![Icon]()|Lego Batman: il film - I supereroi DC riuniti|18:50:00|20:00:00|...riuniti - Regia di J. Burton; USA 2013. Il Cavaliere Oscuro e&#039; alle prese con Lex Luthor e la sua terribile arma segreta. Batman, Robin e Superman sono in difficolta&#039;, ma a loro si unisce la Justice League...
 |![Icon]()|Apple &amp; Onion|20:00:00|20:55:00|In un mondo popolato da cibi antropomorfi, Apple e Onion, due bambini, arrivano nella grande citta&#039;. Cercano di adattarsi al nuovo ambiente mentre affrontano varie sfide...
 |![Icon]()|Lego Masters Australia|20:55:00|21:05:00|Seguendo le indicazioni dei giudici di gara, otto team mettono in mostra le loro capacita&#039; costruttive creando progetti incredibili con i mattoncini Lego.
 |![Icon]()|Lego Masters Australia|21:05:00|21:30:00|Seguendo le indicazioni dei giudici di gara, otto team mettono in mostra le loro capacita&#039; costruttive creando progetti incredibili con i mattoncini Lego.
@@ -69,7 +69,9 @@
 |![Icon]()|Looney Tunes Cartoons|17:00:00|17:45:00|Bugs Bunny, Daffy Duck, Porky Pig, Willy il Coyote, Beep Beep e i simpatici protagonisti di Looney Tunes tornano in piccole avventure &#039;short&#039;.
 |![Icon]()|Lo straordinario mondo di Gumball|17:45:00|18:00:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
 |![Icon]()|Lo straordinario mondo di Gumball|18:00:00|18:50:00|Le avventure dei Watterson, una famiglia davvero singolare, composta da Gumball, un gatto blu, una coniglietta, un coniglio un pesce e una gatta!
-|![Icon]()|Lego Batman: il film - I supereroi DC riuniti|18:50:00|20:00:00|...riuniti - Regia di J. Burton; USA 2013. Il Cavaliere Oscuro e&#039; alle prese con Lex Luthor e la sua terribile arma segreta. Batman, Robin e Superman sono in difficolta&#039;, ma a loro si unisce la Justice League...
+|![Icon]()|Apple &amp; Onion|18:50:00|19:25:00|In un mondo popolato da cibi antropomorfi, Apple e Onion, due bambini, arrivano nella grande citta&#039;. Cercano di adattarsi al nuovo ambiente mentre affrontano varie sfide...
+|![Icon]()|Apple &amp; Onion|19:25:00|19:50:00|In un mondo popolato da cibi antropomorfi, Apple e Onion, due bambini, arrivano nella grande citta&#039;. Cercano di adattarsi al nuovo ambiente mentre affrontano varie sfide...
+|![Icon]()|Apple &amp; Onion|19:50:00|20:00:00|In un mondo popolato da cibi antropomorfi, Apple e Onion, due bambini, arrivano nella grande citta&#039;. Cercano di adattarsi al nuovo ambiente mentre affrontano varie sfide...
 |![Icon]()|Apple &amp; Onion|20:00:00|20:55:00|In un mondo popolato da cibi antropomorfi, Apple e Onion, due bambini, arrivano nella grande citta&#039;. Cercano di adattarsi al nuovo ambiente mentre affrontano varie sfide...
 |![Icon]()|Lego Masters Australia|20:55:00|21:05:00|Seguendo le indicazioni dei giudici di gara, otto team mettono in mostra le loro capacita&#039; costruttive creando progetti incredibili con i mattoncini Lego.
 |![Icon]()|Lego Masters Australia|21:05:00|21:30:00|Seguendo le indicazioni dei giudici di gara, otto team mettono in mostra le loro capacita&#039; costruttive creando progetti incredibili con i mattoncini Lego.

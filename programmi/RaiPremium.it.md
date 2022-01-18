@@ -3,31 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Il paradiso delle signore|00:05:00|00:45:00|S6 Ep84 - Ludovica non vuole cedere al ricatto della madre ed e&#039; pronta a rinunciare alla sua rendita. Al Paradiso Vittorio prende una decisione perentoria in merito all&#039;affare con gli americani.
-|![Icon]()|Il paradiso delle signore|00:45:00|01:25:00|S6 Ep85 - Umberto scrive un&#039; accorata lettera a Flora. Ezio ottiene finalmente il certificato di morte di Gloria. Vittorio rivendica la sua decisione in merito all&#039;affare con gli americani.
-|![Icon]()|La mezzatinta|01:25:00|02:30:00|Regia di B. Proietti, con S.Fiorentini, B.Cattaneo; ITA 1980. Un architetto, restauratore di una villa a Torre del Greco, riceve una misteriosa mezzatinta. Nella notte la stampa si trasforma.
-|![Icon]()|Quel bellissimo babysitter|02:30:00|04:00:00|Regia di M. Mitchell, con N.Sheridan, D.Payne; USA 2016. Cass, un avvocato di successo e madre di due bambini, decide di assumere come babysitter l&#039;affascinante Matt.
-|![Icon]()|Cuori rubati|04:00:00|04:35:00|Ep78 - Mentre Ginevra dorme sola nel suo letto, un fantasma riappare dal passato. Giulia e&#039; sempre piu&#039; attirata dal fascino e dall&#039;esperienza di Fabio.
-|![Icon]()|Cuori rubati|04:35:00|05:00:00|Ep79 - In cerca di conforto, Eleonora si trova a confidarsi con una persona che si dimostra inaspettatamente disponibile e comprensiva. Ginevra e&#039; alle prese con la ricomparsa di Roul.
-|![Icon]()|Cuori rubati|05:00:00|05:25:00|Ep80 - La verita&#039; sul furto subito al bar sara&#039; per Andrea e Roberto un duro colpo. Quella che Paolo interpreta come l&#039;ennesima bravata di Stefano, mette padre e figlio ai ferri corti.
-|![Icon]()|Cuori rubati|05:25:00|05:50:00|Ep81 - Per Giorgio e Giulia si susseguono momenti di panico, intanto Ginevra viene salvata e portata in ospedale da Raul.
-|![Icon]()|Un posto al Sole|05:50:00|06:15:00|S24 Ep203 - Le appassionanti vicende degli inquilini di Palazzo Palladini, tra intrighi, amori, amicizia e tradimenti.
-|![Icon]()|Un posto al Sole|06:15:00|06:45:00|S24 Ep204 - Le appassionanti vicende degli inquilini di Palazzo Palladini, tra intrighi, amori, amicizia e tradimenti.
-|![Icon]()|Fuoriclasse|06:45:00|07:50:00|S3 Ep1 La tempesta - Dopo la maternita&#039;, Isa ritorna al Caravaggio. Ad attenderla trova non solo studenti e colleghi, ma anche molti cambiamenti. L&#039;arrivo di sua sorella Bea sconvolge la sua vita.
-|![Icon]()|Fuoriclasse|07:50:00|08:45:00|S3 Ep2 Molto rumore per nulla - Dopo un brutto litigio con Bea, Isa cerca di ricucire il loro rapporto. Nel frattempo, su pressione di Lobascio, la Zara invita a scuola un famoso scrittore.
-|![Icon]()|E&#039; arrivata la felicita&#039;|08:45:00|10:40:00|S1 Ep6 Quando hai raccontato il tuo segreto - Vittorio propone una cena insieme a Orlando e Nunzia, alla quale partecipano anche Pietro e Cristiana. Le cose pero&#039; non vanno come sperato.
-|![Icon]()|Incantesimo|10:40:00|11:40:00|S8 Ep1 - Sullo sfondo della Clinica Life, amori, tradimenti, riconoscimenti familiari ed intrighi, animeranno le nuove puntate.
-|![Icon]()|Incantesimo|11:40:00|12:35:00|S8 Ep2 - Sullo sfondo della Clinica Life, amori, tradimenti, riconoscimenti familiari ed intrighi, animeranno le nuove puntate.
-|![Icon]()|Che Dio ci aiuti|12:35:00|13:35:00|S5 Ep11 Sos - Suor Angela offre il suo aiuto a una ragazza, disposta a qualsiasi cosa pur di salvare chi ama. Nel frattempo, nella vita di Ginevra si ripresenta, minaccioso, il suo passato.
-|![Icon]()|Che Dio ci aiuti|13:35:00|14:40:00|S5 Ep12 Come un fantasma - Suor Angela indaga su un infermiere dalla doppia identita&#039;. In convento, intanto, arriva la zia di Nico; mentre Valentina resta molto colpita da Alessio.
-|![Icon]()|Anica Appuntamento al cinema|14:40:00|14:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
-|![Icon]()|Crocere di nozze|14:45:00|16:25:00|Ep13 Siviglia - Gli organizzatori di matrimonio Marie e Stefan sono alle prese con due diverse coppie: gli sposi Sarah e Florian e i membri dell&#039;equipaggio Nadine e Patrick.
-|![Icon]()|Il Commissario Manara|16:25:00|17:20:00|S1 Ep5A Delitto in Paradiso - Manara e Lara indagano su un caso solo all&#039;apparenza facile: uno psichiatra ucciso, trovato morto vicino ad una sua paziente.
-|![Icon]()|Il Commissario Manara|17:20:00|18:15:00|S1 Ep5B Un morto di troppo - In uno stagno viene rinvenuto il cadavere di una ragazza vestita da sposa. Manara scopre che la giovane non si stava affatto sposando...
-|![Icon]()|Don Matteo|18:15:00|19:20:00|S6 Ep21 Una buona annata - Il sommelier di una tenuta agricola viene trovato morto sulle scale della cantina. I sospetti ricadono sul proprietario. Intanto, Tommasi si rompe una gamba...
-|![Icon]()|Don Matteo|19:20:00|20:20:00|S6 Ep22 Il tesoro di Orfeo - La chitarrista eugubina Gloria Porrini viene accusata della morte di un liutaio, che si scopre essere suo padre. Intanto Tommasi ritrova una vecchia amica...
-|![Icon]()|The Voice Senior|20:20:00|22:45:00|S2 Ep7 - Antonella Clerici presenta la gara tra aspiranti talenti musicali, pronti a conquistare i 4 coach: Loredana Berte&#039;, Orietta Berti, Gigi D&#039;Alessio e Clementino.
-|![Icon]()|Purche&#039; finisca bene: Non ho niente...|22:45:00|00:35:00|...da perdere - Regia di F. Costa, con C.Crescentini, E.Pesce; ITA 2018. Una vecchia storia d&#039;amore impedisce all&#039;ipocondriaca Camilla di riprendere in mano la sua vita. L&#039;incontro con Ettore si rivela provvidenziale.
 |![Icon]()|Caro Diego|00:35:00|01:00:00|Ep. 2 - Una trasmissione sulle donne e sugli uomini e sulle loro storie. In questo ambito, Diego Della Palma e il suo team intervengono per dare forza, intensita&#039; e valore al loro aspetto fisico.
 |![Icon]()|Un caso di coscienza 2|01:00:00|02:30:00|S2 Ep6 I conti con il passato - L&#039;avvocato Tasca e Alice fanno visita a Eugenio Manara, un ragazzo in prigione per l&#039;omicidio della ragazza di cui era innamorato.
 |![Icon]()|Crocere di nozze|02:30:00|04:00:00|Ep13 Siviglia - Gli organizzatori di matrimonio Marie e Stefan sono alle prese con due diverse coppie: gli sposi Sarah e Florian e i membri dell&#039;equipaggio Nadine e Patrick.
@@ -53,6 +28,31 @@
 |![Icon]()|Caro Diego|22:25:00|22:50:00|Ep. 3 - Una trasmissione sulle donne e sugli uomini e sulle loro storie. In questo ambito, Diego Della Palma e il suo team intervengono per dare forza, intensita&#039; e valore al loro aspetto fisico.
 |![Icon]()|Burden of Truth|22:50:00|23:35:00|S1 Ep1 - L&#039;avvocato Joanna Hanley fa ritorno nella sua citta&#039; natale, dove una misteriosa malattia sta colpendo le ragazze delle scuole superiori.
 |![Icon]()|Burden of Truth|23:35:00|00:20:00|S1 Ep2 - In una citta&#039; tanto straniera quanto familiare, Joanna lotta con le domande invadenti della gente del posto riguardo il suo rapido distacco dalla famiglia quando era solo un&#039;adolescente.
+|![Icon]()|Burden of Truth|00:20:00|01:05:00|S1 Ep3 - Joanna convince un idrologo a venire a Millwood per testare le acque del terreno. Con il permesso del riluttante sindaco, lei e Billy restringono i sospetti ad alcuni siti industriali.
+|![Icon]()|La pietra di Marco Polo|01:05:00|01:35:00|S1 Ep3 l furto - I ragazzi sono sono stati accusati di furto da un avido negoziante. Disperati, Gianni, Malcolm, Marta e Valerio si rifugiano nello &#039;squero&#039; del Capitano per chiedergli aiuto.
+|![Icon]()|La pietra di Marco Polo|01:35:00|02:05:00|S1 Ep4 La protesta - I ragazzi scoprono che il Capitano ha occupato la loro tana per evitare di finire in un ospizio: decidono quindi di attuare una curiosa protesta.
+|![Icon]()|La pietra di Marco Polo|02:05:00|02:30:00|S1 Ep5 Lo straniero - I ragazzi sono convinti che Adi sia ostaggio di un turista giapponese: in realta&#039; il piccolo sta solo facendo da guida al simpatico orientale in giro per Venezia.
+|![Icon]()|Crocere di nozze|02:30:00|04:00:00|Ep14 Croazia - Marie e Stefan, organizzatori di matrimonio a bordo della nave dei sogni diretta verso la Croazia, sono alle prese con due differenti coppie che desiderano sposarsi.
+|![Icon]()|Cuori rubati|04:00:00|04:40:00|Ep86 - Mentre Ginevra cerca di fuggire disperatamente dal suo passato, la minaccia di Raul torna prepotentemente ad incombere sulla sua vita. Roby, intanto, si prepara per un importante provino.
+|![Icon]()|Cuori rubati|04:40:00|05:05:00|Ep87 - Se Ginevra non sa cosa fare riguardo a Raul, ci sara&#039; comunque qualcuno che decidera&#039; per lei. Proprio ora che Valentina ha fatto la sua scelta, nuove difficolta&#039; si profilano all&#039;orizzonte.
+|![Icon]()|Cuori rubati|05:05:00|05:25:00|Ep88 - Mentre Ginevra cerca di capire le sue emozioni, il cerchio della Polizia si stringe sempre piu&#039; intorno a Raul. L&#039;inatteso voltafaccia di Stefano e&#039; un duro colpo per Valentina.
+|![Icon]()|Cuori rubati|05:25:00|05:50:00|Ep89 - Un&#039;inattesa proposta di lavoro cogliera&#039; di sorpresa Eleonora. Per Ginevra e&#039; arrivato il momento piu&#039; terribile, perche&#039; l&#039;arresto di Raul dipendera&#039; solo da lei.
+|![Icon]()|Un posto al Sole|05:50:00|06:20:00|S24 Ep206 - Le appassionanti vicende degli inquilini di Palazzo Palladini, tra intrighi, amori, amicizia e tradimenti.
+|![Icon]()|Fuoriclasse|06:20:00|07:15:00|S3 Ep5 Consigli sbagliati - Dario tenta di negare l&#039;amore che sente crescere sempre di piu&#039; per Aida. Nel frattempo, Michele lascia la Facolta&#039; di Medicina per andare a lavorare con zia Bea.
+|![Icon]()|Fuoriclasse|07:15:00|08:15:00|S3 Ep6 L&#039;origine dell&#039;amore - La Zara scopre dal marito che il romanzo di Chiara e&#039; un vero capolavoro. All&#039;insaputa di Aida, intanto, Michele cerca di sedurre la professoressa Stefania Rosati.
+|![Icon]()|E&#039; arrivata la felicita&#039;|08:15:00|10:05:00|S1 Ep8 Quando e&#039; tornato Gianluca - Orlando e Angelica fanno una cena in famiglia per appianare le tensioni. Pietro presenta Nunzia ad Anna e Guido, mentre Laura e Umberto rivelano la loro storia.
+|![Icon]()|Incantesimo|10:05:00|11:10:00|S8 Ep5 - Sullo sfondo della Clinica Life, amori, tradimenti, riconoscimenti familiari ed intrighi, animeranno le nuove puntate.
+|![Icon]()|Incantesimo|11:10:00|12:15:00|S8 Ep6 - Sullo sfondo della Clinica Life, amori, tradimenti, riconoscimenti familiari ed intrighi, animeranno le nuove puntate.
+|![Icon]()|Che Dio ci aiuti|12:15:00|13:15:00|S5 Ep15 Attenti al lupo - Suor Angela teme per Ginevra: il padre, uscito dal carcere, e&#039; tornato a cercarla. Azzurra cerca il modo per recuperare i soldi di Athos, coinvolgendo tutto il convento.
+|![Icon]()|Che Dio ci aiuti|13:15:00|14:15:00|S5 Ep16 Il linguaggio dei segni - Cercando di riunire una famiglia distrutta, Suor Angela scopre il profondo dolore dietro la dedizione del dottore. Intanto, Nico prende una decisione importante.
+|![Icon]()|Anica Appuntamento al cinema|14:15:00|14:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon]()|Crocere di nozze|14:20:00|16:00:00|Ep15 Australia - A voler celebrare le proprie nozze durante una crociera diretta in Australia sono Tanja e Lukas ma, poco prima del matrimonio, Lukas scopre di non aver ancora avuto il divorzio.
+|![Icon]()|Il Commissario Manara|16:00:00|17:05:00|S2 Ep1A Matrimonio con delitto - Durante le nozze di Luca e Lara, un motociclista irrompe in chiesa e cade al suolo morto. Il matrimonio salta e Lara sospetta che Luca non sia cosi&#039; dispiaciuto.
+|![Icon]()|Il Commissario Manara|17:05:00|18:05:00|S2 Ep1B L&#039;addio di Lara - In centrale arriva una nuova avvenente collega proprio mentre Lara, superata la delusione per le nozze saltate, propone a Luca di convivere.
+|![Icon]()|Don Matteo|18:05:00|19:15:00|S7 Ep1 L&#039;ultimo salto - Don Matteo partecipa ad una dimostrazione celebrativa dell&#039;AeroClub di Gubbio. Durante il volo, un paracadute non si apre e due uomini precipitano.
+|![Icon]()|Don Matteo|19:15:00|20:20:00|S7 Ep2 Il mestiere di crescere - Don Matteo ha un nuovo incarico: insegnare religione al liceo. Appena arrivato viene coinvolto in un caso: una professoressa cade dalle scale.
+|![Icon]()|Non mi lasciare|20:20:00|22:20:00|S1 Ep2 - Fuggito dalla Casa Famiglia, il piccolo Angelo va a Venezia, nella speranza di incontrare Elisa. Elena e Daniele ottengono informazioni molto importanti da Karim.
+|![Icon]()|Purche&#039; finisca bene: Mai scherzare...|22:20:00|00:10:00|...con le stelle! - Regia di M. Oleotto, con A.Roja, C.Natoli; ITA 2020. La vita di Ines, operatrice ecologica appassionata di oroscopo, si incrocia con quella di Alfredo, un ricercatore maniaco dell&#039;ordine.
 
 
 
