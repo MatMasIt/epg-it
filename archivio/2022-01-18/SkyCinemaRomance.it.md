@@ -1,0 +1,37 @@
+# Sky Cinema Romance
+> Programmazione di Lunedì 17 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Cake - Ti amo, ti mollo... ti sposo|00:00:00|01:40:00|Commedia sentimentale con Heather Graham e David Sutcliffe. Una ragazza single assume la direzione di una rivista di moda matrimoniale e si innamora di un collaboratore (CAN/USA 2005)
+|![Icon]()|Citta&#039; di carta|01:40:00|03:30:00|Cara Delevingne e Nat Wolff in una romantica avventura dal romanzo di John Green. La bella e misteriosa Margo scompare nel nulla, spingendo il timido e innamorato Quentin a rintracciarla (USA 2015)
+|![Icon]()|100X100Cinema|03:30:00|03:50:00|Arrivano in sala: &#039;Una famiglia vincente - King Richard&#039; con Will Smith e &#039;America Latina&#039; con Elio Germano, mentre su Sky Cinema il film diretto da Claudio Cupellini, &#039;La terra dei figli&#039; (13/01).
+|![Icon]()|Orgoglio e pregiudizio|03:50:00|06:00:00|Keira Knightley in abiti settecenteschi e&#039; l&#039;eroina del classico della letteratura di Jane Austen. L&#039;orgogliosa Elizabeth Bennet s&#039;innamora dell&#039;affascinate e presuntuoso Mister Darcy (GBR/FRA 2005)
+|![Icon]()|Ne&#039; Giulietta ne&#039; Romeo|06:00:00|07:50:00|Esordio alla regia per Veronica Pivetti in un film sul tema dell&#039;omosessualita&#039;. Un adolescente, figlio di genitori separati, s&#039;innamora di un ragazzo e decide di rivelarlo alla famiglia (ITA 2015)
+|![Icon]()|Il paziente inglese|07:50:00|10:30:00|9 Oscar e 2 Golden Globe all&#039;intenso dramma con Ralph Fiennes, Juliette Binoche e Willem Dafoe. Toscana, 2a guerra mondiale: un&#039;infermiera accudisce un uomo che nasconde un tragico segreto (USA 1996)
+|![Icon]()|Miss Potter|10:30:00|12:10:00|Renee Zellweger e Ewan McGregor nella biografia della scrittrice Beatrix Potter. Inghilterra, primo &#039;900, Beatrix si ribella ai genitori per diventare autrice di libri per bambini (GBR/USA 2006)
+|![Icon]()|La fiera della vanita&#039; - Vanity Fair|12:10:00|14:35:00|Mira Nair dirige Reese Witherspoon e Jim Broadbent tra gli scenari dell&#039;Inghilterra ottocentesca. Usando l&#039;astuzia e la bellezza, una ragazza orfana tenta di scalare l&#039;alta societa&#039; (GBR/USA 2004)
+|![Icon]()|La rivincita delle bionde|14:35:00|16:15:00|La commedia che ha lanciato Reese Witherspoon. Per dimostrare al suo ex di non essere una ragazza frivola, Elle si iscrive alla facolta&#039; di legge: indaghera&#039; su un caso di omicidio (USA 2001)
+|![Icon]()|Sai che c&#039;e&#039; di nuovo?|16:15:00|18:10:00|Madonna e Rupert Everett in una commedia di John Schlesinger. Una maestra di yoga e un giardiniere gay, amici per la pelle, fanno sesso dopo una notte di euforia e lei rimane incinta.. (USA 2000)
+|![Icon]()|L&#039;amore in gioco|18:10:00|20:00:00|Drew Barrymore e Jimmy Fallon nel romantico remake americano di &#039;Febbre a 90&#039;. Una manager si innamora di un professore appassionato di baseball e tifosissimo dei Boston Red Sox (USA 2005)
+|![Icon]()|Citta&#039; di carta|20:00:00|21:55:00|Cara Delevingne e Nat Wolff in una romantica avventura dal romanzo di John Green. La bella e misteriosa Margo scompare nel nulla, spingendo il timido e innamorato Quentin a rintracciarla (USA 2015)
+|![Icon]()|5 appuntamenti per farla innamorare|21:55:00|23:30:00|Commedia con Nia Vardalos ambientata in una romantica Manhattan. Una donna rifiuta di uscire con lo stesso uomo per piu&#039; di 5 volte. Fino all&#039;incontro con il bel gestore di un ristorante (USA 2009)
+|![Icon]()|Vita da strega|23:30:00|01:15:00|Nicole Kidman e Will Ferrell in una commedia ispirata alla serie anni 60. Stufa di magie e sortilegi, una strega desidera una nuova vita, ma non riesce a liberarsi della sua identita&#039; (USA 2005)
+|![Icon]()|100X100Cinema|01:15:00|01:35:00|Filippo Timi e Alessandro Benvenuti ci parlano della nuova stagione de &#039;I delitti del BarLume&#039; (in prima visione dal 17/01). Inoltre, &#039;Notti in bianco, baci a colazione&#039; di Francesco Mandelli (19/01).
+|![Icon]()|L&#039;ultimo bacio|01:35:00|03:35:00|Stefano Accorsi, Martina Stella e Giovanna Mezzogiorno nel grande successo di Gabriele Muccino. Un affresco generazionale su un gruppo di trentenni in crisi sentimentale ed esistenziale (ITA 2001)
+|![Icon]()|La fiera della vanita&#039; - Vanity Fair|03:35:00|05:55:00|Mira Nair dirige Reese Witherspoon e Jim Broadbent tra gli scenari dell&#039;Inghilterra ottocentesca. Usando l&#039;astuzia e la bellezza, una ragazza orfana tenta di scalare l&#039;alta societa&#039; (GBR/USA 2004)
+|![Icon]()|Ricordati di me|05:55:00|08:00:00|Gabriele Muccino dirige Monica Bellucci, Fabrizio Bentivoglio e Laura Morante. Il desiderio di celebrita&#039; di una ragazza costringe i suoi genitori a ripensare ai propri sogni infranti (ITA 2002)
+|![Icon]()|100X100Cinema|08:00:00|08:20:00|Il programma pensato per gli amanti del cinema, per chi vuole restare informato sulle novita&#039; in sala e desidera aggiornarsi sui film in programmazione.
+|![Icon]()|Endings, Beginnings - Ricomincio da te|08:20:00|10:15:00|Love story con Shailene Woodley, Jamie Dornan e Sebastian Stan. Una donna dal cuore spezzato incontra due uomini molto diversi. Incapace di scegliere, dovra&#039; imparare a conoscersi (USA 2019)
+|![Icon]()|Made in Italy|10:15:00|12:00:00|Luciano Ligabue dirige Stefano Accorsi e Kasia Smutniak nel film ispirato all&#039;omonimo album. Riko, operaio in una ditta di salumi in Emilia, si ribella al destino della sua vita precaria (ITA 2017)
+|![Icon]()|Jerry Maguire|12:00:00|14:20:00|Oscar a Cuba Gooding Jr. per una commedia sul mondo del football con Tom Cruise e Renee Zellweger. Un procuratore sportivo perde il posto dopo aver rivelato delle scottanti verita&#039; (USA 1996)
+|![Icon]()|Blonde Ambition - Una bionda a NY|14:20:00|16:00:00|Jessica Simpson e Luke Wilson in una commedia romantica. Giunta nella Grande Mela per incontrare il suo fidanzato, un&#039;ambiziosa ragazza di provincia sapra&#039; reagire a una brutta sorpresa (USA 2007)
+|![Icon]()|Rob Roy|16:00:00|18:25:00|Liam Neeson, Tim Roth e Jessica Lange in un&#039;avventura fra le highlands scozzesi. 1713: Robert Roy MacGregor diventa un fuorilegge per difendere la liberta&#039; del suo popolo dagli inglesi (USA 1995)
+|![Icon]()|Notte folle a Manhattan|18:25:00|20:00:00|Commedia con Steve Carell, Tina Fey e Mark Wahlberg. Una coppia di sposi vuole ritrovare la sintonia nel corso di una serata, ma uno scambio d&#039;identita&#039; innesca una girandola di malintesi (USA 2010)
+|![Icon]()|Vita da strega|20:00:00|21:50:00|Nicole Kidman e Will Ferrell in una commedia ispirata alla serie anni 60. Stufa di magie e sortilegi, una strega desidera una nuova vita, ma non riesce a liberarsi della sua identita&#039; (USA 2005)
+|![Icon]()|Poli opposti|21:50:00|23:30:00|Luca Argentero e Sarah Felberbaum in una commedia romantica. Stefano e&#039; un terapista di coppia; Claudia e&#039; un avvocato divorzista. Fra i due nasce un&#039;inaspettata attrazione (ITA 2015)
+|![Icon]()|Cantando sotto la pioggia|23:30:00|01:15:00|Gene Kelly e Debbie Reynolds in un intramontabile classico del musical. Hollywood, anni 20: il passaggio al cinema sonoro cambia il destino di due attori del cinema muto (USA 1952)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

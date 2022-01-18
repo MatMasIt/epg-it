@@ -1,0 +1,39 @@
+# Sky Cinema Family
+> Programmazione di Lunedì 17 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Lo straordinario viaggio di T.S. Spivet|01:50:00|03:40:00|Helena Bonham Carter in un&#039;avventura emozionante. Un bambino prodigio, inventore di una macchina geniale, intraprende un viaggio per ritirare un premio all&#039;insaputa della sua famiglia (FRA 2013)
+|![Icon]()|Questo o quello - Speciale|03:40:00|03:55:00|Francesco Castelnuovo e Gianni Canova si sfidano sui film dell&#039;adrenalinica saga con Mel Gibson e Danny Glover: Arma Letale, disponibile su Sky Cinema Collection sabato 22 e domenica 23 gennaio.
+|![Icon]()|La bussola d&#039;oro|03:55:00|05:55:00|Un Oscar al fantasy con Daniel Craig e Nicole Kidman, dal romanzo di Philip Pullman. Una bambina e il suo &#039;daimon&#039; devono sfidare una strega in un luogo popolato da strane creature (GBR/USA 2007)
+|![Icon]()|Elf|05:55:00|07:35:00|Allegra fiaba natalizia con Will Ferrell. Un bambino finisce nel sacco di Babbo Natale e cresce al Polo Nord insieme agli altri elfi. Da adulto torna a New York alla ricerca dei genitori (USA 2003)
+|![Icon]()|I delitti del BarLume 9 - Speciale|07:35:00|07:55:00|Tra risate, azione e backstage il regista Roan Johnson, insieme al cast, ci svela cosa succedera&#039; al BarLume e a Pineta, dove dietro a ogni scherzo si celano indagini e verita&#039;.
+|![Icon]()|Turbo|07:55:00|09:35:00|A tutto gas in un rombante film d&#039;animazione della DreamWorks. Turbo e&#039; una lumaca che sogna di correre in pista. Grazie a una sostanza misteriosa, raggiungera&#039; una velocita&#039; supersonica (USA 2013)
+|![Icon]()|Bianca &amp; Grey e la pozione magica|09:35:00|11:05:00|Magica storia animata di formazione. L&#039;immaturo Grey ricorre a una pozione per diventare il lupo alfa di cui il branco e Bianca hanno bisogno, ma si ritrova trasformato in un ariete (RUS 2016)
+|![Icon]()|Genitori vs Influencer|11:05:00|12:50:00|Fabio Volo, Ginevra Francesconi e Giulia De Lellis nella commedia Sky Original di Michela Andreozzi. Un prof si scontra con la figlia teenager per colpa dei social... ma diventa influencer (ITA 2021)
+|![Icon]()|Happy Feet|12:50:00|14:40:00|Oscar per il miglior film d&#039;animazione. Un pinguino stonato viene cacciato dalla sua colonia di eccellenti cantanti, ma si riscatta a passo di danza. Golden Globe alla canzone di Prince (AUS/USA 2006)
+|![Icon]()|Water Horse - La leggenda degli abissi|14:40:00|16:35:00|Dai creatori de &#039;Le cronache di Narnia&#039;, un&#039;avventura fantasy. Un bambino scopre un cavallo acquatico nei pressi del lago di Lochness e lo nasconde nella sua vasca da bagno (GBR/USA 2007)
+|![Icon]()|Elf|16:35:00|18:15:00|Allegra fiaba natalizia con Will Ferrell. Un bambino finisce nel sacco di Babbo Natale e cresce al Polo Nord insieme agli altri elfi. Da adulto torna a New York alla ricerca dei genitori (USA 2003)
+|![Icon]()|Tom &amp; Jerry|18:15:00|20:00:00|Tra animazione e live action, le origini di una storica rivalita&#039;. Il topo Jerry giunge in un hotel di New York per assistere a un matrimonio. Per sbarazzarsene, viene assunto il gatto Tom (USA 2021)
+|![Icon]()|Kung Fu Panda 3|20:00:00|21:40:00|Terzo capitolo della spassosa saga animata con l&#039;inarrestabile panda Po. Per affrontare il perfido Kai, Po insegna i segreti del kung fu ai miti abitanti del suo villaggio natale (USA 2016)
+|![Icon]()|Il mio amico Alexis|21:40:00|23:30:00|Una commedia di formazione con la star del calcio Alexis Sanchez. L&#039;attaccante cileno stringe amicizia con il talentuoso dodicenne Tito e riscopre i motivi del suo amore per il football (CHL 2019)
+|![Icon]()|Happy Feet|23:30:00|01:20:00|Oscar per il miglior film d&#039;animazione. Un pinguino stonato viene cacciato dalla sua colonia di eccellenti cantanti, ma si riscatta a passo di danza. Golden Globe alla canzone di Prince (AUS/USA 2006)
+|![Icon]()|La casa del coccodrillo|01:20:00|03:00:00|Avventuroso film per tutta la famiglia. Il piccolo Victor scopre il diario di Cecilia, morta da anni in circostanze misteriose, e ne segue le tracce. Ma dovra&#039; guardarsi dai bizzarri vicini (GER 2012)
+|![Icon]()|La sposa cadavere|03:00:00|04:20:00|La fantasia sfrenata di Tim Burton per un film d&#039;animazione in stop-motion. Un promesso sposo infila per errore la fede nuziale nel dito di uno scheletro e si ritrova nell&#039;aldila&#039; (GBR/USA 2005)
+|![Icon]()|Paddington|04:20:00|06:00:00|Moderna favola natalizia tratta dai libri di Michael Bond. Un orso peruviano vola a Londra alla ricerca di una vita migliore. L&#039;amorevole famiglia Brown fara&#039; avverare il suo sogno (GBR/FRA 2014)
+|![Icon]()|Boog &amp; Elliot 2|06:00:00|07:20:00|L&#039;orso Boog e il cervo Elliot di nuovo insieme per salvare un amico. Pur di rinviare il suo matrimonio, Elliot decide di guidare una spedizione di soccorso per il bassotto Wurstellini (USA 2008)
+|![Icon]()|Tom &amp; Jerry|07:20:00|09:05:00|Tra animazione e live action, le origini di una storica rivalita&#039;. Il topo Jerry giunge in un hotel di New York per assistere a un matrimonio. Per sbarazzarsene, viene assunto il gatto Tom (USA 2021)
+|![Icon]()|Monster House|09:05:00|10:40:00|Travolgente film d&#039;animazione prodotto da Steven Spielberg e Robert Zemeckis. La notte di Halloween tre intrepidi ragazzini non resistono alla tentazione di entrare in una casa misteriosa (USA 2006)
+|![Icon]()|Kung Fu Panda 3|10:40:00|12:20:00|Terzo capitolo della spassosa saga animata con l&#039;inarrestabile panda Po. Per affrontare il perfido Kai, Po insegna i segreti del kung fu ai miti abitanti del suo villaggio natale (USA 2016)
+|![Icon]()|Italo|12:20:00|14:10:00|Marco Bocci nella trasposizione di un&#039;incredibile storia vera. Italo, un cane randagio, arriva a Scicli e conquista il cuore di tutti diventando un&#039;attrazione per cittadini e turisti (ITA 2014)
+|![Icon]()|Il mio amico Alexis|14:10:00|15:55:00|Una commedia di formazione con la star del calcio Alexis Sanchez. L&#039;attaccante cileno stringe amicizia con il talentuoso dodicenne Tito e riscopre i motivi del suo amore per il football (CHL 2019)
+|![Icon]()|La sposa cadavere|15:55:00|17:15:00|La fantasia sfrenata di Tim Burton per un film d&#039;animazione in stop-motion. Un promesso sposo infila per errore la fede nuziale nel dito di uno scheletro e si ritrova nell&#039;aldila&#039; (GBR/USA 2005)
+|![Icon]()|Boog &amp; Elliot 2|17:15:00|18:35:00|L&#039;orso Boog e il cervo Elliot di nuovo insieme per salvare un amico. Pur di rinviare il suo matrimonio, Elliot decide di guidare una spedizione di soccorso per il bassotto Wurstellini (USA 2008)
+|![Icon]()|Capitan Sciabola e il diamante magico|18:35:00|20:00:00|Avventura animata nel mondo dei pirati. Alla caccia di un diamante fatato, Capitan Sciabola trovera&#039; sulla sua strada uno scaltro orfanello, un giovane corsaro e la sua valorosa amica (NOR 2019)
+|![Icon]()|Ember - Il mistero della citta&#039; di luce|20:00:00|21:40:00|Misteri apocalittici con Tim Robbins e Saoirse Ronan. La citta&#039; sotterranea di Ember ha esaurito la sua scorta di luce. Due giovani escono in superficie per trovare altre fonti di energia (USA 2008)
+|![Icon]()|Striscia, una zebra alla riscossa|21:40:00|23:30:00|Imperdibile commedia ambientata in un ranch. Striscia, un simpatico cucciolo di zebra, si ritrova a vivere in una fattoria, dove puo&#039; realizzare il sogno di correre come un purosangue (USA/ZAF 2005)
+|![Icon]()|Italo|23:30:00|01:15:00|Marco Bocci nella trasposizione di un&#039;incredibile storia vera. Italo, un cane randagio, arriva a Scicli e conquista il cuore di tutti diventando un&#039;attrazione per cittadini e turisti (ITA 2014)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
