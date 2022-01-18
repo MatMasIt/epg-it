@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Lunedì 17 Gennaio 2022
+> Programmazione di Martedì 18 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
