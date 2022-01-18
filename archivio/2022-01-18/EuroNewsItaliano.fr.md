@@ -3,32 +3,18 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Euronews Tonight|00:00:00|00:13:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|00:13:00|00:27:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|00:27:00|00:40:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|00:40:00|01:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|01:00:00|01:11:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|State of the Union|01:11:00|01:21:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
-|![Icon]()|Euronews Tonight|01:21:00|01:34:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|01:34:00|01:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|01:45:00|02:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|02:00:00|02:20:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|02:20:00|02:31:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|02:31:00|02:43:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|02:43:00|03:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|03:00:00|03:14:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|03:14:00|03:26:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|03:26:00|03:38:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|03:38:00|03:48:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|State of the Union|03:48:00|04:00:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
-|![Icon]()|Euronews Tonight|04:00:00|04:12:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|04:12:00|04:25:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|04:25:00|04:38:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|04:38:00|05:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|05:00:00|05:13:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|05:13:00|05:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|05:30:00|05:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon]()|Euronews Tonight|05:45:00|06:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|00:00:00|00:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|00:30:00|01:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|01:00:00|01:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|01:30:00|02:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|02:00:00|02:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|02:30:00|03:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|03:00:00|03:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|03:30:00|04:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|04:00:00|04:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|04:30:00|05:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|05:00:00|05:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon]()|Euronews Tonight|05:30:00|06:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon]()|Good Morning Europe|06:00:00|06:14:00|Euronews&#039;s flagship morning show: breaking news, journalism, analysis and social media reporting from &#039;The Cube&#039; on the biggest stories affecting Europe and the world.
 |![Icon]()|Good Morning Europe|06:14:00|06:30:00|Euronews&#039;s flagship morning show: breaking news, journalism, analysis and social media reporting from &#039;The Cube&#039; on the biggest stories affecting Europe and the world.
 |![Icon]()|Good Morning Europe|06:30:00|06:44:00|Euronews&#039;s flagship morning show: breaking news, journalism, analysis and social media reporting from &#039;The Cube&#039; on the biggest stories affecting Europe and the world.

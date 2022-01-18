@@ -3,15 +3,16 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Sam il pompiere|00:15:00|00:45:00|Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
+|![Icon]()|Simsalagrimm|00:15:00|00:45:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon]()|Sam il pompiere|00:45:00|01:10:00|Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
 |![Icon]()|Sam il pompiere|01:10:00|01:35:00|Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
-|![Icon]()|Simsalagrimm|01:35:00|01:50:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
+|![Icon]()|Sam il pompiere|01:35:00|01:50:00|Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
 |![Icon]()|Simsalagrimm|01:50:00|02:15:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon]()|Simsalagrimm|02:15:00|02:35:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon]()|Simsalagrimm|02:35:00|03:00:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon]()|Simsalagrimm|03:00:00|03:30:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
-|![Icon]()|Simsalagrimm|03:30:00|05:00:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
+|![Icon]()|Simsalagrimm|03:30:00|04:35:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
+|![Icon]()|Simsalagrimm|04:35:00|05:00:00|Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon]()|MeteoHeroes|05:00:00|05:30:00|Le avventure di sei bambini, dotati di superpoteri, che sensibilizzano i piccoli telespettatori al tema del cambiamento climatico, insegnando loro cosa significa prendersi cura del proprio Pianeta.
 |![Icon]()|MeteoHeroes|05:30:00|06:10:00|Le avventure di sei bambini, dotati di superpoteri, che sensibilizzano i piccoli telespettatori al tema del cambiamento climatico, insegnando loro cosa significa prendersi cura del proprio Pianeta.
 |![Icon]()|Hey Duggee|06:10:00|06:40:00|Le avventure di un bizzarro insegnante in una scuola materna. E&#039; Duggee, un cane marrone alle prese con i suoi piccoli alunni.
