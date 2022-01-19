@@ -1,0 +1,52 @@
+# Real Time Italia
+> Programmazione di Martedì 18 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Vite al limite|00:10:00|01:55:00|S7 Ep16 LaShanta - A letto da due anni, Lashanta si affida ai suoi figli per pulirsi e nutrirsi. La donna e&#039; determinata a seguire il programma del Dr. Now, ma ha bisogno di aiuto per uscire di casa.
+|![Icon]()|Vite al limite|01:55:00|03:30:00|S7 Ep17 Cillas - Da due anni, Cillas trascorre le giornate nel suo letto a causa del suo peso. L&#039;uomo e&#039; assente dalla vita della sua fidanzata e delle sue tre figlie.
+|![Icon]()|Vite al limite|03:30:00|05:00:00|S7 Ep18 Mercedes - Mercedes ha gravi linfedemi e riesce a stento a stare in piedi. La sua famiglia la aiuta con i figli. Per perdere peso, la donna deve confrontarsi con i suoi traumi passati.
+|![Icon]()|Dr. Pimple Popper: dr.ssa schiacciabrufoli - Prima visita|05:00:00|05:25:00|...schiacciabrufoli. S1 Ep4 Incubo - Larry ha una protuberanza sulle cosce talmente grande da intorpidirgli la gamba. Ashley rappresenta un &#039;caso da incubo&#039; a causa delle sue tre complicate malattie cutanee.
+|![Icon]()|Malattie misteriose|05:25:00|06:20:00|S4 Ep1 La bambina che non riusciva a mangiare - I medici indagano per comprendere i problemi di crescita di un bambino apparentemente sano; una donna con una buona anamnesi improvvisamente si ammala gravemente.
+|![Icon]()|Malattie misteriose|06:20:00|07:20:00|S4 Ep2 Bizzarre visioni - Una donna incinta presenta segni di estrema spossatezza e traspirazione notturna. Inoltre, un caso di incessante diarrea e&#039; attribuito alla sindrome dell&#039;intestino irritabile.
+|![Icon]()|Primo appuntamento crociera|07:20:00|08:50:00|S1 Ep2 - La nave e&#039; pronta ad accogliere nuovi single per la sua seconda tappa! La prima a salire a bordo e&#039; Beatice, seguita da Angelo, Rosita, Danilo, Antonella, Silvia e Gianluca.
+|![Icon]()|Primo appuntamento|08:50:00|10:25:00|S6 Ep2 - Il ristorante apre le porte a due ex fidanzati, Federica e Giuliano che non hanno ancora trovato dei compagni. Ci riusciranno oggi? Inoltre incontriamo Marco e Giulia, entrambi insicuri.
+|![Icon]()|Cortesie per gli ospiti 13|10:25:00|11:25:00|S13 Ep1 Rosella e Chiara vs. Elena e Olga - Rosella e Chiara, mamma e figlia, amano viaggiare a tavola con un menu&#039; &#039;Tra Genova e Amalfi&#039;. Elena e Olga contrattaccano con &#039;Dalla Russia con l&#039;amore&#039;.
+|![Icon]()|Cortesie per gli ospiti|11:25:00|12:20:00|S11 Ep10 Federica e Flora vs. Gabriella e Alberto - Flora e Federica rievocano sapori e ricordi familiari. Gabriella e Alberto architettano una serata dedicata all&#039;iconica pasta.
+|![Icon]()|Cortesie per gli ospiti - 1^TV|12:20:00|13:25:00|S16 Ep6 - Valentina e Lela contro Roberta ed Enza: una sfida tutta al femminile!
+|![Icon]()|Cake Star - Pasticcerie in sfida|13:25:00|14:40:00|S4 Ep7 Treviso - Katia e Damiano si trovano a Treviso, pronti a giudicare la migliore particceria della tradizione veneta tra Fondente, Al Volo e Pollicino.
+|![Icon]()|Cake Star - Pasticcerie in sfida|14:40:00|15:50:00|S4 Ep8 Reggio Emilia - Il dolce viaggio di Katia e Damiano continua a Reggio Emilia. Andranno ad assaggiare i dolci di tre pasticcerie: Incerti, Dava e La Dolceria Bakery.
+|![Icon]()|Cake Star - Pasticcerie in sfida|15:50:00|17:10:00|S4 Ep9 Napoli a Milano - Prosegue il viaggio di Katia e Damiano alla ricerca delle migliori pasticcerie d&#039;Italia. In questa tappa, a sfidarsi saranno Eccellenze della costiera, Sciuscia&#039; e Cafiero.
+|![Icon]()|Cortesie per gli ospiti|17:10:00|18:15:00|S15 Ep23 - Csaba, Diego e Roberto sono in Toscana per giudicare la sfida di Stefano e Jacopo contro Veronica e Stefano!
+|![Icon]()|Cortesie per gli ospiti - 1^TV|18:15:00|19:20:00|S16 Ep3 - Valeria e Marta sfidano Micol e Silvia con piatti giapponesi!
+|![Icon]()|Cortesie per gli ospiti - 1^TV|19:20:00|20:25:00|S16 Ep7 - Monica e Lavinia sfidano Dario e Alessandro con piatti italiani e rumeni!
+|![Icon]()|Primo appuntamento|20:25:00|21:50:00|S6 Ep3 - Jana cena con il boxer Domenico. Tra loro e&#039; stato un duello ma ha trionfato l&#039;amore. Non e&#039; stato cosi&#039; per Diana e Francesco: lei se ne e&#039; andata senza neppure consumare la cena.
+|![Icon]()|Primo appuntamento|21:50:00|23:25:00|S6 Ep2 - Il ristorante apre le porte a due ex fidanzati, Federica e Giuliano che non hanno ancora trovato dei compagni. Ci riusciranno oggi? Inoltre incontriamo Marco e Giulia, entrambi insicuri.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|23:25:00|00:25:00|...schiacciabrufoli. S3 Ep14 Escrescenze - Robert ha un&#039;escrescenza grande quanto un pomodoro che gli causa un enorme dolore. Sharon ha una fastidiosa cisti sul petto.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|00:25:00|01:25:00|...schiacciabrufoli. S3 Ep15 L&#039;esorcista - Coperta di bozzoli, Keke non riesce a godersi i momenti di intimita&#039; con suo marito. Corey ha avuto problemi a causa dell&#039;escrescenza che ha sulla fronte.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|01:25:00|02:20:00|...schiacciabrufoli. S3 Ep16 Ritorni - Monica torna con la speranza di poter rimuovere alcune escrescenze sul viso. Ken ha diverse cisti sulla testa e ha tentato di toglierle da solo.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|02:20:00|03:15:00|...schiacciabrufoli. S3 Ep17 Drag Queen - La drag queen Corey ha un bozzolo sul fondoschiena. Inoltre, Virginia ha problemi a guidare il suo camper a causa delle escrescenze che ha sulle braccia.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|03:15:00|04:10:00|...schiacciabrufoli. S3 Ep18 Pelle da alligatore - Terry non incontra i suoi nipoti a causa di un&#039;escrescenza sul naso. Remi ha una pelle simile a un alligatore e non si prende cura di se stessa.
+|![Icon]()|Dr. Pimple Popper: la dottoressa schiacciabrufoli|04:10:00|05:00:00|...schiacciabrufoli. S3 Ep20 Santa Claus - E&#039; Natale nello studio di Sandra Lee pronta a scartare nuovissime patologie. Tra i pazienti un Babbo Natale con un&#039;enorme protuberanza sul collo.
+|![Icon]()|Dr. Pimple Popper: dr.ssa schiacciabrufoli - Prima visita|05:00:00|05:30:00|...schiacciabrufoli. S1 Ep5 Forti dolori - Che&#039;Re e&#039; imbarazzata e depressa a causa del bozzolo che ha sulla guancia. Per anni, Buck ha avuto delle dolorose vesciche piene di liquidi.
+|![Icon]()|Malattie misteriose|05:30:00|06:30:00|S4 Ep3 Una passione per i sottaceti - Una donna e&#039; affetta da estrema spossatezza e ha una passione sfrenata per i sottaceti; in seguito ad un arresto cardiaco i medici cercano di comprendere il suo problema.
+|![Icon]()|Malattie misteriose|06:30:00|07:30:00|S4 Ep4 Donazioni disastrose - I medici sono alle prese con malattie insolite, tra cui quella di una donna affetta da infiammazione agli occhi che inizia a manifestare indolenzimento alle ginocchia e ai pollici.
+|![Icon]()|Primo appuntamento crociera|07:30:00|08:55:00|S1 Ep3 - La nave e&#039; pronta ad accogliere nuovi single per la sua terza tappa! I primi a salire a bordo sono i fratelli Mario e Manuela, seguiti da Samantha, Francesco e Monica.
+|![Icon]()|Primo appuntamento crociera|08:55:00|10:20:00|S1 Ep4 - La nave e&#039; pronta ad accogliere nuovi single per la sua quarta tappa! A bordo, saliranno Manuel, Pietro e Alexandra. Ritroviamo inoltre Silvia e Danilo.
+|![Icon]()|Cortesie per gli ospiti 13|10:20:00|11:20:00|S13 Ep2 Adriano e Pio vs. Federica e Fabrizio - Adriano e Pio propongono il loro menu&#039; dal titolo &#039;Vacanze Italiane&#039;. Federica e Fabrizio portano a tavola la fusione culturale Irlanda-Italia.
+|![Icon]()|Cortesie per gli ospiti|11:20:00|12:20:00|S11 Ep11 Simona e Fernanda vs. Manuela e Guglielmina - Simona e Fernanda propongono un menu&#039; all&#039;insegna della tradizione napoletana. Manuela e Guglielmina rispondono con una serata a tema moda e design.
+|![Icon]()|Cortesie per gli ospiti - 1^TV|12:20:00|13:20:00|S16 Ep7 - Monica e Lavinia sfidano Dario e Alessandro con piatti italiani e rumeni!
+|![Icon]()|Cake Star - Pasticcerie in sfida|13:20:00|14:35:00|S4 Ep10 Prato - Prosegue il viaggio di Katia e Damiano alla ricerca delle migliori pasticcerie d&#039;Italia. In questa tappa, a sfidarsi saranno Guastini, Betti e Vella.
+|![Icon]()|Cake Star - Pasticcerie in sfida|14:35:00|15:55:00|S4 Ep11 Reggio Emilia - Il dolce viaggio di Katia e Damiano continua a Reggio Emilia. Andranno ad assaggiare i dolci di tre pasticcerie: Incerti, Dava e La Dolceria Bakery.
+|![Icon]()|Cake Star - Pasticcerie in sfida|15:55:00|17:15:00|S4 Ep12 Brianza - Il goloso giro d&#039;Italia di Katia e Damiano continua in Brianza. Giudicheranno i dolci di tre pasticcerie Lombarde: Mais, Borromeo e Verga.
+|![Icon]()|Cortesie per gli ospiti|17:15:00|18:20:00|S15 Ep24 - Una sfida tra amiche quella di Carlotta contro Anastasia che hanno voluto affianco le proprie suocere, Anna e Michela.
+|![Icon]()|Cortesie per gli ospiti - 1^TV|18:20:00|19:20:00|S16 Ep4 - Milano e&#039; pronta per la sfida di Barbara e Irene contro Imma e Angela!
+|![Icon]()|Cortesie per gli ospiti - 1^TV|19:20:00|20:25:00|S16 Ep8 - Italo e Aija contro Antonello e Daniele: una sfida tra... Lettonia e Italia!
+|![Icon]()|90 giorni per innamorarsi: e poi..-1^TV|20:25:00|22:15:00|S6 Ep3 Perdono ma non dimentico - Elizabeth tenta di far andare d&#039;accordo suo fratello e Andrei. Michael e&#039; turbato dalla riduzione del seno di Angela e la madre di Yovi da&#039; dei consigli a Yara.
+|![Icon]()|Piedi al limite|22:15:00|23:10:00|S1 Ep22 Campo di battaglia - Il dottor Brad aiuta una donna che ha le dita dei piedi distanti tra loro. La dottoressa Sara si occupa di una paziente con molti calli e unghie dei piedi deformate.
+|![Icon]()|Piedi al limite|23:10:00|00:00:00|S1 Ep25 Un disastro - Jeff, ferito da un colpo di pistola quando era piccolo, ha un piede che non cresce correttamente. Alisa e&#039; caduta nella doccia e ora i suoi piedi sono danneggiati.
+|![Icon]()|Piedi al limite|00:00:00|00:50:00|S1 Ep21 Corni infernali - Basil, che ha una rara e bizzarra crosta sui piedi, incontra il dottor Brad. La dottoressa Ebonie riuscira&#039; a salvare il piede di Alisha dopo un incidente in auto?
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -1,0 +1,69 @@
+# Food Network Italia
+> Programmazione di Martedì 18 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Fatto in casa per voi|00:30:00|01:00:00|Ep. 8 - In questa puntata Benedetta preparera&#039; 3 piatti che mangia spesso quando va fuori a cena: trippa alla marchigiana, risotto al limone, ravioli cinesi.
+|![Icon]()|Fatto in casa per voi|01:00:00|01:25:00|Ep. 11 - Protagonista assoluto: l&#039;olio extravergine d&#039;oliva. Benedetta prepara tre gustose ricette: la schiacciata all&#039;olio; spaghetti aglio, olio e peperoncino ricchi; manzo all&#039;olio.
+|![Icon]()|Fatto in casa per voi|01:25:00|01:55:00|Ep. 1 - Benedetta ci propone alcune ricette per utilizzare cio&#039; che resta delle feste natalizie: pasta con ragu&#039; di cotechino; pizza rustica con salmone; torta col panettone.
+|![Icon]()|Fatto in casa per voi|01:55:00|02:25:00|Ep. 12 - Benedetta ci mostra tre modi diversi di portare la frutta in tavola, preparando 3 nuove ricette: risotto pere e gorgonzola; salmone con salsa di avocado; cassetta di frolla con frutta.
+|![Icon]()|Fatto in casa per voi|02:25:00|02:50:00|Ep. 4 - Benedetta prepara 3 ricette caldissime, i piatti forti della sua estate: insalata di riso ricca ricca, polpettone tonno e olive, sbriciolata al limone.
+|![Icon]()|Fatto in casa per voi|02:50:00|03:20:00|Ep. 13 - Benedetta ci porta in tre luoghi lontani attraverso tre ricette tipiche. Si va in Argentina con le empanadas, in Thailandia con il pad thai e in Giordania con le falafel.
+|![Icon]()|Fatto in casa per voi|03:20:00|03:45:00|Ep. 30 - Benedetta Rossi e&#039; pronta a deliziarci con tre ricette semplici e genuine: Zelten trentino, panforte senese, mustaccioli campani.
+|![Icon]()|Fatto in casa per voi|03:45:00|04:10:00|Ep. 14 - Benedetta ci insegna un menu&#039; perfetto per inaugurare l&#039;autunno con gusto: gnocchi di zucca; involtini di verza; monte bianco.
+|![Icon]()|Fatto in casa per voi|04:10:00|04:35:00|Ep. 30 - Benedetta Rossi e&#039; pronta a deliziarci con tre ricette semplici e genuine: la crema di porri, polentone con i ciccioli e creme brule&#039;.
+|![Icon]()|Fatto in casa per voi|04:35:00|05:00:00|Ep. 15 - Benedetta propone tre ricette facili da preparare anche per chi in cucina e&#039; ancora alle prime armi: rigatoni al forno, saltimbocca alla romana e delizia al cocco.
+|![Icon]()|Fatto in casa per voi|05:00:00|05:25:00|Ep. 7 - In questa puntata Benedetta preparera&#039; 3 piatti a base di alcol, il vino, il marsala e il rum: taralli salati al vino, petto di tacchino al marsala, torta baba&#039;.
+|![Icon]()|Fatto in casa per voi|05:25:00|05:55:00|Ep. 8 - In questa puntata Benedetta preparera&#039; 3 piatti che mangia spesso quando va fuori a cena: trippa alla marchigiana, risotto al limone, ravioli cinesi.
+|![Icon]()|Fatto in casa per voi|05:55:00|06:25:00|Ep. 9 - Benedetta prepara 3 piatti a base di verdure per un menu&#039; completamente vegetariano: cestini di pancarre&#039; con verdure, lasagnette radicchio e gorgonzola, cotolette di cavolfiore.
+|![Icon]()|&#039;O mare mio|06:25:00|07:25:00|Polignano a Mare - Antonino Cannavacciuolo costeggia l&#039;Italia a bordo di un peschereccio: oggi e&#039; a Polignano a Mare, in Puglia. Tra risate e sonore &#039;pacche&#039;, i cuochi del paese si sfidano nel tipico piatto locale.
+|![Icon]()|&#039;O mare mio|07:25:00|08:25:00|Porto Cesareo - Antonino Cannavacciuolo si imbarca in una nuova sfida dedicata al mare e alla pesca. A bordo di un peschereccio, lo chef costeggia l&#039;Italia da Nord verso Sud.
+|![Icon]()|&#039;O mare mio|08:25:00|09:20:00|Aci Trezza - Antonino Cannavacciuolo si imbarca in una nuova sfida dedicata al mare e alla pesca. A bordo di un peschereccio, lo chef costeggia l&#039;Italia da Nord verso Sud.
+|![Icon]()|&#039;O mare mio|09:20:00|10:25:00|Cabras - Antonino Cannavacciuolo costeggia l&#039;Italia a bordo di un peschereccio: oggi e&#039; a Cabras, in Sardegna. Tra risate e sonore &#039;pacche&#039;, i cuochi del paese si sfidano nel tipico piatto locale.
+|![Icon]()|&#039;O mare mio|10:25:00|11:25:00|Lerici - Antonino Cannavacciuolo si imbarca in una nuova sfida dedicata al mare e alla pesca. A bordo di un peschereccio, lo chef costeggia l&#039;Italia da Nord verso Sud.
+|![Icon]()|&#039;O mare mio|11:25:00|12:25:00|Ep. 2 - Antonino Cannavacciuolo costeggia l&#039;Italia a bordo di un peschereccio: oggi e&#039; a Muggia, in Friuli Venezia Giulia. Tra risate e sonore &#039;pacche&#039;, i cuochi del paese si sfidano nel tipico piatto locale.
+|![Icon]()|&#039;O mare mio|12:25:00|13:30:00|Ep. 1 - Antonino Cannavacciuolo costeggia l&#039;Italia a bordo di un peschereccio: oggi e&#039; a Vico Equense, sua citta&#039; natale. Tra risate e sonore &#039;pacche&#039;, i cuochi del paese si sfidano nel tipico piatto locale.
+|![Icon]()|&#039;O mare mio|13:30:00|14:20:00|Porticello - Antonino Cannavacciuolo si imbarca in una nuova sfida dedicata al mare e alla pesca. A bordo di un peschereccio, lo chef costeggia l&#039;Italia da Nord verso Sud.
+|![Icon]()|Ci pensa Antonino|14:20:00|15:25:00|In occasione dell&#039;inaugurazione del suo nuovo bistrot a Torino, Antonino Cannavacciuolo racconta le sue prime esperienze in cucina, parla della storia d&#039;amore con la moglie e illustra la filosofia delle sue ricette.
+|![Icon]()|Ci pensa Antonino - Un pranzo per San...|15:25:00|16:30:00|...Patrignano - Per i 40 anni della comunita&#039; di San Patrignano, Antonino Cannavacciuolo organizza un pranzo per i 1.300 ragazzi ospiti della comunita&#039;.
+|![Icon]()|Food Advisor|16:30:00|17:40:00|Ferrara / Pasticcio - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|17:40:00|18:45:00|Palermo / Cannoli - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|18:45:00|19:50:00|Lodi / Frittata - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|19:50:00|20:55:00|Catania / Sarde - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|20:55:00|22:00:00|Milano / Kebab - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|22:00:00|23:10:00|Ep. 9 - Cagliari - Panada - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|23:10:00|00:20:00|Milano / Ravioli cinesi - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|L&#039;Italia a morsi al ristorante - Con...|00:20:00|01:20:00|...Simone Rugiati. Ep. 5 - Simone arriva a Casteggio e assaggia il famoso blu di capra. Con Damiano, chef del ristorante &#039;Le Cave Cantu&#039;, prepara un menu&#039; tipico della tradizione.
+|![Icon]()|L&#039;Italia a morsi al ristorante - Con...|01:20:00|02:15:00|...Simone Rugiati. Ep. 6 - Simone assiste alla lavorazione del tipico miele della Valchiavenna. Dopo aver incontrato Mattia, chef del ristorante &#039;Il Locale&#039;, prepara con lui alcune ricette del territorio.
+|![Icon]()|Food Advisor|02:15:00|03:15:00|Bari / Panzerotto - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|03:15:00|04:10:00|Palermo / Arancina - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|04:10:00|05:00:00|Milano / Panettone - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|05:00:00|06:00:00|Ep. 5 - Milano - Hamburger - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Food Advisor|06:00:00|07:00:00|Ep. 6 - Napoli - Cuoppo - Simone Rugiati e&#039; in viaggio per il Bel Paese alla ricerca dei migliori food advisor.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|07:00:00|07:30:00|Ep. 4 - In questa puntata Giusina preparera&#039; l&#039;amatissima pasta alla Norma, il saporito cudduruni con il cavolfiore e una profumata ciambella con glassa al limone.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|07:30:00|08:00:00|Ep. 5 - Giusina prepara una pasta &#039;coi fiocchi&#039;, la pasta ca&#039;nnocca, una specialita&#039; dello Street Food siciliano, i pitoni messinesi e un dolce adatto anche ai bambini: i biscotti treccina.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|08:00:00|08:30:00|Ep. 6 - Giusina prepara la saporita pasta con sparaceddi assassunati, la semplice e golosa torta di bietole e ricotta e il tortino caldo dal cuore morbido al pistacchio.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|08:30:00|09:05:00|Ep. 7 - Giusina prepara i classici anelletti al forno della domenica, gli sfiziosi spiedini di carne macinata e primosale e come dolce il pan brioche di ricotta e cioccolato.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|09:05:00|09:35:00|Ep. 8 - Giusina prepara i calzoni fritti, protagonisti della rosticceria palermitana, un risotto con gamberi, pomodorini, pistacchi e mandorle e la frutta martorana, cara alla sua mamma.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|09:35:00|10:10:00|Ep. 9 - Oggi Giusina realizza le patate vastase, ricetta tipica del trapanese; a seguire dei cannoli di parmigiano. Infine dei dolcetti tipici del periodo festivo in Sicilia: i Tetu&#039; e Teio.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|10:10:00|10:40:00|Ep. 10 - Giusina spiega come realizzare la pasta fritta, seguita dalle moffolette, delle pagnotelle farcite tipiche, e il cabbucio, torrone della tradizione dolciaria siciliana.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|10:40:00|11:25:00|Ep. 11 - Giusina propone una pasta aglio, olio, peperoncino, bottarga e pane croccante, seguita da zucca in agrodolce e gli sfinci di zucca, dolci di origini eoliane.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|11:25:00|12:00:00|Ep. 12 - Giusina per l&#039;Immacolata prepara: lo sfincione, lievitato tradizionale, pizzette fritte con cipolla, acciughe e caciocavallo e infine le sfincette con le patate.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|12:00:00|12:40:00|Ep. 13 - In occasione di Santa Lucia, Giusina attinge dal ricettario di famiglia per le patate della zia Tanina, e dalla tradizione siciliana per le arancine dolci e quelle verdi.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|12:40:00|13:15:00|Ep. 14 - Si respira un&#039;aria un po&#039; natalizia. Giusina cucina le crispelle con acciughe e ricotta, a seguire le braciole messinesi, ed infine un dolce davvero tipico del periodo, il buccellato.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|13:15:00|13:50:00|Ep. 1 - Tornata dalla sua Sicilia, Giusina la omaggia preparando le busiate al pesto di pistacchi e gamberi, il tonno a sfincione e la famosa pizza di Marsala: la rianata trapanese.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|13:50:00|14:25:00|Ep. 2 - In questa puntata Giusina cucinera&#039; la pasta picchio pacchio, tipica di Palermo, le cucche di Modica e i golosi baci panteschi della meravigliosa isola di Pantelleria.
+|![Icon]()|Giusina in cucina - Gusto e tradizione palermitana|14:25:00|15:00:00|Ep. 3 - Giusina preparera&#039; tre ricette dai sapori antichi: la pasta all&#039;uminina, la fuata, ovvero la famosa pizza di Caltanissetta, e dolci tipici dell&#039;agrigentino: i ciardoni.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|15:00:00|16:00:00|Lugo - Chiara Maci arriva a Lugo, in Emilia-Romagna, per scoprire piatti della tradizione come il garganello in brodo e il latte brule&#039;.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|17:00:00|18:00:00|Mirano - Chiara Maci giunge nell&#039;entroterra veneziano, alla scoperta delle tradizioni culinarie della zona.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|18:00:00|19:00:00|...Padova - Chiara Maci arriva a Padova per scoprire alcuni dei piatti e prodotti tipici della zona veneta, come il folpo e il rafano.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|19:00:00|20:00:00|Firenze - Chiara Maci arriva a Firenze per scoprire, grazie a Cecilia, i piatti tipici della citta&#039; del Giglio, come le crespelle alla fiorentina e i cardi con l&#039;acciugata.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|20:00:00|21:00:00|...Monferrato - Chiara Maci arriva in Monferrato per scoprire la tradizione culinaria del territorio, attraverso piatti come la grissia monferrina e i krumiri.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|21:00:00|22:00:00|Ep. 1 - Chiara Maci arriva a Fano, qui si cimenta nella lavorazione delle crestaiate e nella raccolta dell&#039;asparago selvatico. Con Lucia, poi, cucina un menu&#039; della tradizione locale.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|22:00:00|23:00:00|Ep. 21 - Medio Oriente. Chiara ci portera&#039; alla scoperta dei segreti e della tradizione delle ricette del mondo portate in Italia dagli stranieri.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|23:00:00|00:00:00|Cormons - Chiara Maci e&#039; in Friuli-Venezia Giulia alla ricerca dei piatti della tradizione, come il salame cotto, la selinka e il boretto di seppie.
+|![Icon]()|L&#039;Italia a morsi - Con Chiara Maci:...|00:00:00|01:00:00|Ep. 22 - USA. Chiara ci portera&#039; alla scoperta dei segreti e della tradizione delle ricette del mondo portate in Italia dagli stranieri.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
