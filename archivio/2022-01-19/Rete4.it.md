@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Martedì 18 Gennaio 2022
+> Programmazione di Mercoledì 19 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
