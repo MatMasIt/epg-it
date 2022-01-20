@@ -3,71 +3,70 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Otto e mezzo|00:10:00|00:50:00|Ep. 80 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon]()|Camera con vista|00:50:00|01:20:00|Ep. 42 - La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
-|![Icon]()|L&#039;aria che tira|01:20:00|03:20:00|Ep. 92 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon]()|Tagada&#039;, tutto quanto fa politica|03:20:00|04:35:00|Ep. 83 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon]()|Omnibus La7|04:35:00|05:00:00|Ep. 131 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
-|![Icon]()|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:40:00|05:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:45:00|05:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Omnibus News|06:00:00|06:30:00|Ep. 132 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
-|![Icon]()|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
-|![Icon]()|Omnibus La7|07:00:00|08:40:00|Ep. 132 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
-|![Icon]()|Coffee Break|08:40:00|10:00:00|Ep. 110 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
-|![Icon]()|L&#039;aria che tira|10:00:00|12:30:00|Ep. 93 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon]()|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 84 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon]()|Meraviglie senza tempo|15:40:00|17:00:00|La Carnegie Hall - Mediante la moderna tecnologia, gli esperti ipotizzano come potrebbe essere ricostruita la newyorkese Carnegie Hall, celebre sala da concerto edificata nel 1891.
-|![Icon]()|Ghost Whisperer|17:00:00|18:00:00|S3 Ep16 Un figlio dal passato - Payne incontra il figlio di una sua ex. Data l&#039;eta&#039; del ragazzo, Payne crede che possa essere suo figlio.
-|![Icon]()|Ghost Whisperer|18:00:00|19:00:00|S3 Ep17 Nodo alla gola - Melinda va a trovare i genitori di un ragazzino ucciso trent&#039;anni prima, il cui omicida fu condannato da suo padre. Scoprira&#039; che e&#039; divenuto un fantasma molto singolare.
-|![Icon]()|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Otto e mezzo|19:35:00|20:15:00|Ep. 81 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon]()|Di martedi&#039;|20:15:00|00:00:00|Ep. 17 - Talk-show condotto da Giovanni Floris, dove confronti politici, reportage e interviste sul campo approfondiscono i temi scottanti della settimana.
-|![Icon]()|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Otto e mezzo|00:10:00|00:50:00|Ep. 81 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon]()|ArtBox|00:50:00|01:20:00|Ep. 12 - L&#039;arte e la ricerca delle origini. Da Kandinsky (MUDEC di Milano), il cui astrattismo nacque dal folklore russo, a Basquiat (Chiostro del Bramante), che si ispiro&#039; ai simboli africani.
-|![Icon]()|L&#039;aria che tira|01:20:00|03:20:00|Ep. 93 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon]()|Tagada&#039;, tutto quanto fa politica|03:20:00|05:00:00|Ep. 84 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon]()|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:40:00|05:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Meteo|05:45:00|05:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon]()|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon]()|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon]()|Omnibus News|06:00:00|06:30:00|Ep. 133 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
-|![Icon]()|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
-|![Icon]()|Omnibus La7|07:00:00|08:40:00|Ep. 133 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
-|![Icon]()|Coffee Break|08:40:00|10:00:00|Ep. 111 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
-|![Icon]()|L&#039;aria che tira|10:00:00|12:30:00|Ep. 94 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon]()|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 85 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon]()|La terra dei fuochi|15:40:00|17:00:00|L&#039;area di Napoli e&#039; la piu&#039; grande discarica illegale di rifiuti chimici in Europa, provenienti da dentro e fuori il continente. All&#039;interno del documentario, un&#039;intervista al geologo Mario Tozzi.
-|![Icon]()|Ghost Whisperer|17:00:00|18:00:00|S3 Ep18 Sepolto dal passato - Grazie ad alcune visioni, Melinda ottiene finalmente delle risposte alle tante domande che l&#039;hanno angosciata fin da bambina, in particolare su suo padre.
-|![Icon]()|Ghost Whisperer|18:00:00|19:00:00|S4 Ep1 L&#039;incendiaria - Melinda e Jim conoscono Eli, un giovane psicologo che, dopo essere scampato a un incendio, ha cominciato a sentire la voce dei fantasmi.
-|![Icon]()|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon]()|Otto e mezzo|19:35:00|20:15:00|Ep. 82 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon]()|Non e&#039; l&#039;Arena|20:15:00|00:00:00|Ep. 14 - Il programma di Massimo Giletti che punta i riflettori sui temi e i protagonisti della piu&#039; stretta attualita&#039; politica e sociale, e della cronaca.
-|![Icon]()|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|00:10:00|00:50:00|Ep. 82 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|00:50:00|01:20:00|Ep. 1 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|01:20:00|03:20:00|Ep. 94 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|03:20:00|05:00:00|Ep. 85 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:40:00|05:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:45:00|05:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 134 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 134 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|08:40:00|10:00:00|Ep. 112 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|10:00:00|12:30:00|Ep. 95 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 86 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La vera storia della monaca di Monza|15:40:00|17:00:00|La storia della Monaca di Monza, rea di omicidio, torturata e murata viva per tredici anni, raccontata da dieci faldoni di atti giudiziari dell&#039;epoca, con testimonianze e rivelazioni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|17:00:00|18:00:00|S4 Ep2 Compagni di scuola - Melinda viene invitata al funerale di un suo ex compagno di liceo, dove viene avvicinata da una conoscente che crede di essere perseguitata dal defunto.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep3 Il fantasma Avatar - Ned mostra a Melinda la comunita&#039; di giochi virtuale al quale e&#039; iscritto, cosi&#039; la donna scopre che un fantasma si serve di Internet per tormentare le ragazze.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|19:35:00|20:15:00|Ep. 83 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Piazzapulita|20:15:00|00:00:00|Ep. 16 - Programma di approfondimento condotto da Corrado Formigli, con inviati, servizi, ospiti in studio, per fare chiarezza sulle notizie d&#039;attualita&#039;, politica e societa&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|00:10:00|00:50:00|Ep. 83 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/52497c44-0f9f-4f8e-b42b-ed697364f9e9/cover?md5ChecksumParam=09ec0debb1efee6ecec3b0f61129c2d9)|ArtBox|00:50:00|01:20:00|Ep. 12 - L&#039;arte e la ricerca delle origini. Da Kandinsky (MUDEC di Milano), il cui astrattismo nacque dal folklore russo, a Basquiat (Chiostro del Bramante), che si ispiro&#039; ai simboli africani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|01:20:00|03:20:00|Ep. 94 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|03:20:00|05:00:00|Ep. 86 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:00:00|05:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:05:00|05:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:10:00|05:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:15:00|05:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:20:00|05:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:25:00|05:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:30:00|05:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:35:00|05:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:40:00|05:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|05:45:00|05:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|05:50:00|05:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|05:55:00|06:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|06:00:00|06:30:00|Ep. 135 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|06:30:00|06:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|06:55:00|07:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|07:00:00|08:40:00|Ep. 135 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|08:40:00|10:00:00|Ep. 113 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|10:00:00|12:30:00|Ep. 96 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|12:30:00|13:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|13:15:00|15:40:00|Ep. 87 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/97a0b690-84bd-4093-9dda-573479dcb35b/cover?md5ChecksumParam=6f272a804bc9b7502b20223785830d17)|Nilde Iotti - Il tempo delle donne|15:40:00|17:00:00|Regia di P. Marcias, con P.Cortellesi; ITA 2020 (80 min). Nilde Iotti, figura emblematica del 900 italiano, fu la prima donna nella storia della Repubblica a ricoprire la terza carica dello Stato: la presidenza della Camera dei deputati.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|17:00:00|18:00:00|S4 Ep4 La nave dei fantasmi - Melinda e Jim partono per una crociera romantica, ma un fantasma rovina loro la festa. Tocchera&#039; come sempre a Melinda risolvere il problema.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ghost Whisperer|18:00:00|19:00:00|S4 Ep5 Vite scambiate - Un giovane atleta muore e il suo spirito non segue la sua famiglia, ma quella di una sua vecchia amica. Melinda cerchera&#039; di scoprire il perche&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|19:00:00|19:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|19:35:00|20:15:00|Ep. 84 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Propaganda Live|20:15:00|00:00:00|Ep. 17 - Umorismo, musica, ospiti e opinionisti, nel programma condotto da Diego Bianchi per approfondire tematiche e protagonisti del nostro tempo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|00:00:00|00:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
 
 
 

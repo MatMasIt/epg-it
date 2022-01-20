@@ -3,74 +3,76 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|I M Inter Woman|00:00:00|00:15:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della terza puntata Henrietta Csiszar.
-|![Icon]()|Allenamenti 2021/22|00:15:00|00:30:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon]()|Inter-Livorno C. Italia 09/10|00:30:00|02:30:00|Il match della Coppa Italia 2009/10 tra Inter e Livorno.
-|![Icon]()|Throwback Inter-Lazio|02:30:00|03:00:00|Un viaggio nel passato di Inter-Lazio: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
-|![Icon]()|Match Review Atalanta-Inter 21/22|03:00:00|03:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
-|![Icon]()|I M Inter Woman|03:30:00|03:45:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della prima puntata Macarena Portales e Anja Sonstevold.
-|![Icon]()|Allenamenti Vintage|03:45:00|04:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
-|![Icon]()|Atalanta-Inter 21/22|04:00:00|06:00:00|Il match della stagione 2021/22 tra Atalanta e Inter.
-|![Icon]()|Inter News - Replica|06:00:00|06:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Immagini e musica|06:20:00|06:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Inter News - Replica|06:30:00|06:50:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Immagini e musica|06:50:00|07:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Inter-Cagliari C. Italia 15/16|07:00:00|09:00:00|Il match della Coppa Italia 2015/16 tra Inter e Cagliari.
-|![Icon]()|Inter-Bologna C. Italia 16/17|09:30:00|12:00:00|Il match della Coppa Italia 2016/17 tra Inter e Bologna.
-|![Icon]()|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
-|![Icon]()|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
-|![Icon]()|50/50|12:45:00|13:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della prima puntata Calhanoglu, Skriniar, D&#039;Ambrosio e Cordaz.
-|![Icon]()|Match Review Atalanta-Inter 21/22|13:00:00|13:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
-|![Icon]()|Pitchside Sounds: R.Bucarest-Inter 93/94|13:30:00|15:30:00|Pitchside Sounds: il match della Coppa UEFA 1993/94 tra Rapid Bucarest e Inter.
-|![Icon]()|Road To Coppa Italia|15:30:00|16:00:00|La prima tappa di avvicinamento alla sfida di Coppa Italia contro l&#039;Empoli.
-|![Icon]()|Match Review Atalanta-Inter 21/22|16:00:00|16:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
-|![Icon]()|Match Review Inter-Napoli Women 21/22|16:30:00|17:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
-|![Icon]()|Throwback Inter-Milan|17:00:00|17:45:00|Un viaggio nel passato di Inter-Milan: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
-|![Icon]()|I M Inter Woman|17:45:00|18:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della terza puntata Henrietta Csiszar.
-|![Icon]()|Road To Coppa Italia|18:00:00|18:30:00|La prima tappa di avvicinamento alla sfida di Coppa Italia contro l&#039;Empoli.
-|![Icon]()|Inter News - Live|18:30:00|18:50:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Immagini e musica|18:50:00|19:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Inter News - Replica|19:00:00|19:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Allenamenti 2021/22|19:20:00|19:30:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon]()|Road To Coppa Italia|19:30:00|20:00:00|La prima tappa di avvicinamento alla sfida di Coppa Italia contro l&#039;Empoli.
-|![Icon]()|Inter-Pordenone C. Italia 17/18|20:00:00|23:00:00|Il match della Coppa Italia 2017/18 tra Inter e Pordenone.
-|![Icon]()|Inter News - Replica|23:00:00|23:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Immagini e musica|23:20:00|23:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Road To Coppa Italia|23:30:00|00:00:00|La prima tappa di avvicinamento alla sfida di Coppa Italia contro l&#039;Empoli.
-|![Icon]()|Conferenza Stampa|00:00:00|00:30:00|La conferenza stampa di mister Simone Inzaghi alla vigilia di Inter-Empoli.
-|![Icon]()|Conferenza Stampa|00:00:00|00:30:00|La conferenza stampa di mister Simone Inzaghi alla vigilia di Inter-Empoli.
-|![Icon]()|Match Review Inter-Napoli Women 21/22|00:30:00|01:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
-|![Icon]()|Inter-Genoa C. Italia 10/11|01:45:00|03:45:00|Il match della Coppa Italia 2010/11 tra Inter e Genoa.
-|![Icon]()|50/50|03:45:00|04:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della quinta puntata Barella, Dumfries, Vidal e Satriano.
-|![Icon]()|Inter-Sampdoria C. Italia 14/15|04:00:00|06:00:00|Il match della Coppa Italia 2014/15 tra Inter e Sampdoria.
-|![Icon]()|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Allenamenti Vintage|06:15:00|06:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
-|![Icon]()|Inter News - Replica|06:30:00|06:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|Allenamenti 2021/22|06:45:00|07:00:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon]()|Inter News - Replica|07:00:00|07:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon]()|I M Inter Woman|07:15:00|07:30:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della seconda puntata Elin Landstrom.
-|![Icon]()|Inter-Cagliari C. Italia 20/21|07:30:00|09:30:00|Il match della Coppa Italia 2020/21 tra Inter e Cagliari.
-|![Icon]()|Showreel Ronaldo|09:30:00|10:00:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della terza puntata Ronaldo.
-|![Icon]()|Inter-Benevento C. Italia 18/19|10:00:00|12:00:00|Il match della Coppa Italia 2018/19 tra Inter e Benevento.
-|![Icon]()|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
-|![Icon]()|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
-|![Icon]()|50/50|12:45:00|13:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della sesta puntata Bastoni, Dzeko, Gagliardini e Brozovic.
-|![Icon]()|Every Goal 05/06|15:00:00|15:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2005/06 con Every Goal.
-|![Icon]()|I M Inter Woman|15:30:00|15:45:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della prima puntata Macarena Portales e Anja Sonstevold.
-|![Icon]()|Allenamenti 2021/22|15:45:00|16:00:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon]()|Matchday Live|16:00:00|16:15:00|Primo appuntamento di giornata in vista della partita di questa sera: tutte le ultime notizie e le probabili formazioni in Matchday Live.
-|![Icon]()|Inter-Cagliari C. Italia 20/21|16:15:00|18:15:00|Il match della Coppa Italia 2020/21 tra Inter e Cagliari.
-|![Icon]()|Match Review Women Sosta 21/22|18:15:00|18:45:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
-|![Icon]()|Allenamenti 2021/22|18:45:00|19:00:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon]()|Pre Match Live|19:00:00|19:50:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
-|![Icon]()|Immagini e musica|19:50:00|20:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Radiocronaca Inter-Empoli|20:00:00|22:00:00|LIVE. Il match di Coppa Italia tra Inter e Empoli. Radiocronaca di Roberto Scarpini.
-|![Icon]()|Immagini e musica|22:00:00|22:15:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon]()|Post Match Live|22:15:00|23:15:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
-|![Icon]()|I M Inter Woman|23:15:00|23:30:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quarta puntata Ghoutia Karchouni e Anna Bjork Kristjansdottir.
-|![Icon]()|Inter-Empoli C. Italia 21/22|23:30:00|01:30:00|Il match della Coppa Italia 2021/22 tra Inter e Empoli.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Match|01:30:00|02:30:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Napoli Women 21/22|02:30:00|03:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 98/99|03:00:00|03:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 1998/99 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Showreel Milito|03:30:00|04:00:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della sesta puntata Milito.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Empoli C. Italia 21/22|04:00:00|06:00:00|Il match della Coppa Italia 2021/22 tra Inter e Empoli.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Match|06:00:00|07:00:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 09/10|07:00:00|07:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2009/10 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Empoli C. Italia 21/22|07:30:00|09:30:00|Il match della Coppa Italia 2021/22 tra Inter e Empoli.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Inter-Atalanta|09:30:00|10:00:00|Un viaggio nel passato di Inter-Atalanta: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Venezia 00/01|10:00:00|12:00:00|Il match della stagione 2000/01 tra Inter e Venezia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|12:45:00|13:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 19/20|13:00:00|13:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2019/20 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Inter-Udinese 97/98|13:30:00|15:30:00|Pitchside Sounds: il match della stagione 1997/98 tra Inter e Udinese.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Empoli 21/22|15:30:00|16:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Empoli C. Italia 21/22|16:00:00|18:00:00|Il match della Coppa Italia 2021/22 tra Inter e Empoli.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 02/03|18:00:00|18:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2002/03 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|18:30:00|18:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|18:45:00|19:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|19:00:00|19:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Roma-Inter|19:15:00|19:45:00|Un viaggio nel passato di Roma-Inter: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|19:45:00|20:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della prima puntata Calhanoglu, Skriniar, D&#039;Ambrosio e Cordaz.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|20:00:00|20:15:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Empoli 21/22|20:15:00|20:45:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Roma-Inter 21/22|20:45:00|22:45:00|Il match della stagione 2021/22 tra Roma e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|22:45:00|23:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|23:00:00|23:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|23:15:00|23:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Empoli 21/22|23:30:00|00:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 16/17|00:00:00|00:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2016/17 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 16/17|00:00:00|00:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2016/17 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Empoli C. Italia 21/22|00:30:00|02:30:00|Il match della Coppa Italia 2021/22 tra Inter e Empoli.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 06/07|02:30:00|03:00:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2006/07 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Empoli 21/22|03:00:00|03:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|03:30:00|03:45:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|03:45:00|04:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Venezia-Inter 21/22|04:00:00|06:00:00|Il match della stagione 2021/22 tra Venezia e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:00:00|06:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|06:20:00|06:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:30:00|06:50:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|06:50:00|07:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Fiorentina-Inter 21/22|07:00:00|09:00:00|Il match della stagione 2021/22 tra Fiorentina e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Empoli 21/22|09:00:00|09:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Juventus Supercoppa 2021|09:30:00|12:00:00|Il match della Supercoppa 2021 tra Inter e Juventus.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:00:00|12:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|12:15:00|12:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|12:30:00|12:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|12:45:00|13:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Throwback Inter-Juventus|13:00:00|13:30:00|Un viaggio nel passato di Inter-Juventus: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Inter-Foggia 97/98|13:30:00|15:30:00|Pitchside Sounds: il match della Coppa Italia 1997/98 tra Inter e Foggia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Road To Inter-Venezia|15:30:00|16:00:00|La prima tappa di avvicinamento alla sfida di Serie A contro il Venezia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Salernitana-Inter 21/22|16:00:00|16:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Salernitana e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|16:45:00|17:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|17:00:00|17:15:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della terza puntata Correa, Kolarov, Handanovic e Sensi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 04/05|17:15:00|17:45:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2004/05 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|17:45:00|18:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|18:30:00|18:50:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|18:50:00|19:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|19:00:00|19:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|19:20:00|19:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Road To Inter-Venezia|19:30:00|20:00:00|La prima tappa di avvicinamento alla sfida di Serie A contro il Venezia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|20:00:00|20:15:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|20:45:00|21:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della seconda puntata Lautaro, De Vrij, Darmian e Radu.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Venezia 00/01|21:00:00|23:00:00|Il match della stagione 2000/01 tra Inter e Venezia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|23:00:00|23:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|23:15:00|23:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Road To Inter-Venezia|23:30:00|00:00:00|La prima tappa di avvicinamento alla sfida di Serie A contro il Venezia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|00:00:00|00:15:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
 
 
 
