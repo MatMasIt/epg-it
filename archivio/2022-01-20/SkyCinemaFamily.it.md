@@ -1,0 +1,40 @@
+# Sky Cinema Family
+> Programmazione di Mercoledì 19 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|La casa del coccodrillo|01:20:00|03:00:00|Avventuroso film per tutta la famiglia. Il piccolo Victor scopre il diario di Cecilia, morta da anni in circostanze misteriose, e ne segue le tracce. Ma dovra&#039; guardarsi dai bizzarri vicini (GER 2012)
+|![Icon]()|La sposa cadavere|03:00:00|04:20:00|La fantasia sfrenata di Tim Burton per un film d&#039;animazione in stop-motion. Un promesso sposo infila per errore la fede nuziale nel dito di uno scheletro e si ritrova nell&#039;aldila&#039; (GBR/USA 2005)
+|![Icon]()|Paddington|04:20:00|06:00:00|Moderna favola natalizia tratta dai libri di Michael Bond. Un orso peruviano vola a Londra alla ricerca di una vita migliore. L&#039;amorevole famiglia Brown fara&#039; avverare il suo sogno (GBR/FRA 2014)
+|![Icon]()|Boog &amp; Elliot 2|06:00:00|07:20:00|L&#039;orso Boog e il cervo Elliot di nuovo insieme per salvare un amico. Pur di rinviare il suo matrimonio, Elliot decide di guidare una spedizione di soccorso per il bassotto Wurstellini (USA 2008)
+|![Icon]()|Tom &amp; Jerry|07:20:00|09:05:00|Tra animazione e live action, le origini di una storica rivalita&#039;. Il topo Jerry giunge in un hotel di New York per assistere a un matrimonio. Per sbarazzarsene, viene assunto il gatto Tom (USA 2021)
+|![Icon]()|Monster House|09:05:00|10:40:00|Travolgente film d&#039;animazione prodotto da Steven Spielberg e Robert Zemeckis. La notte di Halloween tre intrepidi ragazzini non resistono alla tentazione di entrare in una casa misteriosa (USA 2006)
+|![Icon]()|Kung Fu Panda 3|10:40:00|12:20:00|Terzo capitolo della spassosa saga animata con l&#039;inarrestabile panda Po. Per affrontare il perfido Kai, Po insegna i segreti del kung fu ai miti abitanti del suo villaggio natale (USA 2016)
+|![Icon]()|Italo|12:20:00|14:10:00|Marco Bocci nella trasposizione di un&#039;incredibile storia vera. Italo, un cane randagio, arriva a Scicli e conquista il cuore di tutti diventando un&#039;attrazione per cittadini e turisti (ITA 2014)
+|![Icon]()|Il mio amico Alexis|14:10:00|15:55:00|Una commedia di formazione con la star del calcio Alexis Sanchez. L&#039;attaccante cileno stringe amicizia con il talentuoso dodicenne Tito e riscopre i motivi del suo amore per il football (CHL 2019)
+|![Icon]()|La sposa cadavere|15:55:00|17:15:00|La fantasia sfrenata di Tim Burton per un film d&#039;animazione in stop-motion. Un promesso sposo infila per errore la fede nuziale nel dito di uno scheletro e si ritrova nell&#039;aldila&#039; (GBR/USA 2005)
+|![Icon]()|Boog &amp; Elliot 2|17:15:00|18:35:00|L&#039;orso Boog e il cervo Elliot di nuovo insieme per salvare un amico. Pur di rinviare il suo matrimonio, Elliot decide di guidare una spedizione di soccorso per il bassotto Wurstellini (USA 2008)
+|![Icon]()|Capitan Sciabola e il diamante magico|18:35:00|20:00:00|Avventura animata nel mondo dei pirati. Alla caccia di un diamante fatato, Capitan Sciabola trovera&#039; sulla sua strada uno scaltro orfanello, un giovane corsaro e la sua valorosa amica (NOR 2019)
+|![Icon]()|Ember - Il mistero della citta&#039; di luce|20:00:00|21:40:00|Misteri apocalittici con Tim Robbins e Saoirse Ronan. La citta&#039; sotterranea di Ember ha esaurito la sua scorta di luce. Due giovani escono in superficie per trovare altre fonti di energia (USA 2008)
+|![Icon]()|Striscia, una zebra alla riscossa|21:40:00|23:30:00|Imperdibile commedia ambientata in un ranch. Striscia, un simpatico cucciolo di zebra, si ritrova a vivere in una fattoria, dove puo&#039; realizzare il sogno di correre come un purosangue (USA/ZAF 2005)
+|![Icon]()|Italo|23:30:00|01:15:00|Marco Bocci nella trasposizione di un&#039;incredibile storia vera. Italo, un cane randagio, arriva a Scicli e conquista il cuore di tutti diventando un&#039;attrazione per cittadini e turisti (ITA 2014)
+|![Icon]()|Paddington|01:15:00|02:55:00|Moderna favola natalizia tratta dai libri di Michael Bond. Un orso peruviano vola a Londra alla ricerca di una vita migliore. L&#039;amorevole famiglia Brown fara&#039; avverare il suo sogno (GBR/FRA 2014)
+|![Icon]()|Moose - Un alce in famiglia|02:55:00|04:30:00|Mario Adorf in un film fantastico per tutta la famiglia. Un goffo alce parlante precipita in casa del piccolo Bertil durante un volo di prova con Babbo Natale. Tra loro nascera&#039; un&#039;amicizia (GER 2005)
+|![Icon]()|Monster House|04:30:00|06:05:00|Travolgente film d&#039;animazione prodotto da Steven Spielberg e Robert Zemeckis. La notte di Halloween tre intrepidi ragazzini non resistono alla tentazione di entrare in una casa misteriosa (USA 2006)
+|![Icon]()|Magic Silver|06:05:00|07:35:00|Avventura in un mondo fiabesco. Norvegia: una principessa affronta un pericoloso viaggio per recuperare una sostanza magica che garantisce l&#039;alternarsi del giorno e della notte (NOR 2009)
+|![Icon]()|Magic Silver 2 - Alla ricerca del corno magico|07:35:00|09:05:00|...corno magico - Sequel con le creature fiabesche dei monti norvegesi. La Principessa Bluerose affronta un viaggio alla ricerca del corno blu, uno strumento musicale in grado di cambiare il clima (NOR 2011)
+|![Icon]()|Capitan Sciabola e il diamante magico|09:05:00|10:30:00|Avventura animata nel mondo dei pirati. Alla caccia di un diamante fatato, Capitan Sciabola trovera&#039; sulla sua strada uno scaltro orfanello, un giovane corsaro e la sua valorosa amica (NOR 2019)
+|![Icon]()|Superpapa&#039;: operazione vacanze|10:30:00|12:05:00|Nuove peripezie per l&#039;esuberante famiglia danese. In vacanza a Gran Canaria, gareggia per diventare &#039;Famiglia solare dell&#039;anno&#039;. Una guerra all&#039;ultimo tuffo con l&#039;antico rivale del papa&#039; (DNK 2018)
+|![Icon]()|Ember - Il mistero della citta&#039; di luce|12:05:00|13:45:00|Misteri apocalittici con Tim Robbins e Saoirse Ronan. La citta&#039; sotterranea di Ember ha esaurito la sua scorta di luce. Due giovani escono in superficie per trovare altre fonti di energia (USA 2008)
+|![Icon]()|Rufus e la porta segreta|13:45:00|15:15:00|Avventura in chiave fantastica per un film in tecnica mista. A casa della nonna, Scott e l&#039;amica Emily trovano Rufus, una pelosa creatura che chiede il loro aiuto per salvare il suo regno (USA 2020)
+|![Icon]()|Oceani|15:15:00|16:40:00|Appassionante documentario narrato da Aldo, Giovanni e Giacomo. Il lungo viaggio di una tartaruga marina conduce alla scoperta di favolosi scenari, a contatto con un magico mondo sommerso (GBR 2009)
+|![Icon]()|Striscia, una zebra alla riscossa|16:40:00|18:25:00|Imperdibile commedia ambientata in un ranch. Striscia, un simpatico cucciolo di zebra, si ritrova a vivere in una fattoria, dove puo&#039; realizzare il sogno di correre come un purosangue (USA/ZAF 2005)
+|![Icon]()|Piovono polpette|18:25:00|20:00:00|Una scorpacciata di gag per un divertente film d&#039;animazione. Uno scienziato progetta una macchina per sconfiggere la fame nel mondo e ogni genere di leccornia comincia a cadere dal cielo (USA 2009)
+|![Icon]()|4 ragazzi e la magica creatura|20:00:00|21:55:00|Avventura fantastica per tutta la famiglia con Paula Patton e Russell Brand. In vacanza in Cornovaglia, quattro ragazzi incontrano una creatura che puo&#039; esaudire un desiderio al giorno (GBR 2020)
+|![Icon]()|Mia piccola Monky|21:55:00|23:30:00|Nella giungla thailandese per una brillante commedia fantastica. Una famiglia svedese intraprende un viaggio avventuroso per scoprire le origini di una scimmietta trovata in cortile (SWE 2017)
+|![Icon]()|100X100Cinema|23:30:00|23:50:00|Il programma pensato per gli amanti del cinema, per chi vuole restare informato sulle novita&#039; in sala e desidera aggiornarsi sui film in programmazione.
+|![Icon]()|Rufus e la porta segreta|23:50:00|01:15:00|Avventura in chiave fantastica per un film in tecnica mista. A casa della nonna, Scott e l&#039;amica Emily trovano Rufus, una pelosa creatura che chiede il loro aiuto per salvare il suo regno (USA 2020)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

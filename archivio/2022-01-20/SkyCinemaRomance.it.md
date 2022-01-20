@@ -1,0 +1,38 @@
+# Sky Cinema Romance
+> Programmazione di Mercoledì 19 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|100X100Cinema|01:15:00|01:35:00|Filippo Timi e Alessandro Benvenuti ci parlano della nuova stagione de &#039;I delitti del BarLume&#039; (in prima visione dal 17/01). Inoltre, &#039;Notti in bianco, baci a colazione&#039; di Francesco Mandelli (19/01).
+|![Icon]()|L&#039;ultimo bacio|01:35:00|03:35:00|Stefano Accorsi, Martina Stella e Giovanna Mezzogiorno nel grande successo di Gabriele Muccino. Un affresco generazionale su un gruppo di trentenni in crisi sentimentale ed esistenziale (ITA 2001)
+|![Icon]()|La fiera della vanita&#039; - Vanity Fair|03:35:00|05:55:00|Mira Nair dirige Reese Witherspoon e Jim Broadbent tra gli scenari dell&#039;Inghilterra ottocentesca. Usando l&#039;astuzia e la bellezza, una ragazza orfana tenta di scalare l&#039;alta societa&#039; (GBR/USA 2004)
+|![Icon]()|Ricordati di me|05:55:00|08:00:00|Gabriele Muccino dirige Monica Bellucci, Fabrizio Bentivoglio e Laura Morante. Il desiderio di celebrita&#039; di una ragazza costringe i suoi genitori a ripensare ai propri sogni infranti (ITA 2002)
+|![Icon]()|100X100Cinema|08:00:00|08:20:00|Filippo Timi e Alessandro Benvenuti ci parlano della nuova stagione de &#039;I delitti del BarLume&#039; (in prima visione dal 17/01). Inoltre, &#039;Notti in bianco, baci a colazione&#039; di Francesco Mandelli (19/01).
+|![Icon]()|Endings, Beginnings - Ricomincio da te|08:20:00|10:15:00|Love story con Shailene Woodley, Jamie Dornan e Sebastian Stan. Una donna dal cuore spezzato incontra due uomini molto diversi. Incapace di scegliere, dovra&#039; imparare a conoscersi (USA 2019)
+|![Icon]()|Made in Italy|10:15:00|12:00:00|Luciano Ligabue dirige Stefano Accorsi e Kasia Smutniak nel film ispirato all&#039;omonimo album. Riko, operaio in una ditta di salumi in Emilia, si ribella al destino della sua vita precaria (ITA 2017)
+|![Icon]()|Jerry Maguire|12:00:00|14:20:00|Oscar a Cuba Gooding Jr. per una commedia sul mondo del football con Tom Cruise e Renee Zellweger. Un procuratore sportivo perde il posto dopo aver rivelato delle scottanti verita&#039; (USA 1996)
+|![Icon]()|Blonde Ambition - Una bionda a NY|14:20:00|16:00:00|Jessica Simpson e Luke Wilson in una commedia romantica. Giunta nella Grande Mela per incontrare il suo fidanzato, un&#039;ambiziosa ragazza di provincia sapra&#039; reagire a una brutta sorpresa (USA 2007)
+|![Icon]()|Rob Roy|16:00:00|18:25:00|Liam Neeson, Tim Roth e Jessica Lange in un&#039;avventura fra le highlands scozzesi. 1713: Robert Roy MacGregor diventa un fuorilegge per difendere la liberta&#039; del suo popolo dagli inglesi (USA 1995)
+|![Icon]()|Notte folle a Manhattan|18:25:00|20:00:00|Commedia con Steve Carell, Tina Fey e Mark Wahlberg. Una coppia di sposi vuole ritrovare la sintonia nel corso di una serata, ma uno scambio d&#039;identita&#039; innesca una girandola di malintesi (USA 2010)
+|![Icon]()|Vita da strega|20:00:00|21:50:00|Nicole Kidman e Will Ferrell in una commedia ispirata alla serie anni 60. Stufa di magie e sortilegi, una strega desidera una nuova vita, ma non riesce a liberarsi della sua identita&#039; (USA 2005)
+|![Icon]()|Poli opposti|21:50:00|23:30:00|Luca Argentero e Sarah Felberbaum in una commedia romantica. Stefano e&#039; un terapista di coppia; Claudia e&#039; un avvocato divorzista. Fra i due nasce un&#039;inaspettata attrazione (ITA 2015)
+|![Icon]()|Cantando sotto la pioggia|23:30:00|01:15:00|Gene Kelly e Debbie Reynolds in un intramontabile classico del musical. Hollywood, anni 20: il passaggio al cinema sonoro cambia il destino di due attori del cinema muto (USA 1952)
+|![Icon]()|L&#039;estate addosso|01:15:00|03:00:00|L&#039;ebbrezza della gioventu&#039; raccontata con passione da Gabriele Muccino. Due ragazzi italiani partono per San Francisco dove vivono un&#039;indimenticabile estate di avventure e amicizie (ITA 2016)
+|![Icon]()|Questo o quello - Speciale|03:00:00|03:15:00|Francesco Castelnuovo e Gianni Canova si sfidano sui film dell&#039;adrenalinica saga con Mel Gibson e Danny Glover: Arma Letale, disponibile su Sky Cinema Collection sabato 22 e domenica 23 gennaio.
+|![Icon]()|Blonde Ambition - Una bionda a NY|03:15:00|04:50:00|Jessica Simpson e Luke Wilson in una commedia romantica. Giunta nella Grande Mela per incontrare il suo fidanzato, un&#039;ambiziosa ragazza di provincia sapra&#039; reagire a una brutta sorpresa (USA 2007)
+|![Icon]()|New York Academy - Freedance|04:50:00|06:35:00|Musica e danza per il secondo film della serie che vede la partecipazione di Jane Seymour. Una ballerina e un pianista in cerca di successo lottano per avere un&#039;occasione a Broadway (USA 2017)
+|![Icon]()|Sette spose per sette fratelli|06:35:00|08:20:00|Oscar alla colonna sonora per uno dei piu&#039; celebri musical di tutti i tempi. Oregon: decisi a sposarsi come il primogenito, sei fratelli boscaioli rapiscono altrettante ragazze di citta&#039; (USA 1954)
+|![Icon]()|100X100Cinema|08:20:00|08:40:00|Il programma pensato per gli amanti del cinema, per chi vuole restare informato sulle novita&#039; in sala e desidera aggiornarsi sui film in programmazione.
+|![Icon]()|Il profumo del mosto selvatico|08:40:00|10:25:00|Storia d&#039;amore con Keanu Reeves e Aitana Sanchez-Gijon. Uno sconosciuto finge di essere il marito di una ragazza incinta. La magia della vendemmia accendera&#039; la scintilla fra i due (MEX/USA 1995)
+|![Icon]()|Lovers|10:25:00|12:10:00|Quattro storie parallele, interpretate dagli stessi attori, per una commedia romantica di Matteo Vicino. Le vicende amorose di quattro ragazzi fra tradimenti e sviluppi imprevedibili (ITA 2017)
+|![Icon]()|Cercasi Susan disperatamente|12:10:00|13:55:00|Il cult anni 80 che lancio&#039; anche al cinema il mito di Madonna. Una casalinga insoddisfatta (Rosanna Arquette) segue le tracce di una coppia e rimane coinvolta in un intrigo criminale (USA 1985)
+|![Icon]()|Come sposare un milionario|13:55:00|15:35:00|Marilyn Monroe, Lauren Bacall e Betty Grable in un classico della commedia. Tre indossatrici affittano un lussuoso appartamento a Manhattan con l&#039;obiettivo di trovare un ricco marito (USA 1953)
+|![Icon]()|Ritorno a Cold Mountain|15:35:00|18:10:00|Oscar e Golden Globe a Renee Zellweger per una love story con Nicole Kidman e Jude Law. Guerra di Secessione: un soldato ferito affronta un duro viaggio per tornare dalla sua donna (USA 2003)
+|![Icon]()|New York Academy - Freedance|18:10:00|20:00:00|Musica e danza per il secondo film della serie che vede la partecipazione di Jane Seymour. Una ballerina e un pianista in cerca di successo lottano per avere un&#039;occasione a Broadway (USA 2017)
+|![Icon]()|Fallen|20:00:00|21:40:00|Romanticismo a tinte fantasy dal regista di &#039;Shine&#039;, dal bestseller di Lauren Kate. In un riformatorio, la giovane Luce scopre un segreto soprannaturale legato ai suoi due pretendenti (USA/HUN 2016)
+|![Icon]()|Paradiso perduto|21:40:00|23:35:00|Fiaba hollywoodiana con Ethan Hawke e Gwyneth Paltrow, ispirata a &#039;Grandi Speranze&#039; di Dickens. Un aspirante pittore insegue l&#039;amore della sua infanzia. I due si ritroveranno a New York (USA 1998)
+|![Icon]()|Il velo dipinto|23:35:00|01:40:00|Edward Norton e Naomi Watts in un acceso melodramma. Cina, anni 20: una donna tradisce il marito medico, che reagisce trasferendosi con lei in un villaggio funestato dal colera (CAN/USA/CHN 2006)
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

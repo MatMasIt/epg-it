@@ -1,0 +1,47 @@
+# Giallo
+> Programmazione di Mercoledì 19 Gennaio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon]()|Profiling|00:15:00|01:15:00|S1 Ep1 Meno di niente - Chloe Saint-Laurent e&#039; una psicologa che decide di mettere il suo straordinario intuito di profiler al servizio della polizia collaborando col comandante Matthieu Perac.
+|![Icon]()|Profiling|01:15:00|02:15:00|S1 Ep2 Il veleno e la cura - Un medico, un giovane dottore specializzato in oncologia, viene trovato avvelenato. Chloe aiuta Matthieu ad indagare e risolvere il caso.
+|![Icon]()|Nightmare Next Door|02:15:00|03:10:00|Duplice omicidio - In un sobborgo di Seattle, un assassino sta tentando di distruggere le prove dei suoi delitti. I detective riusciranno a fermare l&#039;astuto criminale?
+|![Icon]()|Murder Comes to Town|03:10:00|03:50:00|S3 Ep3 La verita&#039; su Susan Casey - In Montana la Polizia indaga a fondo sulla misteriosa scomparsa di una donna, madre di quattro figli.
+|![Icon]()|Murder Comes to Town|03:50:00|04:35:00|S3 Ep4 Un posto chiamato casa - Una donna viene trovata morta nel giardino di casa sua nell&#039;Illinois. Indagando nel vicinato, la Polizia scopre un segreto che potrebbe avere a che fare col delitto.
+|![Icon]()|L&#039;investigatore Wolfe|04:35:00|05:00:00|S3 Ep15 La figlia adottiva - Quando la loro figlia adottiva scompare, i Frazier chiedono aiuto a Wolfe. Mentre l&#039;investigatore cerca la ragazza, deve anche indagare sui lati oscuri della citta&#039;.
+|![Icon]()|L&#039;investigatore Wolfe|05:00:00|05:30:00|S2 Ep4 L&#039;annuncio - Dopo anni di dipendenze e sfortuna, un uomo trova finalmente una donna. Ma quando il comportamento della sua fidanzata cambia, l&#039;uomo assume Wolfe per scoprire cosa sta succedendo.
+|![Icon]()|Murder Comes to Town|05:30:00|06:25:00|S3 Ep5 La tragedia di una madre - Una donna scompare in un paese dell&#039;Alabama. Nella sua stessa citta&#039; sono scomparse altre tre persone. La Polizia indaga...
+|![Icon]()|Murder Comes to Town|06:25:00|07:20:00|S3 Ep6 Una musica da brivido - Un uomo scopre nella neve il cadavere del figlio e della nuora. Alcune orme indicano la strada presa dal killer, ma la ricerca del movente indica un&#039;altra direzione.
+|![Icon]()|L&#039;ispettore Barnaby|07:20:00|09:20:00|S7 Ep6 La strega di paglia - A Midsomer quest&#039;anno l&#039;antica usanza di bruciare una donna di paglia termina in tragedia: nel rogo infatti finisce per morire bruciato il parroco del paese.
+|![Icon]()|I misteri di Brokenwood|09:20:00|11:20:00|S6 Ep2 Omicidio d&#039;autore - Un famoso scrittore di gialli e&#039; a Brokenwood per la presentazione del suo nuovo romanzo. Ma viene ucciso, proprio nel modo in cui un delitto viene descritto nel suo libro...
+|![Icon]()|Miss Fisher: delitti e misteri|11:20:00|12:35:00|S3 Ep5 Morte e psiche - L&#039;iniziativa di Zia Prudence di aprire la sua casa allo psichiatra e guaritore Samuels, per ospitare il suo sanatorio femminile, portera&#039; ad un serio guaio.
+|![Icon]()|Miss Fisher: delitti e misteri|12:35:00|13:55:00|S3 Ep6 Omicidio al Grand Hotel - La morte di un portiere d&#039;albergo finisce per coinvolgere il Barone Fisher, eccentrico padre di Phryne, che stavolta potrebbe non cavarsela solo col suo fascino.
+|![Icon]()|L&#039;ispettore Barnaby|13:55:00|15:50:00|S8 Ep4 Bantling Boy - Quattro persone hanno ereditato un cavallo da corsa: due vogliono venderlo e due tenerlo. Quando uno dei proprietari viene trovato ucciso, Barnaby e&#039; immediatamente su caso.
+|![Icon]()|I misteri di Brokenwood|15:50:00|17:50:00|S6 Ep3 I morti non sparano alle anatre - Un attivista animalista muore nel giorno dell&#039;apertura della caccia alle anatre. La squadra deve capire se si tratta davvero di un incidente.
+|![Icon]()|Miss Fisher: delitti e misteri|17:50:00|19:05:00|S3 Ep7 Gioco, partita... Omicidio - Phryne organizza un torneo di tennis, ma una delle partecipanti muore misteriosamente: le indagini sul delitto partono senza indugio.
+|![Icon]()|Miss Fisher: delitti e misteri|19:05:00|20:10:00|S3 Ep8 Finche&#039; morte non ci separi - L&#039;uomo che vuol uccidere il padre di Miss Fisher scappa dall&#039;ospedale, e quella notte qualcuno viene ucciso... Phryne e Jack hanno poco tempo per agire.
+|![Icon]()|Tandem|20:10:00|21:10:00|S4 Ep7 L&#039;amica scomparsa. 1a parte - Indagando sul furto nel garage di un&#039;anziana, la squadra scopre che la vittima e&#039; la madre di un killer. Alcune tracce porteranno a una scoperta sconcertante.
+|![Icon]()|Tandem|21:10:00|22:15:00|S4 Ep8 L&#039;amica scomparsa. 2a parte - Le analisi del medico legale confermano che il corpo trovato nel garage appartiene alla donna scomparsa, collegata al passato di Erwan.
+|![Icon]()|L&#039;ispettore Barnaby|22:15:00|00:15:00|S7 Ep6 La strega di paglia - A Midsomer quest&#039;anno l&#039;antica usanza di bruciare una donna di paglia termina in tragedia: nel rogo infatti finisce per morire bruciato il parroco del paese.
+|![Icon]()|Profiling|00:15:00|01:15:00|S1 Ep3 Il figliol prodigo - Matthieu e Chloe indagano sull&#039;omicidio di un avvocato, che era rimasto sconvolto dalle conseguenze di un processo a cui aveva lavorato.
+|![Icon]()|Profiling|01:15:00|02:15:00|S1 Ep4 Il paradiso perduto - La moglie, giovane e bella, di un ricco commerciante viene trovata pugnalata a morte. Il marito della vittima e&#039;, misteriosamente, scomparso...
+|![Icon]()|Nightmare Next Door|02:15:00|03:10:00|Notte fatale - La scoperta del corpo di Zilpha Lowery lascia sconcertata la cittadina di Marion, e costringe la polizia a indagare sulle vittime del passato fino a quando un indizio non li porta al killer.
+|![Icon]()|Murder Comes to Town|03:10:00|03:50:00|S3 Ep5 La tragedia di una madre - Una donna scompare in un paese dell&#039;Alabama. Nella sua stessa citta&#039; sono scomparse altre tre persone. La Polizia indaga...
+|![Icon]()|Murder Comes to Town|03:50:00|04:35:00|S3 Ep6 Una musica da brivido - Un uomo scopre nella neve il cadavere del figlio e della nuora. Alcune orme indicano la strada presa dal killer, ma la ricerca del movente indica un&#039;altra direzione.
+|![Icon]()|L&#039;investigatore Wolfe|04:35:00|05:00:00|S3 Ep16 Non e&#039; un paese per vecchi - Una donna e&#039; preoccupata a causa del nuovo marito di sua madre. Wolfe indaga sul misterioso uomo. Cosa riuscira&#039; a scoprire?
+|![Icon]()|Nightmare Next Door|05:00:00|05:55:00|Un caso agghiacciante - L&#039;omicidio di Christopher Green mette i brividi a tutti i cittadini della piccola citta&#039; di Bangor, Michigan: il risultato delle indagini dara&#039; ragione alle loro peggiori paure.
+|![Icon]()|Murder Comes to Town|05:55:00|06:50:00|S3 Ep7 Un alibi quasi perfetto - Un cittadino molto in vista della piccola citta&#039; di Auburn, New Hampshire, viene trovato ucciso nel suo letto. La Polizia indaga tra i suoi amici piu&#039; stretti.
+|![Icon]()|Murder Comes to Town|06:50:00|07:45:00|S3 Ep8 Un&#039;anima da rubare - La Polizia di Juliette, in Georgia, indaga su un brutale duplice omicidio avvenuto in una tranquilla strada frequentata da coppiette.
+|![Icon]()|L&#039;ispettore Barnaby|07:45:00|09:40:00|S1 Ep1 Il prezzo del silenzio - Un&#039;anziana signora viene trovata morta nel suo cottage. Ma Barnaby non e&#039; affatto convinto che la morte sia attribuibile a cause naturali.
+|![Icon]()|I misteri di Brokenwood|09:40:00|11:40:00|S6 Ep3 I morti non sparano alle anatre - Un attivista animalista muore nel giorno dell&#039;apertura della caccia alle anatre. La squadra deve capire se si tratta davvero di un incidente.
+|![Icon]()|Miss Fisher: delitti e misteri|11:40:00|12:55:00|S3 Ep7 Gioco, partita... Omicidio - Phryne organizza un torneo di tennis, ma una delle partecipanti muore misteriosamente: le indagini sul delitto partono senza indugio.
+|![Icon]()|Miss Fisher: delitti e misteri|12:55:00|14:10:00|S3 Ep8 Finche&#039; morte non ci separi - L&#039;uomo che vuol uccidere il padre di Miss Fisher scappa dall&#039;ospedale, e quella notte qualcuno viene ucciso... Phryne e Jack hanno poco tempo per agire.
+|![Icon]()|L&#039;ispettore Barnaby|14:10:00|16:10:00|S8 Ep5 La seconda vista - Un uomo collassa e muore fuori da un pub, dopo aver discusso con suo cognato sul battesimo di sua nipote. Il cranio della vittima presenta delle ferite misteriose...
+|![Icon]()|I misteri di Brokenwood|16:10:00|18:10:00|S6 Ep4 Morti e sepolti - Durante l&#039;indagine sul presunto suicidio di una prigioniera del Carcere Femminile di Brokenwood, Mike e i suoi si imbattono in diverse vecchie conoscenze...
+|![Icon]()|L&#039;ispettore Barnaby|18:10:00|20:10:00|S1 Ep1 Il prezzo del silenzio - Un&#039;anziana signora viene trovata morta nel suo cottage. Ma Barnaby non e&#039; affatto convinto che la morte sia attribuibile a cause naturali.
+|![Icon]()|L&#039;ispettore Barnaby|20:10:00|22:10:00|S8 Ep3 Orchis Fatalis - La mostra delle orchidee e&#039; un appuntamento molto importante per Malham Manor. L&#039;omicidio di un coltivatore funesta l&#039;evento di quest&#039;anno, e Barnaby e&#039; chiamato a indagare.
+|![Icon]()|Vera|22:10:00|00:10:00|S2 Ep4 - Vera indaga sulla morte di un veterano della guerra in Afghanistan, che alla base militare hanno dichiarato suicidio con fretta un po&#039; sospetta.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
