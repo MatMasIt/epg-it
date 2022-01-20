@@ -3,51 +3,55 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon]()|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon]()|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon]()|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon]()|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon]()|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon]()|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon]()|IT Cosmetics, trasformazione visibile|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon]()|Denim &amp; Co, femminilita&#039; casual|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Denim &amp;Co, brand di moda che ha pensato ad una collezione molto versatile declinata in stile casual e femminile; perfetto per vivere al meglio tutte le occasioni del tempo libero
-|![Icon]()|Fero&#039;, il lusso che arreda la tua casa|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Fero&#039;, preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita&#039; regalando un&#039;esperienza di lusso e piacere.
-|![Icon]()|The Beauty show con IT Cosmetics|11:00:00|12:00:00|ITA. TV Shopping
-|![Icon]()|Le Babe, scarpe comode e originali|12:00:00|13:00:00|Le Babe nasce in Friuli negli anni &#039;60, affermandosi ben presto nella produzione di calzature &#039;supercomode&#039; dallo stile non convenzionale, colorato e sfizioso.
-|![Icon]()|Demetra Closet, la musa della moda|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon]()|IT Cosmetics, trasformazione visibile|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon]()|Bianca, tutto il fascino del platino|15:00:00|16:00:00|ITA. Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita&#039; italiana dona una finitura esclusiva ed un&#039;ineguagliabile brillantezza.
-|![Icon]()|Gli imperdibili delle 5|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon]()|Fero&#039;, il lusso che arreda la tua casa|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Fero&#039;, preziosa biancheria per vestire la propria casa con uno stile che coniuga eleganza ed originalita&#039; regalando un&#039;esperienza di lusso e piacere.
-|![Icon]()|The Beauty show con IT Cosmetics|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon]()|Denim &amp; Co, femminilita&#039; casual|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Denim &amp;Co, brand di moda che ha pensato ad una collezione molto versatile declinata in stile casual e femminile; perfetto per vivere al meglio tutte le occasioni del tempo libero
-|![Icon]()|Buonasera bellezza!|20:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
-|![Icon]()|Bianca, tutto il fascino del platino|22:00:00|23:00:00|ITA. Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita&#039; italiana dona una finitura esclusiva ed un&#039;ineguagliabile brillantezza.
-|![Icon]()|Nina Leonard, lo stile Newyorkese|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon]()|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon]()|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon]()|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon]()|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon]()|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon]()|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon]()|Nina Leonard, lo stile Newyorkese|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon]()|Veronese, fascino d&#039;oro cuore d&#039;argento|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Veronese, gioielli realizzati in argento placcato oro 18k, dal design sofisticato e di pregio ispirato all&#039;eleganza e alla storia della tradizione orafa di Verona.
-|![Icon]()|Hush&amp;Hush, integratori luxury|10:00:00|11:00:00|Hush&amp;Hush e&#039; il luxury brand che crea integratori alimentari seguendo un approccio che unisce il benessere di mente e corpo, un mix unico di vitamine, erbe ed estratti botanici uniti alla tecnologia.
-|![Icon]()|Nina Leonard, lo stile Newyorkese|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon]()|E&#039; tutta un&#039;altra casa con Philips|12:00:00|13:00:00|ITA. TV Shopping
-|![Icon]()|Veronese, fascino d&#039;oro cuore d&#039;argento|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Veronese, gioielli realizzati in argento placcato oro 18k, dal design sofisticato e di pregio ispirato all&#039;eleganza e alla storia della tradizione orafa di Verona.
-|![Icon]()|Nina Leonard, lo stile Newyorkese|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon]()|Hush&amp;Hush, integratori luxury|15:00:00|16:00:00|Hush&amp;Hush e&#039; il luxury brand che crea integratori alimentari seguendo un approccio che unisce il benessere di mente e corpo, un mix unico di vitamine, erbe ed estratti botanici uniti alla tecnologia.
-|![Icon]()|Nina Leonard, lo stile Newyorkese|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Nina Leonard Collection, il brand per la donna moderna che ama la comodita&#039; senza rinunciare a raffinatezza e fascino, creato dall&#039;esperienza del designer americano Lenny Feinberg.
-|![Icon]()|E&#039; tutta un&#039;altra casa con Philips|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon]()|Veronese, fascino d&#039;oro cuore d&#039;argento|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Veronese, gioielli realizzati in argento placcato oro 18k, dal design sofisticato e di pregio ispirato all&#039;eleganza e alla storia della tradizione orafa di Verona.
-|![Icon]()|Le Serpentini, dove osano le scarpe|19:00:00|20:00:00|ITA. Scopri Qvc. Scopri Le Serpentini scarpe nate da un&#039;esperienza trentennale. Ogni scarpa si distingue per un dettaglio unico: tacchi originali, inserti particolari e decorazioni gioiello.
-|![Icon]()|Adesso e&#039; Moda|20:00:00|23:00:00|ITA. TV Shopping
-|![Icon]()|M. Asam, Estratti d&#039;uva per la tua pelle|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
-|![Icon]()|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|07:00:00|09:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wolford, il lusso di una seconda pelle|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Hilary Joy Couture, fascino esotico|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Hilary Joy Couture brand di gioielli che prende il nome dall&#039;omonima fondatrice. I gioielli sono creati in argento con pietre naturali dal mondo e dal design elaborato.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita&#039; e passione|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In Cucina insieme a Easiyo|13:00:00|14:00:00|ITA. Scopri QVC. Benvenuto nel nostro show in cucina con Easiyo in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita&#039; e passione|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|EVA Franco Ciambella, energia di moda|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Appuntamento in Cucina|20:00:00|21:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Easiyo, yogurt fresco e delizioso|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Easiyo, delizioso yogurt fatto in casa ogni volta che vuoi grazie ad un sistema semplice ed economico per preparare il tuo yogurt solo con ingredienti naturali.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|QVC anch&#039;io|07:00:00|08:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|08:00:00|09:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|09:00:00|10:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Questione di Stile|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Giacconi e cappotti collection|12:00:00|13:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta della collezione di cappotti per scaldare il tuo invernno.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|13:00:00|14:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Easy&#039;n Rose, Le comode scarpe in pelle|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Easy&#039;n Rose, un brand del gruppo Relaxshoe Srl, Easy&#039;n Rose e&#039; una collezione di scarpe in pelle attenta alle rifiniture ed hai dettagli.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Gli imperdibili delle 5|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Bianca della Torre,Personalita&#039; elegante|17:00:00|18:00:00|ITA. Scopri Bianca della Torre, un brand per una donna elegante esigente attenta ai dettagli e con la passione per la qualita&#039; ed il Made in Italy.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Joachim Kaeser, aiuta il benessere|19:00:00|20:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Bianca della Torre,Personalita&#039; elegante|20:00:00|21:00:00|ITA. Scopri Bianca della Torre, un brand per una donna elegante esigente attenta ai dettagli e con la passione per la qualita&#039; ed il Made in Italy.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Crockpot|21:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Easy&#039;n Rose, Le comode scarpe in pelle|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Easy&#039;n Rose, un brand del gruppo Relaxshoe Srl, Easy&#039;n Rose e&#039; una collezione di scarpe in pelle attenta alle rifiniture ed hai dettagli.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 
 
