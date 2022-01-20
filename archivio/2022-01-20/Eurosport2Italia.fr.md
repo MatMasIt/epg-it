@@ -1,5 +1,5 @@
 # Eurosport 2 Italia
-> Programmazione di Mercoledì 19 Gennaio 2022
+> Programmazione di Giovedì 20 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
