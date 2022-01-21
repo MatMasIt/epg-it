@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Giovedì 20 Gennaio 2022
+> Programmazione di Venerdì 21 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
