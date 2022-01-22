@@ -1,5 +1,5 @@
 # Sky Uno +1
-> Programmazione di Venerdì 21 Gennaio 2022
+> Programmazione di Sabato 22 Gennaio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
