@@ -1,88 +1,47 @@
 # Aljazeera English
-> Programmazione di Sabato 22 Gennaio 2022
+> Programmazione di Martedì 01 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|00:30:00|01:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Syrians|01:00:00|02:00:00|Meet the Kalaji family, one of the last refugee families from Syria to be granted a visa before the Trump travel ban in 2017.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Crying Forest|01:00:00|02:00:00|Over 200 environmentalists have been murdered trying to save the Amazon. This is a shocking portrait of a man who lived and died for the Amazon rainforest.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Lesotho|02:30:00|03:00:00|Two brave young women branch out by launching their taxi service on Lesotho&#039;s notoriously dangerous mountain roads - and a jockey who doubles as a paramedic.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Petina Gappa - Out of Darkness|02:30:00|03:00:00|Trying to tell Zimbabwe&#039;s story as it has never been told before; meet Petina Gappah who writes about her countries hardships and struggles for change.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Trial of Anwar Raslan P2|03:30:00|04:00:00|The second of a two part special report, behind the scenes at the landmark trial of a notorious Syrian colonel.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|My Eternal Art|03:30:00|04:00:00|Acclaimed documentaries from across the globe bringing world issues into focus through personal stories.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|04:30:00|05:00:00|On The Stream: Tonga volcano: What now?
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|04:30:00|05:00:00|Viewers are connected to news stories via social media.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Diaby: The Away Game|05:30:00|06:00:00|A talented young Malian footballer&#039;s dreams become reality when he joins a professional European football club.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Living With The Volcano|06:00:00|07:00:00|Life in the shadow of an active volcano might be risky but people living in the &#039;red zone&#039; around Mount Vesuvius have a special relationship with &#039;the monster&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|05:30:00|06:00:00|Amidst the heated rhetoric around the Ukrainian crisis, there is a risk that nuance is being lost. Plus, speaking with one of the writers of &#039;Don&#039;t Look Up&#039;.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Where the Light Shines|06:00:00|07:00:00|Two young Afghan skiers hope to qualify for the Winter Olympics and dream of a brighter future for their country.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|07:30:00|08:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|08:30:00|09:00:00|On The Stream: Tonga volcano: What now?
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|08:30:00|09:00:00|Viewers are connected to news stories via social media.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Japan&#039;s Sumo World|09:30:00|10:00:00|101 East enters the secretive world of Japanese sumo, where athletes undertake relentless training and eating, and any scandals are quickly covered up.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Botswana|09:30:00|10:00:00|The constant fight for survival for farmers in Botswana&#039;s Okavango Delta as they try to combat the effects of climate change to live off this unforgiving land.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|11:30:00|12:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A Moral Debt: The Legacy Of Slavery...|12:00:00|13:00:00|(...In The U.S.A.) A descendant of Robert E Lee explores his family&#039;s legacy of slave ownership.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Palestine 1920|12:00:00|13:00:00|Thriving trading nation or a land without a people? This 20th century history uses sources and testimonies to show the other side of the Palestinian story.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|14:30:00|15:00:00|On The Stream: Tonga volcano: What now?
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|14:30:00|15:00:00|Viewers are connected to news stories via social media.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Lesotho|16:30:00|17:00:00|Two brave young women branch out by launching their taxi service on Lesotho&#039;s notoriously dangerous mountain roads - and a jockey who doubles as a paramedic.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Episode 1|16:30:00|17:00:00|Through the prism of the pandemic experience, The Big Picture analyses the advent of structural racism and the impact of neoliberalism in Britain.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|17:30:00|18:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|19:30:00|20:00:00|On The Stream: Activism in poetry and theatre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Bottom Line|20:00:00|20:30:00|What is the fate of the last 39 prisoners still held in the U.S. military detention center in Cuba? Host Steve Clemons asks the legal experts.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Music|20:30:00|21:00:00|Prisoners in Argentina and an orchestra of migrant musicians in Italy show us the power of music to bring hope and unite people, in two short documentaries.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|19:30:00|20:00:00|Viewers are connected to news stories via social media.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ringside|20:00:00|21:00:00|Acclaimed documentaries from across the globe bringing world issues into focus through personal stories.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|22:30:00|23:00:00|One year of the Biden Administration... how has the U.S. economy fared?
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food...Inglorious Food P1|22:30:00|23:00:00|Weekly investigative documentary series that looks at the use and abuse of power.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Maria Ressa Christopher Wylie P1|23:30:00|00:00:00|Discussions around some of the most talked about topics in your world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|00:30:00|01:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|A Moral Debt: The Legacy Of Slavery...|01:00:00|02:00:00|(...In The U.S.A.) A descendant of Robert E Lee explores his family&#039;s legacy of slave ownership.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|02:30:00|03:00:00|On The Stream: Activism in poetry and theatre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Japan&#039;s Sumo World|03:30:00|04:00:00|101 East enters the secretive world of Japanese sumo, where athletes undertake relentless training and eating, and any scandals are quickly covered up.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Lesotho|05:30:00|06:00:00|Two brave young women branch out by launching their taxi service on Lesotho&#039;s notoriously dangerous mountain roads - and a jockey who doubles as a paramedic.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Syrians|06:00:00|07:00:00|Meet the Kalaji family, one of the last refugee families from Syria to be granted a visa before the Trump travel ban in 2017.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|07:30:00|08:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|08:30:00|09:00:00|Amidst a serious challenge to his seat, British Prime Minister Boris Johnson lashes out against the BBC. Plus, a radio station broadcasting into North Korea.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|09:30:00|10:00:00|One year of the Biden Administration... how has the U.S. economy fared?
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|11:30:00|12:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Bottom Line|12:00:00|12:30:00|What is the fate of the last 39 prisoners still held in the U.S. military detention center in Cuba? Host Steve Clemons asks the legal experts.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Music|12:30:00|13:00:00|Prisoners in Argentina and an orchestra of migrant musicians in Italy show us the power of music to bring hope and unite people, in two short documentaries.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|14:30:00|15:00:00|On The Stream: Activism in poetry and theatre.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Trial of Anwar Raslan P2|16:30:00|17:00:00|The second of a two part special report, behind the scenes at the landmark trial of a notorious Syrian colonel.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|17:30:00|18:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|19:30:00|20:00:00|Amidst a serious challenge to his seat, British Prime Minister Boris Johnson lashes out against the BBC. Plus, a radio station broadcasting into North Korea.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Living With The Volcano|20:00:00|21:00:00|Life in the shadow of an active volcano might be risky but people living in the &#039;red zone&#039; around Mount Vesuvius have a special relationship with &#039;the monster&#039;.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connect It- The Wake-Up Call That...|22:30:00|23:00:00|(...Can&#039;t Be Ignored) COVID-19 isn&#039;t the only global emergency we face: the ecological crisis is bigger and even more threatening to our survival.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Diaby: The Away Game|23:30:00|00:00:00|A talented young Malian footballer&#039;s dreams become reality when he joins a professional European football club.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|23:30:00|00:00:00|Is bearish sentiment in stock markets here to stay?
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
 
 
