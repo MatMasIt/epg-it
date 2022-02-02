@@ -1,5 +1,5 @@
 # La F
-> Programmazione di Martedì 01 Febbraio 2022
+> Programmazione di Mercoledì 02 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
