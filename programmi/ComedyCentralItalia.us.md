@@ -1,5 +1,5 @@
 # Comedy Central Italia
-> Programmazione di Mercoledì 02 Febbraio 2022
+> Programmazione di Giovedì 03 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
