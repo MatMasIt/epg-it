@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Giovedì 03 Febbraio 2022
+> Programmazione di Venerdì 04 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
