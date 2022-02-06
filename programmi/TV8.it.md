@@ -1,5 +1,5 @@
 # TV 8
-> Programmazione di Sabato 05 Febbraio 2022
+> Programmazione di Domenica 06 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
