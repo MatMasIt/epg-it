@@ -1,5 +1,5 @@
 # Super Tennis
-> Programmazione di Domenica 06 Febbraio 2022
+> Programmazione di Lunedì 07 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
