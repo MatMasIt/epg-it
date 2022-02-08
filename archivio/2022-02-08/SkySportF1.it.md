@@ -1,5 +1,5 @@
 # Sky Sport F1
-> Programmazione di Lunedì 07 Febbraio 2022
+> Programmazione di Martedì 08 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
