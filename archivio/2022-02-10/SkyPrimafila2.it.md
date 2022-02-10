@@ -1,5 +1,5 @@
 # Sky Primafila 2
-> Programmazione di Mercoledì 09 Febbraio 2022
+> Programmazione di Giovedì 10 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
