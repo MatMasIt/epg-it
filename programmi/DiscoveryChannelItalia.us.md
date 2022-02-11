@@ -1,5 +1,5 @@
 # Discovery Channel Italia
-> Programmazione di Giovedì 10 Febbraio 2022
+> Programmazione di Venerdì 11 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
