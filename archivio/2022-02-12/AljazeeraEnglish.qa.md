@@ -5,47 +5,6 @@
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|00:30:00|01:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Marriage Project|01:00:00|02:00:00|A bold social experiment takes place inside a mental health hospital in Iran.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Paraguay|02:30:00|03:00:00|Two resilient characters in Paraguay&#039;s Chaco Boreal - a truck driver who goes out whatever the weather and a cowboy who loves his rough life out on the plains.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food...Inglorious Food P2|03:30:00|04:00:00|The second of two investigations into how criminals adulterate our food for profit.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|04:30:00|05:00:00|On The Stream: How does climate change affect your health?
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ashes To Ashes|05:30:00|06:00:00|Wilfred, a rare survivor of a lynching, befriends Dr. Whitaker who is on a mission to memorialise 4,000 African Americans who were lynched.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Literary Liaisons: Thinkers and...|06:00:00|07:00:00|(...Surrealists) Remarkable literary letters between Russian writer Leo Tolstoy and an Egyptian spiritual leader Muhammad Abduh.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|07:30:00|08:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|08:30:00|09:00:00|On The Stream: How does climate change affect your health?
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Great British Curry Crisis|09:30:00|10:00:00|Chicken Tikka Masala is Britain&#039;s national dish. But curry houses across the UK are shutting down due to Brexit, COVID-19 and changing tastes.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|11:30:00|12:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/2a138f91-64ad-42a0-8926-e5585b852052/cover?md5ChecksumParam=5a6520bb2e618287e5bb027d9bddf14d)|Il nostro uomo al Cairo|12:00:00|13:00:00|Our Man In Cairo examines how the U.S. and Europe turn a blind eye to Egypt&#039;s violations of human rights for their own economic and political interests.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Stream|14:30:00|15:00:00|On The Stream: How does climate change affect your health?
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Paraguay|16:30:00|17:00:00|Two resilient characters in Paraguay&#039;s Chaco Boreal - a truck driver who goes out whatever the weather and a cowboy who loves his rough life out on the plains.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|17:30:00|18:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|UpFront|19:30:00|20:00:00|Is there a place for political activism in sports? We ask Super Bowl winner, Michael Bennett and Dave Zirin, author and Sports Editor for The Nation.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Bottom Line|20:00:00|20:30:00|Host Steve Clemons asks whether former Pres. Trump has broken any laws by shredding and burning his documents while in the White House.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Justice|20:30:00|21:00:00|Mothers organise in the USA, activists protest gender violence in Turkey, and friends speak out in Mexico - three short films about seeking justice.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|22:30:00|23:00:00|Europe is divided over nuclear power, so should it be part of the energy solution?
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Episode 2|23:30:00|00:00:00|The Big Picture looks at whether austerity, structural racism and neoliberalism were key to shaping the pandemic experience in Britain.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|00:30:00|01:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 |![Icon](https://guidatv.sky.it/uuid/2a138f91-64ad-42a0-8926-e5585b852052/cover?md5ChecksumParam=5a6520bb2e618287e5bb027d9bddf14d)|Il nostro uomo al Cairo|01:00:00|02:00:00|Our Man In Cairo examines how the U.S. and Europe turn a blind eye to Egypt&#039;s violations of human rights for their own economic and political interests.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|UpFront|02:30:00|03:00:00|Is there a place for political activism in sports? We ask Super Bowl winner, Michael Bennett and Dave Zirin, author and Sports Editor for The Nation.
@@ -84,6 +43,47 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Precious Marange - In The Game|22:30:00|23:00:00|A super athlete and a super mum, meet Precious Marange who flies the flag for Zimbabwe. She works hard on and off the pitch to provide for her family.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ashes To Ashes|23:30:00|00:00:00|Wilfred, a rare survivor of a lynching, befriends Dr. Whitaker who is on a mission to memorialise 4,000 African Americans who were lynched.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|00:30:00|01:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Bottom Line|01:00:00|01:30:00|Host Steve Clemons asks whether former Pres. Trump has broken any laws by shredding and burning his documents while in the White House.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Justice|01:30:00|02:00:00|Mothers organise in the USA, activists protest gender violence in Turkey, and friends speak out in Mexico - three short films about seeking justice.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|02:30:00|03:00:00|The Beijing Winter Olympics are underway - we analyse the coverage - both the PR and the negative reporting. Plus, French media mainstreaming Eric Zemmour.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|03:30:00|04:00:00|Europe is divided over nuclear power, so should it be part of the energy solution?
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|UpFront|04:30:00|05:00:00|Is there a place for political activism in sports? We ask Super Bowl winner, Michael Bennett and Dave Zirin, author and Sports Editor for The Nation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food...Inglorious Food P2|05:30:00|06:00:00|The second of two investigations into how criminals adulterate our food for profit.
+|![Icon](https://guidatv.sky.it/uuid/2a138f91-64ad-42a0-8926-e5585b852052/cover?md5ChecksumParam=5a6520bb2e618287e5bb027d9bddf14d)|Il nostro uomo al Cairo|06:00:00|07:00:00|Our Man In Cairo examines how the U.S. and Europe turn a blind eye to Egypt&#039;s violations of human rights for their own economic and political interests.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|07:30:00|08:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In The Field - Kyrgyzstan&#039;s Horses:...|08:30:00|09:00:00|(...Wings of Pride) Riding the spirit of Kyrgyz culture.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Precious Marange - In The Game|09:30:00|10:00:00|A super athlete and a super mum, meet Precious Marange who flies the flag for Zimbabwe. She works hard on and off the pitch to provide for her family.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|11:30:00|12:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Literary Liaisons: Thinkers and...|12:00:00|13:00:00|(...Surrealists) Remarkable literary letters between Russian writer Leo Tolstoy and an Egyptian spiritual leader Muhammad Abduh.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|14:30:00|15:00:00|The Beijing Winter Olympics are underway - we analyse the coverage - both the PR and the negative reporting. Plus, French media mainstreaming Eric Zemmour.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Great British Curry Crisis|16:30:00|17:00:00|Chicken Tikka Masala is Britain&#039;s national dish. But curry houses across the UK are shutting down due to Brexit, COVID-19 and changing tastes.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Story|17:30:00|18:00:00|Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In The Field - Kyrgyzstan&#039;s Horses:...|19:30:00|20:00:00|(...Wings of Pride) Riding the spirit of Kyrgyz culture.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Marriage Project|20:00:00|21:00:00|A bold social experiment takes place inside a mental health hospital in Iran.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ecuador&#039;s Hidden Treasure|22:30:00|23:00:00|Three women scientists take on Ecuador&#039;s endangered spider monkeys and empower indigenous women, in a scientific area usually dominated by men.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|UpFront|23:30:00|00:00:00|Is there a place for political activism in sports? We ask Super Bowl winner, Michael Bennett and Dave Zirin, author and Sports Editor for The Nation.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
 
 
