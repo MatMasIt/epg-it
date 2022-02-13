@@ -1,5 +1,5 @@
 # Sky Sport F1
-> Programmazione di Sabato 12 Febbraio 2022
+> Programmazione di Domenica 13 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
