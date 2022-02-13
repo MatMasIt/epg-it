@@ -3,20 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Europei 1996: Rep. Ceca - Germania|01:30:00|05:00:00|Calcio Storico - Finale. Le immagini d&#039;archivio piu&#039; belle che hanno fatto la storia del calcio. Rivediamo le imprese sportive dei grandi campioni del passato.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Futsal: Portogallo - Russia|07:00:00|09:15:00|Europei, Finale - Nei Paesi Bassi si svolge la 12a edizione del torneo UEFA Futsal Championship. Detiene il titolo il Portogallo.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pattinaggio: Four Continents|09:15:00|10:10:00|I Campionati di pattinaggio di figura dei quattro continenti 2022 si svolgono a Tallin dal 18 al 22 gennaio 2022.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Gli Imperdibili|10:10:00|10:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Invernali Pechino 2022 (live)|10:15:00|14:40:00|La 24a edizione dei Giochi olimpici invernali, si svolgono a Pechino, in Cina.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Invernali Pechino 2022 (live)|14:40:00|17:25:00|La 24a edizione dei Giochi olimpici invernali, si svolgono a Pechino, in Cina.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Padova - Monza|17:25:00|19:55:00|Superlega, 21a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Casalmaggiore - Firenze|19:55:00|22:20:00|Serie A1 F, 19a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato|22:20:00|23:00:00|1a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:20:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato|23:20:00|23:30:00|2a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:30:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
@@ -30,6 +16,18 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Motocross Campionati Italiani|22:15:00|23:00:00|2a tappa - Gli Internazionali d&#039;Italia di Motocross.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Super Bowl: Prepartita (live)|23:00:00|23:20:00|Commenti, interviste e pronostici sull&#039;evento che ferma gli Stati Uniti: il Super Bowl.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:20:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|07:00:00|10:00:00|Marco Pantani - I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Invernali Pechino 2022 (live)|10:00:00|14:30:00|Gare - La 24a edizione dei Giochi olimpici invernali, si svolgono a Pechino, in Cina.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Olimpiadi Invernali Pechino 2022 (live)|14:30:00|17:30:00|La 24a edizione dei Giochi olimpici invernali, si svolgono a Pechino, in Cina.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|17:30:00|17:50:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Classica Jaen Paraiso-Ubeda|17:50:00|18:50:00|La Jaen Paraiso Interior, classica spagnola alla sua prima edizione, propone 3500 metri di dislivello e 40 chilometri di sterrato.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|18:50:00|22:05:00|Marco Pantani - I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Totale|22:05:00|23:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 
 
 
