@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Domenica 13 Febbraio 2022
+> Programmazione di Lunedì 14 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
