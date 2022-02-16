@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Martedì 15 Febbraio 2022
+> Programmazione di Mercoledì 16 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
