@@ -1,5 +1,5 @@
 # Sky Meteo 24
-> Programmazione di Mercoledì 16 Febbraio 2022
+> Programmazione di Giovedì 17 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
