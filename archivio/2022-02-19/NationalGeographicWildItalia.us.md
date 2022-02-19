@@ -1,5 +1,5 @@
 # National Geographic Wild Italia
-> Programmazione di Venerdì 18 Febbraio 2022
+> Programmazione di Sabato 19 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
