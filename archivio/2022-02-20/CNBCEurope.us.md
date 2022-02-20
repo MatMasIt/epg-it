@@ -1,0 +1,68 @@
+# CNBC Europe
+> Programmazione di Sabato 19 Febbraio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News with Shepard Smith|00:00:00|01:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|01:00:00|01:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|01:30:00|02:00:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|02:00:00|03:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|03:00:00|03:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|03:30:00|04:00:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News with Shepard Smith|04:00:00|05:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|05:00:00|06:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|06:00:00|06:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|06:30:00|07:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|07:00:00|08:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Conley|08:00:00|08:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|08:30:00|09:00:00|Bond Cars &amp; Secret Jewel Room - A collector has James Bond cars; a $45 million home is brimming with secrets.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|09:00:00|09:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|09:30:00|10:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|10:00:00|11:00:00|American Greed: Scams, Scoundrels and Scandals - A social climber uses artful deception to gather wealthy friends for herself.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|11:00:00|13:00:00|Golf highlights from the latest event on the PGA Tour, the Waste Management Phoenix Open at TPC Scottsdale in Arizona.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|14:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|14:00:00|15:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|15:00:00|16:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|16:00:00|17:00:00|American Greed: Scams, Scoundrels and Scandals - A man running a bogus investment firm is turned in by his personal assistant.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|17:00:00|17:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|17:30:00|18:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|18:00:00|19:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|19:00:00|20:00:00|American Greed: Scams, Scoundrels and Scandals - A social climber uses artful deception to gather wealthy friends for herself.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Taylor Lautner; Griff and Sigrid perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:00:00|22:00:00|Maddie Ziegler; Brooklyn Beckham.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:00:00|23:00:00|Liam Neeson; Jenny Slate; Joshua Ray Walker performs.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|23:00:00|23:30:00|Bond Cars &amp; Secret Jewel Room - A collector has James Bond cars; a $45 million home is brimming with secrets.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|23:30:00|00:00:00|A Billionaire&#039;s Lair &amp; Super Rich Dog - A penthouse garage is built for car storage.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|00:00:00|01:00:00|Taylor Lautner; Griff and Sigrid perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|00:00:00|01:00:00|Taylor Lautner; Griff and Sigrid perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|01:00:00|02:00:00|Maddie Ziegler; Brooklyn Beckham.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|02:00:00|03:00:00|Liam Neeson; Jenny Slate; Joshua Ray Walker performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|03:00:00|04:00:00|Javier Bardem; Daveed Diggs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|04:00:00|05:00:00|Maluma; Julia Garner; Kamasi Washington performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|05:00:00|05:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|05:30:00|06:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|06:00:00|07:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joel Osteen|07:00:00|07:30:00|Religious programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Conley|07:30:00|08:00:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In Touch Ministries|08:00:00|08:30:00|In Touch Ministries, founded by Pastor Dr. Charles Stanley, shares sermons and other uplifting messages tackling a range of subjects.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joseph Prince - New Creation Church TV|08:30:00|09:00:00|Senior Pastor Joseph Prince leads viewers in a time of worship and study as he addresses a series of religious topics designed to encourage individuals.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Elevation with Steven Furtick|09:00:00|09:30:00|Pastor Steven Furtick leads the followers of Elevation Church in an exciting and informative celebration of their beliefs and of God&#039;s teachings.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|09:30:00|10:00:00|Bond Cars &amp; Secret Jewel Room - A collector has James Bond cars; a $45 million home is brimming with secrets.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|10:00:00|11:00:00|American Greed: Scams, Scoundrels and Scandals - A man running a bogus investment firm is turned in by his personal assistant.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|11:00:00|13:00:00|Golf highlights from the latest event on the PGA Tour, the Waste Management Phoenix Open at TPC Scottsdale in Arizona.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|14:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|14:00:00|15:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|15:00:00|15:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|15:30:00|16:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|16:00:00|17:00:00|A series of roundtable discussions ensues concerning issues of both national and international interest, featuring interviews with members of Congress.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bernie Madoff: His Life and Crimes|17:00:00|18:00:00|Details are shared about Bernie Madoff&#039;s Ponzi scheme, which left thousands of victims ruined financially while also impacting Wall Street institutions.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|18:00:00|18:30:00|Jean Todt - Jean Todt speaks about his extraordinary career as the president of FIA.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|18:30:00|19:00:00|Alexandre Ricard - Alexandre Ricard discusses the global drinks conglomerate Pernod Ricard.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|19:00:00|20:00:00|A series of roundtable discussions ensues concerning issues of both national and international interest, featuring interviews with members of Congress.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Javier Bardem; Daveed Diggs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:00:00|22:00:00|Maluma; Julia Garner; Kamasi Washington performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|22:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
