@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Lunedì 21 Febbraio 2022
+> Programmazione di Martedì 22 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
