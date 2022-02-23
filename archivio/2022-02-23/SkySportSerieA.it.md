@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Martedì 22 Febbraio 2022
+> Programmazione di Mercoledì 23 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
