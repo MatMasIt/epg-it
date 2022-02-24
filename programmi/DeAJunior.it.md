@@ -1,5 +1,5 @@
 # DeA Junior
-> Programmazione di Mercoledì 23 Febbraio 2022
+> Programmazione di Giovedì 24 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
