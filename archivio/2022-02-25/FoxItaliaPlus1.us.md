@@ -1,5 +1,5 @@
 # Fox Italia +1
-> Programmazione di Giovedì 24 Febbraio 2022
+> Programmazione di Venerdì 25 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
