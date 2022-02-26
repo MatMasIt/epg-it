@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Venerdì 25 Febbraio 2022
+> Programmazione di Sabato 26 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
