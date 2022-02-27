@@ -1,0 +1,18 @@
+# Mediaset Extra
+> Programmazione di Sabato 26 Febbraio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/2f75f09f-421c-432b-a4a1-2df3b90b0700/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|01:02:18|05:02:18|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/c7028aa6-4d97-46ff-8457-73e78516f654/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|05:02:19|08:00:19|Rivediamo le vicende accadute ieri sera nella casa del Grande Fratello Vip
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|08:00:20|11:30:20|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|11:30:31|13:45:31|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|13:45:56|15:29:56|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|15:30:44|17:39:44|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|17:40:18|20:11:18|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|20:11:38|23:04:38|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+|![Icon](https://guidatv.sky.it/uuid/031880d7-1a47-46c6-a4aa-e5d2034d8b0e/cover?md5ChecksumParam=c93d76b8b655b4c5dfc23f05901598e9)|Grande Fratello Vip: in diretta dalla casa|23:05:33|01:01:33|.. casa (diretta) - - L&#039;occhio del Grande Fratello e&#039; acceso 24 ore su 24 per seguire la vita dei concorrenti vip protagonisti del reality piu&#039; famoso della televisione
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
