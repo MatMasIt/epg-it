@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Domenica 27 Febbraio 2022
+> Programmazione di Lunedì 28 Febbraio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
