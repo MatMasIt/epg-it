@@ -3,24 +3,33 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Hellas Vr-29/08/2021|02:50:00|04:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Inter vs Milan|04:50:00|05:00:00|Behind The Scene Inter vs Milan
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|06:50:00|07:00:00|Soulmates Ibra Pato Robinho
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-05/02/2022|07:00:00|08:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Inter vs Milan|08:50:00|09:05:00|Behind The Scene Inter vs Milan
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Bench Cam Derby|09:05:00|09:10:00|Milan Tv-Bench Cam Derby
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Conferenza Stampa Pioli-Live|11:00:00|11:25:00|Alla vigilia della prossima sfida che attende il suo Milan, Stefano Pioli risponde a tutte le domande dei giornalisti in conferenza stampa a Milanello: impressioni, sensazioni, scelte di formazione e punto sulle condizioni della squadra verso un nuovo impegno
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa Italia-Milan vs Genoa-13/01/2022|11:25:00|13:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|13:50:00|14:00:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|19:30:00|19:45:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|19:45:00|20:00:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi&#039;-Live|20:00:00|21:30:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell&#039;ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Milan vs Udinese|00:00:00|00:55:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Milan vs Udinese|00:00:00|00:55:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|03:15:00|03:50:00|Milan Tv-Speciale Magliette
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Soulmates Rijkaard Van Basten Gullit|03:50:00|04:00:00|Soulmates Rijkaard Van Basten Gullit
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|04:00:00|04:35:00|Milan Tv-Speciale Mazzoni
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-On The Road-Messias|04:35:00|05:00:00|Milan Tv-On The Road-Messias
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-On The Road-Messias|02:05:00|02:30:00|Milan Tv-On The Road-Messias
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-On The Road-Pioli|04:30:00|05:00:00|Milan Tv-On The Road-Pioli
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Lazio-05/02/2022|05:00:00|06:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Roma vs Milan-19/02/2022|08:30:00|10:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Pioli Mic&#039;d Up|10:15:00|10:25:00|Milan Tv-Pioli Mic&#039;d Up
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Sassuolo vs Milan-26/02/22|10:25:00|12:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|12:10:00|12:20:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Napoli vs Milan-12/07/2020|12:20:00|14:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-EXPO DUBAI 2022|14:10:00|14:15:00|Milan Tv-EXPO DUBAI 2022
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Under My Skin Giroud|14:15:00|14:25:00|Milan Tv-Under My Skin Giroud
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Napoli vs Milan-1996|14:25:00|16:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi-Napoli vs Milan-1987/1988|16:10:00|17:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa Italia-Milan vs Inter-01/03/2022|17:05:00|18:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|19:25:00|19:35:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-A casa di Diaz|19:35:00|19:45:00|Milan Tv-A casa di Diaz
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOAL COLLECTION-PAOLO MALDINI|19:45:00|20:00:00|GOAL COLLECTION-PAOLO MALDINI
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa Italia-Milan vs Inter-01/03/2022|20:00:00|21:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-EXPO DUBAI 2022|21:45:00|21:50:00|Milan Tv-EXPO DUBAI 2022
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Under My Skin Giroud|21:50:00|22:00:00|Milan Tv-Under My Skin Giroud
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-11/05/2001|22:00:00|23:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Inter vs Milan|23:40:00|23:50:00|Behind The Scene Inter vs Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Bench Cam Derby|23:50:00|00:00:00|Milan Tv-Bench Cam Derby
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Udinese-25/02/2022|00:00:00|01:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Udinese-25/02/2022|00:00:00|01:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Sassuolo vs Milan-26/02/22|01:50:00|03:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Mazzoni|03:35:00|04:10:00|Milan Tv-Speciale Mazzoni
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION VAN BASTEN|04:10:00|05:00:00|GOL COLLECTION VAN BASTEN
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|05:00:00|06:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - A casa di Bennancer|06:45:00|07:00:00|Milan Tv - A casa di Bennancer
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|07:00:00|08:50:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
