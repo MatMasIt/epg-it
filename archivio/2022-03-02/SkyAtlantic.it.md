@@ -1,5 +1,5 @@
 # Sky Atlantic
-> Programmazione di Martedì 01 Marzo 2022
+> Programmazione di Mercoledì 02 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
