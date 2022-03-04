@@ -1,5 +1,5 @@
 # Spike Italia
-> Programmazione di Giovedì 03 Marzo 2022
+> Programmazione di Venerdì 04 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
