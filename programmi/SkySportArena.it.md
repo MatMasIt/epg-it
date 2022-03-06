@@ -1,5 +1,5 @@
 # Sky Sport Arena
-> Programmazione di Sabato 05 Marzo 2022
+> Programmazione di Domenica 06 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
