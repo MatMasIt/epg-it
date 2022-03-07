@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Domenica 06 Marzo 2022
+> Programmazione di Lunedì 07 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
