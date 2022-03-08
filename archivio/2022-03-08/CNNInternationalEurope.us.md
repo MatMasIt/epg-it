@@ -3,11 +3,10 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|00:00:00|01:00:00|Updates of the latest news from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|01:00:00|02:00:00|Updates of the latest news from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|02:00:00|03:00:00|Updates of the latest news from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom Sunday - 1^TV|03:00:00|04:00:00|Updates of the latest news from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Paula Newton|04:00:00|07:00:00|Live from Atlanta, Paula Newton brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Erin Burnett OutFront|00:00:00|01:00:00|Erin Burnett stays ahead of the headlines, delivering a show that&#039;s in-depth and informative.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|01:00:00|03:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|03:00:00|05:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with John Vause|05:00:00|07:00:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Rosemary Church|07:00:00|09:00:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Isa Soares|09:00:00|10:00:00|Live from London, Isa Soares brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|10:00:00|11:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
