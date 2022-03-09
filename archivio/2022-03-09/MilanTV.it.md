@@ -1,0 +1,52 @@
+# Milan TV
+> Programmazione di Martedì 08 Marzo 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Napoli vs Milan|00:00:00|00:55:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|02:40:00|03:15:00|Milan Tv-Speciale Magliette
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Sassuolo vs Milan-15/05/2021|03:15:00|03:50:00|Milan Tv-Speciale Mazzoni
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Addicted Slait|03:50:00|04:00:00|Milan Tv-Addicted Slait
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Addicted Junior Kelly|04:00:00|04:15:00|Milan Tv-Addicted Junior Kelly
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION-SHEVCHENKO|04:15:00|05:00:00|GOL COLLECTION-SHEVCHENKO
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Napoli-06/03/2022|05:00:00|06:45:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Juventus-2018/2019|06:45:00|08:30:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|08:30:00|08:45:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Inter-12/10/2019|08:45:00|10:30:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Juventus-16/11/2019|10:30:00|12:20:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Sassuolo vs Milan-15/05/2021|12:20:00|14:05:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Qualificazione Champions|14:05:00|14:15:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|SEASON REVIEW FEMMINILE 2020/2021|14:15:00|14:50:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Tarvisio-Ritiro Milan Femminile|14:50:00|15:15:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|SPECIALE CHAMPIONS FEMMINILE|15:15:00|15:50:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Roma vs Milan-05/01/2022|15:50:00|17:45:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Supercoppa Femminile 2022|17:45:00|18:05:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Juventus vs Milan-08/01/2022|18:05:00|20:00:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-She-Bebe Vio|20:00:00|20:30:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Controluce Ep. 5|20:30:00|21:05:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Sampdoria-23/01/2022|21:05:00|22:50:00|Nel Giorno della Festa della Donna, Milan Tv vi regala 24 ore di emozioni, ricordi e storie di calcio femminile. Introdotto e tratteggiato dalle nostre ragazze rossonere, conduttrici per un giorno
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale &#039;Gli Immortali&#039;|22:50:00|00:40:00|Milan Tv-Speciale &#039;Gli Immortali&#039;
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Napoli-06/03/2022|00:40:00|02:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Napoli vs Milan-06/03/2022|02:25:00|04:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|04:15:00|05:00:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|05:00:00|06:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - A casa di Bennancer|06:45:00|07:00:00|Milan Tv - A casa di Bennancer
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|07:00:00|08:50:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - Icons|08:50:00|09:00:00|Milan Tv - Icons
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Primavera|09:00:00|10:55:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - Icons|10:55:00|11:00:00|Milan Tv - Icons
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Femminile|11:00:00|13:00:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Sassuolo vs Milan-15/05/2021|13:00:00|13:10:00|Soulmates Gattuso Pirlo Seedorf
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|13:10:00|15:05:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - Addicted Gegio|15:05:00|15:15:00|Milan Tv - Addicted Gegio
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|15:15:00|17:10:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - Addicted Cracco|17:10:00|17:20:00|Milan Tv - Addicted Cracco
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Primavera|17:20:00|19:20:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita - Review|19:20:00|20:10:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - The Ring Puntata 3|20:10:00|20:20:00|Milan Tv - The Ring Puntata 3
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Femminile|20:20:00|22:15:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Primavera|22:15:00|00:10:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
