@@ -1,5 +1,5 @@
 # Sky Meteo 24
-> Programmazione di Mercoledì 09 Marzo 2022
+> Programmazione di Giovedì 10 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
