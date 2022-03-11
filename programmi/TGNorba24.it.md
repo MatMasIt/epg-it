@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Giovedì 10 Marzo 2022
+> Programmazione di Venerdì 11 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
