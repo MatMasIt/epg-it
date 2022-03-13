@@ -1,5 +1,5 @@
 # Bloomberg TV Europe
-> Programmazione di Sabato 12 Marzo 2022
+> Programmazione di Domenica 13 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
