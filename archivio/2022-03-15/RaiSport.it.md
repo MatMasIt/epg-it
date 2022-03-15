@@ -3,41 +3,44 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Festa del Cross|00:50:00|02:00:00|E&#039; la massima rassegna nazionale di Corsa Campestre italiana. Oltre 2000 gli atleti, in rappresentanza di oltre 280 club da tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|02:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto|07:00:00|08:15:00|Il meglio del campionato italiano di calcio di Serie A e B con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Anteprima - La Domenica Sportiva|08:15:00|08:30:00|Le anticipazioni di quello che vedremo a La Domenica Sportiva.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Domenica Sportiva|08:30:00|10:00:00|L&#039;appuntamento con l&#039;informazione sportiva targata Rai: commenti a caldo sui principali avvenimenti sportivi della giornata calcistica e di tutti gli altri sport.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;altra DS|10:00:00|10:30:00|L&#039;appuntamento con l&#039;informazione sportiva targata Rai: commenti e interviste sui principali avvenimenti sportivi della giornata calcistica e di tutti gli altri sport.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: F. Bologna - V. Bologna|10:30:00|12:40:00|Serie A, 22a g - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Trento - Milano|12:40:00|15:10:00|Superlega, 24a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|15:10:00|15:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|15:30:00|17:30:00|Bakuriani. Slopstyle - Il grande spettacolo della Coppa del Mondo di Snowboard.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Sera|17:30:00|17:50:00|Le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Parigi-Nizza|17:50:00|19:05:00|Nice - Nice, 116 km 8a tappa - La 80a edizione della corsa conosciuta come &#039;La Corsa del Sole&#039;. Campione in carica il tedesco Maximilian Schachmann.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|C Siamo|19:05:00|19:50:00|Tutto il meglio dai campi della Serie C.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Feralpisalo&#039; - Triestina (live)|19:50:00|22:00:00|Serie C - 31a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Totale|22:00:00|23:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Notte|23:00:00|23:15:00|Tutte le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Festa del Cross|08:45:00|10:30:00|E&#039; la massima rassegna nazionale di Corsa Campestre italiana. Oltre 2000 gli atleti, in rappresentanza di oltre 280 club da tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|10:30:00|11:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: F. Bologna - V. Bologna|11:00:00|13:00:00|Serie A, 22a g - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|13:00:00|14:30:00|Piancavallo. Slalom Parallelo - Il grande spettacolo della Coppa del Mondo di Snowboard.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|14:30:00|16:00:00|Vikersund. HS 240 - Le spettacolari evoluzioni dei campioni internazionali nella 43a edizione della Coppa del Mondo di salto con gli sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|16:00:00|17:30:00|Veysonnaz. Dual Moguls - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|17:30:00|17:50:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Festa del Cross|17:50:00|19:30:00|E&#039; la massima rassegna nazionale di Corsa Campestre italiana. Oltre 2000 gli atleti, in rappresentanza di oltre 280 club da tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Milano - Trento (live)|19:30:00|22:00:00|Superlega, 12a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Cross della Vallagarina|22:00:00|22:45:00|La manifestazione di corsa campestre tra gli scenari naturali del Trentino Alto Adige.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sci di fondo: Skiri Trophy XCountry|22:45:00|23:00:00|E&#039; la trentanovesima edizione della manifestazione riservata ai giovani atleti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Festa del Cross|08:45:00|10:15:00|E&#039; la massima rassegna nazionale di Corsa Campestre italiana. Oltre 2000 gli atleti, in rappresentanza di oltre 280 club da tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: F. Bologna - V. Bologna|10:15:00|12:00:00|Serie A, 22a g - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pallanuoto: Coppa Italia M|12:00:00|13:00:00|Pro Recco - Brescia Finale - Le sfide per ottenere il trofeo nazionale. Detiene il titolo Pro Recco.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|13:00:00|14:30:00|Reiteralm. Snowboard Cross - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|14:30:00|16:00:00|Piancavallo. Slalom Parallelo - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|16:00:00|17:30:00|Piancavallo. Slalom Parallelo Team - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Sera|17:30:00|17:50:00|Le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|17:50:00|19:30:00|Chiesa di Valcamenco. Dual Moguls - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|19:30:00|20:00:00|Falun. M Gara - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol&#039;unov, tra le donne l&#039;americana Jessica Diggins.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|20:00:00|20:30:00|Falun. F Gara - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol&#039;unov, tra le donne l&#039;americana Jessica Diggins.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|20:30:00|21:00:00|Falun. Staffetta 4x5 Km M/F - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol&#039;unov, tra le donne l&#039;americana Jessica Diggins.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|21:00:00|21:30:00|Falun. Staffetta Sprint M/F - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il russo Aleksandr Bol&#039;unov, tra le donne l&#039;americana Jessica Diggins.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pallanuoto: Coppa Italia M|21:30:00|23:00:00|Pro Recco - Brescia Finale - Le sfide per ottenere il trofeo nazionale. Detiene il titolo Pro Recco.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Notte|23:00:00|23:15:00|Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|23:15:00|00:45:00|Reiteralm. Snowboard Cross - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|00:45:00|02:00:00|Piancavallo. Slalom Parallelo - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|02:00:00|05:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|05:00:00|05:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|05:30:00|07:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|08:45:00|09:00:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|09:00:00|10:15:00|Courchevel. Discesa Libera M - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|10:15:00|10:30:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|10:30:00|11:45:00|Courchevel. Discesa Libera F - Tutto lo spettacolo del circo bianco, le gare che assegnano la coppa generale e quelle di specialita&#039; in campo maschile e femminile.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Studio Sci Alpino|11:45:00|12:00:00|Si accendono i riflettori sul &#039;circo bianco&#039;. Occhi puntati sui grandi protagonisti internazionali dello sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Coppa del Mondo|12:00:00|13:30:00|Megeve. Dual Moguls - Le avvincenti gare con i grandi campioni internazionali di freestyle di sci.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|13:30:00|14:00:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Milano-Torino|14:00:00|16:00:00|E&#039; la piu&#039; antica classica italiana, essendosi disputata per la prima volta nel 1876. Trionfatore lo scorso anno lo sloveno Primo Roglic.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Viareggio Cup|16:00:00|18:10:00|1a g - Edizione numero 72 della Viareggio Cup. Detiene il titolo il Bologna.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Paralimpiadi Invernali Pechino... (live)|18:10:00|19:10:00|The best of - Si svolgono nella capitale della Cina i XIII Giochi paralimpici invernali.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|19:10:00|19:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Latina - Virtus Francavilla (live)|19:30:00|22:00:00|Serie C - 32a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|22:00:00|22:30:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tiro con l&#039;arco: Campionati Italiani...|22:30:00|23:00:00|...Indoor - Le gare che assegnano il titolo tricolore nelle varie specialita&#039; agli arcieri.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|23:00:00|23:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:15:00|01:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Tofas - Treviso|23:15:00|01:00:00|Champions League - La Basketball Champions League 2021-2022, la principale competizione europea per club organizzata dalla FIBA. Detentrice del titolo e&#039; S.P. Burgos.
 
 
 
