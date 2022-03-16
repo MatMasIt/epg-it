@@ -1,5 +1,5 @@
 # Premium Cinema 3
-> Programmazione di Martedì 15 Marzo 2022
+> Programmazione di Mercoledì 16 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
