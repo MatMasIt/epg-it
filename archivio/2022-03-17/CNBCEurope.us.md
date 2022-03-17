@@ -17,7 +17,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|22:00:00|22:30:00|Business leaders, politicians and other public figures are interviewed as they shed light on the person they are behind their public persona.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|22:00:00|22:30:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|22:30:00|23:30:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
@@ -35,10 +35,10 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|18:00:00|19:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|19:00:00|20:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|20:00:00|22:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|22:00:00|22:30:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money|22:00:00|22:30:00|A panel of top investment traders discuss the market-related news of the day to highlight the relevant topics that matter most to investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|22:30:00|23:30:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|23:30:00|00:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|00:00:00|01:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
 
 
 
