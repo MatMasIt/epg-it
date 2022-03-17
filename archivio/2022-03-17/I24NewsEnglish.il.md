@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Mercoledì 16 Marzo 2022
+> Programmazione di Giovedì 17 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
