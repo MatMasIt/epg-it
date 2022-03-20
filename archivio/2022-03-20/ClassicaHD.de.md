@@ -1,5 +1,5 @@
 # Classica HD
-> Programmazione di Sabato 19 Marzo 2022
+> Programmazione di Domenica 20 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
