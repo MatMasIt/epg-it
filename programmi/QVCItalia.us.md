@@ -10,20 +10,21 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Benvenuto Benessere|09:00:00|10:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|10:00:00|11:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|11:00:00|12:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mitarotonda, Classe e stile di oggi|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Mitarotonda un marchio e una collezione di scarpe che nasce per rispondere a specifiche esigenze della donna contemporanea.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Demetra Closet, la musa della moda|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|15:00:00|16:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mitarotonda, Classe e stile di oggi|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Mitarotonda un marchio e una collezione di scarpe che nasce per rispondere a specifiche esigenze della donna contemporanea.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|20:00:00|22:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|22:00:00|23:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Nuage Argente|07:00:00|09:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|A proposito di Noi|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Aimee Kestenberg, bag couture|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Aimee Kestenberg, brand di accessori dal design raffinato e dai materiali esclusivi, ideato dall&#039;omonima stilista australiana.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ottaviani espressioni di stile|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Nuage Argente|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Nuage Argente|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colpropur, Lo specialista del Collagene|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Nuage Argente|18:00:00|19:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M. Asam, Estratti d&#039;uva per la tua pelle|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il meglio del Diamonique Day|20:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ama la tua casa con Nuage Argente|21:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|23:00:00|00:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
@@ -32,20 +33,19 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|07:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, i nuovi colori delle pietre|09:00:00|10:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique per la tua primavera|10:00:00|11:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|11:00:00|13:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique per la tua primavera|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, i colori della primavera|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique per la tua primavera|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|18:00:00|20:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique per la tua primavera|20:00:00|21:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Un Diamonique e&#039; per tutti|21:00:00|22:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, Il gran finale|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nuage Argente&#039;, Missione riposo perfetto|23:00:00|00:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|07:00:00|09:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|11:00:00|12:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M&#039;ama, e&#039; moda al primo sguardo|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|14:00:00|15:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|15:00:00|16:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|16:00:00|17:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|18:00:00|19:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|M&#039;ama, e&#039; moda al primo sguardo|19:00:00|20:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|20:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Loux by DdB, indossa il lusso del relax|23:00:00|00:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
 
