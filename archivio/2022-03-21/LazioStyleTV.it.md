@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Domenica 20 Marzo 2022
+> Programmazione di Lunedì 21 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
