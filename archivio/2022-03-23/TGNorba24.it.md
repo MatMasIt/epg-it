@@ -3,20 +3,21 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|00:14:00|00:34:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|00:00:00|00:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|00:15:00|00:34:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|00:34:00|00:49:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|00:49:00|01:04:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|01:04:00|01:24:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|01:24:00|01:39:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|01:39:00|01:54:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|01:54:00|02:14:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|02:14:00|02:29:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|02:29:00|02:44:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|02:44:00|03:04:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:04:00|03:19:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:19:00|03:34:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|03:34:00|03:54:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:54:00|04:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|01:04:00|01:23:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|01:23:00|01:38:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|01:38:00|01:53:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|01:53:00|02:13:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|02:13:00|02:28:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|02:28:00|02:43:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|02:43:00|03:02:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:02:00|03:17:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:17:00|03:32:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Bordocampo|03:32:00|03:52:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 TG|03:52:00|04:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:00:00|04:08:00|Buongiorno - almanacco
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:08:00|04:17:00|Buongiorno - almanacco
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg norba 24 Buongiorno|04:17:00|04:26:00|Buongiorno - almanacco
