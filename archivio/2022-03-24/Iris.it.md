@@ -1,5 +1,5 @@
 # Iris
-> Programmazione di Mercoledì 23 Marzo 2022
+> Programmazione di Giovedì 24 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
