@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Venerdì 25 Marzo 2022
+> Programmazione di Sabato 26 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
