@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Sabato 26 Marzo 2022
+> Programmazione di Domenica 27 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
