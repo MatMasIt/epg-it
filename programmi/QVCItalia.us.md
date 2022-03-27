@@ -9,29 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|06:00:00|07:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|07:00:00|09:00:00|ITA. Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Officina della moda, The fashion factory|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Questione di Stile|10:00:00|12:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Le Corone Bags, straordinarie come te|12:00:00|13:00:00|ITA. Scopri Qvc. Scopri Le Corone Bags. Chi sceglie queste borse vuole esprimere la propria personalita&#039;, in quanto la varieta&#039; di colori proposti racconta cio&#039; che le parole non possono dire.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|EVA Franco Ciambella, energia di moda|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|14:00:00|15:00:00|ITA. Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Bianca della Torre,Personalita&#039; elegante|15:00:00|16:00:00|ITA. Scopri Bianca della Torre, un brand per una donna elegante esigente attenta ai dettagli e con la passione per la qualita&#039; ed il Made in Italy.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|16:00:00|17:00:00|ITA. Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Officina della moda, The fashion factory|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|18:00:00|19:00:00|ITA. Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Bianca della Torre,Personalita&#039; elegante|20:00:00|21:00:00|ITA. Scopri Bianca della Torre, un brand per una donna elegante esigente attenta ai dettagli e con la passione per la qualita&#039; ed il Made in Italy.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Galieti, Moda e sapienza italiane|21:00:00|22:00:00|ITA. Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Veronese, fascino d&#039;oro cuore d&#039;argento|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Veronese, gioielli realizzati in argento placcato oro 18k, dal design sofisticato e di pregio ispirato all&#039;eleganza e alla storia della tradizione orafa di Verona.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|23:00:00|00:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|06:00:00|08:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|A*dela, pensa al tuo stile|08:00:00|09:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
@@ -44,6 +21,29 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Le Babe, scarpe comode e originali|18:00:00|19:00:00|Le Babe nasce in Friuli negli anni &#039;60, affermandosi ben presto nella produzione di calzature &#039;supercomode&#039; dallo stile non convenzionale, colorato e sfizioso.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Adesso e&#039; Moda|19:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|James Read, Come baciata dal sole|22:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty Show con James Read|06:00:00|08:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scopri Diamonique!|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Diamonique, brand che simula il diamante in modo impeccabile per esaudire il desiderio di ogni donna di brillare tutti i giorni con un gioiello diverso.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|A.MARSI by Silvia Mori, donne nella moda|09:00:00|10:00:00|ITA. A.MARSI by Silvia Mori e&#039; il brand di moda che nasce dal legame fortissimo tra due donne che sono prima di tutto madre e figlia.Collezioni made in Italy dalla forte personalita&#039;, realizzate con tessuti innovativi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|James Read, Come baciata dal sole|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Giacche&amp;Trench|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Le Serpentini, dove osano le scarpe|12:00:00|13:00:00|ITA. Scopri Qvc. Scopri Le Serpentini scarpe nate da un&#039;esperienza trentennale. Ogni scarpa si distingue per un dettaglio unico: tacchi originali, inserti particolari e decorazioni gioiello.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty Show con James Read|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Salute e Fitness|14:00:00|15:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta del modo migliore per curare la propria salute ed essere sempre belli e in forma.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty Show con James Read|15:00:00|16:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Le Serpentini, dove osano le scarpe|16:00:00|17:00:00|ITA. Scopri Qvc. Scopri Le Serpentini scarpe nate da un&#039;esperienza trentennale. Ogni scarpa si distingue per un dettaglio unico: tacchi originali, inserti particolari e decorazioni gioiello.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty Show con James Read|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il meglio del Fashion Event|18:00:00|20:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty Show con James Read|20:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Salute e Fitness|21:00:00|22:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta del modo migliore per curare la propria salute ed essere sempre belli e in forma.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|La bacchetta magica con Bissell|22:00:00|23:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
