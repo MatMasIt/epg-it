@@ -1,5 +1,5 @@
 # San Marino RTV
-> Programmazione di Domenica 27 Marzo 2022
+> Programmazione di Lunedì 28 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
