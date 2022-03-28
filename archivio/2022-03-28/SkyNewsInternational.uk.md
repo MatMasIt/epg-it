@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:00:00|00:30:00|News reports on the big stories from the UK and around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|00:30:00|01:00:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:00:00|00:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:30:00|01:00:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
 |![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:00:00|01:30:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:30:00|02:00:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|02:00:00|02:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
