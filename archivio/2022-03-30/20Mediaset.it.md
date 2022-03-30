@@ -1,5 +1,5 @@
 # 20 Mediaset
-> Programmazione di Martedì 29 Marzo 2022
+> Programmazione di Mercoledì 30 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
