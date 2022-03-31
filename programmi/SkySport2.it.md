@@ -3,6 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Semifinale maschile (diretta)|16:00:00|21:00:00|Padel Qoredoo Qatar Major Doha, dalle 18:30.
 
 
 
