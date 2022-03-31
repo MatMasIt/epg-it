@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Mercoledì 30 Marzo 2022
+> Programmazione di Giovedì 31 Marzo 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
