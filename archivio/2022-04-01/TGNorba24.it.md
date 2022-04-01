@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Giovedì 31 Marzo 2022
+> Programmazione di Venerdì 01 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
