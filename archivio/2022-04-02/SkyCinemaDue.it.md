@@ -1,5 +1,5 @@
 # Sky Cinema Due
-> Programmazione di Venerdì 01 Aprile 2022
+> Programmazione di Sabato 02 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
