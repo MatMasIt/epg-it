@@ -1,5 +1,5 @@
 # San Marino RTV
-> Programmazione di Sabato 02 Aprile 2022
+> Programmazione di Domenica 03 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
