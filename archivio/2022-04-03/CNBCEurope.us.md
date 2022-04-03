@@ -1,0 +1,62 @@
+# CNBC Europe
+> Programmazione di Sabato 02 Aprile 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|00:00:00|03:00:00|Anchored at the Singapore Exchange, detailed information is shared about the most significant moves of the day, including market trends and trade information.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|03:00:00|04:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk Box Europe|04:00:00|08:00:00|As the European markets prepare to open, detailed information is shared about breaking news and market movements from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Worldwide Exchange|08:00:00|09:00:00|A close look is taken at the global business sector as experts discuss news impacting the international markets as special reports come in from various sites.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Squawk Box|09:00:00|12:00:00|Business, political and investment news items are discussed to reveal insights into Wall Street and trading in the United States of America.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk on the Street|12:00:00|14:00:00|The team presents the only show headquartered on the floor of the New York Stock Exchange, observing as the bell is rung to start each trading day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TechCheck|14:00:00|15:00:00|Anchors from the East and West coasts discuss the new technologies and trends that are impacting how investors address various sectors.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money: Half Time Report|15:00:00|16:00:00|A panel of financial insiders gives advice to brokers, traders and investors to help individuals make the best use of breaking news and market insights.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|16:00:00|17:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|17:00:00|18:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|18:00:00|19:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell: Overtime|19:00:00|20:00:00|Experts discuss all of the after-hours moves in the stock market, including breaking news, corporate earnings and post-market trading.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money|20:00:00|20:30:00|A panel of top investment traders discuss the market-related news of the day to highlight the relevant topics that matter most to investors.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|20:30:00|21:30:00|Saturday Night Live alumnus Seth Meyers performs comedic skits and interviews.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|21:30:00|22:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|22:00:00|23:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|23:00:00|23:30:00|Sebastian Thrun - Sebastian Thrun is a true innovator. This tech wizard used to head up Google X, but he has walked away and is now on a mission to change the way the world learns.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|23:30:00|00:00:00|Thailand: Sustainability - CEOs discuss how they are balancing sustainability and financial viability.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|00:00:00|00:30:00|Nicole Stott - Interviews with top business and political leaders.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|00:00:00|00:30:00|Nicole Stott - Interviews with top business and political leaders.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Equity and Opportunity|00:30:00|01:00:00|Vaccine Equity - The CEO of the WHO Foundation discusses access to the COVID-19 vaccine.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|01:00:00|01:30:00|Sebastian Thrun - Sebastian Thrun is a true innovator. This tech wizard used to head up Google X, but he has walked away and is now on a mission to change the way the world learns.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|01:30:00|02:00:00|Thailand: Sustainability - CEOs discuss how they are balancing sustainability and financial viability.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|02:00:00|03:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|03:00:00|03:30:00|Nicole Stott - Interviews with top business and political leaders.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Equity and Opportunity|03:30:00|04:00:00|Vaccine Equity - The CEO of the WHO Foundation discusses access to the COVID-19 vaccine.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|04:00:00|04:30:00|Sebastian Thrun - Sebastian Thrun is a true innovator. This tech wizard used to head up Google X, but he has walked away and is now on a mission to change the way the world learns.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|04:30:00|05:00:00|Thailand: Sustainability - CEOs discuss how they are balancing sustainability and financial viability.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|05:00:00|06:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|06:00:00|06:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:30:00|07:00:00|Lake Tahoe&#039;s Most Expensive Estate &amp; World&#039;s First Luxury Jetliner - A look is taken at a modified Boeing 777 that has become a flying cruise ship.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|07:00:00|07:30:00|Nicole Stott - Former astronaut Nicole Stott discusses her hopes for space travel.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Equity and Opportunity|07:30:00|08:00:00|Vaccine Equity - The CEO of the WHO Foundation discusses access to the COVID-19 vaccine.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|08:00:00|09:00:00|American Greed: Scams, Scoundrels and Scandals - Florida teens try to make money off of the opioid epidemic in the nation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|09:00:00|11:00:00|PGA TOUR: Corales Puntacana Resort &amp; Club Championship Rds 3&amp;4 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|11:00:00|11:30:00|Mobil 1 The Grid 2022 Ep 2 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|11:30:00|12:30:00|Asian Le Mans 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:30:00|13:00:00|Tiree Wave Classic 2021 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|13:00:00|13:30:00|Sebastian Thrun - Sebastian Thrun is a true innovator. This tech wizard used to head up Google X, but he has walked away and is now on a mission to change the way the world learns.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|13:30:00|14:00:00|Thailand: Sustainability - CEOs discuss how they are balancing sustainability and financial viability.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|14:00:00|15:00:00|American Greed: Scams, Scoundrels and Scandals - A firm selling prearranged funerals swindles its clients out of $500 million.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|15:00:00|15:30:00|Nicole Stott - Former astronaut Nicole Stott discusses her hopes for space travel.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Equity and Opportunity|15:30:00|16:00:00|Vaccine Equity - The CEO of the WHO Foundation discusses access to the COVID-19 vaccine.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|16:00:00|16:30:00|Sebastian Thrun - Sebastian Thrun is a true innovator. This tech wizard used to head up Google X, but he has walked away and is now on a mission to change the way the world learns.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|16:30:00|17:00:00|Thailand: Sustainability - CEOs discuss how they are balancing sustainability and financial viability.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|17:00:00|18:00:00|American Greed: Scams, Scoundrels and Scandals - Florida teens try to make money off of the opioid epidemic in the nation.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|18:00:00|19:00:00|Mariska Hargitay; Christopher Meloni; Maren Morris performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|19:00:00|20:00:00|David Letterman; Adam Duritz performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Profit|20:00:00|21:00:00|Ashtae Products - A family-owned hair care company reaches out for help, so Marcus meets with them to help the company overcome a range of business-related problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|21:00:00|21:30:00|Lake Tahoe&#039;s Most Expensive Estate &amp; World&#039;s First Luxury Jetliner - A look is taken at a modified Boeing 777 that has become a flying cruise ship.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|21:30:00|22:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|22:00:00|23:00:00|Jeff Foxworthy; Brooke Colucci sits in with the 8G Band.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|23:00:00|01:00:00|Tom Holland; Alana Haim.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
