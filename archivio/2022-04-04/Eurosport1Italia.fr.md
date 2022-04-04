@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Domenica 03 Aprile 2022
+> Programmazione di Lunedì 04 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
