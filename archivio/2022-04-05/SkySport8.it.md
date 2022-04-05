@@ -3,7 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/9a1597cb-c1f8-4d8b-927d-33b4b7a6de10/cover?md5ChecksumParam=ad1f5278e73c6c88962372325e65f1a4)|Alessandria - Spal|11:30:00|14:30:00|Cod. 449181 - Serie B - 32a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/445e315b-564b-4f1d-9757-f86e1158c928/cover?md5ChecksumParam=8b6af94b72edfb367bce5ec2f4452660)|Reggina - Benevento|16:30:00|19:30:00|Cod. 449307 - Serie B - 33a giornata. Calcio d&#039;inizio ore 19:00.
+|![Icon](https://guidatv.sky.it/uuid/fd229ad3-3e8b-44e8-a2e9-6b0d649be079/cover?md5ChecksumParam=4cb2a9e9e85195e59c31eec24fb0126c)|Fiorenzuola - Juventus U23|15:30:00|18:30:00|Cod. 448863 - Serie C - Girone C, 34a giornata. Calcio d&#039;inizio ore 18:00
 
 
 
