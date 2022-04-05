@@ -1,5 +1,5 @@
 # Sky Cinema Family
-> Programmazione di Lunedì 04 Aprile 2022
+> Programmazione di Martedì 05 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
