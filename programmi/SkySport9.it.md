@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/4f8fdcfa-5579-4d49-ba6c-be963ee5a7e3/cover?md5ChecksumParam=e47cc3dd25f48ea68591eb1b1ce38eaf)|Sud Tirol - Lecco|12:00:00|15:00:00|Cod. 448794 - Serie C - Girone A, 35a giornata. Calcio d&#039;inizio ore 14:30
+|![Icon](https://guidatv.sky.it/uuid/a77df728-3427-40b0-9919-d393764b29e9/cover?md5ChecksumParam=b796455a4a7728efd858f5cda5517a30)|Pordenone - Frosinone|16:30:00|19:30:00|Cod. 449294 - Serie B - 33a giornata. Calcio d&#039;inizio ore 19:00.
 
 
 

@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/4f1d8e3e-ad36-496e-9632-0e7338266088/cover?md5ChecksumParam=207fec601cf45ce1a2234af171760a66)|Lecce - Frosinone|11:30:00|14:30:00|Cod. 449238 - Serie B - 32a giornata. Calcio d&#039;inizio ore 14:00.
-|![Icon](https://guidatv.sky.it/uuid/793c1473-a805-4f76-be6e-f6e08280480f/cover?md5ChecksumParam=86a1470646bf0d61860086eb5df0c211)|Giornata Finale (diretta)|15:30:00|21:00:00|Golf Augusta National Women&#039;s Amateur Giornata Finale, dalle 18:00.
+|![Icon](https://guidatv.sky.it/uuid/054f28e9-c9ce-4e12-9ec7-4ead054348c0/cover?md5ChecksumParam=b8e21718ccfdf7b9174811afec280edf)|Manchester City - Atletico Madrid|18:00:00|22:00:00|Cod. 449693 - UEFA Champions League - Quarti di finale (andata). Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/c140c873-23d7-47e0-be58-81351a89392d/cover?md5ChecksumParam=cd910c818f8349f648f70dd81899fc2a)|33a g.|16:30:00|19:30:00|Dalle 19:00 Diretta Gol Serie B - 33a giornata.
 
 
 
