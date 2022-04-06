@@ -1,0 +1,107 @@
+# BFC Forbes
+> Programmazione di Martedì 05 Aprile 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|00:00:00|00:30:00|Ep27 - Federico Morgantini intervista Francesca Pasquale, Fashion Influencer, su come la digital revolution abbia accelerato l&#039;Influencer Marketing
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|00:30:00|01:00:00|Ep35 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|01:00:00|01:30:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|01:30:00|02:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|02:00:00|02:30:00|Ep114 - Giorgio Caire di Lauzet ci racconta delle certificazioni e del turismo sostenibile di Dream&amp;Charme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|02:30:00|03:00:00|Ep103 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|03:00:00|03:30:00|Ep27 - Federico Morgantini intervista Francesca Pasquale, Fashion Influencer, su come la digital revolution abbia accelerato l&#039;Influencer Marketing
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|03:30:00|04:00:00|Ep35 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Club Deal OnLine|04:00:00|04:30:00|Ep9 - Nella nona puntata Federico Morgantini intervista Luca Valaguzza, Leonardo Cervelli e Giuliano Talo&#039; su Private Asset e contenimento della volatilita&#039; con la crisi dei mercati.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|04:30:00|04:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|04:35:00|05:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|4cLegal Academy|05:30:00|06:00:00|Ep10 - La finale della terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|06:00:00|06:30:00|Ep138 - In esclusiva i protagonisti del mondo Forbes. Marcello Astorri incontra Antongiulio Monti, Founder Hoop Capital
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY|06:30:00|07:00:00|Ep96 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Andrea Boggio, Jupiter AM
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|07:00:00|07:30:00|Ep20 - Investire in azienda: e&#039; tutto nel tasso di rendimento? Ospiti Riccardo Dugini, responsabile del dipartimento Reti e Canali di relazione di Banca Etica; Alessandro Grandi, presidente di Grandi Riso
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|07:30:00|08:00:00|Ep114 - Giorgio Caire di Lauzet ci racconta delle certificazioni e del turismo sostenibile di Dream&amp;Charme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|08:00:00|08:30:00|Ep103 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|08:30:00|08:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|InFinance|08:35:00|08:40:00|Pillole di cultura finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|08:40:00|09:00:00|Gli approfondimenti settimanali di AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|09:00:00|10:00:00|Ep8 - Mosche. Un programma di Matteo Vallero. Presenta Ettore Andenna
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|10:00:00|10:30:00|Ep20 - Investire in azienda: e&#039; tutto nel tasso di rendimento? Ospiti Riccardo Dugini, responsabile del dipartimento Reti e Canali di relazione di Banca Etica; Alessandro Grandi, presidente di Grandi Riso
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|10:30:00|11:00:00|Ep1 - Stagione 3: Merano
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Terzo Canale Show|11:00:00|11:30:00|Ep270 - Scegli il tuo avatar per il Metaverso. Come ce lo spiega Ernesto Di Iorio di QuestIT. Mauro Di Bendetto (Kiri) ci spiega la strategia gamification per i comportamenti sostenibili
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|11:30:00|12:00:00|Ep91 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|12:00:00|12:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|12:05:00|13:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Empower The Future|13:00:00|14:30:00|Ep4 - Circular Economy. Round table tratta dalla seconda edizione di Empower The Future, il digital business summit dedicato all&#039;innovazione e alla sostenibilita&#039; organizzato da Forbes Italia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Speciali|14:30:00|15:30:00|Ep4 - Fabrica Floridi e&#039; un web show condotto da Luciano Floridi da Oxford e scritto da Enzo Argante. Tema della quarta puntata (ospite Chiara Carrozza, CNR): Ricerca e innovazione per il progresso economico e sociale
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|15:30:00|16:00:00|Ep113 - Luciano Floridi, il filosofo del digitale numero al mondo ci parla dell&#039;Etica dell&#039;Intelligenza Artificiale che e&#039; anche il titolo del suo ultimo saggio
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|16:00:00|16:30:00|Ep27 - Federico Morgantini intervista Francesca Pasquale, Fashion Influencer, su come la digital revolution abbia accelerato l&#039;Influencer Marketing
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|16:30:00|17:00:00|Ep103 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews 1^TV|17:00:00|17:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|InFinance|17:05:00|17:14:00|Pillole di cultura finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos 1^TV|17:14:00|17:30:00|Gli approfondimenti settimanali di AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|17:30:00|18:00:00|Ep35 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|18:00:00|18:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24 1^TV|18:05:00|19:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY 1^TV|19:00:00|19:30:00|Ep50 - Un programma di Emilio Cozzi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN 1^TV|19:30:00|20:00:00|Ep16 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi 1^TV|20:00:00|20:30:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|20:30:00|21:00:00|Ep2 - Stagione 3: Castel San Pietro Terme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|21:00:00|21:30:00|Ep27 - Federico Morgantini intervista Francesca Pasquale, Fashion Influencer, su come la digital revolution abbia accelerato l&#039;Influencer Marketing
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|21:30:00|22:00:00|Ep103 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|22:00:00|22:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|22:05:00|23:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tax Show Live|23:00:00|23:30:00|Ep5 - Il primo programma fatto da imprenditori per imprenditori. Ospite David Parenzo
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|23:30:00|00:00:00|Ep16 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|00:00:00|00:30:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|00:00:00|00:30:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|00:30:00|01:00:00|Ep2 - Stagione 3: Castel San Pietro Terme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|01:00:00|01:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|01:05:00|02:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY|02:00:00|02:30:00|Ep50 - Un programma di Emilio Cozzi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|02:30:00|03:00:00|Ep16 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|03:00:00|03:30:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|03:30:00|04:00:00|Ep2 - Stagione 3: Castel San Pietro Terme
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|04:00:00|04:30:00|Ep1 - Stagione 3: Merano
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|04:30:00|04:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|04:35:00|05:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Terzo Canale Show|05:30:00|06:00:00|Ep270 - Scegli il tuo avatar per il Metaverso. Come ce lo spiega Ernesto Di Iorio di QuestIT. Mauro Di Bendetto (Kiri) ci spiega la strategia gamification per i comportamenti sostenibili
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Empower The Future|06:00:00|07:30:00|Ep5 - Smartfood. Round table tratta dalla seconda edizione di Empower The Future, il digital business summit dedicato all&#039;innovazione e alla sostenibilita&#039; organizzato da Forbes Italia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY|07:30:00|08:00:00|Ep50 - Un programma di Emilio Cozzi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|08:00:00|08:30:00|Ep16 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|08:30:00|08:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|InFinance|08:35:00|08:40:00|Pillole di cultura finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|08:40:00|09:00:00|Gli approfondimenti settimanali di AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|09:00:00|09:30:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|09:30:00|10:00:00|Ep2 - Stagione 3: Castel San Pietro Terme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY|10:00:00|10:30:00|Ep96 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Andrea Boggio, Jupiter AM
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|10:30:00|11:00:00|Ep138 - In esclusiva i protagonisti del mondo Forbes. Marcello Astorri incontra Antongiulio Monti, Founder Hoop Capital
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|4cLegal Academy|11:00:00|11:30:00|Ep10 - La finale della terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Club Deal OnLine|11:30:00|12:00:00|Ep9 - Nella nona puntata Federico Morgantini intervista Luca Valaguzza, Leonardo Cervelli e Giuliano Talo&#039; su Private Asset e contenimento della volatilita&#039; con la crisi dei mercati.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|12:00:00|12:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|12:05:00|13:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|13:00:00|13:30:00|Ep34 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Gianluca Padula, Head of Sustainability CBRE
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|13:30:00|14:00:00|Ep121 - Il metaverso: Danilo Costa di Coderblock racconta di mondi paralleli. Un programma di alimentazione sano, equilibrato, personalizzato e rigorosamente delivery, e&#039; il progetto Feat Food: ce ne parla Andrea Lippolis
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY|14:00:00|14:30:00|Ep49 - Lo spazio come ambito di conoscenza, formazione e nuove opportunita&#039; professionali. Emilio Cozzi ne parla con Mattia Gomez Gane (SEDS Italy), Roberto Vittori (astronauta Esa), Piero Stroppa (COSMO)
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|14:30:00|15:00:00|Ep26 - Federico Morgantini intervista Gabriele Del Mese, Founder e CEO di Moneyviz, sulla rivoluzione digitale nel mondo del trading tradizionale e cripto
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|15:00:00|15:30:00|Ep102 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|15:30:00|16:00:00|Ep91 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY|16:00:00|16:30:00|Ep50 - Un programma di Emilio Cozzi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|16:30:00|17:00:00|Ep16 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews 1^TV|17:00:00|17:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|InFinance|17:05:00|17:14:00|Pillole di cultura finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos 1^TV|17:14:00|17:30:00|Gli approfondimenti settimanali di AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|17:30:00|18:00:00|Ep2 - Stagione 3: Castel San Pietro Terme
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|18:00:00|18:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24 1^TV|18:05:00|19:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Events 1^TV|19:00:00|19:30:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER 1^TV|19:30:00|20:00:00|Ep139 - BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Empower The Future|20:00:00|21:30:00|Ep1 - Transizione digitale. Round table tratta dalla seconda edizione di Empower The Future, il digital business summit dedicato all&#039;innovazione e alla sostenibilita&#039; organizzato da Forbes Italia
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|21:30:00|22:00:00|Ep122 - Siamo Jedi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|22:00:00|22:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|22:05:00|23:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Events|23:00:00|23:30:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|23:30:00|00:00:00|Ep139 - BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes SPACE ECONOMY|00:00:00|00:30:00|Ep50 - Un programma di Emilio Cozzi
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

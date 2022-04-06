@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Martedì 05 Aprile 2022
+> Programmazione di Mercoledì 06 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
