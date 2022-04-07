@@ -1,0 +1,86 @@
+# Inter TV
+> Programmazione di Mercoledì 06 Aprile 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|The Outsiders - Brozovic|01:30:00|02:00:00|Riviviamo la storia dei calciatori nerazzurri arrivati senza clamore ma che poi si sono rivelati decisivi per cambiare il destino dell&#039;Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Juventus-Inter 21/22|02:00:00|02:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|A New Hero In Town: Adriano|02:30:00|02:45:00|Non perderti A New Hero in Town, il nuovo format di Inter TV in cui riviviamo alcuni degli esordi piu&#039; incredibili della storia dell&#039;Inter. Protagonista della prima puntata Adriano.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|02:45:00|03:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|H.Verona-Inter 17/18|03:00:00|05:00:00|Il match della stagione 2017/18 tra Hellas Verona e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|05:00:00|05:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|05:15:00|05:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|05:30:00|05:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|05:45:00|06:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|A New Hero In Town: Adriano|06:15:00|06:30:00|Non perderti A New Hero in Town, il nuovo format di Inter TV in cui riviviamo alcuni degli esordi piu&#039; incredibili della storia dell&#039;Inter. Protagonista della prima puntata Adriano.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-H.Verona 01/02|06:30:00|08:30:00|Il match della stagione 2001/02 tra Inter e Hellas Verona.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Adriano|08:30:00|09:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-Sassuolo U19|09:00:00|11:00:00|Il match della stagione 2021/22 tra Inter e Sassuolo Under 19.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|11:00:00|11:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|11:15:00|11:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|11:30:00|11:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|11:45:00|12:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Recoba|12:00:00|12:30:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Roma-Inter 97/98|12:30:00|14:30:00|Pitchside Sounds: il match della stagione 1997/98 tra Roma e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-H.Verona 14/15|14:30:00|15:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Juventus-Inter 21/22|15:00:00|15:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Juventus e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|15:45:00|16:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|The Outsiders - T. Motta-Pandev|16:00:00|16:30:00|Riviviamo la storia dei calciatori nerazzurri arrivati senza clamore ma che poi si sono rivelati decisivi per cambiare il destino dell&#039;Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-H.Verona 19/20|16:30:00|17:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|17:00:00|17:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|17:30:00|17:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|17:45:00|18:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|18:00:00|18:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|18:15:00|18:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter Futbol Club Argentina|18:30:00|19:00:00|C&#039;e&#039; un doppio filo che lega Inter e Sudamerica. Conosciamo insieme chi ha fatto la storia del suo Paese e dei nostri colori in Inter Futbol Club. Questa puntata e&#039; dedicata all&#039;Argentina di Javier Zanetti.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|19:00:00|19:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-H.Verona 20/21|19:30:00|20:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Roma-Inter 97/98|20:00:00|22:00:00|Pitchside Sounds: il match della stagione 1997/98 tra Roma e Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|22:00:00|22:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|22:15:00|22:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Sneijder|22:30:00|23:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|23:00:00|23:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-H.Verona 14/15|23:30:00|01:30:00|Il match della stagione 2014/15 tra Inter e Hellas Verona.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-H.Verona 15/16|01:30:00|02:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Every Goal 11/12|02:00:00|02:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2011/12 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|02:30:00|02:45:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della seconda puntata Lautaro, De Vrij, Darmian e Radu.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|02:45:00|03:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-H.Verona 15/16|03:00:00|05:00:00|Il match della stagione 2015/16 tra Inter e Hellas Verona.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|05:00:00|05:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti Vintage|05:15:00|05:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|05:30:00|05:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|05:45:00|06:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|A New Hero In Town: Adriano|06:15:00|06:30:00|Non perderti A New Hero in Town, il nuovo format di Inter TV in cui riviviamo alcuni degli esordi piu&#039; incredibili della storia dell&#039;Inter. Protagonista della prima puntata Adriano.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-H.Verona 17/18|06:30:00|08:30:00|Il match della stagione 2017/18 tra Inter e Hellas Verona.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|08:30:00|09:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter-H.Verona 13/14|09:00:00|11:00:00|Il match della stagione 2013/14 tra Inter e Hellas Verona.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|11:00:00|11:15:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|11:15:00|11:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Breaking News|11:30:00|11:45:00|Segui la lettura delle prime pagine dei principali quotidiani italiani. In piu&#039; servizi e attualita&#039; dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|11:45:00|12:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Showreel Ronaldo|12:00:00|12:30:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della terza puntata Ronaldo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Inter-Roma 96/97|12:30:00|14:30:00|Pitchside Sounds: il match della stagione 1996/97 tra Inter e Roma.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|14:30:00|15:00:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo U19|15:00:00|15:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Under 19.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|15:45:00|16:00:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter Futbol Club Brasile|16:00:00|16:30:00|C&#039;e&#039; un doppio filo che lega Inter e Sudamerica. Conosciamo insieme chi ha fatto la storia del suo Paese e dei nostri colori in Inter Futbol Club. Questa puntata e&#039; dedicata al Brasile di Julio Cesar.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review H.Verona-Inter 01/02|16:30:00|17:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Live|17:30:00|17:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Immagini e musica|17:45:00|18:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|18:00:00|18:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|18:15:00|18:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Goal Gallery Crespo|18:30:00|19:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi Inter-Sassuolo U19|19:00:00|19:45:00|Rivediamo in sintesi il match della stagione 2021/22 tra Inter e Sassuolo Under 19.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|50/50|19:45:00|20:00:00|Non perdere 50 50, il nuovo format di InterTv. I giocatori della rosa nerazzurra devono scegliere tra due alternative proposte in una serie di domande a raffica. Protagonisti della terza puntata Correa, Kolarov, Handanovic e Sensi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pitchside Sounds: Inter-Roma 96/97|20:00:00|22:00:00|Pitchside Sounds: il match della stagione 1996/97 tra Inter e Roma.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter News - Replica|22:00:00|22:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Allenamenti 2021/22|22:15:00|22:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|I M Inter Woman|22:45:00|23:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della terza puntata Henrietta Csiszar.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Match Review Inter-Fiorentina Women|23:00:00|23:30:00|L&#039;approfondimento settimanale che tratta l&#039;avvicinamento delle ragazze di coach Rita Guarino all&#039;ultimo match, gli highlights della sfida di campionato, le voci delle protagoniste nerazzurre e tutti i goal della giornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|H.Verona-Inter 01/02|23:30:00|01:30:00|Il match della stagione 2001/02 tra Hellas Verona e Inter.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
