@@ -1,5 +1,5 @@
 # Sky Uno +1
-> Programmazione di Mercoledì 06 Aprile 2022
+> Programmazione di Giovedì 07 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
