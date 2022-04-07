@@ -3,8 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/134b36b8-3a27-4974-afb2-939e5548cc72/cover?md5ChecksumParam=cd910c818f8349f648f70dd81899fc2a)|33a g.|16:30:00|19:30:00|Dalle 19:00 Diretta Gol Serie B - 33a giornata.
-|![Icon](https://guidatv.sky.it/uuid/d539afd1-e9a3-4e36-94ef-471ed4c27016/cover?md5ChecksumParam=ca15939ea956a0fc776684f22f377748)|Monza - Ascoli|16:30:00|19:30:00|Cod. 449352 - Serie B - 33a giornata. Calcio d&#039;inizio ore 19:00.
+|![Icon](https://guidatv.sky.it/uuid/ee6b70a3-8b16-4ebc-849f-822b1dc29d87/cover?md5ChecksumParam=314d79581cd69f621973f79b5d982f07)|West Ham United - Lione|18:00:00|22:00:00|Cod. 449853 - UEFA Europa League - Quarti di finale (andata). Calcio d&#039;inizio ore 21:00.
 
 
 

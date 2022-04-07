@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/a77df728-3427-40b0-9919-d393764b29e9/cover?md5ChecksumParam=b796455a4a7728efd858f5cda5517a30)|Pordenone - Frosinone|16:30:00|19:30:00|Cod. 449294 - Serie B - 33a giornata. Calcio d&#039;inizio ore 19:00.
+|![Icon](https://guidatv.sky.it/uuid/a288fa5d-629d-40d5-a1c8-15683f6349a3/cover?md5ChecksumParam=14ed9c92bc4cab21d91db41278b2eb12)|Kansas City -Cleveland (diretta)|19:30:00|00:30:00|Baseball MLB: Kansas City - Cleveland, dalle 22:00.
 
 
 
