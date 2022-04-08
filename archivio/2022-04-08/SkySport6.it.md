@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/9592eaa0-7068-4c79-bb11-41df3d5e5c60/cover?md5ChecksumParam=2bc167df513ba597d19510f833778715)|Braga - Rangers|18:00:00|22:00:00|Cod. 449864 - UEFA Europa League - Quarti di finale (andata). Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/7fb51f69-b056-4dc4-a642-ae0be6ddd0e4/cover?md5ChecksumParam=19ee1999c0ed6f38f2715c93f0f91a32)|Carrarese - Lucchese (diretta)|12:00:00|15:00:00|Cod. 450005 - Serie C - Girone B, 36a giornata. Calcio d&#039;inizio ore 14:30
 
 
 
