@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/ccb54ed1-cb46-4962-a821-f4d06f7609c6/cover?md5ChecksumParam=c4949436a19e9570dfbd420c05ec9ab5)|Feyenoord - Slavia Praga|16:00:00|18:55:00|Cod. 449911 - UEFA Conference League - Quarti di finale (andata). Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/176b3444-6121-41a5-987d-bce49c60a074/cover?md5ChecksumParam=db7715386714f08c19271db8b83b2a89)|Eintracht Francoforte - Barcellona|18:55:00|22:00:00|Cod. 449842 - UEFA Europa League - Quarti di finale (andata). Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/caa519c6-13aa-4969-b811-cd40c85587fd/cover?md5ChecksumParam=13dab7abd94a4018f646d3440a58124e)|Como - Cittadella|11:30:00|14:30:00|Cod. 449396 - Serie B - 34a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/39e74010-f551-4b02-a83d-45b7131c92cb/cover?md5ChecksumParam=b8e3b38081acf985710963f724f85e2b)|Modena - Imolese (diretta)|15:00:00|18:00:00|Cod. 448874 - Serie C - Girone B, 36a giornata. Calcio d&#039;inizio ore 17:30
 
 
 

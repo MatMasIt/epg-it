@@ -9,30 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|06:00:00|08:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Laura Biagiotti, scarpe da chi fa moda|08:00:00|09:00:00|Laura Biagiotti e&#039; uno dei piu&#039; grandi marchi della moda italiana. Il brand prende il nome dall&#039;omonima fondatrice, creatrice di un atelier
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Alpha H, gli specialisti della pelle|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Alpha-H prodotti studiati da Michelle Doherty per tutti i bisogni della pelle attraverso l&#039;utilizzo dell&#039; acido glicolico, un alfa-idrossiacido che cresce nella canna da zucchero.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Laura Biagiotti, scarpe da chi fa moda|11:00:00|12:00:00|Laura Biagiotti e&#039; uno dei piu&#039; grandi marchi della moda italiana. Il brand prende il nome dall&#039;omonima fondatrice, creatrice di un atelier
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Alpha H, gli specialisti della pelle|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Alpha-H prodotti studiati da Michelle Doherty per tutti i bisogni della pelle attraverso l&#039;utilizzo dell&#039; acido glicolico, un alfa-idrossiacido che cresce nella canna da zucchero.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Marcato|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Reflower Una rinascita di benessere|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Alpha H, gli specialisti della pelle|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Alpha-H prodotti studiati da Michelle Doherty per tutti i bisogni della pelle attraverso l&#039;utilizzo dell&#039; acido glicolico, un alfa-idrossiacido che cresce nella canna da zucchero.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Appuntamento in Cucina|19:00:00|20:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colour Lab, la ricerca dello stile|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In Cucina con Ninja|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Ninja, un&#039;azienda americana che realizza utensili per la casa innovativi e altamente funzionali.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Shark, pulito brillante|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|06:00:00|08:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Carillo Home Ogni casa ha il suo vestito|08:00:00|09:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Questione di Stile|09:00:00|10:00:00|ITA. TV Shopping
@@ -48,6 +24,28 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucrezia Sciortino, prima di tutto donna|19:00:00|20:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|20:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|22:00:00|23:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|06:00:00|07:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Benessere naturale con Naturalisse|07:00:00|08:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Revamp, trasforma i tuoi capelli|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|10:00:00|11:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Hairmed, benessere a misura dei capelli|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Benessere naturale con Naturalisse|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|13:00:00|14:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|IT Cosmetics, trasformazione visibile|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|15:00:00|16:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|17:00:00|18:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|18:00:00|22:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|L(A)B, bellezza, innovazione e qualita&#039;|22:00:00|23:00:00|ITA. Scopri L(A)B. L&#039;obiettivo di Life and Beauty e&#039; quello di migliorare l&#039;efficacia della quotidiana routine di bellezza con strumenti di nuova generazione e di facile utilizzo.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 

@@ -3,9 +3,9 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/32346faf-34d9-4250-846e-f4b1db7401eb/cover?md5ChecksumParam=6363ebaa6bfae2ed3c8a093a0dfe3f15)|Lipsia - Atalanta|16:00:00|18:55:00|Cod. 449831 - UEFA Europa League - Quarti di finale (andata). Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/43d0d171-3acf-4aee-95b6-4a1ca9f1bd59/cover?md5ChecksumParam=2faa96a43b92b2ca83f72ee4fc1bd7e0)|Quarti|18:55:00|22:00:00|Dalle 21:00 Diretta Gol Europa League &amp; Conference League - Quarti di finale (andata).
-|![Icon](https://guidatv.sky.it/uuid/2d39076d-83b0-4b80-ab20-62b5ddafc4d3/cover?md5ChecksumParam=d5dc4c024fd1341abe3d0e5f3fe68e1d)|Ep. 11|22:00:00|22:30:00|Terzo Tempo Europa.
+|![Icon](https://guidatv.sky.it/uuid/0e0492d0-e275-4dc2-913b-ad6ef9b627de/cover?md5ChecksumParam=7aedb65b1d60bf2327bfb5a1c0139fe2)|34a g.|11:30:00|14:10:00|Dalle 14:00 Diretta Gol Serie B - 34a giornata.
+|![Icon](https://guidatv.sky.it/uuid/8fcd5b7b-fa1c-41ae-b3d1-323bc16dd8fc/cover?md5ChecksumParam=fb0f4d054897157a8fcb18649e4ebd51)|Frosinone - Cremonese|14:10:00|16:45:00|Cod. 449410 - Serie B - 34a giornata. Calcio d&#039;inizio ore 16:15.
+|![Icon](https://guidatv.sky.it/uuid/5665a6b3-7180-48f1-9717-a9115ba15b41/cover?md5ChecksumParam=6d3d1ffc47a7c26e3a3c79cee05888b5)|Cagliari - Juventus|18:00:00|22:00:00|Cod. 449773 - Serie A - 32a giornata. Calcio d&#039;inizio ore 20:45.
 
 
 
