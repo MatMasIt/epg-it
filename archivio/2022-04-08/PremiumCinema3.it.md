@@ -1,5 +1,5 @@
 # Premium Cinema 3
-> Programmazione di Giovedì 07 Aprile 2022
+> Programmazione di Venerdì 08 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
