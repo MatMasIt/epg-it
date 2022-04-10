@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Sabato 09 Aprile 2022
+> Programmazione di Domenica 10 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
