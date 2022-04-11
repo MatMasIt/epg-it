@@ -3,8 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/c0f320a5-6c1a-4f6b-9cc7-509d8cb52b20/cover?md5ChecksumParam=951ada8b92923c6958cdd38df9add6ce)|Benevento - Vicenza|12:00:00|15:00:00|Cod. 449432 - Serie B - 34a giornata. Calcio d&#039;inizio ore 14:30
-|![Icon](https://guidatv.sky.it/uuid/3e2b62d9-a17d-45df-971b-7901d0e53618/cover?md5ChecksumParam=58f837b0e522c356e6318d35eaa7b633)|Lipsia - Hoffenheim|17:00:00|20:00:00|Bundesliga 29ga. Calcio d&#039;inizio ore 19:30
+|![Icon](https://guidatv.sky.it/uuid/5e4215fa-a125-4088-ba07-3860dc06f88c/cover?md5ChecksumParam=f29c5f0ff103296e66ea1baf64b9f59d)|Bayern Monaco - Villarreal|18:00:00|22:00:00|Cod. 449728 - UEFA Champions League - Quarti di finale (ritorno). Calcio d&#039;inizio ore 21:00.
 
 
 
