@@ -1,5 +1,5 @@
 # Rai 2
-> Programmazione di Domenica 10 Aprile 2022
+> Programmazione di Lunedì 11 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
