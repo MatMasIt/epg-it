@@ -1,5 +1,5 @@
 # Sky Sport 8
-> Programmazione di Lunedì 11 Aprile 2022
+> Programmazione di Martedì 12 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
