@@ -3,32 +3,25 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Torino vs Milan|00:15:00|01:10:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION-SHEVCHENKO|01:10:00|02:00:00|GOL COLLECTION-SHEVCHENKO
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Fiorentina-27/03/2022|04:00:00|05:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Soulmates Thiago-Nesta|05:45:00|05:55:00|Milan Tv-Soulmates Thiago-Nesta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Juventus-23/01/2022|05:55:00|07:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Maignan Cam|07:45:00|07:50:00|Milan Tv-Maignan Cam
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Hellas Vr-19/03/2022|07:50:00|09:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-UNFILTERED MARZO|09:35:00|09:45:00|Milan Tv-UNFILTERED MARZO
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Empoli vs Milan-03/04/2022|09:45:00|11:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Live Reaction-Milan vs Inter-01/03/2022|11:30:00|13:30:00|La Live Reaction della partita in compagnia di Francesco Specchia, Lollo, Garrincha delle Vibrazioni e non solo
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Inter vs Milan|13:30:00|13:40:00|Behind The Scene Inter vs Milan
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Bench Cam Derby|13:40:00|13:50:00|Milan Tv-Bench Cam Derby
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Inter -06/05/2004|13:50:00|15:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torino vs Milan-10/04/2022|15:40:00|17:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Torino vs Milan|17:35:00|18:30:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOAL COLLECTION-PAOLO MALDINI|18:30:00|18:40:00|GOAL COLLECTION-PAOLO MALDINI
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Podcast Rino d&#039;Italia|18:40:00|18:50:00|Milan Tv-Podcast Rino d&#039;Italia
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|18:50:00|19:00:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi&#039;-Live|19:00:00|20:30:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell&#039;ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torino vs Milan-10/04/2022|20:30:00|22:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Torino vs Milan|22:25:00|23:20:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-UNFILTERED MARZO|23:20:00|23:30:00|Milan Tv-UNFILTERED MARZO
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Fiorentina-27/03/2022|23:30:00|01:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|01:15:00|01:50:00|Milan Tv-PILLOLA TWITCH
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Hellas Vr-19/03/2022|01:50:00|03:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|03:45:00|04:00:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Sampdoria-23/01/2022|04:00:00|05:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torino vs Milan-10/04/2022|05:40:00|07:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Torino vs Milan-10/04/2022|07:35:00|08:25:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Spal vs Milan-15/05/2021|08:25:00|10:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Fiorentina-27/03/2022|10:05:00|11:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Genoa vs Milan-01/12/2021|11:55:00|13:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Genoa-18/03/2017|13:45:00|15:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Live Reaction-Torino vs Milan|15:40:00|17:35:00|La Live Reaction della partita in compagnia di Francesco Specchia, Lollo, Garrincha delle Vibrazioni e non solo
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inferno del Lunedi&#039;-11/04/2022|17:35:00|19:05:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell&#039;ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Box To Box-12/04/2022|19:05:00|19:35:00|La partita vista con la lente d&#039;ingrandimento: il focus a cura di Maurizio Ferrari e Andrea Maldera analizza tutti i dettagli e i principali aspetti tattici dell&#039;ultimo match di Serie A disputato dal Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torino vs Milan-10/04/2022|19:35:00|21:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-UNFILTERED MARZO|21:30:00|21:35:00|Milan Tv-UNFILTERED MARZO
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Spal vs Milan-12/04/2022|21:35:00|23:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-RespAct|23:30:00|00:10:00|Milan Tv-RespAct
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Sampdoria-23/01/2022|00:10:00|01:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Torino vs Milan-10/04/2022|01:55:00|04:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|04:00:00|05:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - A casa di Bennancer|05:45:00|06:00:00|Milan Tv - A casa di Bennancer
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|06:00:00|07:50:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
