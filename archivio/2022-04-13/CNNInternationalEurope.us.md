@@ -29,7 +29,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|00:00:00|01:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Tonight - 1^TV|01:00:00|02:00:00|The latest news and information from around the world. Michael Smerconish hosts.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|02:00:00|04:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Paula Newton|04:00:00|06:00:00|Live from Atlanta, Paula Newton brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|04:00:00|06:00:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Rosemary Church|06:00:00|08:00:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Max Foster|08:00:00|09:00:00|Live from London, Max Foster brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|09:00:00|10:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
