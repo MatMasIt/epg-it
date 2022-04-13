@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Martedì 12 Aprile 2022
+> Programmazione di Mercoledì 13 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
