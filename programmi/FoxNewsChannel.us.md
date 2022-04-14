@@ -1,5 +1,5 @@
 # Fox News Channel
-> Programmazione di Mercoledì 13 Aprile 2022
+> Programmazione di Giovedì 14 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
