@@ -6,7 +6,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|00:00:00|01:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Tonight - 1^TV|01:00:00|02:00:00|The latest news and information from around the world. Michael Smerconish hosts.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|02:00:00|04:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Paula Newton|04:00:00|06:00:00|Live from Atlanta, Paula Newton brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|04:00:00|06:00:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Rosemary Church|06:00:00|08:00:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Max Foster|08:00:00|09:00:00|Live from London, Max Foster brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|09:00:00|10:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
@@ -29,9 +29,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|00:00:00|01:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Tonight - 1^TV|01:00:00|02:00:00|The latest news and information from around the world. Michael Smerconish hosts.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|02:00:00|04:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|04:00:00|06:00:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Rosemary Church|06:00:00|08:00:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Max Foster|08:00:00|09:00:00|Live from London, Max Foster brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Michael Holmes|04:00:00|07:00:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|07:00:00|09:00:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|09:00:00|10:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day|10:00:00|12:30:00|John Berman and Brianna Keilar report the latest news and top stories.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|12:30:00|13:00:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
@@ -48,7 +47,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|21:30:00|22:00:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Situation Room with Wolf Blitzer|22:00:00|23:00:00|Wolf Blitzer is in the command center for breaking news, politics and extraordinary reports from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Erin Burnett OutFront|23:00:00|00:00:00|Erin Burnett stays ahead of the headlines, delivering a show that&#039;s in-depth and informative.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|00:00:00|01:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Anderson Cooper 360|00:00:00|02:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
 
 
 

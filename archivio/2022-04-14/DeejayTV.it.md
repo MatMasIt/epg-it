@@ -7,7 +7,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia|08:00:00|10:00:00|Il morning show di Radio DEEJAY con Linus e Nicola Savino
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Catteland|10:00:00|11:00:00|Catteland con Alessandro Cattelan
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Ciao Belli|11:00:00|12:00:00|Ciao Belli con Roberto Ferrari e DJ Angelo
-|![Icon](https://guidatv.sky.it/uuid/8e61885b-3747-499d-95e4-1f8b2c6da57d/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Il mostro Kikiwaka|12:00:00|14:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
+|![Icon](https://guidatv.sky.it/uuid/50a032fa-053a-434c-971e-7584b12d7354/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Zuri aveva un agnello|12:00:00|14:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La musica di Radio Deejay|14:00:00|18:00:00|I videoclip piu&#039; belli, 100% Radio Deejay
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|SAY WAAAD|18:00:00|20:00:00|Say Waaad con Wad
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia Remix|20:00:00|22:00:00|Il meglio del morning show di Radio DEEJAY con Linus e Nicola Savino
@@ -16,7 +16,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia|08:00:00|10:00:00|Il morning show di Radio DEEJAY con Linus e Nicola Savino
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Catteland|10:00:00|11:00:00|Catteland con Alessandro Cattelan
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Ciao Belli|11:00:00|12:00:00|Ciao Belli con Roberto Ferrari e DJ Angelo
-|![Icon](https://guidatv.sky.it/uuid/5903b891-e2cb-4c42-b2f8-1278f48746e1/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|La fiera del campo|12:00:00|14:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
+|![Icon](https://guidatv.sky.it/uuid/50a032fa-053a-434c-971e-7584b12d7354/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Zuri aveva un agnello|12:00:00|14:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La musica di Radio Deejay|14:00:00|18:00:00|I videoclip piu&#039; belli, 100% Radio Deejay
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|SAY WAAAD|18:00:00|20:00:00|Say Waaad con Wad
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia Remix|20:00:00|22:00:00|Il meglio del morning show di Radio DEEJAY con Linus e Nicola Savino
