@@ -1,5 +1,5 @@
 # La F
-> Programmazione di Giovedì 14 Aprile 2022
+> Programmazione di Venerdì 15 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
