@@ -3,7 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/3b7ed07a-0a43-4528-87b3-2845a2fb34a4/cover?md5ChecksumParam=0224a8fef84e36ddd1ee7b14c57abe89)|Barcellona - Eintracht Francoforte|18:00:00|22:00:00|Cod. 449886 - UEFA Europa League - Quarti di finale (ritorno). Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/310bca8e-6076-48ba-ba18-972672dc4c70/cover?md5ChecksumParam=bf3ec99596b8230d3449b97d3ad06d79)|Giana Erminio - Triestina (diretta)|12:00:00|15:00:00|Cod. 450094 - Serie C - Girone A, 37a giornata. Calcio d&#039;inizio ore 14:30
+|![Icon](https://guidatv.sky.it/uuid/5dd28a04-2747-4b5d-86b4-6fa0fdc5e4e5/cover?md5ChecksumParam=603cf8a5694e41df3e40a9da32cb8931)|Virtus Francavilla - Foggia (diretta)|15:00:00|18:00:00|Cod. 450141 - Serie C - Girone C, 37a giornata. Calcio d&#039;inizio ore 17:30
 
 
 

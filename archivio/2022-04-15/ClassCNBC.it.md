@@ -3,33 +3,95 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Caffe&#039; Affari|05:00:00|08:00:00|Versione italiana del celebre format Squawk Box di Cnbc. - Notiziario e talk show, porta la finanza e l&#039;economia nelle case degli italiani
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tradingroom|08:00:00|10:00:00|Gli approfondimenti di ClassCnbc - Il contenitore dedicato alla finanza operativa di Class Cnbc. Gli strumenti finanziari trattati con l&#039;aiuto dei migliori trader e operatori presenti sulla piazza italiana.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea Mercati|10:00:00|10:10:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tradingroom|10:10:00|10:25:00|Gli approfondimenti di ClassCnbc - Il contenitore dedicato alla finanza operativa di Class Cnbc. Gli strumenti finanziari trattati con l&#039;aiuto dei migliori trader e operatori presenti sulla piazza italiana.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali di ClassCnbc|10:45:00|11:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali di ClassCnbc|11:00:00|11:40:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BCE - annuncio tassi|11:40:00|12:29:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BCE - conferenza stampa|12:29:00|13:29:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea Mercati Wall Street|13:29:00|13:40:00|L&#039;apertura di Wall Street - Live l&#039;apertura e l&#039;andamento della borsa americana
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|13:40:00|14:00:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali di ClassCnbc|14:00:00|15:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea Mercati|15:00:00|15:45:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali di ClassCnbc|15:45:00|16:00:00|gli approfondimenti di class cnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Report|16:00:00|16:50:00|Il Tg della finanza - Tutti i fatti del giorno commentati con ospiti in studio
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali di ClassCnbc|16:50:00|18:10:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Report|18:10:00|18:59:00|Il Tg della finanza - Tutti i fatti del giorno commentati con ospiti in studio
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea mercati Notte|18:59:00|19:00:00|La chiusura di Wall Street - Il punto sui fatti del giorno alla chiusura della borsa americana
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketing Media&amp;Money|19:00:00|19:59:00|Talk show di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Linea mercati Notte|19:59:00|20:15:00|La chiusura di Wall Street - Il punto sui fatti del giorno alla chiusura della borsa americana
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|20:15:00|20:50:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Report|20:50:00|21:45:00|Il Tg della finanza - tutti i fatti del giorno commentati con ospiti in studio
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La giornata di ClassCnbc|21:45:00|05:00:00|Il meglio della giornata di ClassCnbc - interviste, approfondimenti ed esclusive curate dalla redazione di class cnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali settimanali di ClassCnbc|05:00:00|10:00:00|Gli approfondimenti di Class Cnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali settimanali di ClassCnbc|10:00:00|15:00:00|Gli approfondimenti di Class Cnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali settimanali di ClassCnbc|15:00:00|20:00:00|Gli approfondimenti di Class Cnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali settimanali di ClassCnbc|20:00:00|23:00:00|Gli approfondimenti di Class Cnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli speciali settimanali di ClassCnbc|23:00:00|05:00:00|Gli approfondimenti di Class Cnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale guerra e mercati|05:18:00|05:37:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale fisco|05:37:00|05:51:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|05:51:00|06:40:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Cina e Russia|06:40:00|06:51:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|06:51:00|07:36:00|Talk show di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|07:48:00|07:55:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|07:55:00|08:02:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|08:02:00|08:18:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|08:18:00|08:28:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|08:28:00|08:46:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|08:46:00|09:05:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Intervista a Cathie Wood|09:05:00|09:29:00|Le esclusive di Cnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|09:29:00|10:08:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|10:08:00|10:23:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|10:23:00|10:52:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|10:52:00|11:03:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|11:03:00|11:23:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale rischio recessione Italia|11:23:00|11:38:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|11:38:00|11:48:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Twitter|12:03:00|13:01:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|13:01:00|13:08:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|13:08:00|13:24:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale guerra e mercati|13:24:00|13:43:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|13:43:00|13:54:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|14:07:00|14:52:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Cina e Russia|14:52:00|15:01:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|15:01:00|15:50:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Intervista a Cathie Wood|15:50:00|17:21:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|17:21:00|17:30:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|17:30:00|17:52:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Report|17:52:00|18:44:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|18:44:00|19:03:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|19:03:00|20:03:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|20:03:00|20:30:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale rischio recessione Italia|20:30:00|20:46:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|21:10:00|21:59:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|21:59:00|22:05:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|22:05:00|22:12:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|22:12:00|22:26:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Consulentia|22:26:00|22:35:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Grocery Forum|22:35:00|23:45:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|23:45:00|23:54:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La settimana di ClassCnbc|23:54:00|05:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|05:22:00|06:20:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|06:20:00|06:30:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|06:30:00|06:47:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale rischio recessione Italia|06:47:00|07:02:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|07:02:00|07:19:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|07:19:00|07:33:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|07:33:00|08:00:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|08:00:00|08:09:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|08:09:00|08:19:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale guerra e mercati|08:19:00|08:37:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale fisco|08:37:00|08:52:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Banche e Territorio|08:52:00|09:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|09:00:00|09:28:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Intervista a Cathie Wood|09:28:00|09:52:00|Le esclusive di Cnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|09:52:00|10:01:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|10:01:00|10:38:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fabi risponde|10:38:00|10:42:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|11:00:00|11:35:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|11:35:00|12:04:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|12:04:00|12:20:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|12:20:00|12:34:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|12:34:00|13:02:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|13:02:00|13:11:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|13:11:00|13:23:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Grocery Forum|13:23:00|14:35:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|14:35:00|14:55:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|14:55:00|15:01:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|15:01:00|15:58:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|15:58:00|16:46:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|16:46:00|17:20:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|17:20:00|17:41:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|17:41:00|18:21:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Twitter|18:21:00|19:18:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Cina e Russia|19:18:00|19:29:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|19:50:00|20:21:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|20:21:00|20:42:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|20:42:00|21:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|21:00:00|21:27:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|21:27:00|21:39:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|21:39:00|21:55:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|21:55:00|22:09:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|22:09:00|22:34:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|22:34:00|22:43:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|22:43:00|22:53:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|22:53:00|23:36:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La settimana di ClassCnbc|23:36:00|05:00:00|Gli approfondimenti di ClassCnbc
 
 
 
