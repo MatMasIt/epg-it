@@ -3,52 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|05:22:00|06:20:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|06:20:00|06:30:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|06:30:00|06:47:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale rischio recessione Italia|06:47:00|07:02:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|07:02:00|07:19:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|07:19:00|07:33:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|07:33:00|08:00:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|08:00:00|08:09:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|08:09:00|08:19:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale guerra e mercati|08:19:00|08:37:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale fisco|08:37:00|08:52:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Banche e Territorio|08:52:00|09:00:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|09:00:00|09:28:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Intervista a Cathie Wood|09:28:00|09:52:00|Le esclusive di Cnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|09:52:00|10:01:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|10:01:00|10:38:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fabi risponde|10:38:00|10:42:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|11:00:00|11:35:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|11:35:00|12:04:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|12:04:00|12:20:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|12:20:00|12:34:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|12:34:00|13:02:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|13:02:00|13:11:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|13:11:00|13:23:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Grocery Forum|13:23:00|14:35:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|14:35:00|14:55:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|14:55:00|15:01:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|15:01:00|15:58:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|15:58:00|16:46:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|16:46:00|17:20:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|17:20:00|17:41:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|17:41:00|18:21:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Twitter|18:21:00|19:18:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Cina e Russia|19:18:00|19:29:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|19:50:00|20:21:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|20:21:00|20:42:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|20:42:00|21:00:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|21:00:00|21:27:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|21:27:00|21:39:00|Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|21:39:00|21:55:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|21:55:00|22:09:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|22:09:00|22:34:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|22:34:00|22:43:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|22:43:00|22:53:00|ClassLife presenta
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|22:53:00|23:36:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La settimana di ClassCnbc|23:36:00|05:00:00|Gli approfondimenti di ClassCnbc
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|05:00:00|05:17:00|Gli approfondimenti di ClassCnbc
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|05:17:00|05:44:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|05:44:00|06:19:00|Gli approfondimenti di ClassCnbc
@@ -90,6 +44,48 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|23:13:00|23:28:00|ClassLife presenta
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|23:28:00|23:41:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|23:41:00|00:05:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|00:05:00|00:14:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|00:14:00|00:23:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La settimana di ClassCnbc|00:23:00|05:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Cina e Russia|05:12:00|05:21:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|05:21:00|05:49:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale fisco|05:49:00|06:03:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale rischio recessione Italia|06:03:00|06:17:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|06:17:00|06:53:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|06:53:00|07:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Missione Risparmio|07:00:00|07:49:00|Talk show di ClassCnbc - Programma condotto da Jole Saggese dedicato al tema degli investimenti e del risparmio.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale BPM|07:49:00|07:58:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Twitter|07:58:00|08:51:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|08:51:00|09:07:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|09:07:00|09:21:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|09:21:00|09:47:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|09:47:00|09:56:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|09:56:00|10:07:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|10:07:00|10:50:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|5 giorni sui mercati|11:02:00|12:00:00|La settimana finanziaria - Marina Valerio commenta coi propri ospiti gli avvenimenti di maggior rilevanza nella settimana finanziaria
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli stati generali dell&#039;A.I.|12:00:00|14:53:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|14:53:00|15:09:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|15:09:00|15:23:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|15:23:00|15:49:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|15:49:00|15:59:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|15:59:00|16:11:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|16:11:00|16:30:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Crowd Italia|16:30:00|16:48:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale oro|16:48:00|17:00:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sanita&#039; next|17:00:00|17:33:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Food Economy|17:33:00|18:09:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Gli stati generali dell&#039;A.I.|18:09:00|20:06:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Detect|20:06:00|20:33:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete e vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Italia 4.0|20:33:00|21:18:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale che sta cambiando il mondo dell&#039;industria e dei servizi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Vinitaly|21:18:00|21:34:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech|21:34:00|21:47:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Top Lot|21:47:00|22:12:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Mytech banco di prova|22:12:00|22:21:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Speciale Grandi Cru|22:21:00|22:31:00|ClassLife presenta
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Intervista a Cathie Wood|22:31:00|22:55:00|Le esclusive di Cnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|22:55:00|23:15:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CEO talks|23:15:00|23:31:00|Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La settimana di ClassCnbc|23:31:00|05:00:00|Gli approfondimenti di ClassCnbc
 
 
 

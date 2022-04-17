@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/310bca8e-6076-48ba-ba18-972672dc4c70/cover?md5ChecksumParam=bf3ec99596b8230d3449b97d3ad06d79)|Giana Erminio - Triestina (diretta)|12:00:00|15:00:00|Cod. 450094 - Serie C - Girone A, 37a giornata. Calcio d&#039;inizio ore 14:30
-|![Icon](https://guidatv.sky.it/uuid/5dd28a04-2747-4b5d-86b4-6fa0fdc5e4e5/cover?md5ChecksumParam=603cf8a5694e41df3e40a9da32cb8931)|Virtus Francavilla - Foggia (diretta)|15:00:00|18:00:00|Cod. 450141 - Serie C - Girone C, 37a giornata. Calcio d&#039;inizio ore 17:30
+|![Icon](https://guidatv.sky.it/uuid/36af0530-8269-4347-904a-1ee6ef8eaddb/cover?md5ChecksumParam=43c577b5973809acc4de5634ff2312c8)|Pordenone - Benevento|12:30:00|15:30:00|Cod. 449513 - Serie B - 35a giornata. Calcio d&#039;inizio ore 15:00.
+|![Icon](https://guidatv.sky.it/uuid/f24f3af5-3667-4e63-ae14-018beab09bbe/cover?md5ChecksumParam=20784f2ad9dcc8eb34c52799fe5e99dd)|Ternana - Frosinone|15:30:00|18:30:00|Cod. 449568 - Serie B - 35a giornata. Calcio d&#039;inizio ore 18:00.
 
 
 

@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/bcfeacfb-2be8-432b-b1fc-5a82b327ae23/cover?md5ChecksumParam=765ce92f68df50e8bc613f916ef8c9f5)|Piacenza - Feralpisalo&#039;|12:00:00|15:00:00|Cod. 450107 - Serie C - Girone A, 37a giornata. Calcio d&#039;inizio ore 14:30
-|![Icon](https://guidatv.sky.it/uuid/a1f67f7f-d9fa-41ef-8c33-98fa4e94319b/cover?md5ChecksumParam=ea397de2901f14680ca77e9b1589765d)|Catanzaro - Campobasso|15:00:00|18:00:00|Cod. 450129 - Serie C - Girone C, 37a giornata. Calcio d&#039;inizio ore 17:30
+|![Icon](https://guidatv.sky.it/uuid/4c505f60-2994-43c3-a429-f9783a4d9896/cover?md5ChecksumParam=221e34c569a1b029340b419dbed18b04)|Reggina - Lecce|12:30:00|15:30:00|Cod. 449524 - Serie B - 35a giornata. Calcio d&#039;inizio ore 15:00.
+|![Icon](https://guidatv.sky.it/uuid/89b1742c-00f7-40b3-ab65-696b6c23a41f/cover?md5ChecksumParam=55db5346bd16fbd560fc23e5d7fa4621)|Parma - Ascoli|15:30:00|18:30:00|Cod. 449546 - Serie B - 35a giornata. Calcio d&#039;inizio ore 18:00.
 
 
 

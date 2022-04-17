@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/543eec01-0745-4b9b-bc4c-ae43ea505610/cover?md5ChecksumParam=dc2420e6764dcc9bb4183ced612765d7)|Trento - Juventus U23|12:00:00|15:00:00|Cod. 450118 - Serie C - Girone A, 37a giornata. Calcio d&#039;inizio ore 14:30
-|![Icon](https://guidatv.sky.it/uuid/d8958a5b-57f6-47e8-abf8-2403a59e26d9/cover?md5ChecksumParam=4d9f61f69a76e43805c2664f82bb2531)|Taranto - Bari (diretta)|15:00:00|18:00:00|Cod. 450130 - Serie C - Girone C, 37a giornata. Calcio d&#039;inizio ore 17:30
+|![Icon](https://guidatv.sky.it/uuid/868e8584-610a-4604-86fd-ee0f98663c06/cover?md5ChecksumParam=ccc5040866f6d4fbd1aa532a754acf28)|Cremonese - Cosenza|12:30:00|15:30:00|Cod. 449498 - Serie B - 35a giornata. Calcio d&#039;inizio ore 15:00.
+|![Icon](https://guidatv.sky.it/uuid/e1af574e-6c5a-4bde-ab69-89154d743346/cover?md5ChecksumParam=06cdff2f15d7d21327f3a5ac9bc40b91)|Pisa - Como|15:30:00|18:30:00|Cod. 449557 - Serie B - 35a giornata. Calcio d&#039;inizio ore 18:00.
 
 
 
