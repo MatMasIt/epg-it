@@ -1,5 +1,5 @@
 # Rai 4
-> Programmazione di Sabato 16 Aprile 2022
+> Programmazione di Domenica 17 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
