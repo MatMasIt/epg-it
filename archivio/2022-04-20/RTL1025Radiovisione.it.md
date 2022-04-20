@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Martedì 19 Aprile 2022
+> Programmazione di Mercoledì 20 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
