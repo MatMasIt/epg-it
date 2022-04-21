@@ -1,5 +1,5 @@
 # Sky Meteo 24
-> Programmazione di Mercoledì 20 Aprile 2022
+> Programmazione di Giovedì 21 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
