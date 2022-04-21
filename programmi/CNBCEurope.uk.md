@@ -16,7 +16,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|17:00:00|18:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|18:00:00|19:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|19:00:00|21:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|21:00:00|21:30:00|Business leaders, politicians and other public figures are interviewed as they shed light on the person they are behind their public persona.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|21:00:00|21:30:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|00:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
@@ -34,11 +34,12 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|17:00:00|18:00:00|Investment news is shared from around the world to reveal insights into how various news items impact today&#039;s markets and investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|18:00:00|19:00:00|The hosts comment on the day&#039;s biggest stories to comment on real-time market coverage, stock information, the economy, politics, real estate and technology.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|19:00:00|21:00:00|Details are shared about breaking news from the last hour of the trading day, including how the markets are moving and how investors are reacting.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|21:00:00|21:30:00|Details are shared about how technological innovation is solving important issues and transforming big business, and experts in the field are profiled.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money|21:00:00|21:30:00|A panel of top investment traders discuss the market-related news of the day to highlight the relevant topics that matter most to investors.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|00:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|00:00:00|03:00:00|Anchored at the Singapore Exchange, detailed information is shared about the most significant moves of the day, including market trends and trade information.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|23:00:00|23:30:00|Zhang Xin - The CEO of Soho China, Zhang Xin, shares her journey from working in a sweatshop to becoming one of China&#039;s richest women and most prominent and innovative pioneers.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|23:30:00|00:00:00|Kristalina Georgieva - IMF Managing Director Kristalina Georgieva discusses environmental issues.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|00:00:00|00:30:00|Bill Withers, CEO, Standard Chartered - Bill Withers, the CEO of Standard Chartered, discusses several topics.
 
 
 
