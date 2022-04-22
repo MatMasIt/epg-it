@@ -1,5 +1,5 @@
 # Italia 2
-> Programmazione di Giovedì 21 Aprile 2022
+> Programmazione di Venerdì 22 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
