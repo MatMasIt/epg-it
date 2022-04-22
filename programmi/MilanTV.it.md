@@ -3,27 +3,34 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Roma vs Milan-19/03/2022|01:25:00|03:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Soulmates Gattuso Pirlo Seedorf|03:10:00|04:00:00|Milan Tv-Speciale Mazzoni
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Lazio-05/02/2022|04:00:00|05:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Cagliari vs Milan-19/03/2022|05:45:00|07:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Pescara vs Milan-20/04/2022|07:30:00|09:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Ganz Mic&#039;d Up|09:15:00|09:25:00|Milan Tv-Ganz Mic&#039;d Up
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Sampdoria-23/01/2022|09:25:00|11:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Live Reaction-Cagliari vs Milan|11:10:00|13:05:00|La Live Reaction della partita in compagnia di Francesco Specchia, Lollo, Garrincha delle Vibrazioni e non solo
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Lazio-12/09/2021|13:05:00|15:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan-Live|15:00:00|16:30:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamento Femminile|16:30:00|16:45:00|Milan Tv-Allenamento Femminile
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Dinamo Kiev-2000|16:45:00|18:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ac Milan at Expo 2020 Dubai|18:20:00|18:40:00|Ac Milan at Expo 2020 Dubai
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|18:40:00|18:50:00|Milan Tv-Il Convitto Pt. 2
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|18:50:00|19:05:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Genoa-15/04/2022|19:05:00|21:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Sacchi|21:00:00|21:40:00|Milan Tv-Itw Sacchi
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|21:40:00|23:15:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Lazio-2003/2004|23:15:00|01:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Milan vs Lazio-05/02/2022|01:00:00|02:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|02:50:00|03:40:00|Milan Tv-Speciale Magliette
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|03:40:00|04:00:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Empoli vs Milan-03/04/2022|04:00:00|05:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Soulmates Virdis Hateley|05:45:00|05:55:00|Milan Tv-Soulmates Virdis Hateley
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-05/02/2022|05:55:00|07:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|07:50:00|08:05:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Juventus-19/11/2021|08:05:00|09:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-ITW LANTIGNOTTI|09:45:00|10:00:00|Milan Tv-ITW LANTIGNOTTI
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|10:00:00|11:30:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|11:30:00|11:45:00|Milan Tv-Allenamenti
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-She-Oliveri|11:45:00|12:15:00|Milan Tv-She-Oliveri
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|12:15:00|12:25:00|Milan Tv-Il Convitto Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Genoa-15/04/2022|12:25:00|14:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Box To Box-20/04/2022|14:15:00|14:50:00|La partita vista con la lente d&#039;ingrandimento: il focus a cura di Maurizio Ferrari e Andrea Maldera analizza tutti i dettagli e i principali aspetti tattici dell&#039;ultimo match di Serie A disputato dal Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Bologna vs Milan-09/02/2022|14:50:00|16:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Lazio vs Milan-13/02/2017|16:35:00|18:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamenti|18:30:00|18:45:00|Milan Tv-Allenamenti
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Under My Skin Tonali|18:45:00|18:50:00|Milan Tv-Under My Skin Tonali
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Cagliari vs Milan|18:50:00|19:00:00|Behind The Scene Cagliari vs Milan
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Matchday Preview Ep.27|19:00:00|19:30:00|Riflettori accesi sul weekend a tinte rossonere: analisi, approfondimenti e commenti con ospiti in studio sulle prossime gare della Prima Squadra Maschile, Prima Squadra Femminile e della Primavera
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Lazio-12/09/2021|19:30:00|21:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Matchday Preview Ep.27|21:25:00|21:55:00|Riflettori accesi sul weekend a tinte rossonere: analisi, approfondimenti e commenti con ospiti in studio sulle prossime gare della Prima Squadra Maschile, Prima Squadra Femminile e della Primavera
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Lazio-23/12/2020|21:55:00|23:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Allenamento Femminile|23:50:00|00:00:00|Milan Tv-Allenamento Femminile
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-05/02/2022|00:00:00|01:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-05/02/2022|00:00:00|01:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Milan vs Juventus-19/11/2021|01:55:00|03:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-PILLOLA TWITCH|03:40:00|04:00:00|Milan Tv-PILLOLA TWITCH
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Review 20-21 AC Milan Prima Squadra|04:00:00|05:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv - A casa di Bennancer|05:45:00|06:00:00|Milan Tv - A casa di Bennancer
