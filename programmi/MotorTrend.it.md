@@ -1,5 +1,5 @@
 # Motor Trend
-> Programmazione di Sabato 23 Aprile 2022
+> Programmazione di Domenica 24 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
