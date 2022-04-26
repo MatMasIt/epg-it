@@ -1,5 +1,5 @@
 # Nick Jr Italia
-> Programmazione di Lunedì 25 Aprile 2022
+> Programmazione di Martedì 26 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
