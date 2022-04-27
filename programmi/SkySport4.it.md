@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/79cbd39f-3788-475b-bc64-2c56ba30c7b6/cover?md5ChecksumParam=55f385711b31fc3b8efd8026d30aad9a)|Crotone - Cremonese|12:30:00|15:30:00|Cod. 449615 - Serie B - 36a giornata. Calcio d&#039;inizio ore 15:00.
-|![Icon](https://guidatv.sky.it/uuid/63193d46-a27f-4966-994d-7bcef0de143a/cover?md5ChecksumParam=6d27fefc749efb063dae38616f81fccc)|Benevento - Ternana|15:30:00|18:30:00|Cod. 449648 - Serie B - 36a giornata. Calcio d&#039;inizio ore 18:00.
+|![Icon](https://guidatv.sky.it/uuid/b2d74589-410c-47d3-b1a3-f70fb41a1293/cover?md5ChecksumParam=2e6884759d54dddc8f7e4ff52cfffcd3)|St. Louis - New York Mets|16:30:00|21:30:00|Baseball MLB, St. Louis - New York Mets. Dalle 19:10.
+|![Icon](https://guidatv.sky.it/uuid/d1e0d34d-000f-4910-a8b5-a459145d8f70/cover?md5ChecksumParam=f130d7527d6ddf1a770385b5d70c3ebb)|West Ham United - Eintracht Francoforte|18:00:00|22:00:00|Cod. 450312 - UEFA Europa League - Semifinali (andata). Calcio d&#039;inizio ore 21:00.
 
 
 

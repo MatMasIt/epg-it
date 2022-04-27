@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/f453593b-56ff-416e-a0c5-ec1aed20b42d/cover?md5ChecksumParam=56a50a6f8c0abf50d00b971df012a127)|Alessandria - Reggina|12:30:00|15:30:00|Cod. 449591 - Serie B - 36a giornata. Calcio d&#039;inizio ore 15:00.
+|![Icon](https://guidatv.sky.it/uuid/96bd7dad-db58-4d58-b798-610a5ce7cc71/cover?md5ChecksumParam=9869b18123b004cfc01b0c4495772598)|Feyenoord - Marsiglia|18:00:00|22:00:00|Cod. 450378 - UEFA Conference League - Semifinali (andata). Calcio d&#039;inizio ore 21:00.
 
 
 

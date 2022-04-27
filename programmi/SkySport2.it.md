@@ -3,12 +3,9 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/f174aa06-fb37-4ba5-b978-348bd8fd9ab7/cover?md5ChecksumParam=134dad15b64b9cf94da0f9c7d0559c2e)|Ascoli - Cittadella|10:00:00|12:50:00|Cod. 449580 - Serie B - 36a giornata. Calcio d&#039;inizio ore 12:30.
-|![Icon](https://guidatv.sky.it/uuid/d94fb53f-e3aa-475b-8bdd-6c20e08ea177/cover?md5ChecksumParam=db45b3768d45fddb30a2fcf105bd727c)|36a g.|12:50:00|15:30:00|Diretta Gol Serie B - 36a giornata.
-|![Icon](https://guidatv.sky.it/uuid/d94fb53f-e3aa-475b-8bdd-6c20e08ea177/cover?md5ChecksumParam=db45b3768d45fddb30a2fcf105bd727c)|36a g.|15:30:00|18:00:00|Diretta Gol Serie B - 36a giornata.
-|![Icon](https://guidatv.sky.it/uuid/d1ac2a0e-6286-4bdc-8459-07a5ccc0cf05/cover?md5ChecksumParam=071dd4934fd3122a633fde691dd3c678)|Sassuolo - Juventus|18:00:00|22:00:00|Cod. 450298 - Serie A - 34a giornata. Calcio d&#039;inizio ore 20:45.
-|![Icon](https://guidatv.sky.it/uuid/364d46fe-12c6-4dd5-afe0-5db3e1c8f92c/cover?md5ChecksumParam=087427c43ad6497bc84cf60644a58e45)|Manchester City - Real Madrid|18:00:00|22:00:00|Cod. 450254 - UEFA Champions League - Semifinali (andata). Calcio d&#039;inizio ore 21:00.
-|![Icon](https://guidatv.sky.it/uuid/7c1f9355-4cd8-46ad-bdb8-358837bbebec/cover?md5ChecksumParam=19023b85657217b26cc5fca140322772)|5 X 5 Champions League 25|22:00:00|22:30:00|5 X 5 Champions League.
+|![Icon](https://guidatv.sky.it/uuid/421a141c-8116-45a4-b50a-22429350d734/cover?md5ChecksumParam=3a5ac07a68d7c608e2eab0853b2f0260)|Bologna - Inter|17:00:00|21:00:00|Cod. 446736 - Serie A - 20a giornata. Calcio d&#039;inizio ore 20:15.
+|![Icon](https://guidatv.sky.it/uuid/ce457e5c-ea1d-4d35-8304-30678489e942/cover?md5ChecksumParam=2f6d0d90879eb05e6b946a86c52beeb4)|Semifinale Andata|18:00:00|22:00:00|Diretta Gol Europa League &amp; Conference League - Semifinali andata
+|![Icon](https://guidatv.sky.it/uuid/78c2b3c1-c885-4847-af48-0bbf3583da92/cover?md5ChecksumParam=520945fa69a780fb6b64e7885e8e10cb)|Ep. 14|22:00:00|22:30:00|Terzo Tempo Europa.
 
 
 
