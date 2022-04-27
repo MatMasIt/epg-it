@@ -1,5 +1,5 @@
 # RT News
-> Programmazione di Martedì 26 Aprile 2022
+> Programmazione di Mercoledì 27 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
