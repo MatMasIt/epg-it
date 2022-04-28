@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Mercoledì 27 Aprile 2022
+> Programmazione di Giovedì 28 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
