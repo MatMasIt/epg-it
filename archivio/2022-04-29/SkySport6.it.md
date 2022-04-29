@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/96bd7dad-db58-4d58-b798-610a5ce7cc71/cover?md5ChecksumParam=9869b18123b004cfc01b0c4495772598)|Feyenoord - Marsiglia|18:00:00|22:00:00|Cod. 450378 - UEFA Conference League - Semifinali (andata). Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/085c68e5-9240-4840-b31b-9471096388bc/cover?md5ChecksumParam=7504d94c89f1188ef3ed302506a17c17)|Cittadella - Brescia|11:30:00|14:30:00|Cod. 450403 - Serie B - 37a giornata. Calcio d&#039;inizio ore 14:00.
 
 
 
