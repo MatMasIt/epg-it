@@ -1,5 +1,5 @@
 # Sky Sport 3
-> Programmazione di Giovedì 28 Aprile 2022
+> Programmazione di Venerdì 29 Aprile 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
