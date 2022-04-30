@@ -3,36 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|00:20:00|02:15:00|Ep. 169 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|02:15:00|04:00:00|Ep. 159 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 233 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 233 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:00:00|Ep. 196 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|09:00:00|11:30:00|Ep. 170 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|12:15:00|14:40:00|Ep. 160 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Taga Focus|14:40:00|15:00:00|Ep. 41 - Approfondimento a cura di Tiziana Panella.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Speciale Tg La7|15:00:00|18:00:00|Approfondimento di temi trattati nel giornale, di cronaca, politica, attualita&#039;, economia.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|18:35:00|19:15:00|Ep. 154 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Propaganda Live|19:15:00|23:00:00|Ep. 29 - Umorismo, musica, ospiti e opinionisti, nel programma condotto da Diego Bianchi per approfondire tematiche e protagonisti del nostro tempo.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:00:00|23:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Otto e mezzo|23:10:00|23:50:00|Ep. 154 - Condotto da Lilli Gruber, l&#039;access prime time quotidiano di approfondimento giornalistico dei fatti di attualita&#039;, con ospiti in studio e il punto di Paolo Pagliaro.
-|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|23:50:00|01:45:00|Ep. 170 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|01:45:00|04:00:00|Ep. 160 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
@@ -66,6 +36,38 @@
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|22:20:00|23:00:00|Ep. 66 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
 |![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|23:00:00|23:35:00|Ep. 11 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
 |![Icon](https://guidatv.sky.it/uuid/85486736-a855-4fa2-aab5-4910efa8e9b6/cover?md5ChecksumParam=ea30fac0605d8432f90202ddd9223531)|The Silent Man|23:35:00|03:00:00|Regia di P. Landesman, con L.Neeson, D.Lane; USA 2017 (205 min). La storia di Mark Felt alias &#039;Gola profonda&#039;, l&#039;informatore che aiuto&#039; il Washington Post scoperchiare lo scandalo Watergate.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|03:00:00|04:00:00|Ep. 197 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|04:40:00|04:50:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 235 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 235 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|07:40:00|08:35:00|Ep. 15 - &#039;La TV in chat&#039; che seleziona i momenti piu&#039; divertenti e ironici dei personaggi piu&#039; amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Camera con vista|08:35:00|09:00:00|Ep. 57 - La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;ingrediente perfetto|09:00:00|09:45:00|Ep. 9 - Sulle rive del Tevere, Maria Grazia Cucinotta mostra come, con la scelta di ingredienti &#039;perfetti&#039;, si possano creare piatti sani gustosi. Il tutto condito dai suggerimenti di Gianluca Mech.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Spie atomiche|09:45:00|10:50:00|Durante la Guerra Fredda, l&#039;equilibrio tra le due superpotenze e&#039; stato garantito dal terrore di una guerra nucleare. Un equilibrio a cui hanno contribuito anche le spie.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|A te le chiavi|10:50:00|11:30:00|Ep. 8 - Paola Marella conduce un game show dove i proprietari di un appartamento avranno la possibilita&#039; di vincere una ristrutturazione e realizzare la loro casa da sogno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:00:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Studio Serie A1 (live)|12:00:00|12:30:00|Pre Finale - Tutte le ultime novita&#039; prima della gara finale di Ginnastica Ritmica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Ginnastica: Serie A1 (live)|12:30:00|14:30:00|Final Six - La grande ginnastica ritmica al Pala Gianni Asti Torino per le Final Six. TC: Giorgia Baldinacci.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|14:30:00|15:00:00|Ep. 15 - &#039;La TV in chat&#039; che seleziona i momenti piu&#039; divertenti e ironici dei personaggi piu&#039; amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Speciale Tg La7|15:00:00|18:00:00|Approfondimento di temi trattati nel giornale, di cronaca, politica, attualita&#039;, economia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 67 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Non e&#039; l&#039;Arena|19:15:00|23:00:00|Ep. 27 - Il programma di Massimo Giletti che punta i riflettori sui temi e i protagonisti della piu&#039; stretta attualita&#039; politica e sociale, e della cronaca.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:00:00|23:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|23:10:00|23:50:00|Ep. 67 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|A te le chiavi|23:50:00|00:20:00|Ep. 8 - Paola Marella conduce un game show dove i proprietari di un appartamento avranno la possibilita&#039; di vincere una ristrutturazione e realizzare la loro casa da sogno.
 
 
 
