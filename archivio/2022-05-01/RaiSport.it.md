@@ -3,27 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|00:00:00|04:00:00|Olanda - Danimarca, Europeo 22/06/92 Semifinale - Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tiro a volo: Coppa del Mondo|04:00:00|04:30:00|Skeet Team Misto - I migliori tiratori del mondo si sfidano per la prestigiosa coppa.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Judo: Europei|06:00:00|08:00:00|1a g - I campioni del continente si affrontano a Sofia in Bulgaria, per contendersi i titoli europei di specialita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Mondiale Motocross|08:00:00|08:50:00|Lettonia Gara 1 MXGP - Il mondiale di Motocross in giro per il mondo: sfidando terreni accidentati e fango i piloti lottano per il titolo di MX2 e MXGP.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reparto Corse|08:50:00|09:20:00|Occhi puntati sul mondo dei motori.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|09:20:00|09:50:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket in carrozzina: Coppa Italia|09:50:00|12:10:00|Finale
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Giro del Belvedere|12:10:00|13:00:00|E&#039; l&#039;83esima edizione della manifestazione ciclistica riservata agli Under-23.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Judo: Europei|13:00:00|15:00:00|1a g - I campioni del continente si affrontano a Sofia in Bulgaria, per contendersi i titoli europei di specialita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Gli Imperdibili|15:00:00|15:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tiro a volo: Coppa del Mondo|15:05:00|16:20:00|Skeet M - I migliori tiratori del mondo si sfidano per la prestigiosa coppa.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Liegi-Bastogne-Liegi|16:20:00|16:50:00|Prova M - Dal Belgio con la Liegi-Bastogne-Liegi si chiude il trittico delle grandi classiche delle Ardenne, dopo l&#039;Amstel Gold Race e la Freccia Vallone.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pallanuoto: World League M|16:50:00|18:20:00|Appuntamento con i campioni di pallanuoto del panorama internazionale.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Conegliano - Monza|18:20:00|20:50:00|Serie A1 F, Playoff. Finale. Gara 1 - Viviamo le emozioni della massima serie del campionato femminile di volley.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Rally: WRC|20:50:00|21:20:00|Croazia - Tutto lo spettacolo delle gare del mondiale Rally.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato (live)|21:20:00|22:00:00|1a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|22:00:00|22:20:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto Sabato (live)|22:20:00|22:30:00|2a parte - Il meglio del campionato italiano di calcio di Serie A e B, con tutti i risultati e la classifica aggiornata.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pallanuoto: World League M|22:30:00|00:00:00|Finale 3 /4 posto - Appuntamento con i campioni di pallanuoto del panorama internazionale.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|00:00:00|04:00:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;uomo e il mare|00:00:00|04:00:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|04:00:00|04:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
@@ -36,6 +15,24 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Serie A|18:30:00|20:40:00|La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo: Campionato Italiano|20:40:00|23:10:00|6a prova. Circuito FIBIS Challenge 1a g - Le sfide piu&#039; affascinanti tra i campioni della stecca.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|23:10:00|00:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|00:00:00|04:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|00:00:00|04:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|04:00:00|04:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|90 minuto|06:00:00|07:15:00|Il meglio del campionato italiano di calcio di Serie A e B con tutti i risultati e la classifica aggiornata.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Anteprima - La Domenica Sportiva|07:15:00|07:30:00|Le anticipazioni di quello che vedremo a La Domenica Sportiva.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Domenica Sportiva|07:30:00|09:00:00|L&#039;appuntamento con l&#039;informazione sportiva targata Rai: commenti a caldo sui principali avvenimenti sportivi della giornata calcistica e di tutti gli altri sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|L&#039;altra DS|09:00:00|09:45:00|L&#039;appuntamento con l&#039;informazione sportiva targata Rai: commenti e interviste sui principali avvenimenti sportivi della giornata calcistica e di tutti gli altri sport.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Serie C|09:45:00|11:30:00|Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Judo|11:30:00|13:30:00|Altri
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo: Campionato Italiano|13:30:00|15:50:00|6a prova. Circuito FIBIS Challenge 2a g - Le sfide piu&#039; affascinanti tra i campioni della stecca.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Biliardo (live)|15:50:00|16:30:00|Appuntamento imperdibile con i fuoriclasse della stecca.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|16:30:00|16:50:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Volley: Pallavolo Maschile|16:50:00|19:00:00|Volley
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Serie C|19:00:00|21:00:00|Playoff - Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Totale|21:00:00|22:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|22:00:00|22:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|22:15:00|00:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|00:00:00|04:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 
 
