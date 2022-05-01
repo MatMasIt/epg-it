@@ -1,5 +1,5 @@
 # BFC Forbes
-> Programmazione di Sabato 30 Aprile 2022
+> Programmazione di Domenica 01 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
