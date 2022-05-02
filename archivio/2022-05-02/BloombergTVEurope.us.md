@@ -1,5 +1,5 @@
 # Bloomberg TV Europe
-> Programmazione di Domenica 01 Maggio 2022
+> Programmazione di Lunedì 02 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
