@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Lunedì 02 Maggio 2022
+> Programmazione di Martedì 03 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
