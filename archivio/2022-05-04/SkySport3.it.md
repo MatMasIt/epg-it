@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/10eb5cfa-43a5-43a5-8541-ddeeee15452e/cover?md5ChecksumParam=9a76264fd5ba911840f4dd5f1d4f4990)|Tennis Atp World Tour Masters 1000 Madrid 2022 2|16:30:00|23:00:00|Tennis
-|![Icon](https://guidatv.sky.it/uuid/b0dd82d3-9f39-4893-8d0b-d410be2ee94a/cover?md5ChecksumParam=2186907d2368ef77181d4ffcc7501625)|ATP Masters 1000 Madrid (diretta)|16:30:00|23:00:00|ATP Masters 1000 Madrid, 3a giornata. Dalle 19:00.
+|![Icon](https://guidatv.sky.it/uuid/bfea7a17-10c0-40c4-a0e1-0e7ba722b2f5/cover?md5ChecksumParam=5f0173ab213e2cc248bfc38792155d81)|Pescara - Gubbio|18:00:00|21:00:00|Cod. 450799 - Serie C - Girone B, Playoff Secondo Turno. Calcio d&#039;inizio ore 20:30
+|![Icon](https://guidatv.sky.it/uuid/b4702cb8-0896-44a8-af22-7028bd3de802/cover?md5ChecksumParam=343944647f84bb27b8b464dfe56e56a2)|Roma - Leicester|18:00:00|23:00:00|Cod. 450389 - UEFA Conference League - Semifinali (ritorno). Calcio d&#039;inizio ore 21:00.
 
 
 
