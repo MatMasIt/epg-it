@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Mercoledì 04 Maggio 2022
+> Programmazione di Giovedì 05 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
