@@ -3,52 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Academy|00:00:00|00:30:00|Ep3 - Nella terza puntata di Forbes Academy intervengono Daniela Aleggiani, Matteo Flora, Graziella Roccella, Federico Morgantini e Andrea Quintiliani
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Forbes - Digital Revolution|00:30:00|01:00:00|Ep31 - Federico Morgantini intervista Roberto Gorini, Founder di Noku.io e saggista, sulla natura e la funzione economica delle cripto valute
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|01:00:00|01:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|01:05:00|02:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|PRIVATE TALK|02:00:00|02:30:00|Ep79 - BFC PRIVATE - PRIVATE TALK. Il mondo del Private Banking. Conduce Luigi Dell&#039;Olio.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Empower The Future|02:30:00|04:00:00|Ep4 - Circular Economy. Round table tratta dalla seconda edizione di Empower The Future, il digital business summit dedicato all&#039;innovazione e alla sostenibilita&#039; organizzato da Forbes Italia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Speciali|04:00:00|04:30:00|Risparmia, investi, cresci con Michael Pino.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|04:30:00|04:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|04:35:00|05:30:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|05:30:00|06:00:00|Ep107 - Omar Hassan, il pugile artista internazionale icona dell&#039;inclusione sociale
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|4cLegal Academy|06:00:00|06:30:00|Ep4 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Club Deal OnLine|06:30:00|07:00:00|Ep10 - Nella decima puntata Federico Morgantini intervista Cristiano Busnardo, Alessandro Alberta e Andrea Conte sul ClubDeal per HomePanda
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|07:00:00|07:30:00|Ep99 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|PRIVATE TALK|07:30:00|08:00:00|Ep78 - BFC PRIVATE - PRIVATE TALK. Il mondo del Private Banking. Conduce Luigi Dell&#039;Olio. Ospite Giovanni Pattay, avvocato Studio Zadra &amp; Pattay
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|08:00:00|08:30:00|Ep143 - In esclusiva i protagonisti del mondo Forbes. A cura di Massimilano Carra&#039;
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes Empower The Future|08:30:00|10:00:00|Ep4 - Circular Economy. Round table tratta dalla seconda edizione di Empower The Future, il digital business summit dedicato all&#039;innovazione e alla sostenibilita&#039; organizzato da Forbes Italia
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|10:00:00|11:00:00|Ep12 - Mosche. Un programma di Matteo Vallero. Presenta Ettore Andenna
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|11:00:00|11:30:00|Ep5 - How cooked are the books? Esistono le sofisticazioni di bilancio? Ospiti Massimo Meloni, partner di EY; Luca Iervolino, Head of Corporate Credit and Master Data di Volkswagen Bank
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|11:30:00|12:00:00|Ep8 - Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. Roberta Maddalena, della newsroom di Forbes Italia, incontra Valentina Ferragni
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|12:00:00|12:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|12:05:00|13:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Terzo Canale Show|13:00:00|13:30:00|Ep274 - Med Campus, studiare medicina e vivere felici con Leonardo Vaghaye. Con Nicola Di Tullio di Weber Shandwick per aprire il fronte PNRR
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|PRIVATE TALK|13:30:00|14:00:00|Ep78 - BFC PRIVATE - PRIVATE TALK. Il mondo del Private Banking. Conduce Luigi Dell&#039;Olio. Ospite Giovanni Pattay, avvocato Studio Zadra &amp; Pattay
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|14:00:00|14:30:00|Ep15 - Stagione 4: Monte Castello di Vibio
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY|14:30:00|15:00:00|Ep100 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Laura Biancato, Morgan Stanley IM
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|15:00:00|15:30:00|Ep142 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Giulio Morandini, Ceo di R1 Group e Francesco Rattalino, direttore generale di ESCP Europe Torino Campus
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Events|15:30:00|16:00:00|Come si trasforma un progetto in eccellenza? Speciale 100 Eccellenze Italiane 2022: celebrare le intuizioni che ci sono dietro un ristorante stellato, un ottimo vino o un prodotto della terra
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|16:00:00|16:30:00|Ep125 - Siamo Jedi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|16:30:00|17:00:00|Ep143 - In esclusiva i protagonisti del mondo Forbes. A cura di Massimilano Carra&#039;
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews 1^TV|17:00:00|17:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|InFinance|17:05:00|17:14:00|Pillole di cultura finanziaria
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos 1^TV|17:14:00|17:30:00|Gli approfondimenti settimanali di AdnKronos
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|PRIVATE TALK|17:30:00|18:00:00|Ep79 - BFC PRIVATE - PRIVATE TALK. Il mondo del Private Banking. Conduce Luigi Dell&#039;Olio.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|18:00:00|18:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24 1^TV|18:05:00|19:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY 1^TV|19:00:00|19:30:00|Ep101 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Terzo Canale Show 1^TV|19:30:00|20:00:00|Ep275 - Design, neuroscienza, innovazione. Ecco come cambia il food nell&#039;intervista a Vincenzo Russo dello Iulm. Badacare, come trovare l&#039;assistente giusto per gli anziani: incontro con il fondatore Stefano Pepe
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|20:00:00|20:30:00|Ep6 - Le drag queen del bilancio - Utili travestiti da costi? Ospiti Davide Galbiati, responsabile unita&#039; operativa Bilancio e Segnalazioni di Alba Leasing; Aldo Ponzi, Director di Audirevi
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Alla scoperta del denaro 1^TV|20:30:00|21:00:00|Ep1 - Di Riccardo Zanetti. Ho Lavorato come Rider (e questo e&#039; quanto ho guadagnato) - Il corrotto business del Balletto russo
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|PRIVATE TALK|21:00:00|21:30:00|Ep79 - BFC PRIVATE - PRIVATE TALK. Il mondo del Private Banking. Conduce Luigi Dell&#039;Olio.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|21:30:00|22:00:00|Ep143 - In esclusiva i protagonisti del mondo Forbes. A cura di Massimilano Carra&#039;
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|22:00:00|22:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|22:05:00|23:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ASSETandtheCITY|23:00:00|23:30:00|Ep101 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Terzo Canale Show|23:30:00|00:00:00|Ep275 - Design, neuroscienza, innovazione. Ecco come cambia il food nell&#039;intervista a Vincenzo Russo dello Iulm. Badacare, come trovare l&#039;assistente giusto per gli anziani: incontro con il fondatore Stefano Pepe
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|00:00:00|00:30:00|Ep6 - Le drag queen del bilancio - Utili travestiti da costi? Ospiti Davide Galbiati, responsabile unita&#039; operativa Bilancio e Segnalazioni di Alba Leasing; Aldo Ponzi, Director di Audirevi
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|00:00:00|00:30:00|Ep6 - Le drag queen del bilancio - Utili travestiti da costi? Ospiti Davide Galbiati, responsabile unita&#039; operativa Bilancio e Segnalazioni di Alba Leasing; Aldo Ponzi, Director di Audirevi
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Alla scoperta del denaro|00:30:00|01:00:00|Ep1 - Di Riccardo Zanetti. Ho Lavorato come Rider (e questo e&#039; quanto ho guadagnato) - Il corrotto business del Balletto russo
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|01:00:00|01:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
@@ -102,6 +56,57 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|4cLegal Academy|23:00:00|23:30:00|Ep5 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Cina in movimento|23:30:00|00:00:00|Il documentario - seconda parte
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|00:00:00|00:30:00|Ep95 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|00:00:00|00:30:00|Ep95 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Speciali|00:30:00|01:00:00|Risparmia, investi, cresci con Michael Pino.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|01:00:00|01:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|01:05:00|02:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|4cLegal Academy|02:00:00|02:30:00|Ep5 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Cina in movimento|02:30:00|03:00:00|Il documentario - seconda parte
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|03:00:00|03:30:00|Ep95 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BFC Speciali|03:30:00|04:00:00|Risparmia, investi, cresci con Michael Pino.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BLUE ACADEMY|04:00:00|04:30:00|BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza per lo sviluppo di nuove competenze. Conduce Vito Massafra.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|BlueratingNews|04:30:00|04:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Business 24|04:35:00|05:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|05:30:00|06:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|06:00:00|06:30:00|BFC Responsibility. Siamo Jedi. Un programma sul lavoro e impresa innovativa e sostenibile realizzato dai ragazzi delle scuole superiori di Accademia + . Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|06:30:00|07:00:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|07:00:00|07:15:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|07:15:00|07:45:00|La Finanza in Azienda. Keep it Simple!
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|07:45:00|08:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes MOBILITY|08:00:00|08:30:00|Fobes MOBILITY
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|08:30:00|09:00:00|BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|09:00:00|09:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Motorsport Garage|09:30:00|10:00:00|I test di prodotto esclusivi, le emozioni impagabili del motorsport e il legame che unisce da sempre il mondo delle competizioni e quello della produzione di serie.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes BLOCKCHAIN &amp; CO|10:00:00|10:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|10:30:00|11:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|11:00:00|11:30:00|BFC Forbes-Forbes GREEN CARPET. Imprenditori e manager protagonisti dell&#039;impresa internazionale esplorano i mondi della responsabilita&#039; sociale. Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|11:30:00|12:00:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|12:00:00|12:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Siamo Jedi|12:30:00|13:00:00|BFC Responsibility. Siamo Jedi. Un programma sul lavoro e impresa innovativa e sostenibile realizzato dai ragazzi delle scuole superiori di Accademia + . Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Safe Drive|13:00:00|13:45:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|13:45:00|14:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Motorsport Garage|14:00:00|14:30:00|I test di prodotto esclusivi, le emozioni impagabili del motorsport e il legame che unisce da sempre il mondo delle competizioni e quello della produzione di serie.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|14:30:00|14:40:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Safe Drive Motorsport|14:40:00|15:10:00|Safe Drive Motorsport
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|AdnKronos|15:10:00|15:20:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Safe Drive|15:20:00|16:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes BLOCKCHAIN &amp; CO|16:00:00|16:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|16:30:00|17:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|17:00:00|17:30:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Club Deal OnLine|17:30:00|18:00:00|Club Deal OnLine
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes #CENACOLOARTOM|18:00:00|18:30:00|BFC Forbes - #CENACOLOARTOM. I leader si raccontano ad Arturo Artom: talento, fortuna, visioni.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesLEADER|18:30:00|19:00:00|BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|19:00:00|19:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes - Le Village|19:30:00|20:00:00|Forbes - Le Village
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes MOBILITY|20:00:00|20:30:00|Fobes MOBILITY
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|20:30:00|21:00:00|La Finanza in Azienda. Keep it Simple!
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Safe Drive Motorsport|21:00:00|21:30:00|Safe Drive Motorsport
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes WOMEN|21:30:00|22:00:00|Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes BLOCKCHAIN &amp; CO|22:00:00|22:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|ForbesSILICIO|22:30:00|23:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Forbes GREEN CARPET|23:00:00|23:30:00|BFC Forbes-Forbes GREEN CARPET. Imprenditori e manager protagonisti dell&#039;impresa internazionale esplorano i mondi della responsabilita&#039; sociale. Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Leader Mercati|23:30:00|00:00:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|La Finanza in Azienda. Keep it Simple!|00:00:00|00:30:00|Un programma a cura di Ivan Fogliata, inFinance
 
 
 
