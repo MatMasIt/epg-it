@@ -1,5 +1,5 @@
 # Radionorba TV
-> Programmazione di Giovedì 05 Maggio 2022
+> Programmazione di Venerdì 06 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
