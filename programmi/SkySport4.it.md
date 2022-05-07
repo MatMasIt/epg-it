@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/0f7fcf1c-9161-4462-a14a-f4780f4e0fe9/cover?md5ChecksumParam=5efd9bcfe028b5e6ab52af283c282eff)|Perugia - Monza (diretta)|17:30:00|22:00:00|Cod. 450584 - Serie B - 38a giornata. Calcio d&#039;inizio ore 20:30.
 |![Icon](https://guidatv.sky.it/uuid/33a7a450-ddc5-4dfe-bf1e-46b87e2836f8/cover?md5ChecksumParam=7a345eb19e99aa445b946cded36fdf87)|Washington - Florida|16:30:00|20:30:00|Hockey Nhl 2021/2022 Playoff 1 Round Gara 3. Dalle 19:00.
+|![Icon](https://guidatv.sky.it/uuid/22f57397-f004-4dd7-b670-e5db0da3aff1/cover?md5ChecksumParam=7fe881fcaad994c69a7feaeb3fa622fa)|Pescara - Feralpisalo&#039; (diretta)|16:30:00|19:30:00|Cod. 450948 - Serie C - Playoff Primo Turno - Andata. Calcio d&#039;inizio ore 19:00
 
 
 
