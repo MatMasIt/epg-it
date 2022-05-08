@@ -3,24 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|06:00:00|08:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Benvenuto Benessere|08:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|La casa che vorrei|09:00:00|11:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|11:00:00|12:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|12:00:00|13:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|PromoPharma Natura, scienza e benessere|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|SBC: la tua naturale bellezza|16:00:00|17:00:00|ITA. Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magniflex, per chi ama dormire|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Magniflex, materassi realizzati in materiali innovativi, tecnologicamente e qualitativamente evoluti, per soddisfare i bisogni di chi ama la qualita&#039; della vita e del riposo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|PromoPharma Natura, scienza e benessere|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|19:00:00|20:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Magniflex|20:00:00|21:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Casa Dyson, Dove abita la tecnologia|21:00:00|22:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Skechers, Calzature e lifestyle|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
@@ -42,6 +24,30 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Skechers, Calzature e lifestyle|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magimix, Il tuo chef in cucina|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Magimix, societa&#039; Francese leader nei prodotti per la cucina, dal design innovativo e pratici da usare.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|06:00:00|08:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ultimate, alleati del benessere|08:00:00|09:00:00|Scopri Ultimate, marchio Made in Italy, nato dalla passione per lo sport del titolare Enrico Levantino. Con 30 anni di esperienza, propone in esclusiva QVC, due nuove linee: Sprint e Wellness.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Officina della moda, The fashion factory|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|12:00:00|13:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Officina della moda, The fashion factory|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scarpe Mon Amour!|16:00:00|17:00:00|ITA. Gli accessori e in particolare le scarpe sono i protagonisti del look. Percorriamo insieme un viaggio nelle tendenze delle scarpe e in generale degli accessori per scoprire cosa desiderano le donne
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|19:00:00|20:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Diamonique, lucentezza di diamante|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Diamonique, le migliori simulazioni di diamanti al mondo, montate su gioielli realizzati con materiali preziosi. Per chi cerca la lucentezza del diamante ad un prezzo contenuto.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|21:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|22:00:00|23:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
