@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Sabato 07 Maggio 2022
+> Programmazione di Domenica 08 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
