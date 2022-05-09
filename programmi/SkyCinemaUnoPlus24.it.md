@@ -1,5 +1,5 @@
 # Sky Cinema Uno +24
-> Programmazione di Domenica 08 Maggio 2022
+> Programmazione di Lunedì 09 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
