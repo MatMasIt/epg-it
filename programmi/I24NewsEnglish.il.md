@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Lunedì 09 Maggio 2022
+> Programmazione di Martedì 10 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
