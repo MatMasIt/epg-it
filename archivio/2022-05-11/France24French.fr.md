@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Martedì 10 Maggio 2022
+> Programmazione di Mercoledì 11 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
