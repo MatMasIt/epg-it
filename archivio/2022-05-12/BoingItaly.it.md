@@ -1,5 +1,5 @@
 # Boing Italia
-> Programmazione di Mercoledì 11 Maggio 2022
+> Programmazione di Giovedì 12 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
