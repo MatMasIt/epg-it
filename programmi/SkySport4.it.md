@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/52167056-355a-41cf-b1c7-9332327f27a9/cover?md5ChecksumParam=e6bd80f4ac127d5abdb289d242adbfc0)|Entella - Foggia|18:00:00|21:00:00|Cod. 451006 - Serie C - Playoff Primo Turno - Ritorno. Calcio d&#039;inizio ore 20:30
+|![Icon](https://guidatv.sky.it/uuid/2b0e3da9-30a6-4e76-9c1d-250a2b5d165e/cover?md5ChecksumParam=881e8b58e195679442837a4e7c39725d)|Montpellier - Paris|18:30:00|21:30:00|Ligue 1 37a giornata. Calcio d&#039;inizio 21:00
 
 
 
