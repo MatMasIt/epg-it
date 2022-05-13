@@ -1,5 +1,5 @@
 # Motor Trend
-> Programmazione di Giovedì 12 Maggio 2022
+> Programmazione di Venerdì 13 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
