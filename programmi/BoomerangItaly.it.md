@@ -1,5 +1,5 @@
 # Boomerang Italia
-> Programmazione di Sabato 14 Maggio 2022
+> Programmazione di Domenica 15 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
