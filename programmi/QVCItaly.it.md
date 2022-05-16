@@ -9,30 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|06:00:00|07:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucchetta, sogni a 18 karati|07:00:00|08:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ebarrito, l&#039;accessorio fa la differenza|08:00:00|09:00:00|Con Ebarrito la parola chiave e&#039; ripensare la moda usando materiali di recupero, per creare pezzi unici. Scampoli di pelle trovano armonia e danno vita ad accessori che conquistano al primo sguardo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buongiorno bellezza!|09:00:00|11:00:00|ITA. Ogni domenica alle 11,c&#039;e&#039; un momento in piu&#039; da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu&#039; belle
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|12:00:00|13:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|16:00:00|17:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Caterina Lancini, moda e carattere|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ebarrito, l&#039;accessorio fa la differenza|19:00:00|20:00:00|Con Ebarrito la parola chiave e&#039; ripensare la moda usando materiali di recupero, per creare pezzi unici. Scampoli di pelle trovano armonia e danno vita ad accessori che conquistano al primo sguardo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|21:00:00|22:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Enjoy, divertirsi con la moda|22:00:00|23:00:00|ITA. Enjoy e&#039; il brand di moda che cattura le tendenze del momento e le reinterpreta.Il suo stile si rivolge a tutte le donne che amano giocare con la moda ed esprimersi attraverso il proprio look.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Enjoy, divertirsi con la moda|06:00:00|08:00:00|ITA. Enjoy e&#039; il brand di moda che cattura le tendenze del momento e le reinterpreta.Il suo stile si rivolge a tutte le donne che amano giocare con la moda ed esprimersi attraverso il proprio look.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Il giardino che passione!|08:00:00|09:00:00|ITA. Scopri QVC. Scopri tutti i dettagli e i prodotti per rendere la tua casa sempre piu&#039; speciale. Tantissimi oggetti riscoprire la casa che piace a te.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Evolve Beauty, la natura della bellezza|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Evolve Beauty, brand che non contiene ingredienti di origine animale e che predilige materie prime di origine naturale e biologica.
@@ -49,6 +25,30 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Enjoy, divertirsi con la moda|20:00:00|21:00:00|ITA. Enjoy e&#039; il brand di moda che cattura le tendenze del momento e le reinterpreta.Il suo stile si rivolge a tutte le donne che amano giocare con la moda ed esprimersi attraverso il proprio look.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Hookless|21:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Illamasqua, Il make-up espressione di te|22:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|QVC anch&#039;io|06:00:00|07:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Illamasqua, Il make-up espressione di te|07:00:00|08:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Sottomarino, la moda italiana total look|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucrezia Sciortino, prima di tutto donna|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty show con Illamasqua|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Bissell|11:00:00|12:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucrezia Sciortino, prima di tutto donna|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Illamasqua, Il make-up espressione di te|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lee, la leggenda del jeans|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Gli imperdibili delle 5|15:00:00|16:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Bissell|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|The Beauty show con Illamasqua|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Sottomarino, la moda italiana total look|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|19:00:00|21:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Bissell|21:00:00|22:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Veronese, fascino d&#039;oro cuore d&#039;argento|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Veronese, gioielli realizzati in argento placcato oro 18k, dal design sofisticato e di pregio ispirato all&#039;eleganza e alla storia della tradizione orafa di Verona.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
 
