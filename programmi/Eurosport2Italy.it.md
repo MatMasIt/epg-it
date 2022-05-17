@@ -1,5 +1,5 @@
 # Eurosport 2 Italia
-> Programmazione di Lunedì 16 Maggio 2022
+> Programmazione di Martedì 17 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
