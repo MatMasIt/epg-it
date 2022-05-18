@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Martedì 17 Maggio 2022
+> Programmazione di Mercoledì 18 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
