@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/83521c93-d426-4e43-9990-dbcb40afd55c/cover?md5ChecksumParam=6e7a488d8ce53f6311dc498c282554d3)|Brescia - Monza|17:30:00|20:30:00|Cod. 450879 - Serie B - Semifinale Andata. Calcio d&#039;inizio ore 20:00.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reggiana - Feralpisalo&#039;|18:00:00|21:00:00|Cod. 451084 - Serie C - Playoff Secondo Turno - Ritorno. Calcio d&#039;inizio ore 20:30
 
 
 
