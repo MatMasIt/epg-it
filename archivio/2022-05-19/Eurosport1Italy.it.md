@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Mercoledì 18 Maggio 2022
+> Programmazione di Giovedì 19 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
