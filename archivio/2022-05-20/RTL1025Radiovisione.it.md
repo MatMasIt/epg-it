@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Giovedì 19 Maggio 2022
+> Programmazione di Venerdì 20 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
