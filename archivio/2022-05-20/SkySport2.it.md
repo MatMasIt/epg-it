@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/6687a9cb-6ef7-4433-89cb-c9bb1fb57800/cover?md5ChecksumParam=07a7723fd4dbb6ff42d18c1753f770c9)|Hertha B. - Amburgo|18:00:00|21:00:00|Bundesliga. Calcio d&#039;inizio 20:30.
-|![Icon](https://guidatv.sky.it/uuid/21ecc0cf-db50-44fd-be2e-90f775753ed2/cover?md5ChecksumParam=fd5e19bcee31c2bb389f57e419999b7f)|Cosenza - Vicenza|18:00:00|21:00:00|Cod. 450937 - Serie B - Playout Ritorno. Calcio d&#039;inizio ore 20:30.
+|![Icon](https://guidatv.sky.it/uuid/4421bb45-0a24-4166-8435-8a9acd47e8e1/cover?md5ChecksumParam=b9bb4acaa09915817f0c0b1aa1973e24)|Cosenza - Vicenza|18:00:00|21:00:00|Cod. 450937 - Serie B - Playout Ritorno. Calcio d&#039;inizio ore 20:30.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|38a g.|18:00:00|22:00:00|Serie A - 38a giornata Diretta Gol. Calcio d&#039;inizio ore 20:45.
 
 
 
