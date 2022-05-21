@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/4421bb45-0a24-4166-8435-8a9acd47e8e1/cover?md5ChecksumParam=b9bb4acaa09915817f0c0b1aa1973e24)|Cosenza - Vicenza|18:00:00|21:00:00|Cod. 450937 - Serie B - Playout Ritorno. Calcio d&#039;inizio ore 20:30.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|38a g.|18:00:00|22:00:00|Serie A - 38a giornata Diretta Gol. Calcio d&#039;inizio ore 20:45.
+|![Icon](https://guidatv.sky.it/uuid/a2c5d6c7-0379-4b79-8b30-e07cc0ec8d9a/cover?md5ChecksumParam=026c7516b033b15d739788d16bbbdbfd)|Venezia - Cagliari|18:00:00|22:30:00|Cod. 451131 - Serie A - 38a giornata. Calcio d&#039;inizio ore 21:00.
 
 
 
