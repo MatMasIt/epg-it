@@ -1,5 +1,5 @@
 # Premium Cinema 1 +24
-> Programmazione di Venerdì 20 Maggio 2022
+> Programmazione di Sabato 21 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
