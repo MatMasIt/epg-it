@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Sabato 21 Maggio 2022
+> Programmazione di Domenica 22 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
