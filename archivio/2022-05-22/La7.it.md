@@ -1,0 +1,74 @@
+# La 7
+> Programmazione di Sabato 21 Maggio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|01:45:00|04:00:00|Ep. 178 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|04:40:00|04:50:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 255 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 255 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:00:00|Ep. 215 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira|09:00:00|10:50:00|Ep. 189 - Myrta Merlino racconta fatti e retroscena dell&#039;economia e della societa&#039; italiana, con approfondimenti, collegamenti in diretta e interviste ai protagonisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|10:50:00|11:30:00|Ep. 14 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tagada&#039;, tutto quanto fa politica|12:15:00|13:30:00|Ep. 179 - Il programma di attualita&#039; del pomeriggio di La7 condotto da Tiziana Panella, che, tra politica, spettacolo, economia e cronaca, racconta l&#039;Italia reale e quella &#039;nascosta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|La vendetta di Putin|13:30:00|15:00:00|1a parte - Regia di M. Kirk. Un documentario che analizza le ragioni dell&#039;interferenza di Vladimir Putin nelle elezioni americane del 2016 a favore di Donald Trump.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Speciale Tg La7|15:00:00|18:00:00|Approfondimento di temi trattati nel giornale, di cronaca, politica, attualita&#039;, economia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 72 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/669e0d81-19e3-4fb4-8924-8fe09548747b/cover?md5ChecksumParam=0d81954cadae0913d2ecc30879140d23)|Il giovane Hitler|19:15:00|23:00:00|Regia di C. Duguay, con R.Carlyle, J.Malone; CAN 2003 (225 min). L&#039;ascesa al potere di Adolf Hitler, favorita dalla crisi economica e sociale che colpi&#039; la Germania dopo la Prima Guerra Mondiale.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:00:00|23:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|23:10:00|23:20:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|23:20:00|00:00:00|Ep. 72 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|00:00:00|00:35:00|Ep. 14 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|00:00:00|00:35:00|Ep. 14 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|History&#039;s Greatest Lies|00:35:00|01:35:00|1915: Il naufragio del Lusitania - Il 7 maggio 1915 il transatlantico britannico Lusitania fu silurato da un sottomarino tedesco: si affermava che trasportava armi. Ma era davvero cosi&#039;?
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|History&#039;s Greatest Lies|01:35:00|02:35:00|1944: D-Day Operation Fortitude - 06/06/1944: lo sbarco in Normandia, l&#039;operazione militare piu&#039; spettacolare della storia, deve il successo a un atto di depistaggio: l&#039;Operation Fortitude.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|History&#039;s Greatest Lies|02:35:00|03:30:00|1983: A caccia di petrolio - 1979, seconda crisi petrolifera: due inventori propongono al colosso petrolifero francese Elf il progetto di un aereo in grado di rilevare giacimenti sotterranei.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|03:30:00|04:00:00|Ep. 255 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|04:40:00|04:50:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 256 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 256 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Uozzap|07:40:00|08:35:00|Ep. 18 - &#039;La TV in chat&#039; che seleziona i momenti piu&#039; divertenti e ironici dei personaggi piu&#039; amati della televisione.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Camera con vista|08:35:00|09:00:00|Ep. 60 - La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;ingrediente perfetto|09:00:00|09:45:00|Ep. 12 - Sulle rive del Tevere, Maria Grazia Cucinotta mostra come, con la scelta di ingredienti &#039;perfetti&#039;, si possano creare piatti sani gustosi. Il tutto condito dai suggerimenti di Gianluca Mech.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sissi: l&#039;assassinio di una imperatrice|09:45:00|10:50:00|Elisabetta di Baviera, conosciuta come Sissi, imperatrice d&#039;Austria, fu uccisa il 10 settembre del 1898 sul lungolago di Ginevra dall&#039;anarchico Luigi Lucheni, che la colpi&#039; con una lima in pieno petto.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Le parole della salute|10:50:00|11:30:00|Ep. 3 - Programma dedicato ai progressi della medicina, alla ricerca scientifica, alla prevenzione e agli aspetti della quotidianita&#039; che contribuiscono a migliorare la nostra vita.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|11:50:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coppa Italia F Prepartita (live)|11:50:00|12:15:00|Le ultime novita&#039; sulle formazioni prima del fischio d&#039;inizio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Juventus - Roma (live)|12:15:00|15:00:00|Coppa Italia F - Finale. La sfida per la conquista del prestigioso trofeo italiano femminile. Vincitire della scorsa edizione la Roma.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Speciale Tg La7|15:00:00|18:00:00|Approfondimento di temi trattati nel giornale, di cronaca, politica, attualita&#039;, economia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 73 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Non e&#039; l&#039;Arena|19:15:00|23:00:00|Ep. 30 - Il programma di Massimo Giletti che punta i riflettori sui temi e i protagonisti della piu&#039; stretta attualita&#039; politica e sociale, e della cronaca.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:00:00|23:10:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|23:10:00|23:50:00|Ep. 73 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/5158f77b-55b7-49fd-a6f1-45c4c5d88fbb/cover?md5ChecksumParam=e1482c44f745b9f408662bd7e454b55f)|JFK - Un caso ancora aperto|23:50:00|03:30:00|Regia di O. Stone, con K.Costner, G.Oldman; USA 1991 (220 min). Un procuratore distrettuale si intestardisce a cercare il movente dell&#039;omicidio del Presidente J.F. Kennedy. E scopre una scottante verita&#039;.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
