@@ -1,5 +1,5 @@
 # MTV Music Italia
-> Programmazione di Domenica 22 Maggio 2022
+> Programmazione di Lunedì 23 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
