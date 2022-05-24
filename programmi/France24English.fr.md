@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Lunedì 23 Maggio 2022
+> Programmazione di Martedì 24 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
