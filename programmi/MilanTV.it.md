@@ -1,5 +1,5 @@
 # Milan TV
-> Programmazione di Martedì 24 Maggio 2022
+> Programmazione di Mercoledì 25 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
