@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Mercoledì 25 Maggio 2022
+> Programmazione di Giovedì 26 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
