@@ -1,5 +1,5 @@
 # Canale 5
-> Programmazione di Giovedì 26 Maggio 2022
+> Programmazione di Venerdì 27 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

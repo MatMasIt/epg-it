@@ -1,0 +1,35 @@
+# Super Tennis
+> Programmazione di Giovedì 26 Maggio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best Of WTA 2014 2014 Ivanovic...|01:00:00|03:00:00|Best Of WTA 2014 2014 Ivanovic - Sharapova, Cincinnati - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Berrettini 2021 2021 ATP...|03:00:00|06:00:00|Best of Berrettini 2021 2021 ATP Queen&#039;s: Berrettini - Norrie - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Giorgi Wozniacki - Giorgi,...|06:00:00|08:15:00|Best of Giorgi Yamstremska - Giorgi, WTA Palermo 2020 - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of ATP 1000 2022 Miami: Sinner...|08:15:00|10:30:00|Best of ATP 1000 2022 Musetti - Popyrin - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tennis Parade|10:30:00|11:00:00|Tennis Parade - La classifica dei colpi piu&#039; spettacolari del mese accompagnati dalle hit musicali del momento.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Sinner Bautista Agut...|11:00:00|13:00:00|Best of Sinner Bautista Agut - Sinner, ATP 500 Dubai 2021 - I migliori match dei campioni in Coppa Davis.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best Of WTA 2015 2015 V. Williams...|13:00:00|15:00:00|Best Of WTA 2015 2015 V. Williams - Vinci , Wuhan - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|15:00:00|15:45:00|Supertennis Today - Il salotto di SuperTennis. Approfondimenti, immagini, interviste, dietro le quinte. I nostri conduttori e talent vi tengono compagnia in occasione degli eventi piu&#039; importanti della settimana.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Berrettini 2022 2022 ATP...|15:45:00|17:00:00|Best of Berrettini 2022 2022 ATP Indian Wells: Berrettini - Rune - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Giorgi Wozniacki - Giorgi,...|17:00:00|19:00:00|Best of Giorgi Wozniacki - Giorgi, WTA Tokyo 2018 - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|19:00:00|19:45:00|Supertennis Today - Il salotto di SuperTennis. Approfondimenti, immagini, interviste, dietro le quinte. I nostri conduttori e talent vi tengono compagnia in occasione degli eventi piu&#039; importanti della settimana.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of ATP 1000 2022 Miami: Sinner...|19:45:00|22:00:00|Best of ATP 1000 2022 Miami: Sinner - Ruusuvuori - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Sinner Bautista Agut...|22:00:00|01:00:00|Best of Sinner Bautista Agut - Sinner, ATP 500 Dubai 2021 - I migliori match dei campioni in Coppa Davis.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best Of WTA 2015 2015 V. Williams...|01:00:00|03:00:00|Best Of WTA 2015 2015 V. Williams - Vinci , Wuhan - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Berrettini 2022 2022 ATP...|03:00:00|06:00:00|Best of Berrettini 2022 2022 ATP Indian Wells: Berrettini - Rune - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Giorgi Wozniacki - Giorgi,...|06:00:00|08:15:00|Best of Giorgi Wozniacki - Giorgi, WTA Tokyo 2018 - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of ATP 1000 2022 Miami: Sinner...|08:15:00|11:00:00|Best of ATP 1000 2022 Miami: Sinner - Ruusuvuori - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Colpo da Campione|11:00:00|11:15:00|Colpo da Campione. Comparazione risposta Nadal - Alcaraz
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Sinner Bautista Agut...|11:15:00|13:00:00|Best of Sinner Sinner - McDonald, ATP 500 Washington 2021 - I migliori match dei campioni in Coppa Davis.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best Of WTA 2016 2016 Radwasnka...|13:00:00|15:00:00|Best Of WTA 2016 2016 Kvitova - Kerber, Wuhan - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|15:00:00|15:45:00|Supertennis Today - Il salotto di SuperTennis. Approfondimenti, immagini, interviste, dietro le quinte. I nostri conduttori e talent vi tengono compagnia in occasione degli eventi piu&#039; importanti della settimana.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Berrettini 2020 2020 ATP...|15:45:00|17:00:00|Best of Berrettini 2020 2020 ATP Roma: Berrettini - Travaglia - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Giorgi Wozniacki - Giorgi,...|17:00:00|19:00:00|Best of Giorgi Pliskova - Giorgi, WTA Eastbourne 2021 - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Supertennis Today|19:00:00|19:45:00|Supertennis Today - Il salotto di SuperTennis. Approfondimenti, immagini, interviste, dietro le quinte. I nostri conduttori e talent vi tengono compagnia in occasione degli eventi piu&#039; importanti della settimana.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of ATP 1000 2022 Miami: Sinner...|19:45:00|23:00:00|Best of ATP 1000 2022 Madrid: Djokovic - Alcaraz - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Best of Sinner Bautista Agut...|23:00:00|01:00:00|Best of Sinner Sinner - McDonald, ATP 500 Washington 2021 - I migliori match dei campioni in Coppa Davis.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

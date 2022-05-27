@@ -1,0 +1,37 @@
+# MTV Music Italia
+> Programmazione di Giovedì 26 Maggio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|04:00:00|05:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|05:00:00|06:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/814fdc6e-a7d1-4d0a-9734-1119cca2ef34/cover?md5ChecksumParam=820e57cb998022b19cfbe19abd349f90)|Top 10 New Zone|06:00:00|06:45:00|La classifica dei 10 video piu&#039; cool del momento
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|06:45:00|09:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|09:00:00|10:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|10:00:00|13:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/1ef6822c-ea72-413c-9fd2-0f99095c02a6/cover?md5ChecksumParam=a88f8a1006189d0aeff48ac6192a66ab)|Top 10 Italians|13:00:00|13:50:00|La classifica dei 10 video italiani piu&#039; forti del momento
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|13:50:00|17:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|17:00:00|18:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/82d5ef51-7a59-48f2-ad17-0f9c02bb26d4/cover?md5ChecksumParam=8c1d0abb9b2007024badf889e291b2fc)|Top 10 Dance|18:00:00|18:40:00|La classifica dei 10 pezzi piu&#039; ballati del momento!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|18:40:00|21:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/705d63ad-1ee7-45ee-a4cd-ed82ccb77d73/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|New Zone|21:00:00|22:00:00|I nuovi video degli artisti piu&#039; cool, in uno spazio interamente dedicato a loro!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|22:00:00|04:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|04:00:00|05:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|05:00:00|06:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/1ef6822c-ea72-413c-9fd2-0f99095c02a6/cover?md5ChecksumParam=a88f8a1006189d0aeff48ac6192a66ab)|Top 10 Italians|06:00:00|06:50:00|La classifica dei 10 video italiani piu&#039; forti del momento
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|06:50:00|09:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|09:00:00|09:55:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|09:55:00|12:55:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/814fdc6e-a7d1-4d0a-9734-1119cca2ef34/cover?md5ChecksumParam=820e57cb998022b19cfbe19abd349f90)|Top 10 New Zone|12:55:00|13:45:00|La classifica dei 10 video piu&#039; cool del momento
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|13:45:00|17:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/a5b07c0e-bba0-4424-abc0-0457b2b6c3b2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|17:00:00|17:55:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/c6cca8a2-49e8-4f33-b591-6756ca2cc035/cover?md5ChecksumParam=b9fb9763c2b0ec698d1ae07701261ba2)|Top 10 MTV Most Played|17:55:00|18:45:00|La classifica dei 10 video piu&#039; forti della playlist di MTV Music
+|![Icon](https://guidatv.sky.it/uuid/bc323354-b0cc-4836-9dd6-38b35781b5f3/cover?md5ChecksumParam=7eae858b609d89df4c7f1914fae1f81b)|100% Who&#039;s next on chart?|18:45:00|19:00:00|Quali potrebbero essere le nuove entrate della prossima settimana? Magari uno di questi video...
+|![Icon](https://guidatv.sky.it/uuid/6977959f-53de-42e6-b112-5eccd2c9f693/cover?md5ChecksumParam=89386ea2097b25e2cff2d4c224321b0a)|World Stage|19:00:00|19:55:00|I live piu&#039; belli filmati in esclusiva da MTV per te che te li puoi godere comodamente dal divano di casa tua!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|19:55:00|20:55:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/705d63ad-1ee7-45ee-a4cd-ed82ccb77d73/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|New Zone|20:55:00|22:00:00|I nuovi video degli artisti piu&#039; cool, in uno spazio interamente dedicato a loro!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|22:00:00|04:00:00|I video piu&#039; fighi del momento, i pezzi piu&#039; forti, gli artisti piu&#039; amati, le ultime novita: tutto questo in 100% Music!
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
