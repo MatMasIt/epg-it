@@ -3,6 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Palermo - Feralpisalo&#039;|18:00:00|21:00:00|Cod. 451186 - Serie C - Semifinali Ritorno. Calcio d&#039;inizio ore 20:30
 
 
 
