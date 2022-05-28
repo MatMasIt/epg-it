@@ -1,5 +1,5 @@
 # VH1 Italia
-> Programmazione di Venerdì 27 Maggio 2022
+> Programmazione di Sabato 28 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
