@@ -1,5 +1,5 @@
 # Premium Cinema 1 +24
-> Programmazione di Sabato 28 Maggio 2022
+> Programmazione di Domenica 29 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
