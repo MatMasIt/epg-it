@@ -3,38 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|00:00:00|00:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|00:30:00|01:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|01:00:00|02:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|02:00:00|02:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|02:30:00|03:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|03:00:00|04:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|04:00:00|04:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|04:30:00|05:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|05:00:00|06:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:00:00|07:00:00|Shepard Smith presents a nightly newscast of the day&#039;s most important stories.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|07:00:00|07:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
-|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|07:30:00|08:00:00|The King of Malibu &amp; The Richest Rolex - A look is given at a compound in Malibu that was once owned by Johnny Carson.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|08:00:00|08:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|08:30:00|09:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - A con man poses as a Saudi Arabian sultan to swindle money.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|10:00:00|12:00:00|PGA TOUR: Waste Management Phoenix Open, Rds 3 and 4 - Golf highlights from the latest event on the PGA Tour, the Waste Management Phoenix Open at TPC Scottsdale in Arizona.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:00:00|12:30:00|Michelin Le Mans Cup 2022 - Some of the biggest sporting events from around the world are presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|RIDE FEI Originals|12:30:00|13:00:00|Detailed information is shared about the amazing bonds that can exist between horses and humans as tales are told from across the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|14:00:00|Tour de Hongrie 2022 - Some of the biggest sporting events from around the world are presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|14:00:00|15:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|15:00:00|16:00:00|American Greed: Scams, Scoundrels and Scandals - A Seattle man&#039;s Ponzi scheme; a New York socialite buys low and sells high.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|16:00:00|16:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|16:30:00|17:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|17:00:00|18:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|18:00:00|19:00:00|American Greed: Scams, Scoundrels and Scandals - A con man poses as a Saudi Arabian sultan to swindle money.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|19:00:00|20:00:00|Billy Crystal; Samara Weaving; Ulf Mickael Wahlgren accompanies the 8G Band.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|20:00:00|21:00:00|Kristin Chenoweth; Chris Parnell; Kwame Onwuachi; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Profit|21:00:00|22:00:00|Detroit Denim - The host visits a denim business based in Detroit to help the owners become more flexible and learn how to make better business decisions.
-|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|22:00:00|22:30:00|The King of Malibu &amp; The Richest Rolex - A look is given at a compound in Malibu that was once owned by Johnny Carson.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|23:00:00|00:00:00|Bob Odenkirk; Bobby Moynihan; Derrick Wright sits in with the 8G Band.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|00:00:00|01:00:00|Billy Crystal; Samara Weaving; Ulf Mickael Wahlgren accompanies the 8G Band.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|00:00:00|01:00:00|Billy Crystal; Samara Weaving; Ulf Mickael Wahlgren accompanies the 8G Band.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|01:00:00|02:00:00|Kristin Chenoweth; Chris Parnell; Kwame Onwuachi; Ulf Mickael Wahlgren.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|02:00:00|03:00:00|Jennifer Connelly; Chloe Fineman; Danielle Ponder; Ulf Mickael Wahlgren.
@@ -63,6 +31,30 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|20:00:00|21:00:00|Jon Hamm; Julio Torres; SIX performs; Ulf Mickael Wahlgren.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|21:00:00|22:00:00|Roundtable talks and interviews address current events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|22:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Capital Connection|04:00:00|05:00:00|Experts share trading news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk Box Europe|05:00:00|08:00:00|Breaking news items and the European markets are discussed.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Europe Street Signs|08:00:00|09:00:00|Economic news concerning Europe, including live price action in stocks.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|09:00:00|10:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|10:00:00|10:30:00|Expo 2020 Agri-Week - Politicians and activists discuss climate change and food security.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|10:30:00|11:00:00|Arcelik - The CEO of Arcelik discusses his passion for the environment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|11:00:00|12:00:00|American Greed: Scams, Scoundrels and Scandals - A college admissions coach makes money from rich parents.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|12:00:00|13:00:00|American Greed: Scams, Scoundrels and Scandals - The Fyre Festival in the Bahamas ends in disaster due to fraud.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|13:00:00|13:30:00|Atlantic Council Global Energy Forum 2022 - Hadley Gamble presents coverage of the Atlantic Council Global Energy Forum.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|13:30:00|14:00:00|Matt Damon &amp; Gary White - Tania Bryer speaks to Matt Damon and Gary White to discuss Water.org.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|14:00:00|15:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|15:00:00|16:00:00|American Greed: Scams, Scoundrels and Scandals - The religious leaders of a polygamous sect steal millions of dollars.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|16:00:00|16:30:00|Expo 2020 Agri-Week - Politicians and activists discuss climate change and food security.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|16:30:00|17:00:00|Arcelik - The CEO of Arcelik discusses his passion for the environment.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|17:00:00|18:00:00|American Greed: Scams, Scoundrels and Scandals - Salesmen import gold from South America that has ties to drug cartels.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|18:00:00|19:00:00|American Greed: Scams, Scoundrels and Scandals - Former reality TV star Scott Menaged&#039;s fraud scheme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|19:00:00|19:30:00|Atlantic Council Global Energy Forum 2022 - Hadley Gamble presents coverage of the Atlantic Council Global Energy Forum.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|19:30:00|20:00:00|Matt Damon &amp; Gary White - Tania Bryer speaks to Matt Damon and Gary White to discuss Water.org.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|20:00:00|21:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|21:00:00|21:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Miley Cyrus; Jenna Fischer and Angela Kinsey.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
 
 
 
