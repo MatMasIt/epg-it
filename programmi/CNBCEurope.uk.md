@@ -3,34 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|00:00:00|01:00:00|Billy Crystal; Samara Weaving; Ulf Mickael Wahlgren accompanies the 8G Band.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|01:00:00|02:00:00|Kristin Chenoweth; Chris Parnell; Kwame Onwuachi; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|02:00:00|03:00:00|Jennifer Connelly; Chloe Fineman; Danielle Ponder; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|03:00:00|04:00:00|Jon Hamm; Julio Torres; SIX performs; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|04:00:00|05:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|05:00:00|05:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|05:30:00|06:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joel Osteen|06:00:00|06:30:00|Religious programme.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|06:30:00|07:00:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In Touch Ministries|07:00:00|07:30:00|In Touch Ministries, founded by Pastor Dr. Charles Stanley, shares sermons and other uplifting messages tackling a range of subjects.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joseph Prince - New Creation Church TV|07:30:00|08:00:00|Senior Pastor Joseph Prince leads viewers in a time of worship and study as he addresses a series of religious topics designed to encourage individuals.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Elevation with Steven Furtick|08:00:00|08:30:00|Pastor Steven Furtick leads the followers of Elevation Church in an exciting and informative celebration of their beliefs and of God&#039;s teachings.
-|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|08:30:00|09:00:00|A Subterranean Mega-Mansion &amp; The $200M Joy Ride - A trip from Stockholm to Las Vegas; a $53 million mansion is mostly underground.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - A Seattle man&#039;s Ponzi scheme; a New York socialite buys low and sells high.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|10:00:00|12:00:00|PGA TOUR: Waste Management Phoenix Open, Rds 3 and 4 - Golf highlights from the latest event on the PGA Tour, the Waste Management Phoenix Open at TPC Scottsdale in Arizona.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:00:00|13:00:00|European Le Mans 2022 - Some of the biggest sporting events from around the world are presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|14:00:00|Reaction Sports (May) - Some of the biggest sporting events from around the world are presented.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|14:00:00|14:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|14:30:00|15:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|15:00:00|16:00:00|Roundtable talks and interviews address current events.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Profit|16:00:00|17:00:00|Detroit Denim - The host visits a denim business based in Detroit to help the owners become more flexible and learn how to make better business decisions.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|17:00:00|17:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|17:30:00|18:00:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|18:00:00|19:00:00|Roundtable talks and interviews address current events.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|19:00:00|20:00:00|Jennifer Connelly; Chloe Fineman; Danielle Ponder; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|20:00:00|21:00:00|Jon Hamm; Julio Torres; SIX performs; Ulf Mickael Wahlgren.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|21:00:00|22:00:00|Roundtable talks and interviews address current events.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|22:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Capital Connection|04:00:00|05:00:00|Experts share trading news from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk Box Europe|05:00:00|08:00:00|Breaking news items and the European markets are discussed.
@@ -53,6 +25,23 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|20:00:00|21:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|21:00:00|21:30:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Miley Cyrus; Jenna Fischer and Angela Kinsey.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Capital Connection|04:00:00|05:00:00|Experts share trading news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk Box Europe|05:00:00|08:00:00|Breaking news items and the European markets are discussed.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Europe Street Signs|08:00:00|09:00:00|Economic news concerning Europe, including live price action in stocks.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Worldwide Exchange|09:00:00|10:00:00|Experts discuss business news that impacts the international markets.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Squawk Box|10:00:00|13:00:00|Business, political and investment news is discussed in relation to the market.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk on the Street|13:00:00|15:00:00|A show giving viewers the treasury, currency and commodity action in real time.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TechCheck|15:00:00|16:00:00|Anchors report on the tech industry, new trends and investors.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money: Half Time Report|16:00:00|17:00:00|A panel of financial insiders gives advice to brokers, traders and investors.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|17:00:00|18:00:00|Investment news is shared from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|18:00:00|19:00:00|A debate on the economy, the markets, real estate, media and technology.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|19:00:00|20:00:00|Experts share how the markets are moving and what is driving them.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell: Overtime|20:00:00|21:00:00|Experts discuss all of the after-hours moves in the stock market.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|21:00:00|21:30:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Sutton Foster; Hugh Jackman; Ali Wentworth.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
 
