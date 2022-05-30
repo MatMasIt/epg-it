@@ -1,5 +1,5 @@
 # Sky Cinema Action
-> Programmazione di Domenica 29 Maggio 2022
+> Programmazione di Lunedì 30 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
