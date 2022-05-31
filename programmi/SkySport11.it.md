@@ -1,5 +1,5 @@
 # Sky Sport 11
-> Programmazione di Lunedì 30 Maggio 2022
+> Programmazione di Martedì 31 Maggio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
