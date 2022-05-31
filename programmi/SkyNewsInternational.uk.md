@@ -50,7 +50,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|23:00:00|23:30:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|23:30:00|00:00:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:00:00|00:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:00:00|00:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:30:00|01:00:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
 |![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:00:00|01:30:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:30:00|02:00:00|News reports on the big stories from the UK and around the world.
@@ -96,7 +95,6 @@
 |![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|22:30:00|23:00:00|Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning&#039;s newspapers.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|23:00:00|23:30:00|News reports on the big stories from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News, Sport, Weather|23:30:00|00:00:00|News reports on the big stories from the UK and around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sky News|00:00:00|00:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
 
 
 

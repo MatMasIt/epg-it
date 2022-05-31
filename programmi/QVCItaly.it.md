@@ -9,30 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|06:00:00|08:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Strive Footwear, benessere ai piedi|08:00:00|09:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lo stile del relax con Cuddl Duds|09:00:00|10:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|etoo, moda in movimento|11:00:00|12:00:00|ITA. Scopri Qvc. Scopri etoo, brand dedicato alla donna dinamica e sportiva, sempre pronta ai cambiamenti della giornata, amante della moda e attenta allo stile
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Kharisma, scarpe di carattere|12:00:00|13:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Summer of Beauty|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lo stile del relax con Cuddl Duds|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Philips, soluzioni per la tua cucina|16:00:00|17:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Philips, soluzioni per la tua cucina|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Scopri Diamonique!|19:00:00|20:00:00|ITA. Scopri QVC. Scopri Diamonique, brand che simula il diamante in modo impeccabile per esaudire il desiderio di ogni donna di brillare tutti i giorni con un gioiello diverso.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Prai, la bellezza dall&#039; America|20:00:00|21:00:00|ITA. Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|etoo, moda in movimento|21:00:00|22:00:00|ITA. Scopri Qvc. Scopri etoo, brand dedicato alla donna dinamica e sportiva, sempre pronta ai cambiamenti della giornata, amante della moda e attenta allo stile
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Smeg, tecnologia che arreda|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Smeg icona dello spazio domestico. Gli elettrodomestici, dal frigorifero al mixer, sono veri e propri oggetti da esibire, che trasformano la cucina nel nostro ambiente perfetto
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Smeg|06:00:00|08:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|L(A)B, bellezza, innovazione e qualita&#039;|08:00:00|09:00:00|ITA. Scopri L(A)B. L&#039;obiettivo di Life and Beauty e&#039; quello di migliorare l&#039;efficacia della quotidiana routine di bellezza con strumenti di nuova generazione e di facile utilizzo.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Lounge, moda comfort di design|09:00:00|10:00:00|ITA. TV Shopping
@@ -50,6 +26,28 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Mood Atelier, Originalita&#039; e passione|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|06:00:00|07:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|07:00:00|08:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|08:00:00|09:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Skechers, Calzature e lifestyle|09:00:00|10:00:00|ITA. Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|10:00:00|11:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Armores NATURA, dalla natura con amore|11:00:00|12:00:00|ITA. Scopri Armores NATURA, dalla natura con amore.Dai laboratori di un&#039;azienda italiana che unisce l&#039;efficacia degli ingredienti naturali all&#039;amore per la natura con l&#039;utilizzo di materiali eco-friendly.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|13:00:00|14:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Summer of Beauty|14:00:00|15:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|15:00:00|16:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Vesti la tua casa con Carillo Home|16:00:00|17:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Extesa, Tutte le donne che sei|17:00:00|18:00:00|ITA. Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Rio, Il tuo laboratorio di bellezza|18:00:00|19:00:00|ITA. Scopri QVC. Scopri Rio, marchio all&#039;avanguardia per quanto riguarda bellezza e cura del corpo, offre prodotti innovativi, tecnologici, piacevoli da usare e creati nel rispetto della natura
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Adesso e&#039; moda Speciale Caterina Lancini|19:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Skechers, Calzature e lifestyle|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Ultrasun, la tua protezione solare|22:00:00|23:00:00|ITA. Scopri QVC. Scopri Ultrasun, marchio svizzero con una solida esperienza nello studio dei problemi legati all&#039;esposizione al sole: prodotti per una protezione totale, facili da applicare ed efficaci.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 
 
 
