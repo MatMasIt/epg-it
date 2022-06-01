@@ -1,5 +1,5 @@
 # Sky Sport Moto GP
-> Programmazione di Martedì 31 Maggio 2022
+> Programmazione di Mercoledì 01 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
