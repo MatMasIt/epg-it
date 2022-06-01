@@ -3,9 +3,10 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|00:00:00|01:00:00|Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|My Dream Car|01:00:00|02:00:00|Follow the emotional operation of finding and resurrecting someone&#039;s dream car, creating a loving memory for a loved one or family member.
-|![Icon](https://guidatv.sky.it/uuid/171e0bf6-67d1-43f3-9041-591e438d2298/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|02:00:00|04:00:00|Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/5f30ccea-b841-4fda-a948-1a14bd1f2c9a/cover?md5ChecksumParam=6ac1fee8d4bcc0a4a92181d20de1f966)|Kennedy|00:00:00|01:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
+|![Icon](https://guidatv.sky.it/uuid/e3fd5da7-93e1-40ab-a37c-912850ddd61c/cover?md5ChecksumParam=4d2f0a118408426da09369c419cd993e)|Fox Business Tonight|01:00:00|02:00:00|Rotating anchors highlight current market trends.
+|![Icon](https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79)|The Evening Edit|02:00:00|03:00:00|Liz McDonald interviews the Industries experts.
+|![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|03:00:00|04:00:00|Former National Economic Council Director gives market analysis and interviews.
 |![Icon](https://guidatv.sky.it/uuid/5f30ccea-b841-4fda-a948-1a14bd1f2c9a/cover?md5ChecksumParam=6ac1fee8d4bcc0a4a92181d20de1f966)|Kennedy|04:00:00|05:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Paid Programming|05:00:00|08:00:00|Paid Programming.
 |![Icon](https://guidatv.sky.it/uuid/c80c788c-c24c-465b-a79d-077622d1cc0c/cover?md5ChecksumParam=8206e927fca31b162f115acc2413b53d)|Strange Inheritance|08:00:00|09:00:00|Families decide what to do with bizarre inheritances.

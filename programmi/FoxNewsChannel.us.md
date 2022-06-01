@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/1e127ea7-eabe-4807-9223-6ccc0d7dbbba/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|00:00:00|01:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
-|![Icon](https://guidatv.sky.it/uuid/2d4c6fcb-9b24-4e7c-bdc7-d058ef5d5b40/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|01:00:00|02:00:00|Laura Ingraham speaks to people who are impacted by the news of the day and the issue the country is in turmoil about.
+|![Icon](https://guidatv.sky.it/uuid/649027fb-deab-414d-8b0b-38a7996a1c1a/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|00:00:00|01:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
+|![Icon](https://guidatv.sky.it/uuid/ef469bba-9690-449b-8ffb-aa28e053adf3/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|01:00:00|02:00:00|Laura Ingraham speaks to people who are impacted by the news of the day and the issue the country is in turmoil about.
 |![Icon](https://guidatv.sky.it/uuid/243b2fff-17b6-420e-aef5-0baae5cd3f50/cover?md5ChecksumParam=58835f4f5ebb5953bc1783cb929f24ec)|Fox &amp; Friends First|02:00:00|04:00:00|Hosts Jillian Mele and Todd Piro - Jillian Mele and Todd Piro highlight the latest in news, weather, sports and entertainment.
 |![Icon](https://guidatv.sky.it/uuid/44a254d5-96d9-481a-b371-faea72e253f3/cover?md5ChecksumParam=2c06fa2ea09852606a462604817271f0)|Fox &amp; Friends|04:00:00|07:00:00|Hosts Steve Doocy, Ainsley Earhardt and Brian Kilmeade - Steve Doocy, Ainsley Earhardt and Brian Kilmeade highlight the latest in news, weather, sports and entertainment.
 |![Icon](https://guidatv.sky.it/uuid/31dafa49-c8d6-42af-a983-f7d39ad941df/cover?md5ChecksumParam=08354c79a36e6b993fdaa3b790e644ae)|America&#039;s Newsroom|07:00:00|09:00:00|Hosts Bill Hemmer and Dana Perino - Bill Hemmer and Dana Perino report the days news.
