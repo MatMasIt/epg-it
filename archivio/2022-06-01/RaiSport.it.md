@@ -3,18 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Equitazione: Piazza di Siena|00:00:00|01:00:00|Piccolo Gran Premio - Prestigioso appuntamento a Roma con i grandi protagonisti internazionali del mondo dell&#039;equitazione. Edizione numero 89.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|01:00:00|04:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|04:00:00|04:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Equitazione: Piazza di Siena|06:00:00|09:15:00|Coppa delle Nazioni - Prestigioso appuntamento a Roma con i grandi protagonisti internazionali del mondo dell&#039;equitazione. Edizione numero 89.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto Sinc.: Gran Prix|11:40:00|13:25:00|Ad Atene le spettacolari esibizioni di nuoto sincronizzato.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Scherma: Campionati Italiani Assoluti|15:30:00|18:00:00|1a g - I migliori schermidori italiani si sfidano a Courmayeur per il titolo tricolore nelle varie specialita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Diretta Azzurra|18:00:00|18:45:00|Immagini, notizie e commenti sulla nazionale di calcio azzurra.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Serie A|18:45:00|20:55:00|Playoff. Semifinale. Gara 3 - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sport Disabili: SportAbilia|20:55:00|21:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Notte|21:30:00|22:00:00|Tutte le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Scherma: Campionati Italiani Assoluti|22:00:00|00:00:00|1a g - I migliori schermidori italiani si sfidano a Courmayeur per il titolo tricolore nelle varie specialita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Mondiale|00:00:00|04:00:00|Rubrica sportiva dedicata ai migliori campionati di calcio del mondo.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|04:00:00|04:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
@@ -31,6 +19,17 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Notte Azzurra|21:10:00|22:00:00|Sport
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|22:00:00|22:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|22:15:00|04:00:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Perle di Sport|04:00:00|04:30:00|I momenti piu&#039; emozionanti dei grandi eventi sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|04:30:00|06:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Equitazione: Piazza di Siena|06:00:00|09:15:00|Coppa delle Nazioni - Prestigioso appuntamento a Roma con i grandi protagonisti internazionali del mondo dell&#039;equitazione. Edizione numero 89.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Scherma: Campionati Italiani Assoluti|09:15:00|11:15:00|2a g - I migliori schermidori italiani si sfidano a Courmayeur per il titolo tricolore nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reparto Corse|15:00:00|15:30:00|Occhi puntati sul mondo dei motori.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Scherma: Campionati Italiani Assoluti|15:30:00|18:00:00|3a g - I migliori schermidori italiani si sfidano a Courmayeur per il titolo tricolore nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Diretta Azzurra|18:00:00|18:30:00|Immagini, notizie e commenti sulla nazionale di calcio azzurra.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Basket: Tortona - V. Bologna (live)|18:30:00|20:45:00|Serie A, Playoff. Semifinale. Gara 4 - La massima serie del campionato di basket italiano. Campione in carica la Virtus Bologna che ha avuto la meglio in finale su Milano.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Radio Corsa|20:45:00|21:30:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Tg Rai Sport|21:30:00|22:00:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Reparto Corse|22:00:00|04:00:00|Occhi puntati sul mondo dei motori.
 
 
 
