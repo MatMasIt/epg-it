@@ -1,5 +1,5 @@
 # Canale 5
-> Programmazione di Mercoledì 01 Giugno 2022
+> Programmazione di Giovedì 02 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
