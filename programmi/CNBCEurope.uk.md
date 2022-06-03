@@ -5,23 +5,6 @@
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Capital Connection|04:00:00|05:00:00|Experts share trading news from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk Box Europe|05:00:00|08:00:00|Breaking news items and the European markets are discussed.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Europe Street Signs|08:00:00|09:00:00|Economic news concerning Europe, including live price action in stocks.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Worldwide Exchange|09:00:00|10:00:00|Experts discuss business news that impacts the international markets.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Squawk Box|10:00:00|13:00:00|Business, political and investment news is discussed in relation to the market.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Squawk on the Street|13:00:00|15:00:00|A show giving viewers the treasury, currency and commodity action in real time.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|TechCheck|15:00:00|16:00:00|Anchors report on the tech industry, new trends and investors.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Fast Money: Half Time Report|16:00:00|17:00:00|A panel of financial insiders gives advice to brokers, traders and investors.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Exchange|17:00:00|18:00:00|Investment news is shared from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Power Lunch|18:00:00|19:00:00|A debate on the economy, the markets, real estate, media and technology.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell|19:00:00|20:00:00|Experts share how the markets are moving and what is driving them.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|US Closing Bell: Overtime|20:00:00|21:00:00|Experts discuss all of the after-hours moves in the stock market.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Sustainable Future|21:00:00|21:30:00|Matt Damon &amp; Gary White - Tania Bryer speaks to Matt Damon and Gary White to discuss Water.org.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Sarah Silverman; Jeffrey Donovan; Sleaford Mods.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Capital Connection|04:00:00|05:00:00|Experts share trading news from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|05:00:00|06:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|06:00:00|06:30:00|Rachel Kim, Co-Founder &amp; Dione Song, CEO, Love, Bonito - Love, Bonito leaders discuss their plans for the fashion empire.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|06:30:00|07:00:00|Bjorn Ulvaeus - Bjorn Ulvaeus talks to Tania Bryer about the latest ABBA concert.
@@ -41,6 +24,37 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|21:30:00|22:30:00|Billy Crystal; Samara Weaving; Ulf Mickael Wahlgren accompanies the 8G Band.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|23:00:00|00:00:00|Shepard Smith presents a nightly newscast of the day&#039;s most important stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|00:00:00|01:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|01:00:00|01:30:00|Simon Cheong, Chairman &amp; CEO, SC Global - The top CEOs, entrepreneurs and business leaders are interviewed.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Marketing. Media. Money|01:30:00|02:00:00|Cannes Lions - The host shares insights about successful marketing executives.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|02:00:00|03:00:00|Davos Debate: Global Economic Outlook - Experts discuss global economy policies at a debate.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|03:00:00|04:00:00|Shepard Smith presents a nightly newscast of the day&#039;s most important stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|04:00:00|05:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|05:00:00|05:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|05:30:00|06:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:00:00|07:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|07:00:00|07:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|07:30:00|08:00:00|CNBC looks at the extravagant lifestyles and opulent playthings of people who have so much money that almost nothing they desire is out of their reach.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|08:00:00|08:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|08:30:00|09:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - CNBC explores the various ways people have taken it upon themselves to use illegal ways to become rich, and turn the American dream into more of a nightmare.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|10:00:00|12:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|RIDE FEI Originals|12:00:00|12:30:00|Detailed information is shared about the amazing bonds that can exist between horses and humans as tales are told from across the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Rolex Spirit of Yachting|12:30:00|13:00:00|Coverage of the best sailing competitions held at the top venues around the world, including the Rolex Farr 40 World Championships.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|13:30:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:30:00|14:00:00|Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|14:00:00|15:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|15:00:00|16:00:00|American Greed: Scams, Scoundrels and Scandals - CNBC explores the various ways people have taken it upon themselves to use illegal ways to become rich, and turn the American dream into more of a nightmare.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|16:00:00|16:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|16:30:00|17:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|17:00:00|18:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|18:00:00|19:00:00|American Greed: Scams, Scoundrels and Scandals - CNBC explores the various ways people have taken it upon themselves to use illegal ways to become rich, and turn the American dream into more of a nightmare.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|19:00:00|20:00:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|20:00:00|21:00:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Profit|21:00:00|22:00:00|Marcus Lemonis, CEO of Camping World Inc., looks for struggling businesses and offers them assistance as he tries to turn their fortunes around.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|22:00:00|22:30:00|CNBC looks at the extravagant lifestyles and opulent playthings of people who have so much money that almost nothing they desire is out of their reach.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC News anchors and correspondents cover headlining events happening across the nation and the globe with detailed interviews and investigative reports.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Late Night with Seth Meyers|23:00:00|01:00:00|Saturday Night Live alumnus Seth Meyers brings his unique humour to the late-night scene, featuring comedic sketches, celebrity interviews and musical guests.
 
 
 
