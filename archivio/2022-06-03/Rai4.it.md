@@ -1,5 +1,5 @@
 # Rai 4
-> Programmazione di Giovedì 02 Giugno 2022
+> Programmazione di Venerdì 03 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
