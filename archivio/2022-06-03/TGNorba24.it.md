@@ -76,7 +76,11 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|21:45:00|22:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|22:00:00|22:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|22:15:00|22:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|22:30:00|23:45:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|22:30:00|22:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|22:45:00|23:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|23:00:00|23:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|23:15:00|23:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|23:30:00|23:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|23:45:00|00:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|00:00:00|00:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|00:15:00|00:30:00|Notiziario
@@ -107,27 +111,37 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|06:00:00|06:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|06:15:00|06:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|06:30:00|06:45:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|06:45:00|07:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:00:00|07:15:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:15:00|07:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:30:00|07:45:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:45:00|08:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:00:00|08:15:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:15:00|08:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:30:00|08:45:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:45:00|09:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:00:00|09:15:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:15:00|09:25:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:25:00|12:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|06:45:00|07:00:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:00:00|07:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:15:00|07:31:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:31:00|07:46:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|07:46:00|08:02:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:02:00|08:17:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:17:00|08:33:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:33:00|08:48:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|08:48:00|09:04:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:04:00|09:19:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:19:00|09:35:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:35:00|09:50:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|09:50:00|10:05:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|10:05:00|11:30:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|11:30:00|11:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|11:45:00|12:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|12:00:00|12:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|12:15:00|12:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|12:30:00|12:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|12:45:00|13:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|13:00:00|13:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tg Norba 24 sport|13:15:00|13:30:00|Gli avvenimenti sportivi
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|13:15:00|13:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|13:30:00|13:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|13:45:00|14:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|14:00:00|14:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|14:15:00|14:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|14:30:00|14:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|14:45:00|16:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|14:45:00|15:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|15:00:00|15:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|15:15:00|16:30:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|16:30:00|16:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|16:45:00|17:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|17:00:00|17:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|17:15:00|17:30:00|Notiziario
@@ -139,9 +153,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|18:45:00|19:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|19:00:00|19:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|19:15:00|19:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|19:30:00|19:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|19:45:00|20:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|20:00:00|20:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|19:30:00|20:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|20:15:00|20:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|20:30:00|20:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Breaking News|20:45:00|21:00:00|Notiziario
