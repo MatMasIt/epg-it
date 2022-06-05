@@ -1,5 +1,5 @@
 # Crime + Investigation Network Italia
-> Programmazione di Sabato 04 Giugno 2022
+> Programmazione di Domenica 05 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
