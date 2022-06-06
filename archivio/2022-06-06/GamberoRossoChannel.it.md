@@ -1,5 +1,5 @@
 # Gambero Rosso Channel
-> Programmazione di Domenica 05 Giugno 2022
+> Programmazione di Lunedì 06 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
