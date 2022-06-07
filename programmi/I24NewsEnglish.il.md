@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Lunedì 06 Giugno 2022
+> Programmazione di Martedì 07 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
