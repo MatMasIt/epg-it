@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Martedì 07 Giugno 2022
+> Programmazione di Mercoledì 08 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
