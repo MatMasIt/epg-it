@@ -1,5 +1,5 @@
 # Premium Cinema 3
-> Programmazione di Mercoledì 08 Giugno 2022
+> Programmazione di Giovedì 09 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
