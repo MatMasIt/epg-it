@@ -40,9 +40,9 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|16:05:00|17:00:00|Con Federico L&#039;Olandese Volante - Uno dei piu&#039; grandi dj italiani, on air ogni giorno dal lunedi al venerdi per intrattenere il pubblico con la sua inconfondibile voce e simpatia.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|17:00:00|17:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|17:05:00|19:00:00|Con Angela Tangorra e Mauro Dalsogno - Tre ore di intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|21:00:00|22:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|03:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Luigi Landi - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|21:00:00|22:00:00|Con Luigi Landi - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|05:00:00|Weekend Compilation Night - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
 
 
 
