@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Venerdì 10 Giugno 2022
+> Programmazione di Sabato 11 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
