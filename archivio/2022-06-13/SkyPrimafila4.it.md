@@ -1,5 +1,5 @@
 # Sky Primafila 4
-> Programmazione di Domenica 12 Giugno 2022
+> Programmazione di Lunedì 13 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
