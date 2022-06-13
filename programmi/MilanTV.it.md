@@ -3,14 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|03:05:00|03:40:00|Milan Tv-Gol Collection 2021/2022
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION VAN BASTEN|03:40:00|04:00:00|GOL COLLECTION VAN BASTEN
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-ITW Giroud|10:00:00|10:05:00|Milan Tv-ITW Giroud
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Under My Skin Giroud|12:00:00|12:10:00|Milan Tv-Under My Skin Giroud
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sassuolo vs Milan-22/05/2022|12:15:00|14:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Sassuolo vs Milan|14:05:00|16:10:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|We The Champ19ons|18:10:00|22:30:00|We The Champ19ons
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Hl Review 2021/2022|22:30:00|23:20:00|Milan Tv-Hl Review 2021/2022
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Presentazione Libro Adrenalina|01:20:00|02:10:00|Presentazione Libro Adrenalina
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Podcast L&#039;incanto di Pato|02:30:00|02:40:00|Milan Tv-Podcast L&#039;incanto di Pato
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Podcast Pioliedholm|02:40:00|02:50:00|Milan Tv-Podcast Pioliedholm
@@ -26,6 +18,13 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi-Napoli vs Milan-1987-1988|17:20:00|18:15:00|Milan Tv-Gol Collection 2021/2022
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Como vs Milan-15/05/1988|18:15:00|18:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sassuolo vs Milan-22/05/2022|19:55:00|21:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Femminile-Inter vs Milan-07/05/2022|01:00:00|02:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 1|02:50:00|03:20:00|Milan Tv-Forza Milan Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|03:20:00|04:00:00|Milan Tv-Gol Collection 2021/2022
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|04:00:00|10:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|10:00:00|16:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|16:00:00|22:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|22:00:00|04:00:00|Milan TV
 
 
 
