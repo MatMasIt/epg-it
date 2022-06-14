@@ -1,5 +1,5 @@
 # Nickelodeon Italia +1
-> Programmazione di Lunedì 13 Giugno 2022
+> Programmazione di Martedì 14 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
