@@ -30,19 +30,19 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|05:30:00|05:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|05:45:00|06:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:00:00|06:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:15:00|06:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:30:00|06:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:45:00|07:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:00:00|07:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:15:00|07:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:30:00|07:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:45:00|08:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:00:00|08:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:15:00|08:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:30:00|08:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:45:00|09:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|09:00:00|09:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|09:15:00|09:25:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:15:00|06:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:30:00|06:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:45:00|07:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:00:00|07:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:15:00|07:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:30:00|07:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|07:45:00|08:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:00:00|08:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:15:00|08:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:30:00|08:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|08:45:00|09:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|09:00:00|09:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|09:15:00|09:25:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|09:25:00|12:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|12:45:00|13:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|13:00:00|13:15:00|Notiziario
@@ -64,7 +64,11 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|18:45:00|19:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|19:00:00|19:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|19:15:00|19:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|19:30:00|20:45:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|19:30:00|19:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|19:45:00|20:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|20:00:00|20:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|20:15:00|20:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|20:30:00|20:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|20:45:00|21:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|21:00:00|21:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|21:15:00|21:30:00|Notiziario
@@ -149,14 +153,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|21:15:00|21:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|21:30:00|21:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|21:45:00|22:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|22:00:00|22:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|22:15:00|22:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|22:30:00|22:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|22:45:00|23:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|23:00:00|23:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|23:15:00|23:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|23:30:00|23:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|23:45:00|00:00:00|Notiziario
 
 
 
