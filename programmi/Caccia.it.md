@@ -1,5 +1,5 @@
 # Caccia
-> Programmazione di Martedì 14 Giugno 2022
+> Programmazione di Mercoledì 15 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
