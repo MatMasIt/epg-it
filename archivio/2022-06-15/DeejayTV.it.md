@@ -6,7 +6,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|50 Songs|06:00:00|08:00:00|Le 50 canzoni piu&#039; suonate di Radio DEEJAY
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia|08:00:00|10:00:00|Il morning show di Radio DEEJAY con Linus e Nicola Savino
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|50 Songs|10:00:00|13:00:00|Le 50 canzoni piu&#039; suonate di Radio DEEJAY
-|![Icon](https://guidatv.sky.it/uuid/0c5c4cb8-2096-4088-bb9c-73b27ab30e96/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Babbo Natale in incognito|13:00:00|15:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
+|![Icon](https://guidatv.sky.it/uuid/e720fbd8-7bb5-4ec2-8fe7-a8e1a7450ca5/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Salviamo il campo|13:00:00|15:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La musica di Radio Deejay|15:00:00|18:00:00|I videoclip piu&#039; belli, 100% Radio Deejay
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|SAY WAAAD|18:00:00|20:00:00|Say Waaad con Wad
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia Remix|20:00:00|22:00:00|Il meglio del morning show di Radio DEEJAY con Linus e Nicola Savino
@@ -14,7 +14,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|50 Songs|06:00:00|08:00:00|Le 50 canzoni piu&#039; suonate di Radio DEEJAY
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia|08:00:00|10:00:00|Il morning show di Radio DEEJAY con Linus e Nicola Savino
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|50 Songs|10:00:00|13:00:00|Le 50 canzoni piu&#039; suonate di Radio DEEJAY
-|![Icon](https://guidatv.sky.it/uuid/94179217-9fd0-4434-a294-d698bc6ff137/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Il telefono mancante|13:00:00|15:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
+|![Icon](https://guidatv.sky.it/uuid/d0d45c99-f7d6-4464-b452-911ea42e8a14/cover?md5ChecksumParam=0b46b915774a5684e17c032d994940f2)|Summer Camp|13:00:00|15:00:00|Il nuovo pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La musica di Radio Deejay|15:00:00|18:00:00|I videoclip piu&#039; belli, 100% Radio Deejay
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|SAY WAAAD|18:00:00|20:00:00|Say Waaad con Wad
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Deejay Chiama Italia Remix|20:00:00|22:00:00|Il meglio del morning show di Radio DEEJAY con Linus e Nicola Savino
