@@ -1,0 +1,61 @@
+# Aljazeera English
+> Programmazione di Mercoledì 15 Giugno 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Era of Empires|01:00:00|02:00:00|From colonial China&#039;s opium wars to Cold War USA politics, this series traces the rise of the global drug trade and its powerful political backers 1/3.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Najet Werda: Island Kitchen|02:30:00|03:00:00|Chef Najet regales the locals from a Tunisian island with stories as she welcomes them into her restaurant known for &#039;the world&#039;s best&#039; octopus and couscous.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Listening Post|05:30:00|06:00:00|What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Ewolo|06:00:00|07:00:00|Acclaimed documentaries from across the globe bringing world issues into focus through personal stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Man Who Plants Baobabs / A...|09:30:00|10:00:00|(...Wrestler&#039;s Dream) The man whose baobab forests provide food and climate protection in Burkina Faso, and an aspiring wrestler in Senegal
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Johannesburg|16:30:00|17:00:00|We explore how a new generation of South African activists is tackling climate change, race, gender and class inequality.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Counting the Cost|23:30:00|00:00:00|The show features the economical stories that shape our world and has an effect on the lives of the common human beings.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|00:00:00|00:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|02:00:00|02:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|03:00:00|03:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Man Who Plants Baobabs / A...|03:30:00|04:00:00|(...Wrestler&#039;s Dream) The man whose baobab forests provide food and climate protection in Burkina Faso, and an aspiring wrestler in Senegal
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|04:00:00|04:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|05:00:00|05:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Johannesburg|05:30:00|06:00:00|We explore how a new generation of South African activists is tackling climate change, race, gender and class inequality.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Era of Empires|06:00:00|07:00:00|From colonial China&#039;s opium wars to Cold War USA politics, this series traces the rise of the global drug trade and its powerful political backers 1/3.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|07:00:00|07:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|08:00:00|08:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|09:00:00|09:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|10:00:00|11:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|11:00:00|11:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|13:00:00|14:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|14:00:00|14:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|15:00:00|16:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|16:00:00|16:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|17:00:00|17:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|18:00:00|19:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|19:00:00|19:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Age of Drug Lords|20:00:00|21:00:00|The infamous drug lords of Mexico, Burma and Italy change the face of politics as their influence and control expands - and governments finally hit back 2/3.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Newshour|21:00:00|22:00:00|In-depth global news is presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|22:00:00|22:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|News Live|23:00:00|23:30:00|Get the latest news every evening about what is happening around the globe.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Najet Werda: Island Kitchen|23:30:00|00:00:00|Chef Najet regales the locals from a Tunisian island with stories as she welcomes them into her restaurant known for &#039;the world&#039;s best&#039; octopus and couscous.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
