@@ -1,5 +1,5 @@
 # La F
-> Programmazione di Mercoledì 15 Giugno 2022
+> Programmazione di Giovedì 16 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
