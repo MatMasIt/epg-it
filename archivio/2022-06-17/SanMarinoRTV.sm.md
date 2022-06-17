@@ -3,7 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|SMRTV Notte|00:10:00|05:15:00|SMRTV Notte
 
 
 
