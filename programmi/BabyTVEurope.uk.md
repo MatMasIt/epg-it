@@ -1,5 +1,5 @@
 # Baby TV Europe
-> Programmazione di Giovedì 16 Giugno 2022
+> Programmazione di Venerdì 17 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
