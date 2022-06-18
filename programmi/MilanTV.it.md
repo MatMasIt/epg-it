@@ -3,29 +3,44 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION VAN BASTEN|03:40:00|04:00:00|GOL COLLECTION VAN BASTEN
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-11/05/2001|04:00:00|05:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Review Champions|05:50:00|06:00:00|Milan Tv-Review Champions
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Juventus-28/05/2003|06:00:00|08:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Tonali|08:55:00|09:15:00|Milan Tv-Speciale Tonali
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Under My Skin Tonali|09:15:00|09:30:00|Milan Tv-Under My Skin Tonali
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|09:45:00|11:15:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|11:15:00|11:35:00|Milan Tv-Gol Collection 2021/2022
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Pre Partita-Sassuolo vs Milan|11:35:00|13:00:00|Anticipazioni, collegamenti, esclusive, approfondimenti. Milan TV entra in partita con i suoi tifosi 75 minuti prima del fischio d&#039;inizio della gara ufficiale che vede impegnati i giocatori rossoneri
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Post Partita-Sassuolo vs Milan|15:00:00|17:05:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Festa 19esimo Scudetto|17:15:00|18:25:00|Festa 19esimo Scudetto
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-On The Road-Messias|18:35:00|19:00:00|Milan Tv-On The Road-Messias
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-11/05/2001|19:00:00|20:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-21/10/2001|20:40:00|22:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Behind The Scene Inter vs Milan|22:25:00|22:40:00|Behind The Scene Inter vs Milan
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Inter vs Milan-05/02/2022|22:40:00|00:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Festa 19esimo Scudetto|00:30:00|01:40:00|Festa 19esimo Scudetto
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Speciale Magliette|02:40:00|03:40:00|Milan Tv-Speciale Magliette
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION VAN BASTEN|03:40:00|04:00:00|GOL COLLECTION VAN BASTEN
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|04:00:00|10:00:00|Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|10:00:00|16:00:00|Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|16:00:00|22:00:00|Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|22:00:00|04:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Sacchi|04:00:00|04:40:00|Milan Tv-Itw Sacchi
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Together Legends Maldini|04:40:00|04:50:00|Milan Together Legends Maldini
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Interview Shevchenko|04:50:00|04:55:00|Milan Tv-Interview Shevchenko
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Kaka|04:55:00|05:05:00|Milan Tv-Itw Kaka
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Interview Papin|05:05:00|05:15:00|Milan Tv-Interview Papin
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Interview Baresi|05:15:00|05:20:00|Milan Tv-Interview Baresi
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Barcellona-1994|05:20:00|07:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Icons Capello|13:30:00|13:35:00|Milan Tv-Icons Capello
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Monaco-1994|13:35:00|15:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Barcellona-1994|15:15:00|17:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection-Weah|17:05:00|17:30:00|Milan Tv-Gol Collection-Weah
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 1|17:30:00|18:00:00|Milan Tv-Forza Milan Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 2|18:00:00|18:30:00|Milan Tv-Forza Milan Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Scudetto 1993/1994|19:00:00|21:30:00|Speciale Scudetto 1993/1994
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan vs Udinese-17/04/1994|21:30:00|23:15:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 1|23:15:00|23:30:00|Milan Tv-Il Convitto Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|23:30:00|23:40:00|Milan Tv-Il Convitto Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 3|23:40:00|23:55:00|Milan Tv-Il Convitto Pt. 3
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-HomeGrown Stanga|23:55:00|00:15:00|Milan Tv-HomeGrown Stanga
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Inter vs Milan-09/05/22|00:15:00|02:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|02:00:00|03:50:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Behind The Scene Empoli|03:50:00|04:00:00|Milan Tv-Behind The Scene Empoli
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Scudetto 1993/1994|04:00:00|06:30:00|Speciale Scudetto 1993/1994
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 1|06:30:00|06:55:00|Milan Tv-Forza Milan Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 2|06:55:00|07:30:00|Milan Tv-Forza Milan Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|08:05:00|08:15:00|Milan Tv-Il Convitto Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 3|08:15:00|08:30:00|Milan Tv-Il Convitto Pt. 3
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sassuolo vs Milan-22/05/2022|08:30:00|10:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|We The Champ19ons|10:30:00|14:55:00|We The Champ19ons
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|U17-Milan vs Bologna-Livre|14:55:00|17:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|17:40:00|18:00:00|Milan Tv-Gol Collection 2021/2022
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-She-Serra|18:00:00|18:25:00|Milan Tv-She-Serra
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi-Napoli vs Milan-1987/88|21:10:00|22:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Sacchi|22:05:00|22:45:00|Milan Tv-Itw Sacchi
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|22:45:00|00:15:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
 
 
 
