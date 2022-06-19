@@ -1,5 +1,5 @@
 # Comedy Central Italia
-> Programmazione di Sabato 18 Giugno 2022
+> Programmazione di Domenica 19 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

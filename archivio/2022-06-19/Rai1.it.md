@@ -1,0 +1,57 @@
+# Rai 1
+> Programmazione di Sabato 18 Giugno 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|00:15:00|00:50:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Cinematografo Estate|00:50:00|01:50:00|Rubrica di aggiornamento sul cinema e la fiction televisiva. Conduce Gigi Marzullo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sottovoce|01:50:00|02:20:00|Gigi Marzullo ripercorre l&#039;itinerario umano, artistico e professionale di un importante personaggio dello sport, dello spettacolo o della cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|02:20:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|04:00:00|04:55:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Gli Imperdibili|04:55:00|05:00:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai Parlamento Settegiorni|05:05:00|06:00:00|Approfondimento e aggiornamenti sui lavori in corso in Camera e Senato della Repubblica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:15:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Dialogo|06:15:00|06:25:00|Uno spazio dedicato ai principali temi sociali, economici, culturali e internazionali. A cura di Piero Damosso.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:25:00|06:30:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|07:00:00|07:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|07:30:00|07:35:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Gli Imperdibili|09:00:00|09:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|14:45:00|14:55:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|14:55:00|15:00:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|18:00:00|18:35:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Techetechete&#039;|18:35:00|19:25:00|Ep4 - La storia dello spettacolo e della cultura italiana riproposta attraverso spezzoni e omaggi monografici ai grandi personaggi della TV, del cinema, della canzone e dell&#039;intrattenimento.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Roberto Bolle - Danza con me|19:25:00|21:50:00|In compagnia di tanti ospiti, Roberto Bolle offre un viaggio attraverso la danza. Un momento unico per emozionarsi di fronte alla magia di questa arte. Conducono Serena Rossi e Lillo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|23:40:00|00:15:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sottovoce|00:15:00|00:45:00|Gigi Marzullo ripercorre l&#039;itinerario umano, artistico e professionale di un importante personaggio dello sport, dello spettacolo o della cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Mille e un Libro|00:45:00|01:45:00|Un dialogo a piu&#039; voci tra autori, critici e lettori che discutono di libri. Un programma di Gigi Marzullo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|01:45:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|04:00:00|04:30:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|A Sua immagine|04:30:00|05:00:00|Lorena Bianchetti racconta la storia della nostra vita, della nostra societa&#039;, della nostra famiglia, con un unico grande denominatore comune: la luce della fede.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:20:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|07:00:00|07:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|07:35:00|07:40:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Paesi che vai - Luoghi, detti, comuni|07:40:00|08:30:00|I Savoia e gli Aleramici - Due nobili famiglie in lotta per il Marchesato di Saluzzo. Livio Leonardi ci porta alla scoperta delle storie e delle vicende umane del Marchesato di Saluzzo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|A sua immagine|08:30:00|08:55:00|In occasione della Giornata Mondiale del Rifugiato, Lorena Bianchetti, in compagnia di tanti ospiti, racconta le storie di persone costrette a fuggire da guerre e violenze.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Santa Messa|08:55:00|09:50:00|Dalla Cattedrale di Santa Maria in Piano (Biella) - La Santa Messa, dalla Cattedrale di Santa Maria in Piano. Commento liturgico: Orazio Coclite.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|A Sua immagine|09:50:00|10:00:00|Lorena Bianchetti racconta la storia della nostra vita, della nostra societa&#039;, della nostra famiglia, con un unico grande denominatore comune: la luce della fede.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Recita dell&#039;Angelus|10:00:00|10:20:00|Da Piazza San Pietro - L&#039;Angelus recitato da Papa Francesco dalla finestra del Palazzo Apostolico su Piazza San Pietro.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Linea verde Estate|10:20:00|11:30:00|Campania Falerno - Da Caserta a Bacoli, da Castel Volturno a Cellole. Angela Rafanelli e Peppone Calabrese ci portano alla scoperta della Campania settentrionale.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|20 anni che siamo italiani|14:10:00|15:15:00|Ep1 - Vanessa Incontrada e Gigi D&#039;Alessio raccontano come sono cambiati gli italiani negli ultimi 20 anni. Tra gli ospiti: Gianna Nannini, Claudio Amendola e Fiorella Mannoia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 - Che tempo fa|15:15:00|15:20:00|Le notizie dal mondo, seguite dalle previsioni meteorologiche a cura del servizio dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|20 anni che siamo italiani|15:20:00|16:45:00|Ep1 - Vanessa Incontrada e Gigi D&#039;Alessio raccontano come sono cambiati gli italiani negli ultimi 20 anni. Tra gli ospiti: Gianna Nannini, Claudio Amendola e Fiorella Mannoia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|18:00:00|18:35:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Techetechete&#039;|18:35:00|19:25:00|Ep5 - La storia dello spettacolo e della cultura italiana riproposta attraverso spezzoni e omaggi monografici ai grandi personaggi della TV, del cinema, della canzone e dell&#039;intrattenimento.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Mina Settembre|19:25:00|20:45:00|S1 Ep6 Andare avanti - Mina decide di andare a Vietri per indagare sulla presunta amante del padre. Domenico decide di accompagnarla, ma le cose non vanno come previsto.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Speciale TG1|20:45:00|22:10:00|Un ritratto dedicato a Lucio Dalla, artista poliedrico e imprevedibile, a dieci anni dalla sua morte.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|22:10:00|22:40:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|22:40:00|22:45:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Testimoni e protagonisti del XXI Secolo|22:45:00|23:45:00|Gigi Marzullo presenta, attraverso puntate monografiche, i grandi personaggi del mondo della musica, del cinema, della televisione e della cultura che hanno segnato la storia del nostro Paese.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sottovoce|23:45:00|00:15:00|Gigi Marzullo ripercorre l&#039;itinerario umano, artistico e professionale di un importante personaggio dello sport, dello spettacolo o della cultura.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
