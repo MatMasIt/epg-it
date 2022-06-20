@@ -3,22 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Primavera-Inter vs Milan-09/05/22|00:15:00|02:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|02:00:00|03:50:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Behind The Scene Empoli|03:50:00|04:00:00|Milan Tv-Behind The Scene Empoli
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Scudetto 1993/1994|04:00:00|06:30:00|Speciale Scudetto 1993/1994
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 1|06:30:00|06:55:00|Milan Tv-Forza Milan Pt. 1
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Forza Milan Pt. 2|06:55:00|07:30:00|Milan Tv-Forza Milan Pt. 2
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|08:05:00|08:15:00|Milan Tv-Il Convitto Pt. 2
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 3|08:15:00|08:30:00|Milan Tv-Il Convitto Pt. 3
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sassuolo vs Milan-22/05/2022|08:30:00|10:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|We The Champ19ons|10:30:00|14:55:00|We The Champ19ons
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|U17-Milan vs Bologna-Livre|14:55:00|17:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|17:40:00|18:00:00|Milan Tv-Gol Collection 2021/2022
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-She-Serra|18:00:00|18:25:00|Milan Tv-She-Serra
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Sintesi-Napoli vs Milan-1987/88|21:10:00|22:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Itw Sacchi|22:05:00|22:45:00|Milan Tv-Itw Sacchi
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Twitch Sempre Milan|22:45:00|00:15:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-HomeGrown Plizzari|01:50:00|02:25:00|Milan Tv-HomeGrown Plizzari
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Gol Collection 2021/2022|02:25:00|02:45:00|Milan Tv-Gol Collection 2021/2022
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Hl Review 2021/2022|02:45:00|03:50:00|Milan Tv-Hl Review 2021/2022
@@ -38,6 +22,12 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 1|20:45:00|21:00:00|Milan Tv-Il Convitto Pt. 1
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 2|21:00:00|21:10:00|Milan Tv-Il Convitto Pt. 2
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan Tv-Il Convitto Pt. 3|21:10:00|21:25:00|Milan Tv-Il Convitto Pt. 3
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Speciale Supercoppa Femminile 2022|00:20:00|00:40:00|Speciale Supercoppa Femminile 2022
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|GOL COLLECTION MASSARO|03:45:00|04:00:00|GOL COLLECTION MASSARO
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|04:00:00|10:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|10:00:00|16:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|16:00:00|22:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Milan TV|22:00:00|04:00:00|Milan TV
 
 
 
