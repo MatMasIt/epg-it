@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Domenica 19 Giugno 2022
+> Programmazione di Lunedì 20 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
