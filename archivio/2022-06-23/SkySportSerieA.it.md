@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Mercoledì 22 Giugno 2022
+> Programmazione di Giovedì 23 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
