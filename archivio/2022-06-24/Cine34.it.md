@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Giovedì 23 Giugno 2022
+> Programmazione di Venerdì 24 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
