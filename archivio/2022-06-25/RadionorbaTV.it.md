@@ -3,24 +3,23 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|03:00:00|04:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|04:00:00|06:00:00|Con Anna Conte e Piero Romanazzi - I fatti del giorno, l&#039;approfondimento, la rassegna stampa, l&#039;oroscopo e la rubrica Punto.it ,con il commento del Direttore di Radionorba Notizie, Maurizio Angelilllo.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|01:00:00|01:20:00|Con Carlo Gallo - La classifica dei 10 brani piu&#039; ballati su Radionorba.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|01:20:00|05:00:00|Weekend Compilation Night - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|05:00:00|06:00:00|La classifica Italiana - La classifica dei 30 brani italiani piu&#039; ascoltati su Radionorba.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|06:00:00|06:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|06:05:00|07:00:00|Con Anna Conte e Piero Romanazzi - I fatti del giorno, l&#039;approfondimento, la rassegna stampa, l&#039;oroscopo e la rubrica Punto.it ,con il commento del Direttore di Radionorba Notizie, Maurizio Angelilllo.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|06:05:00|07:00:00|La classifica Italiana - La classifica dei 30 brani italiani piu&#039; ascoltati su Radionorba.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|07:00:00|07:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|07:05:00|09:00:00|Con Antonella Caramia - Le notizie dal mondo della Tv e dello spettacolo, curiosita&#039;, gossip, l&#039;oroscopo e le news dal territorio.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|09:00:00|10:00:00|Con Antonella Caramia - Le notizie dal mondo della Tv e dello spettacolo, curiosita&#039;, gossip, l&#039;oroscopo e le news dal territorio.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|07:05:00|10:00:00|Con Antonio Malerba - 4 ore ricche di musica e divertimento, con la rubrica weekend compilation, la ricetta del giorno, l&#039;oroscopo di Franca Mazzei.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|10:00:00|10:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|10:05:00|11:05:00|Con Veronica e Giona - Spazio al commento delle notizie di attualita&#039; e di costume e al coinvolgimento degli ascoltatori invitati ad intervenire nella diretta con commenti, opinioni e idee.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|11:05:00|12:05:00|Con Veronica e Giona - Spazio al commento delle notizie di attualita&#039; e di costume e al coinvolgimento degli ascoltatori invitati ad intervenire nella diretta con commenti, opinioni e idee.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|12:05:00|13:00:00|Con Veronica e Giona - Spazio al commento delle notizie di attualita&#039; e di costume e al coinvolgimento degli ascoltatori invitati ad intervenire nella diretta con commenti, opinioni e idee.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|13:00:00|15:00:00|Con Marco e Claudia - Allegria e spensieratezza, tanta buona musica e il coinvolgimento degli ascoltatori piu&#039; giovani.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|15:00:00|16:00:00|Con Federico L&#039;Olandese Volante - Uno dei piu&#039; grandi dj italiani, on air ogni giorno dal lunedi al venerdi per intrattenere il pubblico con la sua inconfondibile voce e simpatia.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|10:05:00|11:00:00|Con Antonio Malerba - 4 ore ricche di musica e divertimento, con la rubrica weekend compilation, la ricetta del giorno, l&#039;oroscopo di Franca Mazzei.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|11:00:00|13:00:00|Weekend Compilation - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|13:00:00|15:00:00|Con Sandra Sacchetti - intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|15:00:00|16:00:00|Con Sandra Sacchetti - intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|16:00:00|16:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|16:05:00|17:00:00|Con Federico L&#039;Olandese Volante - Uno dei piu&#039; grandi dj italiani, on air ogni giorno dal lunedi al venerdi per intrattenere il pubblico con la sua inconfondibile voce e simpatia.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|16:05:00|17:00:00|Con Sandra Sacchetti - intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|The News with Shepard Smith|17:00:00|17:05:00|Breaking News - Dalla redazione giornalistica di TgCom24 i notiziari e gli ultimi aggiornamenti su politica, cronaca, economia, attualita&#039; e costume dall&#039;Italia e dal mondo.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|17:05:00|19:00:00|Con Angela Tangorra e Mauro Dalsogno - Tre ore di intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Luigi Landi - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|17:05:00|19:00:00|Con Alessia Marty - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Alessia Marty - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|21:00:00|22:00:00|Con Luigi Landi - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|22:20:00|Con Carlo Gallo - La classifica dei 10 brani piu&#039; ballati su Radionorba.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:20:00|01:00:00|Weekend Compilation Night - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
@@ -42,8 +41,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|17:05:00|19:00:00|Con Alessia Marty - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Alessia Marty - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|21:00:00|22:00:00|Con Luigi Landi - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|22:20:00|Con Carlo Gallo - La classifica dei 10 brani piu&#039; ballati su Radionorba.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:20:00|01:00:00|Weekend Compilation Night - La selezione musicale dei brani piu&#039; ascoltati su Radionorba
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|03:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
 
 
 
