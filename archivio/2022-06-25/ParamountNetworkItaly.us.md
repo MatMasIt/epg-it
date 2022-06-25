@@ -1,5 +1,5 @@
 # Paramount Network Italia
-> Programmazione di Venerdì 24 Giugno 2022
+> Programmazione di Sabato 25 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
