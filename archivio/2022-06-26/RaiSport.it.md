@@ -3,16 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali (live)|06:55:00|09:00:00|Nuoto: Eliminatorie - A Budapest la XIX edizione dei mondiali di nuoto.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Gli Imperdibili|09:00:00|09:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Canottaggio: Coppa del Mondo|09:05:00|11:15:00|Poznan 3a tappa - Le avvincenti sfide dei campioni internazionali di canottaggio.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali (live)|11:15:00|14:00:00|Nuoto Artistico: Duo Misto Programma Libero Preliminare - A Budapest la XIX edizione dei mondiali di nuoto.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|15:55:00|17:10:00|Pallanuoto M: Italia - Spagna Gruppo C - A Budapest la XIX edizione dei mondiali di nuoto.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Campionato italiano su strada|19:10:00|20:00:00|U23 - I migliori ciclisti italiani vanno a caccia del titolo tricolore nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Rally Show|21:00:00|21:30:00|Occhi puntati sullo spettacolo delle gare di Rally.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|TG Sport Notte|21:30:00|22:00:00|Tutte le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Calcio Story|22:00:00|23:50:00|Mondiali 1982: Spagna - Irlanda del Nord - Riviviamo le grandi emozioni delle partite di calcio piu&#039; belle.
-|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|23:50:00|01:05:00|Pallanuoto M: Italia - Spagna Gruppo C - A Budapest la XIX edizione dei mondiali di nuoto.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Rally Show|03:05:00|03:35:00|Occhi puntati sullo spettacolo delle gare di Rally.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Mondiale Motocross (live)|05:00:00|06:00:00|Indonesia Gara 1 MXGP - Il mondiale di Motocross in giro per il mondo: sfidando terreni accidentati e fango i piloti lottano per il titolo di MX2 e MXGP.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali (live)|06:55:00|08:00:00|Tuffi: 3m sincro M Preliminari - A Budapest la XIX edizione dei mondiali di nuoto.
@@ -27,6 +17,16 @@
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Campionato italiano su strada|20:55:00|22:00:00|Elite F - I migliori ciclisti italiani vanno a caccia del titolo tricolore nelle varie categorie.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|22:00:00|23:15:00|Pallanuoto F: Spareggio - A Budapest la XIX edizione dei mondiali di nuoto.
 |![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|23:15:00|00:30:00|Pallanuoto F: Spareggio - A Budapest la XIX edizione dei mondiali di nuoto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Campionati Italiani Assoluti|00:30:00|03:30:00|3a g. Finali - I migliori protagonisti dell&#039;atletica italiana si danno appuntamento per il titolo tricolore nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Campionato italiano su strada|03:30:00|04:00:00|Elite F - I migliori ciclisti italiani vanno a caccia del titolo tricolore nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|La Domenica Sportiva Estate|06:00:00|06:55:00|Appuntamento con lo sport e le notizie sportive in versione estiva.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Atletica: Campionati Italiani Assoluti|11:30:00|13:55:00|3a g. Finali - I migliori protagonisti dell&#039;atletica italiana si danno appuntamento per il titolo tricolore nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Spagna - Italia|15:20:00|17:30:00|Europei U19 F - Le sfide della fase finale degli Europei Under 19 femminili.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Ciclismo: Campionato italiano su strada|18:05:00|19:40:00|Elite M - I migliori ciclisti italiani vanno a caccia del titolo tricolore nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Europei|19:40:00|20:40:00|Gli Europei che si svolgono a Monaco di Baviera sono la prima rassegna continentale outdoor del nuovo ciclo olimpico verso Parigi 2024.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Mondiale Motocross|20:40:00|21:45:00|Indonesia Gara 2 MXGP - Il mondiale di Motocross in giro per il mondo: sfidando terreni accidentati e fango i piloti lottano per il titolo di MX2 e MXGP.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|21:45:00|23:00:00|Pallanuoto M: Spareggio - A Budapest la XIX edizione dei mondiali di nuoto.
+|![Icon](https://guidatv.sky.it/uuid/sportcalcio_cover_gc2KOQiZI.png)|Nuoto: Mondiali|23:00:00|00:15:00|Pallanuoto M: Spareggio - A Budapest la XIX edizione dei mondiali di nuoto.
 
 
 
