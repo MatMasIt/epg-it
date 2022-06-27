@@ -1,5 +1,5 @@
 # La 5
-> Programmazione di Domenica 26 Giugno 2022
+> Programmazione di Lunedì 27 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
