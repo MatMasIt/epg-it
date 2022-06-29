@@ -1,5 +1,5 @@
 # Premium Stories
-> Programmazione di Martedì 28 Giugno 2022
+> Programmazione di Mercoledì 29 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
