@@ -9,28 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Judith Williams Cosmetics|06:00:00|08:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Sloggi, libera il tuo comfort|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Sloggi, brand rivoluzionario nell&#039;ambito della biancheria intima, grazie all&#039;utilizzo di nuovi tessuti e linee sciancrate e senza pieghe.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Strive Footwear, benessere ai piedi|09:00:00|10:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Judith Williams Cosmetics|10:00:00|11:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|11:00:00|12:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Laura Biagiotti, scarpe da chi fa moda|12:00:00|13:00:00|Laura Biagiotti e&#039; uno dei piu&#039; grandi marchi della moda italiana. Il brand prende il nome dall&#039;omonima fondatrice, creatrice di un atelier
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Judith Williams Cosmetics|13:00:00|14:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucrezia Sciortino, prima di tutto donna|14:00:00|15:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Judith Williams Cosmetics|15:00:00|16:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|16:00:00|17:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Judith Williams Cosmetics|17:00:00|18:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Lucrezia Sciortino, prima di tutto donna|18:00:00|19:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Buonasera bellezza!|19:00:00|21:00:00|ITA. Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Qui Tecnologia|21:00:00|22:00:00|ITA. Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers il tuo stile in primo piano|22:00:00|23:00:00|ITA. TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
-|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Wynne Layers il tuo stile in primo piano|06:00:00|08:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Colpropur, Lo specialista del Collagene|08:00:00|09:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Samsung, il futuro e&#039; adesso|09:00:00|10:00:00|ITA. Scopri QVC.Scopri Samsung,uno dei leader nel il commercio di elettrodomestici e telecomunicazioni mobili,che ricerca l&#039;avanguardia nelle innovazioni per offrire esperienze digitali sempre piu&#039; ricche.
@@ -45,6 +23,29 @@
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Samsung, il futuro e&#039; adesso|18:00:00|19:00:00|ITA. Scopri QVC.Scopri Samsung,uno dei leader nel il commercio di elettrodomestici e telecomunicazioni mobili,che ricerca l&#039;avanguardia nelle innovazioni per offrire esperienze digitali sempre piu&#039; ricche.
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Reflower Una rinascita di benessere|21:00:00|22:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Shark, pulito brillante|22:00:00|23:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|00:00:00|01:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|01:00:00|02:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|02:00:00|03:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|03:00:00|04:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|04:00:00|05:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|05:00:00|06:00:00|ITA. Replica
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Shark, pulito brillante|06:00:00|08:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|08:00:00|09:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Nope, borse senza pelle|09:00:00|10:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|10:00:00|11:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|11:00:00|12:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|In cucina con Maxxmee|12:00:00|13:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|13:00:00|14:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Isaac Mizrahi Live!|14:00:00|15:00:00|ITA. Scopri QVC. Scopri Isaac Mizhari Live! Lasciati inspirare dai colori delle creazioni del genio innovativo di Isaac Mizhari e dalla sua passione per il fashion design.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|15:00:00|16:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Elizabeth Grant, Il volto della bellezza|16:00:00|17:00:00|ITA. Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|17:00:00|18:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|etoo, moda in movimento|18:00:00|19:00:00|ITA. Scopri Qvc. Scopri etoo, brand dedicato alla donna dinamica e sportiva, sempre pronta ai cambiamenti della giornata, amante della moda e attenta allo stile
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Appuntamento in Cucina|19:00:00|20:00:00|ITA. Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|E&#039; tutta un&#039;altra casa con Shark|20:00:00|21:00:00|ITA. TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Magimix, Il tuo chef in cucina|21:00:00|22:00:00|ITA. Scopri QVC. Scopri Magimix, societa&#039; Francese leader nei prodotti per la cucina, dal design innovativo e pratici da usare.
+|![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Soluzioni pratiche con Wagner|22:00:00|23:00:00|ITA. TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/documentari_cover_b74U3_gUf.png)|Replica|23:00:00|00:00:00|ITA. Replica
 
 
