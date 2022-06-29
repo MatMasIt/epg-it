@@ -42,7 +42,7 @@
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|17:05:00|19:00:00|Con Angela Tangorra e Mauro Dalsogno - Tre ore di intrattenimento e musica con focus sui principali fatti che hanno caratterizzato da giornata.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|19:00:00|21:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
 |![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|21:00:00|22:00:00|Con Luigi Landi e Rosaria Rollo - Il racconto della giornata appena trascorsa, i programmi per il domani, il tutto accompagnato da tanta musica.
-|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|La Sera|22:00:00|03:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
+|![Icon](https://guidatv.sky.it/uuid/musica_cover_mUEij5gHOu.png)|Music Night|22:00:00|03:00:00|MUSIC NIGHT - La selezione musicale dei brani classici e delle novita&#039; su Radionorba.
 
 
 
