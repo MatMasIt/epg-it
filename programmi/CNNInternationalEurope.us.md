@@ -9,7 +9,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with John Vause|04:00:00|04:45:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with John Vause|05:00:00|06:00:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|06:00:00|06:45:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|07:00:00|07:45:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|07:00:00|08:00:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Isa Soares|08:00:00|09:00:00|Live from London, Isa Soares brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|09:00:00|10:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day|10:00:00|12:30:00|John Berman and Brianna Keilar report the latest news and top stories.
@@ -19,7 +19,7 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|World Sport|14:45:00|15:00:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connect the World|15:00:00|16:00:00|Connect the World takes viewers on a sweeping journey across continents, beyond headlines and into the stories changing our world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|One World with Zain Asher|16:00:00|16:45:00|One World with Zain Asher offers a fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|African Voices Changemakers|16:45:00|17:00:00|?A former NFL player provides African athletes with a pathway to join the league; a former tennis champion returns to his hometown to train and teach underprivileged youth.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|16:45:00|17:00:00|Ugandan pioneers deploy technology to create interactive learning experiences accessible to all.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Amanpour|17:00:00|18:00:00|Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom|18:00:00|19:00:00|A roundup of the latest news and global events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Quest Means Business|19:00:00|20:00:00|Richard Quest presides over a cast of experts and correspondents to deliver unrivaled facts, figures and analysis from the business world, a nightly wealth check.
@@ -33,8 +33,8 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Don Lemon Tonight|02:00:00|04:00:00|Don Lemon brings you the biggest stories, newsmakers and spirited conversations of the day.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with John Vause|04:00:00|04:45:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with John Vause|05:00:00|06:00:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|06:00:00|06:45:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Lynda Kinkade|07:00:00|08:00:00|Live from Atlanta, Lynda Kinkade brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|06:00:00|06:45:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Kim Brunhuber|07:00:00|08:00:00|Live from Atlanta, Kim Brunhuber brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom with Isa Soares|08:00:00|09:00:00|Live from London, Isa Soares brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Early Start|09:00:00|10:00:00|Get a jump on the day&#039;s news with Christine Romans and Laura Jarrett.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|New Day|10:00:00|12:30:00|John Berman and Brianna Keilar report the latest news and top stories.
@@ -45,7 +45,6 @@
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Connect the World|15:00:00|16:00:00|Connect the World takes viewers on a sweeping journey across continents, beyond headlines and into the stories changing our world.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|One World with Zain Asher|16:00:00|16:45:00|One World with Zain Asher offers a fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Inside Africa|16:45:00|17:00:00|Ugandan pioneers deploy technology to create interactive learning experiences accessible to all.
-|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Amanpour|17:00:00|18:00:00|Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNN Newsroom|18:00:00|19:00:00|A roundup of the latest news and global events.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Quest Means Business|19:00:00|20:00:00|Richard Quest presides over a cast of experts and correspondents to deliver unrivaled facts, figures and analysis from the business world, a nightly wealth check.
 |![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Lead with Jake Tapper|20:00:00|21:00:00|Jake Tapper covers all the day&#039;s top stories around the country and the globe, from politics to money, sports to popular culture.
