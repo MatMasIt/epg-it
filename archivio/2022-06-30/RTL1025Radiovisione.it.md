@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Mercoledì 29 Giugno 2022
+> Programmazione di Giovedì 30 Giugno 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
