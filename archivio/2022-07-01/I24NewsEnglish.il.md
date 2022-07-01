@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Giovedì 30 Giugno 2022
+> Programmazione di Venerdì 01 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
