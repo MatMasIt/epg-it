@@ -1,5 +1,5 @@
 # Lazio Style TV
-> Programmazione di Venerdì 01 Luglio 2022
+> Programmazione di Sabato 02 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
