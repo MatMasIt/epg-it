@@ -1,0 +1,66 @@
+# Fox Business
+> Programmazione di Sabato 02 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|00:00:00|01:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|01:00:00|02:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|02:00:00|03:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|03:00:00|04:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|04:00:00|05:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|05:00:00|06:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|06:00:00|07:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|07:00:00|07:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|07:30:00|08:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|08:00:00|08:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|08:30:00|09:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|09:00:00|09:30:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|09:30:00|10:00:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|10:00:00|11:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|11:00:00|12:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|12:00:00|13:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|13:00:00|14:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|14:00:00|14:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|14:30:00|15:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|15:00:00|15:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|15:30:00|16:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|16:00:00|17:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|17:00:00|18:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|18:00:00|19:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|19:00:00|20:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|20:00:00|21:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|21:00:00|22:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/1c40fce1-fea3-4f4a-8160-a62d14b2aa85/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|22:00:00|23:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|23:00:00|00:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|00:00:00|01:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/1c40fce1-fea3-4f4a-8160-a62d14b2aa85/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|01:00:00|02:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|02:00:00|04:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|04:00:00|05:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|05:00:00|06:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|06:00:00|07:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|07:00:00|07:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|07:30:00|08:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|08:00:00|08:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|08:30:00|09:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|09:00:00|09:30:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|09:30:00|10:00:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|10:00:00|11:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|11:00:00|12:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|12:00:00|13:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|13:00:00|14:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|14:00:00|14:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|14:30:00|15:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|15:00:00|15:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|15:30:00|16:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/1c40fce1-fea3-4f4a-8160-a62d14b2aa85/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|16:00:00|17:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|17:00:00|18:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|18:00:00|19:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|19:00:00|20:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|20:00:00|21:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Legends &amp; Lies: The Patriots|21:00:00|22:00:00|An analysis on some of the notable figures in the history of the United States.
+|![Icon](https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79)|The Evening Edit|22:00:00|23:00:00|Liz McDonald interviews the Industries experts.
+|![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|23:00:00|00:00:00|Former National Economic Council Director gives market analysis and interviews.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

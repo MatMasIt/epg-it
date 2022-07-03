@@ -1,5 +1,5 @@
 # Fox Italia +1
-> Programmazione di Sabato 02 Luglio 2022
+> Programmazione di Domenica 03 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
