@@ -1,5 +1,5 @@
 # DeA Junior
-> Programmazione di Lunedì 04 Luglio 2022
+> Programmazione di Martedì 05 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
