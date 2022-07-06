@@ -1,5 +1,5 @@
 # Boomerang Italia
-> Programmazione di Martedì 05 Luglio 2022
+> Programmazione di Mercoledì 06 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
