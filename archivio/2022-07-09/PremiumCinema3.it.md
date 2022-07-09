@@ -1,5 +1,5 @@
 # Premium Cinema 3
-> Programmazione di Venerdì 08 Luglio 2022
+> Programmazione di Sabato 09 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
