@@ -1,0 +1,73 @@
+# CNBC Europe
+> Programmazione di Sabato 09 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|00:00:00|00:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|00:30:00|01:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|01:00:00|02:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Managing Asia|02:00:00|02:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Tech Transformers|02:30:00|03:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|03:00:00|04:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|04:00:00|04:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|04:30:00|05:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|05:00:00|05:30:00|John Paul DeJoria, Co-Founder of Paul Mitchell - John Paul DeJoria, the co-founder of Paul Mitchell, discusses hardships.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|05:30:00|06:00:00|Davos Debate: Our Working Lives - Companies address work-life concerns as pandemic restrictions ease.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The News with Shepard Smith|06:00:00|07:00:00|Shepard Smith presents a nightly newscast of the day&#039;s most important stories.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|07:00:00|07:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|07:30:00|08:00:00|Super Cars of the Super Rich: Bond Cars &amp; The Porsche Outlaw - A man collects examples of cars driven by James Bond in the movies; an heiress loves to drive 320 mph; an outlaw is restoring the world&#039;s most valuable Porsche.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|08:00:00|08:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|08:30:00|09:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - Mike &quot;The Situation&quot; Sorrentino fails to pay his taxes.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|10:00:00|12:00:00|PGA TOUR: John Deere Classic Rds 3 &amp;4 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:30:00|13:00:00|Swansea Triathlon - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|14:00:00|Le Marathon de Sables 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|14:00:00|14:30:00|John Paul DeJoria, Co-Founder of Paul Mitchell - John Paul DeJoria, the co-founder of Paul Mitchell, discusses hardships.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|14:30:00|15:00:00|Davos Debate: Our Working Lives - Companies address work-life concerns as pandemic restrictions ease.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|15:00:00|16:00:00|American Greed: Scams, Scoundrels and Scandals - A former policeman collected $50 million from investors for a real estate trust.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|16:00:00|16:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|16:30:00|17:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|17:00:00|17:30:00|John Paul DeJoria, Co-Founder of Paul Mitchell - John Paul DeJoria, the co-founder of Paul Mitchell, discusses hardships.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|17:30:00|18:00:00|Davos Debate: Our Working Lives - Companies address work-life concerns as pandemic restrictions ease.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|18:00:00|19:00:00|American Greed: Scams, Scoundrels and Scandals - Mike &quot;The Situation&quot; Sorrentino fails to pay his taxes.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|19:00:00|20:00:00|Chris Martin; Bryce Dallas Howard; The Weirdos and Chris Martin perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Adam Sandler; Ben Falcone; Nimesh Patel.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:00:00|22:00:00|Nick Jonas; Mary Lynn Rajskub; Ella Mai performs.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|22:00:00|22:30:00|Super Cars of the Super Rich: Bond Cars &amp; The Porsche Outlaw - A man collects examples of cars driven by James Bond in the movies; an heiress loves to drive 320 mph; an outlaw is restoring the world&#039;s most valuable Porsche.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|23:00:00|00:00:00|Chris Martin; Bryce Dallas Howard; The Weirdos and Chris Martin perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|00:00:00|01:00:00|Adam Sandler; Ben Falcone; Nimesh Patel.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|01:00:00|02:00:00|Nick Jonas; Mary Lynn Rajskub; Ella Mai performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|02:00:00|03:00:00|Maya Rudolph; Emma Chamberlain; Brett Eldredge performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|03:00:00|04:00:00|Dakota Johnson; Adam Scott; Carrie Underwood performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Brave Ones|04:00:00|04:30:00|John Paul DeJoria, Co-Founder of Paul Mitchell - John Paul DeJoria, the co-founder of Paul Mitchell, discusses hardships.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The CNBC Debate|04:30:00|05:00:00|Davos Debate: Our Working Lives - Companies address work-life concerns as pandemic restrictions ease.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|05:00:00|05:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|05:30:00|06:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joel Osteen|06:00:00|06:30:00|Religious programme.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Answers with Bayless Conley|06:30:00|07:00:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|In Touch Ministries|07:00:00|07:30:00|In Touch Ministries, founded by Pastor Dr. Charles Stanley, shares sermons and other uplifting messages tackling a range of subjects.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Joseph Prince - New Creation Church TV|07:30:00|08:00:00|Senior Pastor Joseph Prince leads viewers in a time of worship and study as he addresses a series of religious topics designed to encourage individuals.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Elevation with Steven Furtick|08:00:00|08:30:00|Pastor Steven Furtick leads the followers of Elevation Church in an exciting and informative celebration of their beliefs and of God&#039;s teachings.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|08:30:00|09:00:00|Super Cars of the Super Rich: Bond Cars &amp; The Porsche Outlaw - A man collects examples of cars driven by James Bond in the movies; an heiress loves to drive 320 mph; an outlaw is restoring the world&#039;s most valuable Porsche.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - A former policeman collected $50 million from investors for a real estate trust.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|10:00:00|12:00:00|PGA TOUR: John Deere Classic Rds 3 &amp;4 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:00:00|12:30:00|World Sailing Show - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|12:30:00|13:00:00|Titan Desert Challenge 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Sports|13:00:00|13:30:00|Barcelona Marathon 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|RIDE FEI Originals|13:30:00|14:00:00|An in-depth look at the bond between horses and humans.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|14:00:00|14:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|14:30:00|15:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|15:00:00|16:00:00|Roundtable talks and interviews address current events.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|The Profit|16:00:00|17:00:00|Fighting for Farrell&#039;s - Marcus&#039; extensive efforts to revive a classic restaurant chain are threatened.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC on Assignment|17:00:00|17:30:00|Art Dubai 2022 - Curators, dealers and artists explore the new world of NFTs at an art fair.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|CNBC Conversation|17:30:00|18:00:00|Nick Jones - Nick Jones, Founder and CEO of Soho House, discusses expansion and his career.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|18:00:00|19:00:00|Roundtable talks and interviews address current events.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|19:00:00|20:00:00|Maya Rudolph; Emma Chamberlain; Brett Eldredge performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Dakota Johnson; Adam Scott; Carrie Underwood performs.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Meet the Press|21:00:00|22:00:00|Roundtable talks and interviews address current events.
+|![Icon](https://guidatv.sky.it/uuid/news_cover_UUc98KpCK-.png)|Asia Squawk Box|22:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

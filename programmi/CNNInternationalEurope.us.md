@@ -1,5 +1,5 @@
 # CNN International Europe
-> Programmazione di Sabato 09 Luglio 2022
+> Programmazione di Domenica 10 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
