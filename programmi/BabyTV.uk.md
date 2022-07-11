@@ -1,5 +1,5 @@
 # Baby TV Europe
-> Programmazione di Domenica 10 Luglio 2022
+> Programmazione di Lunedì 11 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
