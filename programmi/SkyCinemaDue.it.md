@@ -1,5 +1,5 @@
 # Sky Cinema Due
-> Programmazione di Lunedì 11 Luglio 2022
+> Programmazione di Martedì 12 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
