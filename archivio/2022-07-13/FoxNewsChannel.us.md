@@ -20,12 +20,9 @@
 |![Icon](https://guidatv.sky.it/uuid/046c4510-a2b8-44b9-94fa-85ddaecc4bb6/cover?md5ChecksumParam=a720921eabe958d104353cda28b11daa)|The Story|19:00:00|20:00:00|Host Martha MacCallum - Martha MacCallum focuses on the issues that are most important to Americans.
 |![Icon](https://guidatv.sky.it/uuid/1b428039-f73d-4751-9a14-46438cd0d5fc/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|20:00:00|21:00:00|Neil Cavuto has all the days business news and market moves.
 |![Icon](https://guidatv.sky.it/uuid/01dd040e-4e0b-46ff-abde-a402401d64ba/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|21:00:00|22:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
-|![Icon](https://guidatv.sky.it/uuid/3dfc902b-d834-4605-ad6b-ed553c9a8f27/cover?md5ChecksumParam=0752ae143bb8f70a1448458da8e6d205)|Fox News @ Night|22:00:00|22:00:00|Host Shannon Bream - Shannon Bream gives news analysis on the most compelling stories.
 |![Icon](https://guidatv.sky.it/uuid/0ee77c4e-13ee-45de-9c5a-9dbec565a3c1/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|22:00:00|23:00:00|Bret Baier reports on the days events from Washington DC.
 |![Icon](https://guidatv.sky.it/uuid/1445ddd4-47dd-4298-8dff-186b97d9da36/cover?md5ChecksumParam=039d65d2736a8453158c24e6ddcaffdd)|Jesse Watters Primetime|23:00:00|00:00:00|Jesse Watters presents the news of the day.
-|![Icon](https://guidatv.sky.it/uuid/0a11beba-ccd5-4a6a-bf69-74a40f24452c/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|23:00:00|23:00:00|Tucker Carlson brings a live hour of spirited debate.
 |![Icon](https://guidatv.sky.it/uuid/0a11beba-ccd5-4a6a-bf69-74a40f24452c/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|00:00:00|01:00:00|Tucker Carlson brings a live hour of spirited debate.
-|![Icon](https://guidatv.sky.it/uuid/1e127ea7-eabe-4807-9223-6ccc0d7dbbba/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|00:00:00|01:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
 |![Icon](https://guidatv.sky.it/uuid/1e127ea7-eabe-4807-9223-6ccc0d7dbbba/cover?md5ChecksumParam=4db84921f01c7baa796efc6882c47ed9)|Hannity|01:00:00|02:00:00|Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories.
 |![Icon](https://guidatv.sky.it/uuid/2d4c6fcb-9b24-4e7c-bdc7-d058ef5d5b40/cover?md5ChecksumParam=cf03b9ad258f0a1d256dcb5928712401)|The Ingraham Angle|02:00:00|03:00:00|Laura Ingraham speaks to people who are impacted by the news of the day and the issue the country is in turmoil about.
 |![Icon](https://guidatv.sky.it/uuid/17ba3ea2-ea0c-46b0-90b5-c2a4a3eea41c/cover?md5ChecksumParam=f23115ed59ac614334d8337936cea0a9)|Gutfeld!|03:00:00|04:00:00|Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture.
@@ -43,8 +40,6 @@
 |![Icon](https://guidatv.sky.it/uuid/1b428039-f73d-4751-9a14-46438cd0d5fc/cover?md5ChecksumParam=7ee84a99805b6dd6cdc426e852c7257a)|Your World|20:00:00|21:00:00|Neil Cavuto has all the days business news and market moves.
 |![Icon](https://guidatv.sky.it/uuid/01dd040e-4e0b-46ff-abde-a402401d64ba/cover?md5ChecksumParam=9329dd932cdadf9900d74cf7852803d1)|The Five|21:00:00|22:00:00|Features a roundtable ensemble of five personalities who debate current news stories.
 |![Icon](https://guidatv.sky.it/uuid/0ee77c4e-13ee-45de-9c5a-9dbec565a3c1/cover?md5ChecksumParam=2fec7ad2a28299e02dda71d6b3e27ab4)|Special Report|22:00:00|23:00:00|Bret Baier reports on the days events from Washington DC.
-|![Icon](https://guidatv.sky.it/uuid/3dfc902b-d834-4605-ad6b-ed553c9a8f27/cover?md5ChecksumParam=0752ae143bb8f70a1448458da8e6d205)|Fox News @ Night|22:00:00|22:00:00|Host Shannon Bream - Shannon Bream gives news analysis on the most compelling stories.
-|![Icon](https://guidatv.sky.it/uuid/0a11beba-ccd5-4a6a-bf69-74a40f24452c/cover?md5ChecksumParam=314ae6500f4e1cc7490b739dfac72ef4)|Tucker Carlson Tonight|23:00:00|23:00:00|Tucker Carlson brings a live hour of spirited debate.
 |![Icon](https://guidatv.sky.it/uuid/1445ddd4-47dd-4298-8dff-186b97d9da36/cover?md5ChecksumParam=039d65d2736a8453158c24e6ddcaffdd)|Jesse Watters Primetime|23:00:00|00:00:00|Jesse Watters presents the news of the day.
 
 
