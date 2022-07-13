@@ -1,5 +1,5 @@
 # Sky Cinema Action
-> Programmazione di Martedì 12 Luglio 2022
+> Programmazione di Mercoledì 13 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
