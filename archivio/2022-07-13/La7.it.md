@@ -1,0 +1,74 @@
+# La 7
+> Programmazione di Martedì 12 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Bell&#039;Italia in viaggio|00:05:00|01:20:00|Ep. 5 - Fabio Troiano conduce un programma dedicato alle meraviglie del Bel Paese. Un viaggio tra le localita&#039;, le bellezza artistiche, paesaggistiche e turistiche dell&#039;Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|01:20:00|03:20:00|Ep. 16 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|03:20:00|04:00:00|Ep. 306 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 307 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 307 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:00:00|Ep. 259 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|09:00:00|11:30:00|Ep. 17 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Eden un pianeta da salvare|12:15:00|15:15:00|Ep. 4 - Licia Colo&#039; conduce un programma incentrato sulle problematiche del pianeta Terra. Un giro intorno al mondo per raccontare tutto quello che serve per tutelare l&#039;ambiente.
+|![Icon](https://guidatv.sky.it/uuid/052c846d-ef31-4f42-a54a-2d2f6451b0c4/cover?md5ChecksumParam=3517ce4112607e2e79d21add088f03f0)|Spie di guerra|15:15:00|16:15:00|Lo sbarco in Sicilia - Due mesi prima dello sbarco alleato in Sicilia, viene trovato in Spagna il corpo di un ufficiale inglese con indosso dei documenti destinati a depistare i nazisti.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|16:15:00|17:05:00|S2 Ep10 Il giro della morte - La morte di un pilota di corse insospettisce Padre Brown. La dinamica dell&#039;incidente d&#039;auto nel quale l&#039;uomo ha perso la vita, infatti, e&#039; alquanto dubbia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|17:05:00|18:00:00|S3 Ep1 L&#039;uomo nell&#039;ombra - Padre Brown si ritrova coinvolto con l&#039;MI5, compromettendo cosi&#039; Lady Felicia. Per proteggere i segreti del suo passato, arrivera&#039; a tradire il suo amico?
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|21:15:00|Ep. 8 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Servant of the People - 1^TV|21:15:00|21:50:00|S2 Ep4 - Dopo che il Consiglio europeo ha approvato l&#039;esenzione dal visto per i cittadini ucraini, Vasiliy osserva un paese semideserto: molti dei suoi abitanti sono partiti per l&#039;Occidente.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Servant of the People - 1^TV|21:50:00|22:20:00|S2 Ep5 - Vasiliy visita il Ministero dello Sviluppo. Intanto il processo a Yuri Ivanovich continua e gli oligarchi temono che l&#039;ex primo ministro possa essere effettivamente ritenuto colpevole.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Servant of the People - 1^TV|22:20:00|22:50:00|S2 Ep6 - Mentre prosegue la ricerca di un nuovo primo ministro, la stampa prende in esame le vite sentimentali di Vasiliy e dei membri del suo staff.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Servant of the People - 1^TV|22:50:00|23:30:00|S2 Ep7 - Il Fondo Monetario Internazionale annuncia che puo&#039; concedere un prestito ai paesi in crisi. Mukhin vuole impressionare Helga, mentre incontra per la prima volta i genitori di Oksana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:30:00|23:40:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/09ee0129-6de9-41a4-8332-fe748acbb608/cover?md5ChecksumParam=09ec0debb1efee6ecec3b0f61129c2d9)|ArtBox|23:40:00|00:15:00|Ep. 35 - Magazine dedicato alle mostre italiane e internazionali. Da Roma a New York, esperti d&#039;arte, collezionisti e curatori illustrano le esposizioni piu&#039; in voga e originali del momento.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|00:15:00|02:15:00|Ep. 17 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|02:15:00|03:45:00|Ep. 307 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|03:45:00|04:00:00|Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 308 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 308 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:00:00|Ep. 260 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|09:00:00|11:30:00|Ep. 18 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Eden un pianeta da salvare|12:15:00|15:15:00|Ep. 5 - Licia Colo&#039; conduce un programma incentrato sulle problematiche del pianeta Terra. Un giro intorno al mondo per raccontare tutto quello che serve per tutelare l&#039;ambiente.
+|![Icon](https://guidatv.sky.it/uuid/065dc287-5c4b-4348-8fc6-54558ba1d318/cover?md5ChecksumParam=c62e7399d36ea57d1072d7e6a0e4bb3b)|The Royals|15:15:00|16:15:00|La devozione della Regina Maria di Tek ai suoi doveri e al suo paese e&#039; sempre stata anteposta alle questioni personali. Qual e&#039; stata la sua influenza nella famiglia reale?
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|16:15:00|17:05:00|S3 Ep2 La maledizione di Amenhotep - Dopo aver visto una mummia egizia, il corpo della sposa di Sir Raleigh viene trovato senza vita in una stanza chiusa dall&#039;interno. Padre Brown indaga.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|17:05:00|18:00:00|S3 Ep3 L&#039;uomo invisibile - A Kembleford giunge il circo, ma lo spettacolo viene funestato dall&#039;omicidio di un clow. Inoltre, perche&#039; una parrocchiana ha accettato di sposare uno strano mago?
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 9 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Atlantide|19:15:00|23:10:00|J.F.K. Revisited / Tutta la verita&#039; sul complotto - Il documentario che ricostruisce il complotto per uccidere John Fitzgerald Kennedy. Un&#039;intervista esclusiva al suo autore Oliver Stone.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|23:10:00|23:20:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|23:20:00|00:00:00|Ep. 9 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
