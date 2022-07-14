@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Mercoledì 13 Luglio 2022
+> Programmazione di Giovedì 14 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
