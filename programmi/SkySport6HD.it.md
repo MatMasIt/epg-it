@@ -1,5 +1,5 @@
 # Sky Sport 6
-> Programmazione di Giovedì 14 Luglio 2022
+> Programmazione di Venerdì 15 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
