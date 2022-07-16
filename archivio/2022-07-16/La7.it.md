@@ -1,0 +1,70 @@
+# La 7
+> Programmazione di Venerdì 15 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|01:15:00|02:45:00|Ep. 309 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|02:45:00|04:00:00|Ep. 261 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:40:00|04:45:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:45:00|04:50:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 310 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 310 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:00:00|Ep. 262 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|09:00:00|11:30:00|Ep. 20 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Eden un pianeta da salvare|12:15:00|15:15:00|Ep. 6 - Licia Colo&#039; conduce un programma incentrato sulle problematiche del pianeta Terra. Un giro intorno al mondo per raccontare tutto quello che serve per tutelare l&#039;ambiente.
+|![Icon](https://guidatv.sky.it/uuid/065dc287-5c4b-4348-8fc6-54558ba1d318/cover?md5ChecksumParam=c62e7399d36ea57d1072d7e6a0e4bb3b)|The Royals|15:15:00|16:15:00|La vita del principe Harry, a partire dalla sua infanzia. Un ragazzo che ha lottato per conciliare il suo desiderio d&#039;indipendenza con i doveri da &#039;erede di riserva&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|16:15:00|17:05:00|S3 Ep4 Il segno della spada spezzata - In una caserma, un uomo viene ucciso con una leggendaria spada spezzata. L&#039;indagine porta Padre Brown a investigare su una morte risalente a 13 anni prima.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|17:05:00|18:00:00|S3 Ep5 L&#039;ultimo uomo - Quando il nuovo capitano della squadra di cricket di Kembleford viene incriminato per omicidio, Padre Brown indaghera&#039; per dimostrare la sua innocenza.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 11 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Eden un pianeta da salvare|19:15:00|22:15:00|Ep. 11 - Licia Colo&#039; conduce un programma incentrato sulle problematiche del pianeta Terra. Un giro intorno al mondo per raccontare tutto quello che serve per tutelare l&#039;ambiente.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|22:15:00|22:25:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|22:25:00|23:05:00|Ep. 11 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Estate|23:05:00|01:05:00|Ep. 20 - La trasmissione che racconta e analizza l&#039;economia e la politica. Conduce Francesco Magnani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|01:05:00|02:35:00|Ep. 310 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|02:35:00|04:00:00|Ep. 262 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:00:00|04:05:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:05:00|04:10:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:10:00|04:15:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:15:00|04:20:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:20:00|04:25:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:25:00|04:30:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Meteo|04:30:00|04:35:00|L&#039;aggiornamento sulle previsioni del tempo atmosferico in tutta Italia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:35:00|04:40:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Anticamera con vista|04:40:00|04:50:00|La sintesi senza filtri della settimana, con le piu&#039; importanti novita&#039; dal mondo della politica.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Traffico|04:50:00|04:55:00|Le principali informazioni sulla viabilita&#039; e il traffico per chi deve mettersi in viaggio.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Oroscopo|04:55:00|05:00:00|La lettura dell&#039;oroscopo del giorno per tutti i segni zodiacali.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus News|05:00:00|05:30:00|Ep. 311 - Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|05:30:00|05:55:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus meteo|05:55:00|06:00:00|Previsioni del tempo illustrate dal colonnello Paolo Sottocorona.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Omnibus La7|06:00:00|07:40:00|Ep. 311 - Programma di informazione e approfondimento sui temi di attualita&#039;, con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico, previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Coffee Break|07:40:00|09:15:00|Ep. 263 - Spazio mattutino dedicato all&#039;approfondimento sulla politica e l&#039;attualita&#039;, con ospiti politici, imprenditori, giornalisti e uomini di cultura.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|L&#039;aria che tira - Diario estate|09:15:00|10:50:00|Ep. 4 - La trasmissione raccoglie le ultime notizie di economia e politica, per analizzarle dal punto di vista del comune cittadino.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|LIKE - Tutto cio&#039; che piace|10:50:00|11:30:00|Ep. 26 - Un viaggio nell&#039;attualita&#039;, alla scoperta delle tendenza contemporanee della societa&#039; italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|11:30:00|12:15:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Atlantide|12:15:00|16:15:00|J.F.K. Revisited / Tutta la verita&#039; sul complotto - Il documentario che ricostruisce il complotto per uccidere John Fitzgerald Kennedy. Un&#039;intervista esclusiva al suo autore Oliver Stone.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|16:15:00|17:05:00|S2 Ep9 Il tristo mietitore - Padre Brown indaga sulla morte di Alfred Tatton, un agricoltore che, poco prima di morire, aveva litigato col padre, il quale lo riteneva un ubriacone buono a nulla.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Padre Brown|17:05:00|18:00:00|S2 Ep10 Il giro della morte - La morte di un pilota di corse insospettisce Padre Brown. La dinamica dell&#039;incidente d&#039;auto nel quale l&#039;uomo ha perso la vita, infatti, e&#039; alquanto dubbia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg La7|18:00:00|18:35:00|Le notizie d&#039;attualita&#039; e i fatti di cronaca, di politica, di economia e societa&#039;, selezionati dalla redazione di La7.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|In Onda|18:35:00|19:15:00|Ep. 12 - Un programma di attualita&#039; e di approfondimento giornalistico, condotto da David Parenzo e Concita De Gregorio.
+|![Icon](https://guidatv.sky.it/uuid/72f397b8-51dd-4fc1-85ea-56c5cc299bb8/cover?md5ChecksumParam=96b39332e5ecc8f2ffba09a17bf52636)|L&#039;uomo della pioggia|19:15:00|21:45:00|Regia di F.F. Coppola, con M.Damon, C.Danes; USA 1997 (150 min). Un giovane laureato in giurisprudenza conduce un&#039;aspra battaglia contro un&#039;assicurazione che si rifiuta di risarcire un ragazzo malato di leucemia.
+|![Icon](https://guidatv.sky.it/uuid/08983638-6ff9-4af9-9098-5f2ceb36e922/cover?md5ChecksumParam=494c5c4b2a362e574e82c360fdeeb726)|Domina|21:45:00|22:50:00|S1 Ep1 Caduta - Un anno dopo l&#039;assassinio di Giulio Cesare, Livia Drusilla sposa il cugino Tiberio Claudio Nerone, ma e&#039; riluttante a lasciare la casa paterna.
+|![Icon](https://guidatv.sky.it/uuid/08983638-6ff9-4af9-9098-5f2ceb36e922/cover?md5ChecksumParam=494c5c4b2a362e574e82c360fdeeb726)|Domina|22:50:00|23:55:00|S1 Ep2 Ascesa - Livia, Nerone e il loro figlio Tiberio trovano rifugio nella casa di Sesto Pompeo, in Sicilia. In seguito Livia scopre di essere di nuovo incinta.
+|![Icon](https://guidatv.sky.it/uuid/08983638-6ff9-4af9-9098-5f2ceb36e922/cover?md5ChecksumParam=494c5c4b2a362e574e82c360fdeeb726)|Domina|23:55:00|00:55:00|S1 Ep3 Famiglia - Livia e&#039; diventata la moglie di Ottaviano, ha 31 anni e aspetta un figlio. Il giovane Ottaviano e Agrippa dominano incontrastati su Roma.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
