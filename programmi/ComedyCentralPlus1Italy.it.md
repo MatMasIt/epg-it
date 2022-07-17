@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Sabato 16 Luglio 2022
+> Programmazione di Domenica 17 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
