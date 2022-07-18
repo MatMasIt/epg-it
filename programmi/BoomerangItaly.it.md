@@ -1,5 +1,5 @@
 # Boomerang Italia
-> Programmazione di Domenica 17 Luglio 2022
+> Programmazione di Lunedì 18 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
