@@ -1,5 +1,5 @@
 # Radio Monte Carlo TV
-> Programmazione di Lunedì 18 Luglio 2022
+> Programmazione di Martedì 19 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
