@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/0ab461b3-eb97-4b31-bb70-50116cfc5f92/cover?md5ChecksumParam=4fb3530718df0ad4aa507dd53882e5eb)|18/07/22|18:00:00|22:00:00|Uefa Women&#039;s Euro 2022,3a giornata - fase a gruppi. Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/78bfe41f-17c5-4d01-ae2c-bf5ceba2a692/cover?md5ChecksumParam=83d608eb6521e09aaf834d1428a20124)|Inghilterra - Spagna (diretta)|18:30:00|22:00:00|Cod. 451610 - Uefa Women&#039;s Euro 2022, Quarti di finale. Calcio d&#039;inizio ore 21:00.
 
 
 
