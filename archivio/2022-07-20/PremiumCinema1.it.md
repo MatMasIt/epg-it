@@ -1,5 +1,5 @@
 # Premium Cinema 1
-> Programmazione di Martedì 19 Luglio 2022
+> Programmazione di Mercoledì 20 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
