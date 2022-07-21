@@ -1,5 +1,5 @@
 # Canale 5
-> Programmazione di Mercoledì 20 Luglio 2022
+> Programmazione di Giovedì 21 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
