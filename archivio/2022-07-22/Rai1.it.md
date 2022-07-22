@@ -1,0 +1,58 @@
+# Rai 1
+> Programmazione di Giovedì 21 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|00:00:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|04:00:00|04:20:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Previsioni sulla viabilita&#039; CCISS...|04:20:00|04:30:00|...Viaggiare informati - Dati sul traffico per muoversi meglio nella rete viaria italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rassegna stampa|04:35:00|05:00:00|Le ultime notizie dall&#039;Italia e dall&#039;estero, pubblicate dai maggiori quotidiani italiani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|05:05:00|05:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:05:00|06:30:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|07:00:00|07:05:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai Parlamento Telegiornale|07:35:00|07:40:00|Un resoconto puntuale sull&#039;attualita&#039; di Camera e Senato, sui principali temi dell&#039;agenda politica e le iniziative del Governo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Don Matteo|12:00:00|13:00:00|S8 Ep22 Tradimenti - Un ragazzo vede suo padre accusato dell&#039;aggressione della giovane di cui e&#039; innamorato. Spettera&#039; a don Matteo aiutare padre e figlio a ritrovare il loro rapporto.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Don Matteo|13:00:00|14:00:00|S8 Ep23 Tutto e&#039; perduto - Viene ritrovato il cadavere di un operaio che viveva insieme alla moglie in una tenda e da poco ingiustamente licenziato. Intanto, Patrizia decide di partire per Roma...
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sei sorelle|14:00:00|15:00:00|S1 Ep33 Uccelli del paradiso - Diana e Salvador trovano il modo per far credere alla zia Adolfino che Don Fernando e&#039; ancora vivo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|15:00:00|15:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Economia|15:10:00|15:15:00|Aggiornamenti e approfondimenti sull&#039;andamento dei mercati finanziari e dal mondo dell&#039;economia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|15:15:00|15:20:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|18:00:00|18:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Techetechete&#039;|18:30:00|19:25:00|Ep35 - La storia dello spettacolo e della cultura italiana riproposta attraverso spezzoni e omaggi monografici ai grandi personaggi della TV, del cinema, della canzone e dell&#039;intrattenimento.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Don Matteo|19:25:00|21:30:00|S12 Ep7 Non rubare - Don Matteo trova il cadavere di una donna. Intanto, Anna cerca di capire cosa prova per Sergio, mentre Nino ed Elisa litigano a causa dell&#039;arrivo di Eugenio Nardi.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Sera|21:30:00|21:35:00|Le notizie del giorno e gli approfondimenti a livello nazionale ed internazionale su attualita&#039;, cronaca, politica, cultura, societa&#039; e sport.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|21:35:00|23:10:00|Regia di Pif, con C.Capotondi, Pif; ITA 2013. Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|23:10:00|23:40:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|23:40:00|23:45:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|I motorizzati|23:45:00|01:20:00|Regia di C. Mastrocinque, con U.Tognazzi, N.Manfredi; ITA 1962. Tre episodi in cui si raccontano la smania motoristica degli anni &#039;60 e le truffe legate al mondo delle assicurazioni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|01:20:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|04:00:00|04:20:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Previsioni sulla viabilita&#039; CCISS...|04:20:00|04:30:00|...Viaggiare informati - Dati sul traffico per muoversi meglio nella rete viaria italiana.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rassegna stampa|04:35:00|05:00:00|Le ultime notizie dall&#039;Italia e dall&#039;estero, pubblicate dai maggiori quotidiani italiani.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|05:05:00|05:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|06:00:00|06:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|06:05:00|06:30:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 L.I.S.|07:00:00|07:05:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Rai Parlamento Telegiornale|07:35:00|07:40:00|Un resoconto puntuale sull&#039;attualita&#039; di Camera e Senato, sui principali temi dell&#039;agenda politica e le iniziative del Governo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Don Matteo|12:00:00|13:00:00|S9 Ep2A Testimone d&#039;accusa - Un&#039;amica di Don Matteo, dopo avergli confessato di aver tradito il marito, viene ridotta in fin di vita. Intanto, Lia ha guai seri con l&#039;universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Don Matteo|13:00:00|14:00:00|S9 Ep2B Prove d&#039;amore - Mentre i carabinieri hanno a che fare con un caso da cui emergono le complesse dinamiche di una &#039;famiglia allargata&#039;, Don Matteo trova il lavoro giusto per Tomas.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Sei sorelle|14:00:00|15:00:00|S1 Ep36 Il futuro della fabbrica - Per difendere Celia, Miguel ha un duro scontro con Joaquin. Salvador, intanto, scopre l&#039;identita&#039; del misterioso informatore di Don Ricardo.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|15:00:00|15:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Economia|15:10:00|15:15:00|Aggiornamenti e approfondimenti sull&#039;andamento dei mercati finanziari e dal mondo dell&#039;economia.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa - CCISS Viaggiare informati|15:15:00|15:20:00|Tutti gli aggiornamenti e le previsioni sulle possibili variazioni delle temperature e delle condizioni dei venti e dei mari.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1|18:00:00|18:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|UEFA Women&#039;s Euro 2022|18:30:00|21:00:00|3rzo Quarto - Sedici nazionali partecipano in Inghilterra alla tredicesima edizione del torneo. Detiene il titolo l&#039;Olanda.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Tg1 Sera|21:00:00|21:05:00|Le notizie del giorno e gli approfondimenti a livello nazionale ed internazionale su attualita&#039;, cronaca, politica, cultura, societa&#039; e sport.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Codice - La vita e&#039; digitale|21:05:00|22:25:00|La societa&#039; dei dati - Barbara Carfagna spiega l&#039;importanza dell&#039;indipendenza tecnologica per la sicurezza in Europa. Esploriamo le infrastrutture che ci proteggono in questo momento.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|RaiNews24|22:25:00|22:55:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Che tempo fa|22:55:00|23:00:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/dtt_cover_l58VsCKBwnW.png)|Cinematografo Estate|23:00:00|00:00:00|Rubrica di aggiornamento sul cinema e la fiction televisiva. Conduce Gigi Marzullo.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
