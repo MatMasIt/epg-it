@@ -1,5 +1,5 @@
 # Canale 5
-> Programmazione di Venerdì 22 Luglio 2022
+> Programmazione di Sabato 23 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
