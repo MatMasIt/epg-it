@@ -3,37 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|00:15:00|00:30:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quarta puntata Ghoutia Karchouni e Anna Bjork Kristjansdottir.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Preseason Special - Twitch|00:30:00|01:30:00|La nostra speciale Live Twitch giornaliera per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Comebacks: Dinamo Kiev-Inter 09/10|01:30:00|01:45:00|Rivivi l&#039;emozionante rimonta dei nerazzurri nel match di Champions League 2009/10 contro la Dinamo Kiev.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Preseason - Replica|01:45:00|02:15:00|Il nostro speciale giornaliero per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti 2022/23|02:15:00|02:30:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Trophy Julio Cesar|02:30:00|03:00:00|Non perdere I M Trophy, il nuovo format di Inter Tv. In ogni puntata, un protagonisti della storia nerazzurra racconta un trofeo conquistato con la maglia dell&#039;Inter, presente alle sue spalle nella Trophy Room dell&#039;Inter HQ.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pitchside Sounds: Bologna-Inter 04/05|03:00:00|05:00:00|Pitchside Sounds: il match della stagione 2004/05 tra Bologna e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News - Replica|05:00:00|05:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti Vintage|05:15:00|05:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News - Replica|05:30:00|05:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti 2022/23|05:45:00|06:00:00|Le migliori immagini di allenamento dei nostri campioni.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News - Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Preseason - Replica|06:15:00|06:45:00|Il nostro speciale giornaliero per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter Futbol Club - Brasile|06:45:00|07:15:00|C&#039;e&#039; un doppio filo che lega Inter e Sudamerica. Conosciamo insieme chi ha fatto la storia del suo Paese e dei nostri colori in Inter Futbol Club. Questa puntata e&#039; dedicata al Brasile di Julio Cesar.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Pisa-Inter 2020|07:15:00|08:00:00|Rivediamo in sintesi il match amichevole dell&#039;estate 2020 tra Inter e Pisa.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Preseason Special - Twitch|08:00:00|09:00:00|La nostra speciale Live Twitch giornaliera per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Lugano-Inter Preseason 22/23|09:00:00|11:00:00|Il match amichevole della preseason 2022/23 tra Lugano e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Throwback Inter-Roma|11:00:00|11:30:00|Un viaggio nel passato di Inter-Roma: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Carpi-Inter 15/16|11:30:00|12:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Preseason - Replica|12:00:00|12:30:00|Il nostro speciale giornaliero per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Showreel Recoba|12:30:00|13:00:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della quinta puntata Recoba.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|13:00:00|13:15:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|13:15:00|13:30:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quinta puntata Francesca Durante e Tatiana Bonetti.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Monaco Preseason 22/23|13:30:00|15:30:00|Il match della preseason 2022/23 tra Inter e Monaco.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Trophy Bergomi|16:00:00|16:30:00|Non perdere I M Trophy, il nuovo format di Inter Tv. In ogni puntata, un protagonisti della storia nerazzurra racconta un trofeo conquistato con la maglia dell&#039;Inter, presente alle sue spalle nella Trophy Room dell&#039;Inter HQ.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radiocronaca Lens-Inter|16:30:00|18:30:00|LIVE. Il match amichevole tra Lens e Inter. Radiocronaca di Roberto Scarpini.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review H.Verona-Inter 21/22|18:30:00|19:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Preseason Special - Twitch|19:00:00|20:00:00|La nostra speciale Live Twitch giornaliera per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|H.Verona-Inter 21/22|20:00:00|22:00:00|Il match della stagione 2021/22 tra Hellas Verona e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News - Live|22:00:00|22:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Lens-Inter Preseason 22/23|22:15:00|00:15:00|Il match della preseason 2022/23 tra Lens e Inter.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Comebacks: Inter-Milan 19/20|00:15:00|00:30:00|Rivivi l&#039;emozionante rimonta dei nerazzurri nel match della stagione 2019/20 contro il Milan.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Lens-Inter Preseason 22/23|00:30:00|02:30:00|Il match della preseason 2022/23 tra Lens e Inter.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Trophy Bergomi|02:30:00|03:00:00|Non perdere I M Trophy, il nuovo format di Inter Tv. In ogni puntata, un protagonisti della storia nerazzurra racconta un trofeo conquistato con la maglia dell&#039;Inter, presente alle sue spalle nella Trophy Room dell&#039;Inter HQ.
@@ -68,6 +37,13 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Preseason - Replica|22:45:00|23:15:00|Il nostro speciale giornaliero per il ritiro estivo dell&#039;Inter: immagini e interviste esclusive dal Suning Training Centre di Appiano Gentile.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti 2022/23|23:15:00|23:30:00|Le migliori immagini di allenamento dei nostri campioni.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Cagliari Playoff U19|23:30:00|02:15:00|Il match dei playoff Primavera 2021/22 tra Inter e Cagliari Under 19.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Careers: Barella|02:15:00|02:30:00|Non perdere Careers, il nuovo format di InterTv. Conosciamo meglio i giocatori della Prima Squadra nerazzurra attraverso il racconto della loro carriera: protagonista della prima puntata Barella.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Kick Off Speciale Scarpini 30|02:30:00|03:00:00|La puntata speciale di Kick Off per celebrare i 30 anni di telecronache di Roberto Scarpini, la voce dell&#039;Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pitchside Sounds: Inter-Juventus 97/98|03:00:00|05:00:00|Pitchside Sounds: il match della stagione 1997/98 tra Inter e Juventus.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter TV|05:00:00|11:00:00|Inter TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter TV|11:00:00|17:00:00|Inter TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter TV|17:00:00|23:00:00|Inter TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter TV|23:00:00|05:00:00|Inter TV
 
 
 
