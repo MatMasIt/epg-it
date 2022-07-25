@@ -3,27 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Colonia-16/07/2022|01:20:00|03:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road-Dida|03:35:00|04:00:00|Milan Tv-On The Road-Dida
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1995/1996|04:00:00|06:35:00|Speciale Scudetto 1995/1996
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|06:35:00|07:40:00|Milan Tv-Speciale Scudetti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Carbone|07:40:00|08:00:00|Milan Tv-Interview Carbone
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|08:00:00|09:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Controluce Ep. 6|09:45:00|10:20:00|Milan Tv-Controluce Ep. 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-CERVIA CONVECTION|10:20:00|10:30:00|Milan Tv-CERVIA CONVECTION
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ac Milan at Expo 2020 Dubai|12:25:00|12:40:00|Ac Milan at Expo 2020 Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gol Collection-Bacca|12:40:00|13:00:00|Gol Collection-Bacca
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|13:00:00|14:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Colonia vs Milan|14:45:00|15:00:00|Behind The Scene Colonia vs Milan
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1998/1999|15:00:00|17:15:00|Speciale Scudetto 1998/1999
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|17:15:00|18:20:00|Milan Tv-Speciale Scudetti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 6|18:20:00|18:55:00|Milan Tv-Forza Milan Pt. 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|18:55:00|20:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Gol Collection 2021/2022|20:40:00|21:00:00|Milan Tv-Gol Collection 2021/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-HomeGrown Plizzari|21:00:00|21:35:00|Milan Tv-HomeGrown Plizzari
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Raduno Milan 2022/2023|21:35:00|23:20:00|Raduno Milan 2022/2023
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Pioli|23:20:00|23:50:00|Milan Tv-Conferenza Pioli
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-UNFILTERED SETTEMBRE|23:50:00|00:00:00|Milan Tv-UNFILTERED SETTEMBRE
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-UNFILTERED OTTOBRE|00:00:00|00:10:00|Milan Tv-UNFILTERED OTTOBRE
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-UNFILTERED NOVEMBRE|00:10:00|00:15:00|Milan Tv-UNFILTERED NOVEMBRE
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-UNFILTERED DICEMBRE|00:15:00|00:25:00|Milan Tv-UNFILTERED DICEMBRE
@@ -51,6 +30,30 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|21:25:00|23:10:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-She-Oliveri|23:10:00|23:40:00|Milan Tv-She-Oliveri
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nizza vs Milan-31/07/2021|23:40:00|01:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-PILLOLA TWITCH|01:30:00|01:45:00|Milan Tv-PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 6|01:45:00|02:15:00|Milan Tv-Forza Milan Pt. 6
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|02:15:00|03:40:00|Milan Tv-Speciale Scudetti
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Addicted Gegio|03:40:00|04:00:00|Milan Tv-Addicted Gegio
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|All Stars Canada vs Milan-1993|04:00:00|05:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Lemine Almenno-13/07/2022|05:45:00|07:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Origi, L&#039;arrivo|07:00:00|07:10:00|Milan Tv-Origi, L&#039;arrivo
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Origi|07:10:00|07:50:00|Conferenza Presentazione Origi
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Finali U15 2022|07:50:00|08:00:00|Behind The Scene Finali U15 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Highlists Finale Femminile U17|08:00:00|08:05:00|Highlists Finale Femminile U17
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Adli|08:05:00|08:50:00|Conferenza Presentazione Adli
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|U15-Fiorentina vs Milan-24/06/2022|08:50:00|10:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Carbone|10:25:00|10:45:00|Milan Tv-Interview Carbone
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|U17-Milan vs Juventus-30/06/2022|10:45:00|12:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 1|12:45:00|13:15:00|Milan Tv-Forza Milan Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 6|13:45:00|14:20:00|Milan Tv-Forza Milan Pt. 6
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1993/1994|14:20:00|16:25:00|Speciale Scudetto 1993/1994
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-HomeGrown Stanga|16:25:00|16:45:00|Milan Tv-HomeGrown Stanga
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road Calabria|16:45:00|17:10:00|Milan Tv-On The Road Calabria
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|17:10:00|19:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Austria vs Milan-14/09/2017|19:00:00|20:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-PILLOLA TWITCH|20:50:00|21:00:00|Milan Tv PILLOLA TWITCH
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Presentazione Libro Giroud|21:00:00|21:50:00|Presentazione Libro Giroud
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1998/1999|21:50:00|00:05:00|Speciale Scudetto 1998/1999
 
 
 
