@@ -4,16 +4,16 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|00:00:00|00:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|00:15:00|00:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|00:30:00|00:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|00:45:00|01:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|00:15:00|00:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|00:30:00|00:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|00:45:00|01:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|01:00:00|01:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|01:15:00|01:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|01:30:00|01:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|01:15:00|01:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|01:30:00|01:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|01:45:00|02:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|02:00:00|02:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|02:15:00|02:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|02:30:00|02:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|02:00:00|02:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|02:15:00|02:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|02:30:00|02:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|02:45:00|03:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|03:00:00|03:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|03:15:00|03:30:00|Notiziario
@@ -30,19 +30,19 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|05:30:00|05:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Salute Magazine|05:45:00|06:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|06:00:00|06:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|06:15:00|06:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|06:30:00|06:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|06:45:00|07:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|07:00:00|07:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|07:15:00|07:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|07:30:00|07:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|07:45:00|08:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|08:00:00|08:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|08:15:00|08:30:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|08:30:00|08:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|08:45:00|09:00:00|Rassegna Stampa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|09:00:00|09:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|09:15:00|09:25:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|06:15:00|06:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|06:30:00|06:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|06:45:00|07:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|07:00:00|07:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|07:15:00|07:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|07:30:00|07:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|07:45:00|08:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|08:00:00|08:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|08:15:00|08:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|08:30:00|08:45:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|08:45:00|09:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rassegna Stampa|09:00:00|09:15:00|Rassegna Stampa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 Flash|09:15:00|09:25:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|09:25:00|09:40:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|09:40:00|09:55:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|09:55:00|10:10:00|Notiziario
@@ -84,12 +84,16 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|18:45:00|19:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|19:00:00|19:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|19:15:00|19:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|il graffio|19:30:00|20:45:00|IL GRAFFIO, programma di approfondimento giornalistico condotto dal direttore Vincenzo Magista&#039;. Cronaca e attualita&#039; con ospiti in studio, servizi, analisi.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|19:30:00|19:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|19:45:00|20:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|20:00:00|20:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|20:15:00|20:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|20:30:00|20:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|20:45:00|21:00:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|21:00:00|21:15:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|21:15:00|21:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|21:30:00|21:45:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|21:45:00|22:00:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|21:00:00|21:15:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|21:15:00|21:30:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|21:30:00|21:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|21:45:00|22:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|22:00:00|22:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|22:15:00|22:30:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Colori|22:30:00|22:45:00|Notiziario
