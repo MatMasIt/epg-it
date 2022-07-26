@@ -1,0 +1,204 @@
+# France 24 Français
+> Programmazione di Lunedì 25 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|00:00:00|00:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|00:10:00|00:22:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Pas 2 quartier|00:22:00|00:30:00|Une emission participative qui raconte le quotidien des quartiers populaires en France en s&#039;appuyant sur des images tournees par leurs habitants.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|00:30:00|00:40:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Billet retour|00:40:00|01:00:00|Les reporters de France 24 reviennent dans des villes oubliees qui ont fait la Une de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|01:00:00|01:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ici l&#039;Europe|01:10:00|01:30:00|Documentario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|01:30:00|01:40:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|01:40:00|01:52:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Vous etes ici|01:52:00|02:00:00|Sites prestigieux, traditions millenaires, metiers d&#039;arts, gastronomie, terroir : Vous etes ici met en valeur les savoir-faire hexagonaux a travers des personnages qui agissent dans leurs regions.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|02:00:00|02:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|C&#039;est en France|02:15:00|02:30:00|Un decryptage de ce qui fait l&#039;actualite politique, societale ou culturelle de l&#039;hexagone.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|02:30:00|02:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Outre-mer|02:45:00|03:00:00|Les faits marquants de l&#039;actualite des departements et territoires francais d&#039;Outre-mer, des Caraibes a l&#039;ocean Indien en passant par le Pacifique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|03:00:00|03:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|03:15:00|03:30:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|03:30:00|03:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|03:45:00|04:00:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|04:00:00|04:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|04:15:00|04:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|04:30:00|04:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|04:45:00|04:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|04:50:00|05:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|05:00:00|05:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|05:15:00|05:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|05:30:00|05:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|05:45:00|06:00:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|06:00:00|06:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|06:30:00|07:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|07:00:00|07:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|07:15:00|07:30:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|07:30:00|07:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|07:45:00|07:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|07:50:00|08:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|08:00:00|08:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|08:10:00|08:22:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Pas 2 quartier|08:22:00|08:30:00|Une emission participative qui raconte le quotidien des quartiers populaires en France en s&#039;appuyant sur des images tournees par leurs habitants.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|08:30:00|08:40:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ici l&#039;Europe|08:40:00|09:00:00|Documentario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|09:00:00|09:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|09:15:00|09:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|09:30:00|09:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien|09:45:00|10:00:00|Une personnalite livre a France 24 son regard sur l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|10:00:00|10:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|10:15:00|10:30:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|10:30:00|10:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|10:45:00|10:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|10:50:00|11:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|11:00:00|11:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|11:30:00|12:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|12:00:00|12:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|12:15:00|12:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|12:30:00|12:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|12:45:00|13:00:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|13:00:00|13:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Afrique hebdo|13:10:00|13:22:00|Chaque semaine, Valeriane Gauthier propose un decryptage de ce qui fait l&#039;actualite en Afrique : societe, economie et culture, a travers des reportages et des entretiens.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|13:22:00|13:30:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|13:30:00|13:40:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le Paris des arts|13:40:00|14:00:00|Une balade culturelle dans Paris en compagnie d&#039;un invite. Valerie Fayolle jette des ponts d&#039;un art a un autre, d&#039;un artiste a l&#039;autre, de la France au reste du monde.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|14:00:00|14:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|14:15:00|14:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|14:30:00|14:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|14:45:00|15:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|15:00:00|15:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|15:15:00|15:30:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|15:30:00|15:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|C&#039;est en France|15:45:00|16:00:00|Un decryptage de ce qui fait l&#039;actualite politique, societale ou culturelle de l&#039;hexagone.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|16:00:00|16:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|16:15:00|16:21:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|16:21:00|16:30:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|16:30:00|16:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|16:45:00|17:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|17:00:00|17:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|17:15:00|17:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|17:30:00|17:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|17:45:00|18:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|18:00:00|18:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|18:30:00|19:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|19:00:00|19:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Afrique hebdo|19:15:00|19:30:00|Chaque semaine, Valeriane Gauthier propose un decryptage de ce qui fait l&#039;actualite en Afrique : societe, economie et culture, a travers des reportages et des entretiens.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|19:30:00|19:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|19:45:00|20:00:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|20:00:00|20:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|20:15:00|20:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|20:30:00|20:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|20:45:00|21:00:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|21:00:00|21:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|21:15:00|21:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|21:30:00|21:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|21:45:00|22:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|22:00:00|22:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|22:15:00|22:30:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|22:30:00|22:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/0953e8fa-68c0-49cf-b6e4-4a4d0092c0c1/cover?md5ChecksumParam=8c5ed77db79b0497411e9b505f605a49)|Le regole del gioco|22:45:00|22:51:00|Magazine tout en images qui presente les plus beaux defiles parisiens et les coulisses de la Haute couture.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Vous etes ici|22:51:00|23:00:00|Sites prestigieux, traditions millenaires, metiers d&#039;arts, gastronomie, terroir : Vous etes ici met en valeur les savoir-faire hexagonaux a travers des personnages qui agissent dans leurs regions.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|23:00:00|23:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|23:15:00|23:30:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|23:30:00|23:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|23:45:00|00:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|00:00:00|00:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|00:15:00|00:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|00:30:00|00:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|C&#039;est en France|00:45:00|01:00:00|Un decryptage de ce qui fait l&#039;actualite politique, societale ou culturelle de l&#039;hexagone.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|01:00:00|01:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|01:15:00|01:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|01:30:00|01:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|01:45:00|02:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|02:00:00|02:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|02:15:00|02:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|02:30:00|02:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|02:45:00|02:51:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|02:51:00|03:00:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|03:00:00|03:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ici l&#039;Europe|03:10:00|03:30:00|Documentario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|03:30:00|03:42:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|03:42:00|04:00:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|04:00:00|04:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|04:15:00|04:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|04:30:00|04:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|04:45:00|04:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|04:50:00|05:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|05:00:00|05:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|05:15:00|05:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|05:30:00|05:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|05:45:00|06:00:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|06:00:00|06:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|06:30:00|07:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|07:00:00|07:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|07:15:00|07:30:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|07:30:00|07:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|07:45:00|07:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|07:50:00|08:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|08:00:00|08:10:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le Paris des arts|08:10:00|08:30:00|Une balade culturelle dans Paris en compagnie d&#039;un invite. Valerie Fayolle jette des ponts d&#039;un art a un autre, d&#039;un artiste a l&#039;autre, de la France au reste du monde.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|08:30:00|08:40:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ici l&#039;Europe|08:40:00|09:00:00|Documentario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|09:00:00|09:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Actuelles|09:15:00|09:30:00|Le journal de celles qui font l&#039;actualite internationale et de ceux qui font bouger le monde, encore largement domine par les hommes.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|09:30:00|09:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|09:45:00|10:00:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|10:00:00|10:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|10:15:00|10:30:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|10:30:00|10:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|10:45:00|10:50:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sports|10:50:00|11:00:00|Les informations sportives du jour avec les chroniqueurs de France 24 et tous les resumes en images.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|11:00:00|11:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|11:30:00|12:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|12:00:00|12:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|12:15:00|12:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|12:30:00|12:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|12:45:00|13:00:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|13:00:00|13:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|C&#039;est en France|13:15:00|13:30:00|Un decryptage de ce qui fait l&#039;actualite politique, societale ou culturelle de l&#039;hexagone.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|13:30:00|13:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|13:45:00|14:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|14:00:00|14:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|14:15:00|14:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|14:30:00|14:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|14:45:00|15:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|15:00:00|15:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|15:15:00|15:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|15:30:00|15:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Afrique hebdo|15:45:00|16:00:00|Chaque semaine, Valeriane Gauthier propose un decryptage de ce qui fait l&#039;actualite en Afrique : societe, economie et culture, a travers des reportages et des entretiens.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|16:00:00|16:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|16:15:00|16:21:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|16:21:00|16:30:00|Tous les jours, France 24 propose un tour du monde avec des reportages realises par ses correspondants, sur les faits marquants de la semaine.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|16:30:00|16:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|16:45:00|17:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|17:00:00|17:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;entretien de l&#039;intelligence economique|17:15:00|17:30:00|Un entretien consacre aux acteurs de la competition economique.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|17:30:00|17:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|17:45:00|18:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|18:00:00|18:30:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|18:30:00|19:00:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|19:00:00|19:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|C&#039;est en France|19:15:00|19:30:00|Un decryptage de ce qui fait l&#039;actualite politique, societale ou culturelle de l&#039;hexagone.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|19:30:00|19:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|19:45:00|20:00:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|20:00:00|20:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|20:15:00|20:30:00|Un reportage grand format realise par une equipe de grands reporters de France 24 qui permet d&#039;aborder une problematique en profondeur et de revenir sur un fait marquant de l&#039;actualite.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|20:30:00|20:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|20:45:00|21:00:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|21:00:00|21:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Element terre|21:15:00|21:30:00|Les grands enjeux environnementaux decryptes grace aux nouvelles ecritures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|21:30:00|21:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Legendes urbaines|21:45:00|22:00:00|Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en revelant leur face cachee derriere les cliches et les postures.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|22:00:00|22:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le gros mot de l&#039;eco|22:15:00|22:30:00|Deflation, flexibilite, cryptomonnaies, disruption : qui sait vraiment ce que ces termes signifient ? Decryptage des grandes notions economiques qui rythment notre quotidien avec Myriam Mascarello.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|22:30:00|22:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/0953e8fa-68c0-49cf-b6e4-4a4d0092c0c1/cover?md5ChecksumParam=8c5ed77db79b0497411e9b505f605a49)|Le regole del gioco|22:45:00|22:51:00|Magazine tout en images qui presente les plus beaux defiles parisiens et les coulisses de la Haute couture.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Vous etes ici|22:51:00|23:00:00|Sites prestigieux, traditions millenaires, metiers d&#039;arts, gastronomie, terroir : Vous etes ici met en valeur les savoir-faire hexagonaux a travers des personnages qui agissent dans leurs regions.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|23:00:00|23:15:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal de l&#039;Afrique|23:15:00|23:30:00|Un journal dedie au continent africain pour rendre compte de l&#039;actualite du jour avec l&#039;appui des correspondants et des invites en plateau.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le journal|23:30:00|23:45:00|24h/24, 7j/7 un bulletin d&#039;informations est presente en direct depuis la redaction.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|a l&#039;affiche|23:45:00|00:00:00|Comment les cineastes, les romanciers, les artistes racontent-ils le monde ? France 24 part a la rencontre d&#039;une culture engagee dans son temps.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
