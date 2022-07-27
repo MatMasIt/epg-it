@@ -9,28 +9,6 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|06:00:00|08:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Mood Atelier, Originalita&#039; e passione|08:00:00|09:00:00|Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Nope, borse senza pelle|09:00:00|10:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|10:00:00|11:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Sottomarino, la moda italiana total look|11:00:00|12:00:00|Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|12:00:00|13:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|13:00:00|14:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Sottomarino, la moda italiana total look|14:00:00|15:00:00|Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|15:00:00|16:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|16:00:00|17:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|17:00:00|18:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|18:00:00|19:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buonasera bellezza!|19:00:00|21:00:00|Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|21:00:00|22:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con Nutribullet|22:00:00|23:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|23:00:00|00:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con Nutribullet|06:00:00|08:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Benessere naturale con Naturalisse|08:00:00|09:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|09:00:00|10:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
@@ -46,6 +24,28 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|19:00:00|21:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con Nutribullet|21:00:00|22:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|22:00:00|23:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|23:00:00|00:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|06:00:00|08:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Campo Marzio, accessori per essere unica|08:00:00|09:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elemis, Natura, tecnologia, bellezza|09:00:00|10:00:00|Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all&#039;avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|10:00:00|11:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elemis, Natura, tecnologia, bellezza|11:00:00|12:00:00|Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all&#039;avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|12:00:00|14:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|PromoPharma Natura, scienza e benessere|14:00:00|15:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|15:00:00|16:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con Rowenta|16:00:00|17:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|17:00:00|18:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elemis, Natura, tecnologia, bellezza|18:00:00|19:00:00|Scopri Elemis una marchio inglese di cosmesi che combina ingredienti naturali efficaci , tecnologia di formulazioni all&#039;avanguardia e studi clinici dimostrati.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Appuntamento in Cucina|19:00:00|20:00:00|Scopri QVC. Fatti accompagnare dai nostri personal shopper alla scoperta di tutti i segreti per creare piatti perfetti!
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|20:00:00|21:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con Rowenta|21:00:00|22:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Prai, la bellezza dall&#039; America|22:00:00|23:00:00|Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|23:00:00|00:00:00|Replica
 
 

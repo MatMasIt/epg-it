@@ -3,30 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv PILLOLA TWITCH|01:30:00|01:45:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 6|01:45:00|02:15:00|Milan Tv-Forza Milan Pt. 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|02:15:00|03:40:00|Milan Tv-Speciale Scudetti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Addicted Gegio|03:40:00|04:00:00|Milan Tv-Addicted Gegio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|All Stars Canada vs Milan-1993|04:00:00|05:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Lemine Almenno-13/07/2022|05:45:00|07:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Origi, L&#039;arrivo|07:00:00|07:10:00|Milan Tv-Origi, L&#039;arrivo
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Origi|07:10:00|07:50:00|Conferenza Presentazione Origi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Finali U15 2022|07:50:00|08:00:00|Behind The Scene Finali U15 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Highlists Finale Femminile U17|08:00:00|08:05:00|Highlists Finale Femminile U17
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Adli|08:05:00|08:50:00|Conferenza Presentazione Adli
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|U15-Fiorentina vs Milan-24/06/2022|08:50:00|10:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Carbone|10:25:00|10:45:00|Milan Tv-Interview Carbone
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|U17-Milan vs Juventus-30/06/2022|10:45:00|12:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 1|12:45:00|13:15:00|Milan Tv-Forza Milan Pt. 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 6|13:45:00|14:20:00|Milan Tv-Forza Milan Pt. 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1993/1994|14:20:00|16:25:00|Speciale Scudetto 1993/1994
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-HomeGrown Stanga|16:25:00|16:45:00|Milan Tv-HomeGrown Stanga
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road Calabria|16:45:00|17:10:00|Milan Tv-On The Road Calabria
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Zalaegerszegi vs Milan-23/07/2022|17:10:00|19:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Austria vs Milan-14/09/2017|19:00:00|20:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv PILLOLA TWITCH|20:50:00|21:00:00|Milan Tv PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Presentazione Libro Giroud|21:00:00|21:50:00|Presentazione Libro Giroud
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1998/1999|21:50:00|00:05:00|Speciale Scudetto 1998/1999
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|00:05:00|01:10:00|Milan Tv-Speciale Scudetti
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Real Madrid vs Milan-08/08/2021|01:10:00|02:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 2|02:50:00|03:45:00|Milan Tv-Forza Milan Pt. 2
@@ -54,6 +30,25 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-She-Serra|20:40:00|21:05:00|Milan Tv-She-Serra
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-RespAct|22:45:00|23:20:00|Milan Tv-RespAct
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1995/1996|23:20:00|01:55:00|Speciale Scudetto 1995/1996
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|01:55:00|03:00:00|Milan Tv-Speciale Scudetti
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 2|03:00:00|04:00:00|Milan Tv-Forza Milan Pt. 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Wolfsberger vs Milan-27/07/2022|07:55:00|09:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 1|09:40:00|10:10:00|Milan Tv-Forza Milan Pt. 1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 4|10:10:00|10:40:00|Milan Tv-Forza Milan Pt. 4
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Colonia vs Milan|10:40:00|10:55:00|Behind The Scene Colonia vs Milan
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Porto-1987|10:55:00|12:40:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Icons Sacchi|12:40:00|12:50:00|Milan Tv-Icons Sacchi
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Wolfsberger vs Milan-27/07/2022|12:50:00|14:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Carbone|14:35:00|15:00:00|Milan Tv-Interview Carbone
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Twitch Sempre Milan-Live|15:00:00|16:25:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Origi, L&#039;arrivo|16:25:00|16:35:00|Milan Tv-Origi, L&#039;arrivo
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Origi|16:35:00|17:25:00|Conferenza Presentazione Origi
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Presentazione Adli|17:25:00|17:50:00|Conferenza Presentazione Adli
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|17:50:00|19:00:00|Milan Tv-Speciale Scudetti
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Wolfsberger vs Milan-27/07/2022|19:00:00|20:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Benfica-1898/1990|20:45:00|21:15:00|Milan Tv-Gol Collection-Weah
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Scudetto 1995/1996|21:15:00|23:50:00|Speciale Scudetto 1995/1996
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Scudetti|23:50:00|01:00:00|Milan Tv-Speciale Scudetti
 
 
 
