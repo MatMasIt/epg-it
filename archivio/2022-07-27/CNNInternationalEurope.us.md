@@ -1,5 +1,5 @@
 # CNN International Europe
-> Programmazione di Martedì 26 Luglio 2022
+> Programmazione di Mercoledì 27 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
