@@ -23,7 +23,8 @@
 |![Icon](https://guidatv.sky.it/uuid/5f30ccea-b841-4fda-a948-1a14bd1f2c9a/cover?md5ChecksumParam=6ac1fee8d4bcc0a4a92181d20de1f966)|Kennedy|00:00:00|01:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
 |![Icon](https://guidatv.sky.it/uuid/e3fd5da7-93e1-40ab-a37c-912850ddd61c/cover?md5ChecksumParam=4d2f0a118408426da09369c419cd993e)|Fox Business Tonight|01:00:00|02:00:00|Rotating anchors highlight current market trends.
 |![Icon](https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79)|The Evening Edit|02:00:00|03:00:00|Liz McDonald interviews the Industries experts.
-|![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|03:00:00|04:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/154731ca-668c-4309-9c0c-4145ec693e01/cover?md5ChecksumParam=06b7f23eacfce92d2a006c42a0ab19b8)|American Dream Home|03:00:00|03:30:00|Some families hunt for their perfect house. They share their emotional journeys with Cheryl Casone.
+|![Icon](https://guidatv.sky.it/uuid/3b301602-c6c1-452e-b05d-42fd1edf3d19/cover?md5ChecksumParam=8f93e945f913ffe0e4e5bde067c0d99e)|Mansion Global|03:30:00|04:00:00|With Kacie McDonnell, we explore the most luxurious properties in the United States.
 |![Icon](https://guidatv.sky.it/uuid/5f30ccea-b841-4fda-a948-1a14bd1f2c9a/cover?md5ChecksumParam=6ac1fee8d4bcc0a4a92181d20de1f966)|Kennedy|04:00:00|05:00:00|Top stories of the day through the eyes of former MTV star Kennedy.
 |![Icon](https://guidatv.sky.it/uuid/a53f92cf-29b9-4a6a-83cc-08aa803ebe69/cover?md5ChecksumParam=c61463b410cd7de921c1ac3631e949c5)|Paid Programming|05:00:00|08:00:00|Paid Programming.
 |![Icon](https://guidatv.sky.it/uuid/c80c788c-c24c-465b-a79d-077622d1cc0c/cover?md5ChecksumParam=8206e927fca31b162f115acc2413b53d)|Strange Inheritance|08:00:00|09:00:00|Families decide what to do with bizarre inheritances.
@@ -35,8 +36,8 @@
 |![Icon](https://guidatv.sky.it/uuid/2c8642d3-2949-4af8-94cc-39071e639f67/cover?md5ChecksumParam=b905e76aa2b0e74adb2060f0492be9e3)|The Claman Countdown|19:00:00|20:00:00|Liz Claman captures the chaos of the last hour on Wall Street.
 |![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|20:00:00|21:00:00|Former National Economic Council Director gives market analysis and interviews.
 |![Icon](https://guidatv.sky.it/uuid/e3fd5da7-93e1-40ab-a37c-912850ddd61c/cover?md5ChecksumParam=4d2f0a118408426da09369c419cd993e)|Fox Business Tonight|21:00:00|22:00:00|Rotating anchors highlight current market trends.
-|![Icon](https://guidatv.sky.it/uuid/cfc26129-0a07-44bd-ba6f-e8b9f2e0e4af/cover?md5ChecksumParam=7b5de4d48bb00c75f1f899235e33ed79)|The Evening Edit|22:00:00|23:00:00|Liz McDonald interviews the Industries experts.
-|![Icon](https://guidatv.sky.it/uuid/b1c18a3e-8959-42f1-b27f-656b52fbb9a2/cover?md5ChecksumParam=4eb3d2ed8b6e40b6322b123a2b5e64c2)|Kudlow|23:00:00|00:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/4819e1af-10cd-4492-84ae-a66510db6739/cover?md5ChecksumParam=e18a50470a591f4f1522b5cb789a4a1b)|American Gold|22:00:00|23:00:00|We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch.
+|![Icon](https://guidatv.sky.it/uuid/4819e1af-10cd-4492-84ae-a66510db6739/cover?md5ChecksumParam=e18a50470a591f4f1522b5cb789a4a1b)|American Gold|23:00:00|00:00:00|We follow the Dale brothers as they mine for gold in Montana, in the mountain valley of Bear Gulch.
 
 
 
