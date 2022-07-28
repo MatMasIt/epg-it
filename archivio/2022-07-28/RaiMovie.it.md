@@ -1,0 +1,23 @@
+# Rai Movie
+> Programmazione di Mercoledì 27 Luglio 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il ribelle|01:05:00|03:00:00|Regia di C. Odets, con C.Grant, E.Barrymore; USA 1944. Un giovane inglese onesto fatica a sbrcare il lunario e diventa ladro per necssita&#039;, ma il legame con la madre lo travolgera&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Respiro|03:00:00|04:30:00|Regia di E. Crialese, con V.Golino, V.Amato; FRA/ITA 2002. Con il suo arrivo a Lampedusa, una giovane madre stravagante sconvolge la vita degli abitanti dell&#039;isola che la considerano pazza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sono fotogenico|04:30:00|06:30:00|Regia di D. Risi, con R.Pozzetto, E.Fenech; FRA/ITA 1980. Antonio, un ingenuo trentenne di Laveno, raccoglie i risparmi di famiglia e si trasferisce a Roma, per sfondare nel cinema.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Poveri ma belli|06:30:00|08:20:00|Regia di D. Risi, con M.Allasio, M.Arena; ITA 1956. Gli amici Romolo e Salvatore, bulli trasteverini sfaticati ma onesti, flirtano con la bella sartina Giovanna. Un classico del Neorealismo rosa.
+|![Icon](https://guidatv.sky.it/uuid/38ba728f-4680-4d9c-a036-cce6d51b7396/cover?md5ChecksumParam=a670f7a9ef68cb80c445aa5a7eedae7d)|Money Monster - L&#039;altra faccia del denaro|08:20:00|10:00:00|...denaro - Regia di J. Foster, con G.Clooney, J.Roberts; USA 2016. Il conduttore di uno show televisivo che si occupa di finanza viene minacciato da un investitore che ha perso tutto, imbottito di esplosivo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nel segno di Roma|10:00:00|11:50:00|Regia di G. Brignone, con A.Ekberg, G.Marchal; FRA/ITA 1959. La regina Zenobia si ribella all&#039;impero romano e si innamora di Marco Valerio, che trama pero&#039; per far trionfare i Romani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La carovana dei mormoni|11:50:00|13:30:00|Regia di J. Ford, con B.Johnson, W.Bond; USA 1950. Sullo sfondo della Monument Valley due giovani si aggregano ad una carovana. Il viaggio sara&#039; disseminato di minacce.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Missing|13:30:00|15:55:00|Regia di R. Howard, con C.Blanchett, T. L.Jones; USA 2003. Una donna con due figli ritrova un giorno il padre scomparso e mai perdonato. L&#039;uomo sara&#039; l&#039;unico in grado di aiutarla quando verra&#039; rapita.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La citta&#039; della paura|15:55:00|17:25:00|Regia di S. Lanfield, con D.Powell, J.Greer; USA 1948. In una cittadina di cercatori d&#039;oro, due agenti di guardia vengono uccisi. Un poliziotto si finge anche lui cercatore per indagare...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Come perdere una moglie e trovare...|17:25:00|19:10:00|...un&#039;amante - Regia di P. Festa Campanile, con J.Dorelli, B.Bouchet; ITA 1978. Avventure erotiche per un industriale romano tradito dalla moglie. Dietro consiglio del terapeuta, si rechera&#039; in una baita.
+|![Icon](https://guidatv.sky.it/uuid/e4312b3d-dee7-46d9-8378-cc5bda5d5a55/cover?md5ChecksumParam=d2dddf098e68dc523fef913eb7f13c82)|Trappola in alto mare|19:10:00|20:55:00|Regia di A. Davis, con S.Segal, T. L.Jones; USA 1992. Un cuoco, eroico reduce della guerra in Vietnam, protegge una corazzata americana, munita di missili a testata nucleare, da un gruppo eversivo vuole impadronirsene.
+|![Icon](https://guidatv.sky.it/uuid/52e9bfb8-c593-4477-a739-3728809db3d1/cover?md5ChecksumParam=39c8568a8c3bfedcdf1857c4fc9bda1e)|Entrapment|20:55:00|22:50:00|Regia di J. Amiel, con S.Connery, C.Zeta-Jones; DEU/USA 1999. Un&#039;investigatrice mette a punto un piano per incastrare un ladro infallibile. Non ha fatto i conti col suo fascino...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|22:50:00|22:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/52eeba07-74fc-481f-b861-fb05419863b7/cover?md5ChecksumParam=2a0a30a8fa885cbb6cb09637c6a791c8)|American Ultra|22:55:00|00:35:00|Regia di N. Nourizadeh, con J.Eisenberg, K.Stewart; USA 2015. Da sempre imbranato, Mike si accorge inspiegabilmente di essere un agente addestrato, impavido e capace di uccidere.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

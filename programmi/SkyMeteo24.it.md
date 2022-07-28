@@ -1,5 +1,5 @@
 # Sky Meteo 24
-> Programmazione di Mercoledì 27 Luglio 2022
+> Programmazione di Giovedì 28 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
