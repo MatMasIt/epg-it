@@ -18,7 +18,7 @@
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Un&#039;ora con|15:00:00|16:00:00|Un&#039;ora con
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Rebel yell|16:00:00|19:00:00|Interagisci con noi al +39 366 663 44 66
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|L&#039;ultima luna|19:00:00|22:00:00|Interagisci con noi al +39 366 663 44 66
-|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Una freccia nel buio|22:00:00|04:00:00|Interagisci con noi al +39 366 663 44 66
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Rebel yell|22:00:00|01:00:00|Interagisci con noi al +39 366 663 44 66
 
 
 

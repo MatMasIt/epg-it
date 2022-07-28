@@ -199,7 +199,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zoom Cronaca|22:45:00|23:00:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|23:00:00|23:15:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|23:15:00|23:30:00|Notiziario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SALUTE MAGAZINE|23:30:00|23:45:00|Notiziario
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Salute Magazine|23:30:00|23:45:00|Notiziario
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Norba 24 TG|23:45:00|00:00:00|Notiziario
 
 
