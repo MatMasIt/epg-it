@@ -91,10 +91,6 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|20:30:00|21:00:00|An hour of news and analysis from Sky News correspondents from the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/04cd4029-a427-4867-be87-86242e46c2e1/cover?md5ChecksumParam=b6b20f50f7d5ea4b2d51f64e113f1314)|Sky News at 10|21:00:00|21:30:00|Gillian Joseph - Gillian Joseph presents a round-up of all the main news stories of the day with reports and analysis from our team of correspondent around the world.
 |![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|21:30:00|22:00:00|Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning&#039;s newspapers.
-|![Icon](https://guidatv.sky.it/uuid/42afd502-21ee-41c7-90c3-d3d688074be8/cover?md5ChecksumParam=d99f29e2f622e063be0cf0e3a1d0d551)|News &amp; Press Preview|22:00:00|22:30:00|The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.
-|![Icon](https://guidatv.sky.it/uuid/7c9f0ece-6ee7-4cb7-a37a-c9d9e00e9413/cover?md5ChecksumParam=8e2d71fe7882d8e354b3714ecddcb211)|Press Preview|22:30:00|23:00:00|Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning&#039;s newspapers.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News, Sport, Weather|23:00:00|23:30:00|News reports on the big stories from the UK and around the world.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News, Sport, Weather|23:30:00|00:00:00|News reports on the big stories from the UK and around the world.
 
 
 
