@@ -1,5 +1,5 @@
 # Sky Cinema Uno
-> Programmazione di Sabato 30 Luglio 2022
+> Programmazione di Domenica 31 Luglio 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
