@@ -1,5 +1,5 @@
 # Sky Sport 9
-> Programmazione di Domenica 31 Luglio 2022
+> Programmazione di Lunedì 01 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
