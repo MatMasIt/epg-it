@@ -3,6 +3,26 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|00:00:00|00:15:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|00:15:00|00:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|00:30:00|00:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|00:45:00|01:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|01:00:00|01:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|01:15:00|01:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|01:30:00|01:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|01:45:00|02:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|02:00:00|02:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|02:15:00|02:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|02:30:00|02:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|02:45:00|03:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|03:00:00|03:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|03:15:00|03:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|03:30:00|03:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|03:45:00|04:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|04:00:00|04:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|04:15:00|04:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|04:30:00|04:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|04:45:00|05:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|05:00:00|05:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Edicola|05:15:00|05:30:00|Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|05:30:00|05:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
@@ -91,7 +111,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|17:30:00|18:00:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|18:00:00|19:00:00|Fatti ed eventi di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|19:00:00|19:15:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|19:15:00|19:30:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Libri|19:15:00|19:30:00|Libri - ultime uscite ed eventi letterari - Rubrica a cura di Giovanni Scandiffio
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|19:30:00|19:45:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Approfondimento|19:45:00|20:00:00|Approfondimento - focus su fatti ed eventi di Puglia e Basilicata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG|20:00:00|20:30:00|Telegiornale - L&#039;informazione di Puglia e Basilicata
