@@ -1,5 +1,5 @@
 # Radio Monte Carlo TV
-> Programmazione di Lunedì 01 Agosto 2022
+> Programmazione di Martedì 02 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
