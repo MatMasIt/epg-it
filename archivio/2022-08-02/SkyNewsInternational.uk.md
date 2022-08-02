@@ -3,6 +3,14 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|00:00:00|00:30:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|00:30:00|01:00:00|A round up of all the latest news from the UK and around the world, including the Press Preview.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:00:00|01:30:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/bf8256ff-109f-44af-8592-483b8248a15c/cover?md5ChecksumParam=bce1871fc55d9fa714e0c4300ced6f77)|Sky News on the Hour|01:30:00|02:00:00|News reports on the big stories from the UK and around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|02:00:00|02:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|02:30:00|03:00:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|03:00:00|03:30:00|All the latest developments from Sky News correspondents around the UK and across the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sky News|03:30:00|05:00:00|All the latest developments from Sky News correspondents around the UK and across the world.
 |![Icon](https://guidatv.sky.it/uuid/2ad9056c-6869-44ef-a37f-fdb4be1cbfa4/cover?md5ChecksumParam=bac20b5d0178a8eef24818caa132e15d)|The Early Rundown|05:00:00|05:30:00|A comprehensive round-up of all the big stories of the morning with reports from Sky News correspondents in the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/2ad9056c-6869-44ef-a37f-fdb4be1cbfa4/cover?md5ChecksumParam=bac20b5d0178a8eef24818caa132e15d)|The Early Rundown|05:30:00|06:00:00|A comprehensive round-up of all the big stories of the morning with reports from Sky News correspondents in the UK and around the world.
 |![Icon](https://guidatv.sky.it/uuid/b0d1fb4a-75d2-4999-8a24-f6f0ff8f4676/cover?md5ChecksumParam=3966b8f3a1b6ebcd02d9f4340d7d8629)|Kay Burley|06:00:00|06:30:00|Join Kay Burley for big interviews and agenda-setting coverage of everything you need to know to start your day.
