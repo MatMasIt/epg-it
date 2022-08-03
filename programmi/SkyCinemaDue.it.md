@@ -1,5 +1,5 @@
 # Sky Cinema Due
-> Programmazione di Martedì 02 Agosto 2022
+> Programmazione di Mercoledì 03 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
