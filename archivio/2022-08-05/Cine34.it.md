@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Giovedì 04 Agosto 2022
+> Programmazione di Venerdì 05 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
