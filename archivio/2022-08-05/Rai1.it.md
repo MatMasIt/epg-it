@@ -1,0 +1,63 @@
+# Rai 1
+> Programmazione di Giovedì 04 Agosto 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|00:00:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|04:00:00|04:20:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Previsioni sulla viabilita&#039; CCISS...|04:20:00|04:30:00|...Viaggiare informati - Dati sul traffico per muoversi meglio nella rete viaria italiana.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rassegna stampa|04:35:00|05:00:00|Le ultime notizie dall&#039;Italia e dall&#039;estero, pubblicate dai maggiori quotidiani italiani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|05:05:00|05:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|06:00:00|06:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|06:05:00|06:30:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 L.I.S.|07:00:00|07:05:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|07:05:00|07:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rai Parlamento Telegiornale|07:35:00|08:20:00|Un resoconto puntuale sull&#039;attualita&#039; di Camera e Senato, sui principali temi dell&#039;agenda politica e le iniziative del Governo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Linea verde Estate da Sud a Nord|08:20:00|09:30:00|Angela Rafanelli, Marco Bianchi e Peppone raccontano la bellezza italiana attraverso i suoi territori, le sue eccellenze enogastronomiche e tante altre storie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Don Matteo|12:00:00|13:00:00|S9 Ep12A Una favola vera - I carabinieri e Don Matteo indagano sull&#039;omicidio di una ricca donna, la cui nipotina e&#039; guarita da una rara malattia. Intanto, a Spoleto arriva il nonno di Tommasi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Don Matteo|13:00:00|14:00:00|S9 Ep12B Il ritorno di Alma - Giunta a Spoleto per un torneo di atletica, la sorella di Tomas e&#039; vittima di un&#039;aggressione. Intanto, Tommasi deve trovare il modo per aiutare sia Cecchini che Lia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sei sorelle|14:00:00|15:00:00|S1 Ep43 Una felicita&#039; inopportuna - Nella speranza di riportare la pace tra il suo fidanzato e Cristobal, Blanca chiede l&#039;aiuto di Victoria. Intanto, in fabbrica, gli operai sono in difficolta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|15:00:00|15:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 Economia|15:10:00|15:15:00|Aggiornamenti e approfondimenti sull&#039;andamento dei mercati finanziari e dal mondo dell&#039;economia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|15:15:00|15:20:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|18:00:00|18:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Techetechete&#039;|18:30:00|19:25:00|Ep48 - La storia dello spettacolo e della cultura italiana riproposta attraverso spezzoni e omaggi monografici ai grandi personaggi della TV, del cinema, della canzone e dell&#039;intrattenimento.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Don Matteo|19:25:00|21:30:00|S12 Ep9 Non desiderare la donna d&#039;altri - Don Matteo indaga su un tentato femminicidio. Intanto, Nino viene colpito da un raro e curioso disturbo: non sente piu&#039; le voci maschili.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 Sera|21:30:00|21:35:00|Le notizie del giorno e gli approfondimenti a livello nazionale ed internazionale su attualita&#039;, cronaca, politica, cultura, societa&#039; e sport.
+|![Icon](https://guidatv.sky.it/uuid/4cc60262-3b95-4891-80fe-c5f8baeb2362/cover?md5ChecksumParam=ec2c872cdeb6997bd64960ae54a700c4)|Tutto quello che vuoi|21:35:00|23:30:00|Regia di F. Bruni, con A.Carpenzano, G.Montaldo; ITA 2017. La profonda amicizia tra un giovane turbolento di 22 anni e un anziano poeta, affetto dal morbo di Alzheimer.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|23:30:00|00:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|00:00:00|00:05:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tito e gli alieni|00:05:00|01:40:00|Regia di P. Randi, con L.Esposito, V.Mastandrea; ITA 2017. Dopo la morte del padre, due fratelli si trasferiscono a casa dello zio, uno scienziato ritiratosi nel deserto del Nevada.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|01:40:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|04:00:00|04:20:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Previsioni sulla viabilita&#039; CCISS...|04:20:00|04:30:00|...Viaggiare informati - Dati sul traffico per muoversi meglio nella rete viaria italiana.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rassegna stampa|04:35:00|05:00:00|Le ultime notizie dall&#039;Italia e dall&#039;estero, pubblicate dai maggiori quotidiani italiani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|05:00:00|05:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|05:05:00|05:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|06:00:00|06:05:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|06:05:00|06:30:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 L.I.S.|07:00:00|07:05:00|News e aggiornamenti dalla cronaca nazionale e internazionale nella lingua dei segni.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|07:05:00|07:10:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rai Parlamento Telegiornale|07:35:00|08:20:00|Un resoconto puntuale sull&#039;attualita&#039; di Camera e Senato, sui principali temi dell&#039;agenda politica e le iniziative del Governo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Linea verde Estate da Sud a Nord|08:20:00|09:30:00|Angela Rafanelli, Marco Bianchi e Peppone raccontano la bellezza italiana attraverso i suoi territori, le sue eccellenze enogastronomiche e tante altre storie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|11:30:00|12:00:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Don Matteo|12:00:00|13:00:00|S9 Ep13A Vecchi ricordi - I Carabinieri indagano sulla morte del proprietario di un &#039;Compro Oro&#039;. Natalina continua a frequentare Aldo, ma le sue condizioni di salute non sono delle migliori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Don Matteo|13:00:00|14:00:00|S9 Ep13B Addio Natalina! - Le condizioni di salute di Natalina peggiorano a tal punto da rendere necessario un ricovero in ospedale. Il capitano Tommasi riceve una nuova proposta di lavoro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sei sorelle|14:00:00|15:00:00|S1 Ep44 Un regalo avvelenato - Elisa e&#039; sempre piu&#039; ossessionata dal suo debutto in societa&#039; e decide di chiedere aiuto allo zio Ricardo. Blanca riceve una notizia sconvolgente.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|15:00:00|15:10:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 Economia|15:10:00|15:15:00|Aggiornamenti e approfondimenti sull&#039;andamento dei mercati finanziari e dal mondo dell&#039;economia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|15:15:00|15:20:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1|18:00:00|18:30:00|Le notizie del giorno e gli approfondimenti su temi di stretta attualita&#039; nel telegiornale di RaiUno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Techetechete&#039;|18:30:00|19:25:00|Ep49 - La storia dello spettacolo e della cultura italiana riproposta attraverso spezzoni e omaggi monografici ai grandi personaggi della TV, del cinema, della canzone e dell&#039;intrattenimento.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una serata tra amici|19:25:00|21:55:00|Christian De Sica presenta un one man show esilarante. Una passeggiata tra musica, ricordi e parole in compagnia di tanti ospiti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg1 Sera|21:55:00|22:00:00|Le notizie del giorno e gli approfondimenti a livello nazionale ed internazionale su attualita&#039;, cronaca, politica, cultura, societa&#039; e sport.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Codice - La vita e&#039; digitale|22:00:00|23:20:00|La societa&#039; della mente - Con Barbara Carfagna scopriamo in che modo i sistemi di intelligenza artificiale stanno cambiando l&#039;essere umano e la societa&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|23:20:00|23:50:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Che tempo fa|23:50:00|23:55:00|L&#039;appuntamento con le previsioni del tempo, a cura del servizio meteorologico dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cinematografo Estate|23:55:00|00:55:00|Rubrica di aggiornamento sul cinema e la fiction televisiva. Conduce Gigi Marzullo.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
