@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Venerdì 05 Agosto 2022
+> Programmazione di Sabato 06 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
