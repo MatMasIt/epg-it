@@ -3,59 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale decreto aiuti bis|05:13:00|05:23:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale delisting|05:23:00|05:32:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Tod&#039;s|05:32:00|05:46:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|05:46:00|06:01:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|06:01:00|06:18:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|06:18:00|06:45:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|06:45:00|06:54:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale sport e salute Olimpico|06:54:00|07:00:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CEO talks|07:00:00|07:11:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing Media&amp;Money|07:11:00|07:35:00|Gli approfondimenti di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Tod&#039;s|07:35:00|07:46:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale mercati|07:46:00|07:58:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|07:58:00|08:25:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sustainable Future|08:25:00|08:43:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Turismo|08:43:00|08:52:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Banche e Territorio|08:52:00|08:56:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale The Floor|08:56:00|09:12:00|Le interviste di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il vostro voto, i vostri soldi|09:12:00|09:37:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale decreto aiuti bis|09:37:00|09:47:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|09:47:00|10:35:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fabi risponde|10:35:00|10:40:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|10:40:00|10:56:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|10:56:00|11:14:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|11:14:00|11:39:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|11:39:00|11:49:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|11:49:00|12:19:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale assicurazioni|12:19:00|12:26:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il vostro voto, i vostri soldi|12:26:00|12:43:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sustainable Future|12:58:00|13:16:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|13:16:00|13:32:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing Media&amp;Money|13:32:00|13:57:00|Gli approfondimenti di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale sport e salute Olimpico|13:57:00|14:00:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CEO talks|14:00:00|14:12:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale delisting|14:12:00|14:21:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Tod&#039;s|14:21:00|14:34:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|14:34:00|15:21:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|15:21:00|15:32:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Tod&#039;s|15:32:00|15:44:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale mercati|15:44:00|15:56:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il vostro voto, i vostri soldi|15:56:00|16:21:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Detect|16:21:00|16:53:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete per vivere e lavorare sicuri in digitale.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|16:53:00|17:11:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|17:11:00|17:37:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|17:37:00|17:46:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale The Floor|17:46:00|18:01:00|Le interviste di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Milano Marketing Festival|18:01:00|21:41:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|21:41:00|22:12:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sustainable Future|22:12:00|22:27:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il vostro voto, i vostri soldi|22:27:00|22:44:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|22:44:00|23:00:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|23:00:00|23:25:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|23:25:00|23:34:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La settimana di ClassCnbc|23:34:00|05:00:00|Gli approfondimenti di ClassCnbc - Gli speciali della settimana di ClassCnbc.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|05:17:00|06:05:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|06:05:00|06:35:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il vostro voto, i vostri soldi|06:35:00|06:55:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
@@ -104,6 +51,25 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|23:09:00|23:18:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|23:18:00|23:48:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La settimana di ClassCnbc|23:48:00|05:00:00|Gli approfondimenti di ClassCnbc - Gli speciali della settimana di ClassCnbc.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Caffe&#039; Affari|05:00:00|08:00:00|Versione italiana del celebre format Squawk Box di Cnbc. - Notiziario e talk show, porta la finanza e l&#039;economia nelle case degli italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|08:00:00|09:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Analisi Tecnica|09:00:00|10:00:00|Gli approfondimenti di ClassCnbc - Spazio dedicato alle domande in diretta dei telespettatori sui titoli italiani e non solo.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Linea Mercati|10:00:00|10:05:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|10:05:00|13:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Linea Mercati|13:00:00|13:20:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Linea Mercati Wall Street|13:20:00|13:40:00|L&#039;apertura di Wall Street - Live l&#039;apertura e l&#039;andamento della borsa americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|13:40:00|15:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Linea Mercati|15:00:00|15:45:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|15:45:00|16:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Report|16:00:00|16:50:00|Il Tg della finanza - Tutti i fatti del giorno commentati con ospiti in studio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|16:50:00|17:00:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|17:00:00|17:45:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|17:45:00|18:10:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Report|18:10:00|19:00:00|Il Tg della finanza - Tutti i fatti del giorno commentati con ospiti in studio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|19:00:00|19:59:00|Gli approfondimenti di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Linea mercati Notte|19:59:00|20:15:00|le principali notizie econ-finanziarie della giornata - Aggiornamento in diretta sull&#039;andamento del mercato e delle borse
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Report|20:15:00|21:10:00|Il Tg della finanza - tutti i fatti del giorno commentati con ospiti in studio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La giornata di ClassCnbc|21:10:00|05:00:00|Il meglio della giornata di ClassCnbc - Interviste, approfondimenti ed esclusive curate dalla redazione di ClassCnbc
 
 
 
