@@ -3,36 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|00:40:00|05:15:00|SMRTV Notte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|05:15:00|05:30:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Commissario Manara|05:30:00|06:30:00|Con Guido Caprino, Roberta Giarrusso, Augusto Fornari, Lucia Ocone
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|06:30:00|07:00:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il trono dei poveri|07:00:00|07:20:00|Letteratura. Antonio Fazzini, Fabrizio Raggi, Barbara Sirotti, ripropongono le pagine dell&#039;unico romanzo italiano ambientato nella Repubblica di San Marino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|King Kong, uniti si vince|07:20:00|07:45:00|King Kong, uniti si vince
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Premio Aila 2022|07:45:00|08:50:00|Speciale XXI^ Edizione, dal Teatro Antico di Taormina. A cura di Anna Sirotti
-|![Icon](https://guidatv.sky.it/uuid/0cb4502f-cfc3-4637-bb5c-041929fb8b54/cover?md5ChecksumParam=9a2103da6e6218047446cde523924f91)|Amore senza tempo|08:50:00|09:30:00|Una coppia separata per colpa del tempo e della distanza si rincontra: Paula ha una relazione infelice mentre Alejandro ha appena divorziato. Una lotta contro il destino per incontrare il vero amore.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|09:30:00|10:00:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|10:00:00|10:15:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|A tutto Gas Historic|11:10:00|11:50:00|Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita&#039;
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SPORT|11:50:00|12:00:00|Notizie sportive
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|12:00:00|12:13:00|Notizie sammarinesi e dal mondo
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Amarcord|12:13:00|12:34:00|Intervista agli anziani che hanno vissuto gli anni della guerra
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Geo|12:34:00|13:05:00|A cura di Gigi Grillo, Claudio Pasanisi in studio Gianclaudio Lopez
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Dancing Paradise|13:05:00|14:05:00|Sceneggiato 2^Parte.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|14:05:00|14:35:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Khorakhane&#039;|14:35:00|15:20:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un&#039; altra vita|15:20:00|17:00:00|Ep 2. Con Vanessa Incontrada, Daniele Liotti, Cesare Bocci, Loretta Goggi, Claudia Alfonso, Francesca Cavallin
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Human Umanie|17:00:00|17:15:00|Un programma a cura di Giovanna Gobbi
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SPORT|17:15:00|17:30:00|Notizie sportive
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|17:30:00|17:55:00|Notizie sammarinesi e dal mondo
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meteo Rtv|17:55:00|18:00:00|Meteo
-|![Icon](https://guidatv.sky.it/uuid/0cb4502f-cfc3-4637-bb5c-041929fb8b54/cover?md5ChecksumParam=9a2103da6e6218047446cde523924f91)|Amore senza tempo|18:00:00|18:50:00|Una coppia separata per colpa del tempo e della distanza si rincontra: Paula ha una relazione infelice mentre Alejandro ha appena divorziato. Una lotta contro il destino per incontrare il vero amore.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Dove la trovi una come me?|18:50:00|20:45:00|1^Parte. Regia di Giorgio Capitani con Gabriella Pession, Daniele Pecci, Caterina Guzzanti, Serena Rossi, Jose&#039; Maria Bianco
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|20:45:00|21:00:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|San Marino Academy - Brescia CF|21:00:00|22:45:00|Rewind Campionato femminile di serie B 2021-2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|22:45:00|23:00:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|23:00:00|23:30:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Eurocops|23:30:00|00:30:00|Poliziesco
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|00:30:00|05:15:00|SMRTV Notte
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|05:15:00|05:30:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;arte del cinema|05:30:00|05:45:00|Charlie Chaplin
@@ -61,6 +31,35 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mentre ero via|21:15:00|23:00:00|5^Parte. Regia di Michele Soavi con Vittoria Puccini, Giuseppe Zeno, Flavio Parenti, Francesca Cavallin, Stefania Rocca, Anna Melato
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|23:00:00|23:30:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|A tutto Gas|23:30:00|00:20:00|Settimanale automobilistico dedicato ai Campionati Italiani. Rally, gare in salita, pista e fuoristrada
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|00:20:00|05:15:00|SMRTV Notte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|05:15:00|05:30:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Pazza famiglia 2|05:30:00|06:20:00|Con Enrico Montesano, Alessandra Casella, Barbara Snellemburg, Paolo Panelli
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|06:20:00|06:30:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|06:30:00|07:03:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|#Burdel|07:03:00|07:20:00|Ragazzi dagli 11 ai 16 anni, ci raccontano dei loro sogni nel cassetto, quello che amano fare nel tempo libero, che cosa rappresentano per loro gli amici, il rapporto con il mondo degli adulti.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il giornalino di Gian Burrasca|07:20:00|08:30:00|Con Rita Pavone, Valeria Valeri, Ivo Garrani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|A tutto Gas Historic|08:30:00|09:28:00|Magazine automobilistico dedicato ai Campionati Italiani Rally Storico, regolarita&#039;
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Khorakhane&#039;|09:28:00|10:07:00|Rubrica settimanale dedicata al sociale di San Marino RTV. A cura di Sara Bucci
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|10:07:00|10:37:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|10:37:00|10:55:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un posto al sole|10:55:00|11:50:00|Un posto al sole Sesta serie
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SPORT|11:50:00|12:00:00|Notizie sportive
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|12:00:00|12:13:00|Notizie sammarinesi e dal mondo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Commissario Manara|12:13:00|13:10:00|Con Guido Caprino, Roberta Giarrusso, Augusto Fornari, Lucia Ocone
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|13:10:00|13:40:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|San Marino Academy - Chievo Verona|13:40:00|15:30:00|Rewind Campionato femminile di serie B 2021-2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|King Kong, uniti si vince|15:30:00|15:54:00|King Kong, uniti si vince
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|15:54:00|16:15:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un posto al sole|16:15:00|17:15:00|Un posto al sole Sesta serie
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SPORT|17:15:00|17:30:00|Notizie sportive
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|17:30:00|17:55:00|Notizie sammarinesi e dal mondo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meteo Rtv|17:55:00|18:00:00|Meteo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli amanti del fiume rosso|18:00:00|19:00:00|Puntata 2. Con Claudia Koll, Christophe Malavoy, Lucrezia Lante Della Rovere, Eric Schweig
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Antologia Qualcosa di personale|20:00:00|21:05:00|Un programma a cura di Monica Fabbri
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Cime Tempestose|21:05:00|22:40:00|1^Parte. Regia di Fabrizio Costa con Alessio Boni, Anita Caprioli, Franco Castellano
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|22:40:00|23:00:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|23:00:00|23:30:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/0cb4502f-cfc3-4637-bb5c-041929fb8b54/cover?md5ChecksumParam=9a2103da6e6218047446cde523924f91)|Amore senza tempo|23:30:00|00:10:00|Una coppia separata per colpa del tempo e della distanza si rincontra: Paula ha una relazione infelice mentre Alejandro ha appena divorziato. Una lotta contro il destino per incontrare il vero amore.
 
 
 
