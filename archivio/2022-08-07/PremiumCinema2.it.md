@@ -1,5 +1,5 @@
 # Premium Cinema 2
-> Programmazione di Sabato 06 Agosto 2022
+> Programmazione di Domenica 07 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
