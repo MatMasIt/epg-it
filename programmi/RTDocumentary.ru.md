@@ -1,5 +1,5 @@
 # RT Documentary
-> Programmazione di Domenica 07 Agosto 2022
+> Programmazione di Lunedì 08 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
