@@ -4,21 +4,20 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|00:00:00|00:15:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|00:15:00|00:20:00|Exclusive reports from the France 24 correspondents around the world.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Banlieue project|00:20:00|00:30:00|Residents from France&#039;s disadvantaged suburbs tell their own stories and take the viewers beyond the usual cliches about the French banlieues.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|You Are Here|00:15:00|00:21:00|Prestigious sites, age-old traditions, arts and crafts, gastronomy, local specialities: &quot;You are here&quot; spotlights the country&#039;s know-how through people at work in their regions.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fashion|00:21:00|00:30:00|A collection of the best of the Parisian catwalks and a sneak peek of the big names in Haute Couture.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|00:30:00|00:45:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Road Trip|00:45:00|01:00:00|Viaggi
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Eye On Africa|00:45:00|01:00:00|France 24 brings you all the news from Africa with France 24&#039;s correspondents and guests on set.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|01:00:00|01:15:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Talking Europe|01:15:00|01:30:00|A show from Brussels with two MEPs facing off on a burning issue and an interview with a European leader.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Down to Earth|01:15:00|01:30:00|Highlighting the big environmental challenges ahead with animated images.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|01:30:00|01:45:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Talking Europe|01:45:00|02:00:00|A show from Brussels with two MEPs facing off on a burning issue and an interview with a European leader.
-|![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|02:00:00|02:10:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus|02:10:00|02:15:00|Exclusive reports from the France 24 correspondents around the world.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Across Africa|02:15:00|02:30:00|A week of political and social events across the African continent : exclusive reports, and analysis.
-|![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|02:30:00|02:40:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Revisited|02:40:00|03:00:00|A show about human spirit and achievement in the face of adversity.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|People and Profit|01:45:00|02:00:00|The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.
+|![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|02:00:00|02:15:00|An international news bulletin, presented live from the newsroom.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|France in Focus|02:15:00|02:30:00|An in-depth look at the political and social events shaping France.
+|![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|02:30:00|02:45:00|An international news bulletin, presented live from the newsroom.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Reporters|02:45:00|03:00:00|International in-depth reports from the France 24 teams and our senior reporters around the world.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|03:00:00|03:15:00|An international news bulletin, presented live from the newsroom.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|People and Profit|03:15:00|03:30:00|The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Eye On Africa|03:15:00|03:30:00|France 24 brings you all the news from Africa with France 24&#039;s correspondents and guests on set.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|03:30:00|03:45:00|An international news bulletin, presented live from the newsroom.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Encore|03:45:00|04:00:00|How do artists and writers see the world? France 24 takes you beyond the headlines to the crossroads where culture meets the news and engages with what&#039;s happening in our lives today.
 |![Icon](https://guidatv.sky.it/uuid/c03312d5-7bcc-407e-b11d-e84dc5c2a0ea/cover?md5ChecksumParam=e41bf563fc65136ded5405b35d72468d)|News: Bollettino|04:00:00|04:15:00|An international news bulletin, presented live from the newsroom.
