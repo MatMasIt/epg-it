@@ -1,5 +1,5 @@
 # La F
-> Programmazione di Martedì 09 Agosto 2022
+> Programmazione di Mercoledì 10 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
