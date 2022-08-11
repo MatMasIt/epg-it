@@ -39,8 +39,8 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mattina 24 Estate|08:30:00|08:45:00|Tutte le informazioni utili per affrontare la giornata: le news, la rassegna stampa nazionale, internazionale ed economica.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|08:45:00|09:00:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG LIS + News|09:00:00|09:30:00|Il quotidiano appuntamento con l&#039;informazione nella lingua italiana dei segni.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|09:30:00|09:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Best of 24 Mm|09:45:00|10:00:00|Servizi di approfondimento realizzati da RaiNews24.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|09:30:00|09:40:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Basta la salute|09:40:00|10:00:00|Best of - Scopriamo come vivere meglio e rimanere in forma.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|10:00:00|10:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sommario TG|10:30:00|10:35:00|In breve, le principali notizie della giornata.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sport 24|10:35:00|10:50:00|Servizi, immagini esclusive e interviste. Le notizie dedicate al mondo dello sport e ai grandi eventi sportivi.
@@ -50,8 +50,8 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|11:30:00|11:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|11:45:00|12:00:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|12:00:00|12:30:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:30:00|12:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Best of 24 Mm|12:45:00|13:00:00|Servizi di approfondimento realizzati da RaiNews24.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:30:00|12:40:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Basta la salute|12:40:00|13:00:00|Best of - Scopriamo come vivere meglio e rimanere in forma.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg in lingua Ucraina|13:00:00|13:05:00|L&#039;appuntamento con l&#039;informazione nella lingua ucraina con tutti gli aggiornamenti sulla guerra in corso.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|13:05:00|13:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|13:30:00|13:55:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
@@ -65,7 +65,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AR - Frammenti d&#039;ARte|15:45:00|16:00:00|Best of - Alla scoperta dei segreti dell&#039;arte italiana attraverso i capolavori del Bel Paese.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:00:00|16:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:30:00|16:55:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La via dei libri|16:55:00|17:00:00|Un affascinante viaggio nel mondo dei libri, per scoprire quali sono le tendenze del mercato editoriale, i libri piu&#039; letti e conoscere i grandi e nuovi autori.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ma che mu...|16:55:00|17:00:00|Incontri, interviste, grandi successi. L&#039;appuntamento dedicato alla musica e ai principali artisti.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|17:00:00|17:30:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|17:30:00|17:35:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sport 24|17:35:00|17:45:00|Servizi, immagini esclusive e interviste. Le notizie dedicate al mondo dello sport e ai grandi eventi sportivi.
@@ -123,8 +123,8 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mattina 24 Estate|08:30:00|08:45:00|Tutte le informazioni utili per affrontare la giornata: le news, la rassegna stampa nazionale, internazionale ed economica.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|08:45:00|09:00:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG LIS + News|09:00:00|09:30:00|Il quotidiano appuntamento con l&#039;informazione nella lingua italiana dei segni.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|09:30:00|09:40:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Basta la salute|09:40:00|10:00:00|Best of - Scopriamo come vivere meglio e rimanere in forma.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|09:30:00|09:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sapori e colori|09:45:00|10:00:00|Best of - Un viaggio alla scoperta della cultura enogastronomica e di nuovi paesaggi.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|10:00:00|10:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sommario TG|10:30:00|10:35:00|In breve, le principali notizie della giornata.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sport 24|10:35:00|10:50:00|Servizi, immagini esclusive e interviste. Le notizie dedicate al mondo dello sport e ai grandi eventi sportivi.
@@ -134,13 +134,14 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|11:30:00|11:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|11:45:00|12:00:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|12:00:00|12:30:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:30:00|12:40:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Basta la salute|12:40:00|13:00:00|Best of - Scopriamo come vivere meglio e rimanere in forma.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:30:00|12:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sapori e colori|12:45:00|13:00:00|Best of - Un viaggio alla scoperta della cultura enogastronomica e di nuovi paesaggi.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg in lingua Ucraina|13:00:00|13:05:00|L&#039;appuntamento con l&#039;informazione nella lingua ucraina con tutti gli aggiornamenti sulla guerra in corso.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|13:05:00|13:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Focus 24|13:30:00|13:55:00|Un approfondimento dedicato ai principali temi caldi dell&#039;attualita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Promo prima serata Rai del giorno|13:55:00|14:00:00|Un appuntamento per scoprire la programmazione giornaliera.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|14:00:00|14:25:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CCISS Viaggiare informati|13:55:00|14:00:00|Le ultime notizie e le previsioni sulla condizione del traffico nelle strade, percorribili dal Nord al Sud d&#039;Italia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Promo prima serata Rai del giorno|14:00:00|14:05:00|Un appuntamento per scoprire la programmazione giornaliera.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|14:05:00|14:25:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meteo|14:25:00|14:30:00|Informazioni sul tempo che fara&#039;: previsioni in tempo reale e consigli di viaggio.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|14:30:00|14:45:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Amarcord|14:45:00|15:00:00|Uno straordinario viaggio nelle teche Rai, per ricordare e ripercorrere i grandi successi del passato.
@@ -149,7 +150,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AR - Frammenti d&#039;ARte|15:45:00|16:00:00|Best of - Alla scoperta dei segreti dell&#039;arte italiana attraverso i capolavori del Bel Paese.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:00:00|16:30:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:30:00|16:55:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ma che mu...|16:55:00|17:00:00|Incontri, interviste, grandi successi. L&#039;appuntamento dedicato alla musica e ai principali artisti.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La via dei libri|16:55:00|17:00:00|Un affascinante viaggio nel mondo dei libri, per scoprire quali sono le tendenze del mercato editoriale, i libri piu&#039; letti e conoscere i grandi e nuovi autori.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News + Titoli|17:00:00|17:30:00|Le notizie del giorno in 40 secondi: i titoli di Rainews24.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|17:30:00|17:35:00|Notizie, i fatti ed i protagonisti del giorno. Con aggiornamenti in tempo reale, lo sport ed il meteo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sport 24|17:35:00|17:45:00|Servizi, immagini esclusive e interviste. Le notizie dedicate al mondo dello sport e ai grandi eventi sportivi.
