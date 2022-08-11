@@ -1,5 +1,5 @@
 # Sky Sport Football
-> Programmazione di Mercoledì 10 Agosto 2022
+> Programmazione di Giovedì 11 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
