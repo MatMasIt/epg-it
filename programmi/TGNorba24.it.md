@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Giovedì 11 Agosto 2022
+> Programmazione di Venerdì 12 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
