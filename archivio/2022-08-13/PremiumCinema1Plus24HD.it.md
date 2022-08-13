@@ -1,5 +1,5 @@
 # Premium Cinema 1 +24
-> Programmazione di Venerdì 12 Agosto 2022
+> Programmazione di Sabato 13 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
