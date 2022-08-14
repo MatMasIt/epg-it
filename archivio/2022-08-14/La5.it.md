@@ -1,5 +1,5 @@
 # La 5
-> Programmazione di Sabato 13 Agosto 2022
+> Programmazione di Domenica 14 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
