@@ -1,0 +1,56 @@
+# Rai 2
+> Programmazione di Sabato 13 Agosto 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|04:00:00|04:20:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sea Patrol|04:20:00|05:00:00|S2 Ep9 Linea d&#039;ombra - L&#039;Hammersley si trova ancora una volta all&#039;inseguimento del cabinato responsabile del traffico di armi e munizioni nelle Isole Samaru.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Heartland|05:00:00|05:45:00|S9 Ep4 Un triste addio - Tutti si stringono attorno a Jack costretto ad affrontare la perdita di Paint. Intanto, Georgie riceve un aiuto inatteso per i corsi scolastici di recupero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Heartland|05:45:00|06:30:00|S9 Ep5 Ritorno in sella - Nella speranza di far tornare il sorriso a Jack, dopo la morte di Paint, Georgie inizia ad addestrare un nuovo cavallo di nome Buddy.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Radio2 Happy Family|06:30:00|07:55:00|The Best - Dalla Sala B di via Asiago, Ema Stokholma e i Gemelli di Guidonia condividono con gli ascoltatori e il pubblico un inizio di giornata spensierato, tra musica, gag e rubriche divertenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I mestieri di Mirko|07:55:00|08:15:00|L&#039;arte di Murano - Mirko spera di riuscire a imparare a soffiare il vetro, ma non sembra affatto facile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Meteo 2|08:55:00|09:00:00|Le previsioni meteo a cura dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG Sport Giorno|09:00:00|09:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Play Digital|09:15:00|10:00:00|Un magazine dedicato alla tecnologia, per capire cosa c&#039;e&#039; dietro gli strumenti che utilizziamo tutti i giorni.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Felicita&#039; - La stagione dell&#039;amore|10:00:00|11:00:00|Ep. 11 - Pascal Vicedomini ospita Claudio Baglioni. Il grande artista traccia un bilancio provvisorio di questa stagione che l&#039;ha visto molto occupato in spettacoli teatrali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Giorno|11:00:00|11:30:00|Il quotidiano appuntamento con l&#039;informazione, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Week End|11:30:00|12:00:00|Appuntamento con l&#039;informazione. A cura del Tg2.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Europei Nuoto e European... (live)|12:00:00|13:00:00|...Championship - Occhi puntati su Roma per gli Europei di Nuoto e su Monaco di Baviera per i Campionati Europei 2022.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Europei|13:00:00|16:00:00|Finali: programma libero - Da Roma tutto lo spettacolo del nuoto artistico, i migliori specialisti del vecchio continente a caccia dell&#039;oro europeo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nuoto: Europei (live)|16:00:00|16:30:00|Semifinali e Finali - Da Roma i 36mi Europei di nuoto. I migliori specialisti del vecchio continente vanno a caccia delle medaglie nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 L.I.S. - Meteo 2|16:30:00|16:35:00|Il puntuale appuntamento con l&#039;informazione, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, le ultime notizie dal mondo e le previsioni meteo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nuoto: Europei (live)|16:35:00|18:30:00|Semifinali e Finali - Da Roma i 36mi Europei di nuoto. I migliori specialisti del vecchio continente vanno a caccia delle medaglie nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 - 20.30|18:30:00|19:00:00|Il quotidiano appuntamento con l&#039;informazione, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 Post|19:00:00|21:00:00|Un approfondimento dedicato alla politica, all&#039;attualita&#039; e alle principali notizie dal mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 - Dossier|21:00:00|21:50:00|Reportage e inchieste nello storico settimanale di approfondimento del Tg2.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Speciale TG Sport|21:50:00|22:35:00|Campionato di Calcio - Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Meteo 2|22:35:00|22:40:00|Le previsioni meteo a cura dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Storie - I racconti della settimana|22:40:00|23:25:00|L&#039;appuntamento settimanale con la trasmissione che analizza nel profondo le storie di vita di personaggi piu&#039; o meno famosi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Mizar|23:25:00|23:50:00|Interviste, servizi, commenti dei protagonisti del mondo del cinema, della musica, della letteratura e della moda.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Si&#039; viaggiare|23:50:00|00:05:00|La rubrica del Tg2 dedicata al turismo. Proposte di viaggio per una concezione di vacanza anche come turismo culturale, gastronomico e ambientale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Eat Parade|00:05:00|00:15:00|Bere bene e mangiare sano. Un viaggio alla scoperta dell&#039;economia e della passione che si cela dietro la grande cultura italiana per l&#039;arte culinaria, la tradizione enologica e le sfide per il futuro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Appuntamento al cinema|00:15:00|00:20:00|Informazioni, commenti e news sui film in uscita nelle sale cinematografiche italiane.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|00:20:00|04:00:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|RaiNews24|04:00:00|04:55:00|Le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, economia, sport e attualita&#039; dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piloti|04:55:00|05:05:00|S1 - Le vicende dello stralunato equipaggio di un&#039;improbabile compagnia aerea, la Piccione Airlines, formato dal comandante Gasparini e dall&#039;inetto copilota Conti, oltre che da due strambe hostess.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 - Dossier|08:15:00|09:00:00|Reportage e inchieste nello storico settimanale di approfondimento del Tg2.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG Sport Giorno|09:00:00|09:15:00|Ogni giorno le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Crociere di nozze - Viaggio di nozze...|09:15:00|10:05:00|...in Marocco - Regia di H. Togel, con E.Grein, P.Fichte; DEU 2011. Daniel e Marie organizzano alcuni matrimoni a bordo della nave crociera diretta in Marocco. Il viaggio pero&#039; nasconde una pericolosa insidia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TV Raider: le storie di Donnavventura|10:05:00|11:00:00|Una squadra di ragazze si cimenta in un viaggio straordinario, alla scoperta di luoghi e itinerari inediti, per raccontare le bellezze del nostro Paese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Giorno|11:00:00|11:30:00|Il quotidiano appuntamento con l&#039;informazione, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 Motori|11:30:00|11:55:00|Notizie, curiosita&#039;, novita&#039; del mercato dal mondo dei motori: rubrica per gli appassionati delle due e delle quattro ruote.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Meteo 2|11:55:00|12:00:00|Le previsioni meteo a cura dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Europei Nuoto e European... (live)|12:00:00|13:00:00|...Championship - Occhi puntati su Roma per gli Europei di Nuoto e su Monaco di Baviera per i Campionati Europei 2022.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Europei|13:00:00|16:00:00|Finali - Da Roma tutto lo spettacolo del nuoto artistico, i migliori specialisti del vecchio continente a caccia dell&#039;oro europeo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nuoto: Europei (live)|16:00:00|16:10:00|Semifinali e Finali - Da Roma i 36mi Europei di nuoto. I migliori specialisti del vecchio continente vanno a caccia delle medaglie nelle varie specialita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tg2 L.I.S.|16:10:00|18:30:00|Aggiornamento sulle notizie dell&#039;ultima ora dall&#039;Italia e dall&#039;estero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|TG2 - 20.30|18:30:00|19:05:00|Il quotidiano appuntamento con l&#039;informazione, l&#039;attualita&#039; dell&#039;ultimo minuto, gli approfondimenti, i fatti di cronaca, di politica, di cultura e le ultime notizie dal mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|N.C.I.S. Los Angeles|19:05:00|19:50:00|S13 Ep2 La via del guerriero - L&#039;NCIS indaga sull&#039;aggressione subita dal padre di un ufficiale della Polizia di Los Angeles. L&#039;anziano sembra essere stato vittima di un feroce crimine d&#039;odio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bull|19:50:00|20:40:00|S6 Ep2 Spionaggio - Un cliente viene processato per aver reso pubblici alcuni documenti governativi riservati; Bull, intanto, vive un profondo turbamento dopo il rapimento di sua figlia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La Domenica Sportiva Estate (live)|20:40:00|23:00:00|Appuntamento con lo sport e le notizie sportive in versione estiva.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Meteo 2|23:00:00|23:05:00|Le previsioni meteo a cura dell&#039;Aeronautica Militare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Appuntamento al cinema|23:55:00|00:00:00|Informazioni, commenti e news sui film in uscita nelle sale cinematografiche italiane.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
