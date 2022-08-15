@@ -1,0 +1,31 @@
+# MTV Music Italia
+> Programmazione di Domenica 14 Agosto 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|04:00:00|05:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|05:00:00|07:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|07:00:00|09:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|09:00:00|11:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|11:00:00|14:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|14:00:00|16:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|16:00:00|19:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/939dc52b-1d90-4724-9728-b06d89165699/cover?md5ChecksumParam=4ac7dd059b82e50d081941999b160889)|100% Rock|19:00:00|20:00:00|Una rotazione musicale completamente dedicata al rock
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|20:00:00|21:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|New Zone|21:00:00|22:00:00|I nuovi video degli artisti piu&#039; cool, in uno spazio interamente dedicato a loro!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|22:00:00|04:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|04:00:00|05:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|05:00:00|06:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/392f587e-7839-4714-9ce6-30d53edef067/cover?md5ChecksumParam=adb1eda06153f05bec49cef94ef3e6bf)|100% Dance|06:00:00|07:00:00|Una rotazione musicale completamente dedicata ai video piu&#039; ballati degli ultimi tempi
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|07:00:00|09:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Italian Hits|09:00:00|10:00:00|Una rotazione interamente dedicata alla musica italiana!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|10:00:00|13:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/e58155cc-7bc3-4eb0-8928-d7a9e1465bc6/cover?md5ChecksumParam=1db0c69bc383640edca4ecfcf3453723)|100% Hip Hop R&amp;B|13:00:00|14:00:00|Una rotazione musicale completamente dedicata ai video Hip Hop R&amp;B piu&#039; forti degli ultimi tempi
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|14:00:00|17:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/dd1b6be9-080e-43b9-8a2e-1d62770c618d/cover?md5ChecksumParam=b80bc091133ff8b8c405284e621e7b4f)|100% Summer|17:00:00|21:00:00|Una rotazione musicale per festeggiare insieme l&#039;estate e le vacanze!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|New Zone|21:00:00|22:00:00|I nuovi video degli artisti piu&#039; cool, in uno spazio interamente dedicato a loro!
+|![Icon](https://guidatv.sky.it/uuid/0b18dd99-b9f1-4a77-8cc5-e1e0be9b77c2/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|22:00:00|04:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
