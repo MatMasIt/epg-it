@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Domenica 14 Agosto 2022
+> Programmazione di Lunedì 15 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
