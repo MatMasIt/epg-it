@@ -1,5 +1,5 @@
 # Sky Primafila 18
-> Programmazione di Lunedì 15 Agosto 2022
+> Programmazione di Martedì 16 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
