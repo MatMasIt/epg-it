@@ -3,35 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale &#039;Gli Immortali&#039;|01:30:00|03:40:00|Milan Tv-Speciale &#039;Gli Immortali&#039;
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|GOL COLLECTION VAN BASTEN|03:40:00|04:00:00|GOL COLLECTION VAN BASTEN
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Udinese|05:30:00|06:20:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV-Itw Cult Udinese|06:20:00|06:30:00|Milan TV-Itw Cult Udinese
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Udinese-13/08/2022|06:30:00|08:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inferno del Lunedi&#039;-Live|08:25:00|08:40:00|Milan Tv-Allenamenti Primavera
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Femminile-Milan vs Tokyo Beleza|08:40:00|10:25:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Ganz Livigno 2022|10:25:00|10:50:00|Conferenza Ganz Livigno 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Livigno|10:50:00|11:10:00|Milan Tv-Speciale Livigno
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Live Reaction-Milan vs Udinese|11:10:00|12:40:00|La Live Reaction della partita in compagnia di Francesco Specchia, Lollo, Garrincha delle Vibrazioni e non solo
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Udinese|12:40:00|13:35:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV-Itw Cult Udinese|13:35:00|13:40:00|Milan TV-Itw Cult Udinese
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Udinese-13/08/2022|13:40:00|15:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Podcast-Il dolce Kala|15:35:00|15:40:00|Milan Tv-Podcast-Il dolce Kala
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Podcast Pioliedholm|15:40:00|15:50:00|Milan Tv-Podcast Pioliedholm
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Soulmates Kaka-Inzaghi|15:50:00|15:55:00|Milan Tv-Soulmates Kaka-Inzaghi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Icons Ancelotti|15:55:00|16:05:00|Milan Tv-Icons Ancelotti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Addicted Gegio|16:05:00|16:20:00|Milan Tv-Addicted Gegio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inferno del Lunedi&#039;-Live|16:20:00|16:35:00|Milan Tv-Gol Collection-Bacca
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|GOL COLLECTION AMBROSINI|16:35:00|16:40:00|GOL COLLECTION AMBROSINI
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|GOL COLLECTION VAN BASTEN|16:40:00|17:00:00|GOL COLLECTION VAN BASTEN
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-PILLOLA TWITCH|17:00:00|17:35:00|Milan Tv-PILLOLA TWITCH
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 5|17:35:00|18:05:00|Milan Tv-Forza Milan Pt. 5
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 8|18:30:00|19:00:00|Milan Tv-Forza Milan Pt. 8
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Femminile-Milan vs Tokyo Beleza|19:00:00|20:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Una giornata con Bergamaschi|20:45:00|20:55:00|Una giornata con Bergamaschi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Udinese-13/08/2022|20:55:00|22:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Udinese|22:50:00|23:40:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road-Pioli|23:40:00|00:10:00|Milan Tv-On The Road-Pioli
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli|00:10:00|01:00:00|Milan Tv-Interview Pioli
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Udinese-13/08/2022|01:00:00|02:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Udinese|02:55:00|03:50:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta.
@@ -61,6 +32,14 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-PILLOLA TWITCH|21:20:00|21:30:00|Milan Tv-PILLOLA TWITCH
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inferno del Lunedi&#039;-16/08/2022|21:30:00|23:05:00|Il talk show condotto da Mauro Suma, in compagnia di Luca Serafini, Mario Ielpo e tanti ospiti in collegamento, affronta tutti i temi dell&#039;ultima gara giocata dai rossoneri: analisi, grafiche e contributi per addentrarsi, tra vari dibattiti, nel cuore delle prestazioni del Milan di Pioli sui terreni di gioco di Serie A, Champions League e Coppa Italia
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Udinese-13/08/2022|23:05:00|00:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Udinese|00:55:00|01:50:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Presentazione Libro Adrenalina|01:50:00|02:40:00|Presentazione Libro Adrenalina
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Magliette|02:40:00|03:30:00|Milan Tv-Speciale Magliette
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road-Pioli|03:30:00|04:00:00|Milan Tv-On The Road-Pioli
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|04:00:00|10:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|10:00:00|16:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|16:00:00|22:00:00|Milan TV
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|22:00:00|04:00:00|Milan TV
 
 
 
