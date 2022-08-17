@@ -1,5 +1,5 @@
 # Boing Italia
-> Programmazione di Martedì 16 Agosto 2022
+> Programmazione di Mercoledì 17 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
