@@ -1,5 +1,5 @@
 # Sky Cinema Due +24
-> Programmazione di Mercoledì 17 Agosto 2022
+> Programmazione di Giovedì 18 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
