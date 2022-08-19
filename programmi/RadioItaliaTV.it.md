@@ -1,5 +1,5 @@
 # Radio Italia TV
-> Programmazione di Giovedì 18 Agosto 2022
+> Programmazione di Venerdì 19 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
