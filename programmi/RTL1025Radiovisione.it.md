@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Venerdì 19 Agosto 2022
+> Programmazione di Sabato 20 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
