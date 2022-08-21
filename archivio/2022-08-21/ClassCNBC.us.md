@@ -1,0 +1,68 @@
+# Class CNBC
+> Programmazione di Sabato 20 Agosto 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|05:00:00|07:00:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|07:00:00|07:31:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|07:31:00|08:50:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Banche e Territorio|08:50:00|08:55:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|08:55:00|09:06:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|09:06:00|09:19:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|09:19:00|09:46:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|09:46:00|09:58:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|09:58:00|10:35:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fabi risponde|10:35:00|10:40:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|10:40:00|11:12:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|11:12:00|13:12:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|13:12:00|13:25:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|13:25:00|13:52:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|13:52:00|14:12:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ripartitalia speciale sanita&#039;|14:12:00|16:24:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing Media&amp;Money|16:24:00|16:56:00|Gli approfondimenti di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|16:56:00|18:14:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Detect|18:14:00|18:52:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete per vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Missione Risparmio|18:52:00|19:03:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|19:03:00|19:36:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|19:36:00|19:49:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|19:49:00|20:17:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|20:17:00|20:28:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sanita&#039; next|20:28:00|21:05:00|Gli approfondimenti di ClassCnbc - La rivoluzione digitale sta disegnando il futuro della sanita&#039;. Su ClassCnbc il settimanale televisivo sul futuro della nostra salute.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing Media&amp;Money|21:05:00|21:37:00|Gli approfondimenti di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|21:37:00|22:08:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|22:08:00|01:12:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|01:12:00|01:43:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La settimana di ClassCnbc|01:43:00|05:00:00|Gli approfondimenti di ClassCnbc - Gli speciali della settimana di ClassCnbc.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|05:00:00|05:31:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing Media&amp;Money|05:31:00|06:03:00|Gli approfondimenti di ClassCnbc - L&#039;importanza della comunicazione ai consumatori attraverso il marketing e i media.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|06:03:00|06:17:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|06:17:00|06:45:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|06:45:00|06:55:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Milano Marketing Festival|06:55:00|07:48:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sustainable Future|07:48:00|07:56:00|Gli approfondimenti di ClassCnbc - Le politiche, le nuove idee creative e gli investimenti intelligenti che trasformano il futuro green in realta&#039; tangibile.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Opec|07:56:00|08:07:00|Esclusiva Cnbc - Esclusiva Cnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Detect|08:07:00|08:47:00|Gli approfondimenti di ClassCnbc - Una vera e propria guida per identificare i rischi in rete per vivere e lavorare sicuri in digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|08:47:00|11:01:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fabi risponde|11:01:00|11:07:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Milano Marketing Festival|11:07:00|12:43:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|12:43:00|12:57:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|12:57:00|13:25:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|13:25:00|13:37:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|13:37:00|14:08:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|14:08:00|17:11:00|Le interviste di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|17:11:00|17:24:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|17:24:00|17:52:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|17:52:00|18:02:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|18:02:00|18:35:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fabi risponde|18:35:00|18:41:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Gli speciali di ClassCnbc|18:41:00|19:50:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Ripartitalia speciale sanita&#039;|19:50:00|22:10:00|Gli approfondimenti di ClassCnbc - Gli approfondimenti di ClassCnbc
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech|22:10:00|22:25:00|Tecnologia pret-a&#039;-porter - Le novita&#039; sui prodotti piu&#039; innovativi e significativi immessi sul mercato dell&#039;elettronica, le schede descrittive e le tendenze proposte dal mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Top Lot|22:25:00|22:54:00|Il mondo delle aste nell&#039;arte - Conoscere il valore di un&#039;opera: informazioni utili sia per chi aspira a realizzare una propria collezione, sia per chi vuole monetizzare un bene di famiglia.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mytech banco di prova|22:54:00|23:04:00|Il mondo della tecnologia - Davide Fumagalli ogni settimana presenta nel dettaglio i nuovi prodotti del mercato tecnologico.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Floor|23:04:00|23:35:00|Dentro Wall Street - Stefania Spatti direttamente da New York per commentare rumors, retroscena e novita&#039; della finanza americana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La settimana di ClassCnbc|23:35:00|05:00:00|Gli approfondimenti di ClassCnbc - Gli speciali della settimana di ClassCnbc.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
