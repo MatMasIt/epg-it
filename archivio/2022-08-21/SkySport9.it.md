@@ -1,5 +1,5 @@
 # Sky Sport 9
-> Programmazione di Sabato 20 Agosto 2022
+> Programmazione di Domenica 21 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
