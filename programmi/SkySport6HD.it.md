@@ -1,5 +1,5 @@
 # Sky Sport 6
-> Programmazione di Domenica 21 Agosto 2022
+> Programmazione di Lunedì 22 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
