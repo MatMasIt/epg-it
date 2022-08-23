@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Lunedì 22 Agosto 2022
+> Programmazione di Martedì 23 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
