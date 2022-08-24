@@ -1,5 +1,5 @@
 # Premium Cinema 3
-> Programmazione di Martedì 23 Agosto 2022
+> Programmazione di Mercoledì 24 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
