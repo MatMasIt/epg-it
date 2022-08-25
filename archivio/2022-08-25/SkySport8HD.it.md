@@ -1,5 +1,5 @@
 # Sky Sport 8
-> Programmazione di Mercoledì 24 Agosto 2022
+> Programmazione di Giovedì 25 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
