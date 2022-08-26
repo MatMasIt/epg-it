@@ -1,5 +1,5 @@
 # TRM h24
-> Programmazione di Giovedì 25 Agosto 2022
+> Programmazione di Venerdì 26 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
