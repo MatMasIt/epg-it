@@ -1,5 +1,5 @@
 # Eurosport 2 Italia
-> Programmazione di Venerdì 26 Agosto 2022
+> Programmazione di Sabato 27 Agosto 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
