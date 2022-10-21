@@ -1,5 +1,5 @@
 # Blaze HD
-> Programmazione di Giovedì 20 Ottobre 2022
+> Programmazione di Venerdì 21 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
