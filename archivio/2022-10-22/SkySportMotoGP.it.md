@@ -1,5 +1,5 @@
 # Sky Sport Moto GP
-> Programmazione di Venerdì 21 Ottobre 2022
+> Programmazione di Sabato 22 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
