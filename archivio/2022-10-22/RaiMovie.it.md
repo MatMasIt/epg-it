@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Venerdì 21 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|00:50:00|01:15:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La cento chilometri|03:00:00|04:20:00|Una gara podistica diventa l&#039;appuntamento della vita per un falegname, un avvocato e un ex campione, ognuno per ragioni diverse.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I dieci giorni che sconvolsero il mondo|04:20:00|06:40:00|Deciso a realizzare un reportage, un giornalista americano si lascia coinvolgere con la sua compagna nella rivoluzione russa del 1917.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tormento|06:40:00|08:25:00|In disaccordo con la matrigna, Anna se ne va di casa con l&#039;aiuto del fidanzato Carlo, che pero&#039; viene accusato di omicidio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La liceale, il diavolo e l&#039;acquasanta|08:25:00|10:10:00|Commedia in tre episodi: un angelo custode si innamora della sua protetta; un travestito cambia gusti sessuali;un dentista vende anima e corpo al diavolo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Alvarez Kelly|10:10:00|12:10:00|Un semplice ranchero ha il compito di portare dei capi di bestiame ai soldati nordisti, che stanno attaccando la citta&#039; di Richmond.
+|![Icon](https://guidatv.sky.it/uuid/3cff2c3f-192b-49f2-9712-6f6b7760f82b/cover?md5ChecksumParam=e601db24d77b7a306f7b9ea155827290)|Butch Cassidy|12:10:00|14:10:00|Le avventure di due leggende del West, Butch Cassidy e Sundance Kid che li portera&#039;, dopo varie scorrerie e rapine, a riparare in Sudamerica.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|14:10:00|14:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I corvi ti scaveranno la fossa|14:15:00|15:50:00|Finita la guerra di secessione, una compagnia di trasporti del West assolda alcuni pistoleri per difendersi dai fuorilegge.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tutto per tutto|15:50:00|17:25:00|Un indiano ruba a un bandito messicano un favoloso bottino. Sulle sue tracce si mettono il desperado e una coppia di furfanti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arriva Sabata!|17:25:00|19:10:00|Tre rapinatori, Sabata, Mangosta e Peter, rapinano una banca. Mangosta, credendo di farla franca, ruba il malloppo e scappa in Messico.
+|![Icon](https://guidatv.sky.it/uuid/a46007e4-b109-4b20-b842-2bf3b731a5d8/cover?md5ChecksumParam=662084f0e244361b1ffc6664215bef1e)|Le ultime 24 ore|19:10:00|20:45:00|Agente speciale di un&#039;organizzazione che conduce operazioni estreme al servizio del governo americano, Travis deve ora uccidere Lin.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un tranquillo weekend di paura|20:45:00|22:45:00|Quattro amici decidono di passare il weekend in canoa sul fiume Chattooga, ma la loro vacanza si trasforma in un incubo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|22:45:00|22:50:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mr. Klein|22:50:00|01:00:00|Un ricco francese scopre l&#039;esistenza di un suo omonimo di origine ebrea. Il destino li portera&#039; a unirsi in un cammino comune.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il giocattolo|01:00:00|03:00:00|Vittorio fa il portavalori, ferito durante una rapina e sostituito da un ex poliziotto, decidera&#039; di imparare a usare la pistola.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lacrime delle Dolomiti di Sesto|03:00:00|05:15:00|Prima Guerra Mondiale. Due giovani, arruolati nell&#039;esercito asburgico per difendere il loro territorio, si contendono l&#039;amore della stessa donna.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|05:15:00|08:00:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|08:00:00|08:25:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|08:25:00|08:30:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fotoromanzo|08:30:00|10:10:00|Nino, figlio di una portinaia che sogna di sfondare scrivendo canzoni, si trasferisce a Milano per seguire la fidanzata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Chimera|10:10:00|12:10:00|Mentre la moglie incinta rimane ad aspettarlo, Gianni, in cerca di successo, parte per una tournee in Brasile dove conosce un&#039;altra donna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:10:00|12:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/553e0e3d-c256-4807-9d70-797769bd8a83/cover?md5ChecksumParam=facef3f78a065de08a7a4e06387b10e1)|C&#039;era una volta il West|12:15:00|15:20:00|Per impossessarsi di un terreno appartenente a un&#039;ex prostituta, un magnate assolda un killer. Ma ci sono conti in sospeso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Chasing Mavericks - Sulla cresta...|15:20:00|17:20:00|...dell&#039;onda - Deciso a sfidare una delle piu&#039; grandi onde sulla Terra, un giovane surfista chiede aiuto a una leggenda del surf per imparare a domarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|17:20:00|19:10:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/b0364734-6d03-4301-b67c-0c0da8b0853f/cover?md5ChecksumParam=3218b0226da7a2c4cac5c4d7056d180d)|Il permesso - 48 ore fuori|19:10:00|20:50:00|Quattro detenuti, a cui sono stati concessi due giorni di liberta&#039;, devono saldare dei conti in sospeso cercando di non compiere passi falsi.
+|![Icon](https://guidatv.sky.it/uuid/e0f57203-4f27-47e2-8a6a-09d51e95d024/cover?md5ChecksumParam=593b6ad6e7d9063ec7980d44732e6a74)|Momenti di trascurabile felicita&#039;|20:50:00|22:25:00|Un giovane morto in un incidente viene rimandato sulla Terra dal Paradiso per rimettere a posto le cose della sua vita in un&#039;ora e mezza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;uomo di Laramie|22:25:00|00:15:00|In New Mexico, l&#039;investigatore Will Lockhart cerca l&#039;assassino del fratello. Ma deve anche sventare un traffico d&#039;armi.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
