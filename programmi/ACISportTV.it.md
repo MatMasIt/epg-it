@@ -3,29 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F. Regional R9 Barcellona Gara 2|01:30:00|02:25:00|F. Regional R9 Barcellona Gara 2 - F. Regional R9 Barcellona Gara 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Cop.Ita.ST R3 Silverstone PRO|02:25:00|04:20:00|eSport Cop.Ita.ST R3 Silverstone PRO - eSport Cop.Ita.ST R3 Silverstone PRO
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa Rally di Zona|04:20:00|04:40:00|Puntata 27 - Coppa Rally di Zona
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Sant Angelo Esca|04:40:00|05:00:00|Karting In Piazza - Sant Angelo Esca - Karting In Piazza - Sant Angelo Esca
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F. Regional R9 Barcellona Gara 1|05:00:00|06:00:00|F. Regional R9 Barcellona Gara 1 - F. Regional R9 Barcellona Gara 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F1 Monza 2022|06:00:00|06:25:00|Puntata 1 - F1 Monza 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F1 Monza 2022|06:25:00|06:55:00|Puntata 2 - F1 Monza 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta C.I.R.A. - R7 Trofeo ACI Como|06:55:00|07:35:00|Diretta C.I.R.A. - R7 Trofeo ACI Como - Diretta C.I.R.A. - R7 Trofeo ACI Como
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Piazza - Giffoni Film Festival|07:35:00|07:50:00|Karting Piazza - Giffoni Film Festival - Karting Piazza - Giffoni Film Festival
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport GT4 R2 Donington PRO|07:50:00|10:15:00|eSport GT4 R2 Donington PRO - eSport GT4 R2 Donington PRO
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Padova Auto Moto Epoca 2022|10:15:00|14:05:00|Diretta Padova Auto Moto Epoca 2022 - Diretta Padova Auto Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa Rally di Zona|14:05:00|14:35:00|Puntata 27 - Coppa Rally di Zona
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta C.I.R.A. - R7 Trofeo ACI Como|14:35:00|15:30:00|Diretta C.I.R.A. - R7 Trofeo ACI Como - Diretta C.I.R.A. - R7 Trofeo ACI Como
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Padova Auto Moto Epoca 2022|15:30:00|16:30:00|Diretta Padova Auto Moto Epoca 2022 - Diretta Padova Auto Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta C.I.R.A. - R7 Trofeo ACI Como|16:30:00|17:05:00|Diretta C.I.R.A. - R7 Trofeo ACI Como - Diretta C.I.R.A. - R7 Trofeo ACI Como
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R9 Monza|17:05:00|18:00:00|ACI Racing Weekend R9 Monza - ACI Racing Weekend R9 Monza
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Casteggio|18:00:00|18:20:00|Karting In Piazza - Casteggio - Karting In Piazza - Casteggio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|18:20:00|19:00:00|Puntata 18 - Magazine ACI Storico
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La Marca Classica 2022|19:00:00|20:05:00|ACI Storico Power Stage Classic - La Marca Classica 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta C.I.R.A. - R7 Trofeo ACI Como|20:05:00|20:40:00|Diretta C.I.R.A. - R7 Trofeo ACI Como - Diretta C.I.R.A. - R7 Trofeo ACI Como
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport FX2000 R3 Road Atlanta|20:40:00|22:40:00|eSport FX2000 R3 Road Atlanta - eSport FX2000 R3 Road Atlanta
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F. Regional R9 Barcellona Gara 1|22:40:00|23:40:00|F. Regional R9 Barcellona Gara 1 - F. Regional R9 Barcellona Gara 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F. Regional R9 Barcellona Gara 2|23:40:00|00:30:00|F. Regional R9 Barcellona Gara 2 - F. Regional R9 Barcellona Gara 2
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport GT4 R2 Donington PRO|00:30:00|02:30:00|eSport GT4 R2 Donington PRO - eSport GT4 R2 Donington PRO
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Mini Challenge R5 Monza Gara 1|02:30:00|03:20:00|Mini Challenge R5 Monza Gara 1 - Mini Challenge R5 Monza Gara 1
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Mini Challenge R5 Monza Gara 2|03:20:00|04:05:00|Mini Challenge R5 Monza Gara 2 - Mini Challenge R5 Monza Gara 2
@@ -48,6 +25,22 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|19:35:00|20:10:00|Puntata 18 - Magazine ACI Storico
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport GT4 R2 Donington PRO|20:10:00|22:10:00|eSport GT4 R2 Donington PRO - eSport GT4 R2 Donington PRO
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa Ita Karting Battipaglia Prefinali|22:10:00|01:00:00|Coppa Ita Karting Battipaglia Prefinali - Coppa Ita Karting Battipaglia Prefinali
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa Ita Karting Battipaglia Finali|01:00:00|04:10:00|Coppa Ita Karting Battipaglia Finali - Coppa Ita Karting Battipaglia Finali
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|04:10:00|07:00:00|Puntata 31 - Magazine ACI Sport
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta F.Regional Mugello Qualif. 1|07:00:00|07:55:00|Diretta F.Regional Mugello Qualif. 2 - Diretta F.Regional Mugello Qualif. 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta F4 Champ. R7 Mugello Gara 2|07:55:00|08:55:00|Diretta F4 Champ. R7 Mugello Gara 2 - Diretta F4 Champ. R7 Mugello Gara 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Mini Challenge R6 Mugello G1|08:55:00|09:40:00|Diretta Mini Challenge R6 Mugello G2 - Diretta Mini Challenge R6 Mugello G2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta TIVM Castellana di Orvieto|09:40:00|10:50:00|Diretta TIVM Castellana di Orvieto - Diretta TIVM Castellana di Orvieto
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta GT Sprint R4 Mugello Gara 2|10:50:00|11:50:00|Diretta GT Sprint R4 Mugello Gara 2 - Diretta GT Sprint R4 Mugello Gara 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta TIVM Castellana di Orvieto|11:50:00|12:45:00|Diretta TIVM Castellana di Orvieto - Diretta TIVM Castellana di Orvieto
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta F. Regional R10 Mugello G2|12:45:00|13:30:00|Diretta F. Regional R10 Mugello G2 - Diretta F. Regional R10 Mugello G2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta TIVM Castellana di Orvieto|13:30:00|15:00:00|Diretta TIVM Castellana di Orvieto - Diretta TIVM Castellana di Orvieto
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta F4 Champ. R7 Mugello Gara 3|15:00:00|15:45:00|Diretta F4 Champ. R7 Mugello Gara 3 - Diretta F4 Champ. R7 Mugello Gara 3
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|15:45:00|16:20:00|Puntata 18 - Magazine ACI Storico
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Casteggio|16:20:00|16:40:00|Karting In Piazza - Casteggio - Karting In Piazza - Casteggio
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa Rally di Zona|16:40:00|16:55:00|Puntata 27 - Coppa Rally di Zona
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La Marca Classica 2022|16:55:00|18:00:00|ACI Storico Power Stage Classic - La Marca Classica 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Finale Naz. TIVM Castellana di Orvieto|18:00:00|04:00:00|Finale Naz. TIVM Castellana di Orvieto - Finale Naz. TIVM Castellana di Orvieto
 
 
 
