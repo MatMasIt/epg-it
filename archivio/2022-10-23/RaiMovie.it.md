@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Sabato 22 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il giocattolo|01:00:00|03:00:00|Vittorio fa il portavalori, ferito durante una rapina e sostituito da un ex poliziotto, decidera&#039; di imparare a usare la pistola.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lacrime delle Dolomiti di Sesto|03:00:00|05:15:00|Prima Guerra Mondiale. Due giovani, arruolati nell&#039;esercito asburgico per difendere il loro territorio, si contendono l&#039;amore della stessa donna.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|05:15:00|08:00:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|08:00:00|08:25:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|08:25:00|08:30:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fotoromanzo|08:30:00|10:10:00|Nino, figlio di una portinaia che sogna di sfondare scrivendo canzoni, si trasferisce a Milano per seguire la fidanzata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Chimera|10:10:00|12:10:00|Mentre la moglie incinta rimane ad aspettarlo, Gianni, in cerca di successo, parte per una tournee in Brasile dove conosce un&#039;altra donna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:10:00|12:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/553e0e3d-c256-4807-9d70-797769bd8a83/cover?md5ChecksumParam=facef3f78a065de08a7a4e06387b10e1)|C&#039;era una volta il West|12:15:00|15:20:00|Per impossessarsi di un terreno appartenente a un&#039;ex prostituta, un magnate assolda un killer. Ma ci sono conti in sospeso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Chasing Mavericks - Sulla cresta...|15:20:00|17:20:00|...dell&#039;onda - Deciso a sfidare una delle piu&#039; grandi onde sulla Terra, un giovane surfista chiede aiuto a una leggenda del surf per imparare a domarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|17:20:00|19:10:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/b0364734-6d03-4301-b67c-0c0da8b0853f/cover?md5ChecksumParam=3218b0226da7a2c4cac5c4d7056d180d)|Il permesso - 48 ore fuori|19:10:00|20:50:00|Quattro detenuti, a cui sono stati concessi due giorni di liberta&#039;, devono saldare dei conti in sospeso cercando di non compiere passi falsi.
+|![Icon](https://guidatv.sky.it/uuid/e0f57203-4f27-47e2-8a6a-09d51e95d024/cover?md5ChecksumParam=593b6ad6e7d9063ec7980d44732e6a74)|Momenti di trascurabile felicita&#039;|20:50:00|22:25:00|Un giovane morto in un incidente viene rimandato sulla Terra dal Paradiso per rimettere a posto le cose della sua vita in un&#039;ora e mezza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;uomo di Laramie|22:25:00|00:15:00|In New Mexico, l&#039;investigatore Will Lockhart cerca l&#039;assassino del fratello. Ma deve anche sventare un traffico d&#039;armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La tenda rossa|00:15:00|02:30:00|Un dirigibile si schianta mentre sorvola il Polo Nord. I superstiti devono resistere nel gelo in attesa dei soccorsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Voce umana|02:30:00|03:00:00|Il figlio di Sophia Loren dirige la grande attrice ispirandosi all&#039;opera omonima di Jean Cocteau. Tema conduttore, la fine di un amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un tranquillo weekend di paura|03:00:00|05:00:00|Quattro amici decidono di passare il weekend in canoa sul fiume Chattooga, ma la loro vacanza si trasforma in un incubo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La mia super ex ragazza|05:00:00|06:35:00|Le avventure, soprattutto sentimentali, di G-Girl, una supereroina che cela la sua identita&#039; dietro quella delle timida Jenny.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|06:35:00|06:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/bd716ab3-565f-486e-bc16-a46b935692de/cover?md5ChecksumParam=b90acebafcffc2e84bb042b9e15e8532)|The Meddler|06:40:00|08:30:00|Alla morte del marito, una donna decide di seguire la figlia a Los Angeles. Inaspettatamente, trovera&#039; nuove amicizie e un nuovo amore.
+|![Icon](https://guidatv.sky.it/uuid/de7c1ffd-1434-4f6a-be1f-11824e86bd12/cover?md5ChecksumParam=0081f170a3e7a6f43fd60dc98b49ad0a)|Il medico dei pazzi|08:30:00|10:05:00|Toto&#039; crede che il nipote sia uno psichiatra, mentre il ragazzo e&#039; solo intento a godersi la vita. Soprira&#039; l&#039;inganno...
+|![Icon](https://guidatv.sky.it/uuid/3be180bd-2547-4398-82a1-33a8ff1bf548/cover?md5ChecksumParam=97fa584d77f733ffc214236c839adef2)|La coppia dei campioni|10:05:00|11:40:00|Un direttore marketing ed un magazziniere si ritrovano compagni di viaggio: devono assistere alla finale di Champions League a Praga.
+|![Icon](https://guidatv.sky.it/uuid/b49f7103-952e-43a8-9181-9dc9b06c5301/cover?md5ChecksumParam=a43d8259b05fb7bfb6ab6bbc38b66c72)|La promessa dell&#039;alba|11:40:00|14:00:00|La vicenda di Romain Gary, uno dei piu&#039; grandi romanzieri del Novecento francese, dominato da una figura materna ingombrante.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Separati ma non troppo|14:00:00|15:40:00|Una coppia in crisi e prossima al divorzio e&#039; costretta a una difficile convivenza forzata, tra gioie e dolori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sole rosso|15:40:00|17:40:00|Un samurai, di scorta ad un ambasciatore giapponese a Washington, ha dieci giorni per recuperare una preziosa spada rubata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Toto&#039; le Moko|17:40:00|19:10:00|Una delle piu&#039; riuscite parodie di Toto&#039;. Scelto come erede di un boss, si affida ad una pozione che lo rende coraggioso.
+|![Icon](https://guidatv.sky.it/uuid/81d265c7-c872-4e76-adc9-40a1619c7989/cover?md5ChecksumParam=76219fda6711cc42312ae487162ee76e)|Miracles From Heaven|19:10:00|21:00:00|Una famiglia si stringe intorno ad una bambina affetta da una rara malattia, finche&#039; non accade un vero miracolo che diffondera&#039; ottimismo.
+|![Icon](https://guidatv.sky.it/uuid/ee1f156a-da42-4765-90f3-68fac5933905/cover?md5ChecksumParam=96d7e383914209e0d93c752dd89a24c7)|50 primavere|21:00:00|22:35:00|Aurore e&#039; convinta che a 50 anni la societa&#039; le stia gia&#039; chiedendo di farsi da parte, ma forse e&#039; solo il momento di cominciare una nuova vita.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Women|22:35:00|00:35:00|La vita di una donna della ricca borghesia e delle sue amiche viene sconvolta quando scopre il tradimento del marito.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

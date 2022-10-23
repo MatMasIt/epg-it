@@ -1,5 +1,5 @@
 # Cartoon Network Italia +1
-> Programmazione di Sabato 22 Ottobre 2022
+> Programmazione di Domenica 23 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
