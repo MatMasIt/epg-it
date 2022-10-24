@@ -1,0 +1,13 @@
+# EQUtv
+> Programmazione di Domenica 23 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Rassegna Stampa (diretta)|09:00:00|09:30:00|Resoconto della rassegna stampa del giorno prima con focus sul mondo ippico
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Derby di Trotto (diretta)|11:15:00|13:00:00|Speciale Diretta TV in occasione del Gran Premio di Merano con immagini e commenti dall&#039;ippodromo Maia
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Derby di Trotto (diretta)|13:00:00|18:00:00|Speciale Diretta TV in occasione del Gran Premio di Merano con immagini e commenti dall&#039;ippodromo Maia
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dopo Corsa (diretta)|18:00:00|18:15:00|Rubrica settimanale in cui si analizzano le corse piu importanti del week-end appena trascorso
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

@@ -1,5 +1,5 @@
 # Sky Documentaries +1 HD
-> Programmazione di Domenica 23 Ottobre 2022
+> Programmazione di Lunedì 24 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
