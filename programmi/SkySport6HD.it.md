@@ -3,7 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/f6e4584c-2515-4296-8faf-afc7cb93b3b7/cover?md5ChecksumParam=94e8aa3dec324ffbc5cf8dd3406d04bd)|Recanatese - Siena|12:00:00|15:00:00|Campionato Serie C - 10a giornata- Girone B - Ore 14:30
+|![Icon](https://guidatv.sky.it/uuid/d68f0464-b5bf-4c02-b571-44abf3345435/cover?md5ChecksumParam=43243c4359724b36dc1b0eff647fa04d)|Siviglia - Copenaghen|16:00:00|18:55:00|Cod. 455044 - UEFA Champions League - 5a giornata. Calcio d&#039;inizio ore 18:45.
+|![Icon](https://guidatv.sky.it/uuid/dbbd9006-826f-4707-929e-670b656aa6a1/cover?md5ChecksumParam=ddb3fa5540ceb4cf94f9602650ac55bf)|Paris - Maccabi Haifa|18:55:00|22:30:00|Cod. 455088 - UEFA Champions League - 5a giornata. Calcio d&#039;inizio ore 21:00.
 
 
 

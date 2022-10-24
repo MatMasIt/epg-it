@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/4e3efe00-c62a-4f1b-b6da-0796d06b0cad/cover?md5ChecksumParam=e7ab76a474ffed11b6366cf5c2da8e02)|Bochum - Union Berlino|13:00:00|16:30:00|Calcio Bundesliga 11a giornata. Dalle ore 15:30
+|![Icon](https://guidatv.sky.it/uuid/b6452fb0-f004-4d94-b482-8e85231cbb22/cover?md5ChecksumParam=58ba85d44318d7fe9cb482c385820318)|Lipsia - Real Madrid|18:00:00|22:30:00|Cod. 455099 - UEFA Champions League - 5a giornata. Calcio d&#039;inizio ore 21:00.
 
 
 
