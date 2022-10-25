@@ -1,5 +1,5 @@
 # Sky Sport F1
-> Programmazione di Lunedì 24 Ottobre 2022
+> Programmazione di Martedì 25 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
