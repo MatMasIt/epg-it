@@ -16,8 +16,8 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Power Lunch|18:00:00|19:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell|19:00:00|20:00:00|Experts share how the markets are moving and what is driving them.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell: Overtime|20:00:00|21:00:00|Experts discuss all of the after-hours moves in the stock market.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equity and Opportunity|21:00:00|21:30:00|Community Jameel - Community Jameel uses data to solve human problems.
-|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:30:00|22:30:00|Robert De Niro; Chloe Fineman; Arctic Monkeys.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Managing Asia|21:00:00|21:30:00|Sustainable Future: Future Trends Part One - Business leaders discuss the latest trends for sustainable business.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:30:00|22:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Street Signs|01:00:00|04:00:00|Breaking trade information includes market trends and underestimated stocks.
@@ -33,10 +33,10 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Power Lunch|18:00:00|19:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell|19:00:00|20:00:00|Experts share how the markets are moving and what is driving them.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell: Overtime|20:00:00|21:00:00|Experts discuss all of the after-hours moves in the stock market.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Managing Asia|21:00:00|21:30:00|Sustainable Future: Future Trends Part One - Business leaders discuss the latest trends for sustainable business.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|21:00:00|21:30:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:30:00|22:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Squawk Box|23:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Squawk Box|23:00:00|00:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day to reveal insights into the top market-moving stories.
 
 
 
