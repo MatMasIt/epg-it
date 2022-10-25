@@ -3,20 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La banda di Harry Spikes|00:35:00|02:10:00|Tre cowboy inesperti si uniscono al carismatico Harry Spikes, veterano delle rapine. Ma li aspetta un destino di sangue.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|02:10:00|03:00:00|S1 - Una serie di dodici storie d&#039;amore, un sentimento che esaspera la realta&#039; e arricchisce la vita di un pizzico di follia.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Peccato d&#039;amore|03:00:00|04:50:00|Sir William, membro del Parlamento inglese, sposa Caroline contro il volere della famiglia. La donna diverra&#039; l&#039;amante di un poeta in miseria.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|In ginocchio da te|04:50:00|06:50:00|Durante il servizio militare, il giovane cantante Gianni Traimonti s&#039;innamora ricambiato della figlia di un maresciallo, Carla Todisco.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|06:50:00|06:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Squadra antifurto|06:55:00|08:40:00|Le avventure di un ex criminale, Nico Giraldi, diventato un poliziotto infallibile, ma dai metodi decisamente poco ortodossi.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La collera di Dio|08:40:00|10:40:00|Da un romanzo di James Graham, la storia di un&#039;indiana, un sacerdote e un avventuriero, contrabbandieri di alcol in Messico.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e fantasia|10:40:00|12:20:00|Antonio, maresciallo dei Carabinieri, divide le sue attenzioni galanti tra la giovane &#039;Bersagliera&#039; e la piu&#039; matura levatrice Annarella.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piedone lo sbirro|12:20:00|14:20:00|A Napoli, l&#039;ispettore Rizzo, ostacolato dal nuovo commissario capo che ne disapprova i metodi, combatte una banda di narcotrafficanti marsigliesi.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bang Bang!|14:20:00|17:10:00|Il coraggioso Rajveer incontra la bella Harleen. Dall&#039;Inghilterra all&#039;India, i due vengono inseguiti da un gruppo di uomini spietati.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cara sposa|17:10:00|19:10:00|Un truffatore milanese, appena uscito di prigione, viene lasciato dalla moglie, che gli ha preferito un napoletano verace.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultimo apache|19:10:00|20:50:00|Nel 1886 le truppe americane sconfiggono Geronimo, ma il giovane Massai non accetta la sconfitta e continua la battaglia ai bianchi.
-|![Icon](https://guidatv.sky.it/uuid/3369e279-2517-4a49-b1a5-963676d9c396/cover?md5ChecksumParam=0bf9a256594aa3c911df5c122a1a743f)|Chato|20:50:00|22:40:00|Charles Bronson e&#039; Chato, un mezzosangue braccato per aver ucciso uno sceriffo per legittima difesa. Per salvarsi uccidera&#039; ancora.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La mia super ex ragazza|22:40:00|00:15:00|Le avventure, soprattutto sentimentali, di G-Girl, una supereroina che cela la sua identita&#039; dietro quella delle timida Jenny.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arianna|00:15:00|01:35:00|Arianna, una ragazza di diciannove anni, prende consapevolezza della propria sessualita&#039; durante un&#039;estate trascorsa sul Lago di Bolsena.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sgorbi|01:35:00|03:00:00|Incaricato di sponsorizzare un componente chimico, Ricky scopre che la molecola e&#039; responsabile di mostruose deformita&#039;.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La spia russa|03:00:00|04:30:00|Mosca, Guerra Fredda. L&#039;affascinante Katya e&#039; incaricata di rubare i segreti di un politico, ma se ne innamora perdutamente.
@@ -32,6 +18,21 @@
 |![Icon](https://guidatv.sky.it/uuid/c3b5401f-25bc-41c1-9073-297b2847bf81/cover?md5ChecksumParam=1781a5a8c4bbc1ae0655abf2708021bf)|Moonlight - Tre storie di una vita|21:10:00|23:10:00|Un ragazzo di colore, Chiron, cresciuto nei sobborghi di Miami con una madre tossicodipendente, cerca di trovare il suo posto nel mondo.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:10:00|23:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
 |![Icon](https://guidatv.sky.it/uuid/b38d6def-e78e-4aa3-a0f9-c82e72c35ac6/cover?md5ChecksumParam=2f2bb1e5fe29696e12c931ebd02cdec9)|The Hollars|23:15:00|00:50:00|Tornato nella cittadina natale per la malattia della madre, un artista in crisi creativa incontra la sua fidanzata di un tempo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Io sono un campione|00:50:00|03:00:00|Un umile minatore diventa un campione di rugby, ma il successo, anziche&#039; migliorare la sua vita, rovinera&#039; i suoi rapporti piu&#039; autentici.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultima estate a Tangeri|03:00:00|05:00:00|Travolto dalla bellezza seducente di una ragazza, un detective viene dapprima coinvolto nell&#039;omicidio di un avvocato, poi in un intrigo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I nuovi mostri|05:00:00|06:55:00|Quattordici brevi episodi su vizi e meschinita&#039; dell&#039;essere italiano. Sullo sfondo, il pessimismo degli anni di piombo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|06:55:00|07:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Squadra antimafia|07:00:00|08:45:00|Per scoprire l&#039;assassino di un testimone, il commissario Nico Giraldi si fa arrestare, evade e si mette al servizio di un boss.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fantozzi subisce ancora|08:45:00|10:15:00|Il ragionier Ugo Fantozzi, impiegato presso una grande azienda, e&#039; alle prese con le sue solite, umilianti disavventure.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|10:15:00|12:00:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piedone l&#039;africano|12:00:00|14:05:00|Un agente sudafricano viene ucciso. Il commissario Rizzo viene incaricato delle indagini su una compagnia mineraria sospetta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultimo apache|14:05:00|15:45:00|Nel 1886 le truppe americane sconfiggono Geronimo, ma il giovane Massai non accetta la sconfitta e continua la battaglia ai bianchi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arriva Sabata!|15:45:00|17:25:00|Tre rapinatori, Sabata, Mangosta e Peter, rapinano una banca. Mangosta, credendo di farla franca, ruba il malloppo e scappa in Messico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Luna di miele in tre|17:25:00|19:10:00|Prossimo alle nozze, un uomo vince un viaggio in Giamaica con una modella: cerchera&#039; di conciliare l&#039;inconciliabile.
+|![Icon](https://guidatv.sky.it/uuid/9f4ea0f3-697d-4b8a-b468-953820bf1b97/cover?md5ChecksumParam=7c8430742d84211d3a92b6e4b52383e5)|Un&#039;avventura|19:10:00|21:00:00|Due innamorati si separano quando lei decide di girare il mondo. Al suo ritorno, e&#039; molto cambiata. Riconquistarla diventera&#039; un&#039;avventura!
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|21:00:00|21:25:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Magnifica presenza|21:25:00|23:20:00|Un pasticcere tenta la strada del successo come attore e si ritrova come &#039;coinquilini&#039; gli spiriti di una famiglia di comici.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Swimming Pool|23:20:00|01:10:00|Una scrittrice in crisi accetta di passare alcuni giorni dal suo editore e rimane attratta dal torbido fascino della figlia.
 
 
 
