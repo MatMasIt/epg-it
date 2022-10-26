@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Martedì 25 Ottobre 2022
+> Programmazione di Mercoledì 26 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
