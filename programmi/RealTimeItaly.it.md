@@ -1,5 +1,5 @@
 # Real Time Italia
-> Programmazione di Mercoledì 26 Ottobre 2022
+> Programmazione di Giovedì 27 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
