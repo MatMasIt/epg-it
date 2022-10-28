@@ -1,5 +1,5 @@
 # Sky Cinema Due
-> Programmazione di Giovedì 27 Ottobre 2022
+> Programmazione di Venerdì 28 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
