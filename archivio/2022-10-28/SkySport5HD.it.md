@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/355f2727-c7bf-41a7-9812-a6bfcd83a6ee/cover?md5ChecksumParam=f646b11e56a03aae3cc39673d3395652)|Ludogorets - Betis|16:00:00|18:55:00|Cod. 455191 - UEFA Europa League - 5a giornata. Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/66ea43d2-8ef7-4c6d-aac2-62f699185aaf/cover?md5ChecksumParam=f28d2ede5133bf2aefe03022099627b9)|Sturm Graz - Feyenoord|18:55:00|22:30:00|Cod. 455237 - UEFA Europa League - 5a giornata. Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/149e359a-baaf-41d1-bd8b-bc43c4b417dd/cover?md5ChecksumParam=b4c3f6fa61c49afdc343ab5d7ee6d531)|Benevento - Pisa|11:30:00|14:30:00|Cod. 454533 - Serie B - 11a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/f7397921-eda7-4525-9263-47590b7119b0/cover?md5ChecksumParam=01b40221d1a0306be1ea5937ab3199ac)|Paris - Troyes|14:30:00|18:00:00|Calcio internazionale Ligue 1 - 13a giornata. Ore 17:00
 
 
 
