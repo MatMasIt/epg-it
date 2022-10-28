@@ -3,9 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/ec1bb822-826e-4799-a8fd-24726bc74ebe/cover?md5ChecksumParam=a3e9f569be6fc5675dd5d80b9cd87411)|Olympiacos - A.S. Monaco|04:00:00|16:00:00|Basket Eurolega - Round 5 - Dalle 18:45
-|![Icon](https://guidatv.sky.it/uuid/ec1bb822-826e-4799-a8fd-24726bc74ebe/cover?md5ChecksumParam=a3e9f569be6fc5675dd5d80b9cd87411)|Olympiacos - A.S. Monaco|16:00:00|16:15:00|Basket Eurolega - Round 5 - Dalle 18:45
-|![Icon](https://guidatv.sky.it/uuid/96319424-a3b7-4ef0-9620-ab2049b66db9/cover?md5ChecksumParam=a3e9f569be6fc5675dd5d80b9cd87411)|Olympiacos - A.S. Monaco|16:15:00|20:00:00|Basket Eurolega - Round 5 - Ore 18:45
+|![Icon](https://guidatv.sky.it/uuid/42531ab5-e839-4788-ac7d-4f83d9a46cac/cover?md5ChecksumParam=509bcfafa5313c13550df16a1fd7f3dc)|Parma - Como|11:30:00|14:30:00|Cod. 454577 - Serie B - 11a giornata. Calcio d&#039;inizio ore 14:00.
 
 
 

@@ -10,7 +10,7 @@
 |![Icon](https://guidatv.sky.it/uuid/d210f347-cfdb-4d7e-ae08-1f93c404fc8d/cover?md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=535)|Nessun evento in onda|04:00:00|10:00:00|ZONA DAZN 2 si attivera&#039; in occasione di eventi di Serie A TIM trasmessi in contemporanea.
 |![Icon](https://guidatv.sky.it/uuid/d210f347-cfdb-4d7e-ae08-1f93c404fc8d/cover?md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=535)|Nessun evento in onda|10:00:00|16:00:00|ZONA DAZN 2 si attivera&#039; in occasione di eventi di Serie A TIM trasmessi in contemporanea.
 |![Icon](https://guidatv.sky.it/uuid/d210f347-cfdb-4d7e-ae08-1f93c404fc8d/cover?md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=535)|Nessun evento in onda|16:00:00|22:00:00|ZONA DAZN 2 si attivera&#039; in occasione di eventi di Serie A TIM trasmessi in contemporanea.
-|![Icon](https://guidatv.sky.it/uuid/d210f347-cfdb-4d7e-ae08-1f93c404fc8d/cover?md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=535)|Nessun evento in onda|22:00:00|04:00:00|ZONA DAZN 2 si attivera&#039; in occasione di eventi di Serie A TIM trasmessi in contemporanea.
+|![Icon](https://guidatv.sky.it/uuid/d210f347-cfdb-4d7e-ae08-1f93c404fc8d/cover?md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&sid=535)|Nessun evento in onda|22:00:00|05:00:00|ZONA DAZN 2 si attivera&#039; in occasione di eventi di Serie A TIM trasmessi in contemporanea.
 
 
 

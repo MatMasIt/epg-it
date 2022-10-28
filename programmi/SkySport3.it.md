@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/4db25005-ed57-4400-b02a-198e54e94629/cover?md5ChecksumParam=d945bb9bd74b7a52895d8fa23ab12035)|Lazio - Midtjylland|16:00:00|18:55:00|Cod. 455180 - UEFA Europa League - 5a giornata. Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/4c8d46fa-386e-46f5-b9bb-9fcddb071d2c/cover?md5ChecksumParam=1f9df2af679541fe591f65459619ba9f)|Hjk Helsinki - Roma|18:55:00|22:30:00|Cod. 455215 - UEFA Europa League - 5a giornata. Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/d064b822-8d50-4819-b3a5-fc559797569d/cover?md5ChecksumParam=90eba71aee68d6ae605c83dd3ec9cb50)|Venezia - Ascoli|11:30:00|14:30:00|Cod. 454599 - Serie B - 11a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/3b11253f-2518-42ff-ab68-e07418197c2f/cover?md5ChecksumParam=615279982f392a3e63c393d4c355c0c8)|29/10/22|15:00:00|18:30:00|Diretta Gol Serei C - 11a giornata. Ore 17:30
 
 
 
