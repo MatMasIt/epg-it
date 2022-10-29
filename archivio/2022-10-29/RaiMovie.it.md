@@ -1,0 +1,42 @@
+# Rai Movie
+> Programmazione di Venerdì 28 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:00:00|00:05:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|00:05:00|00:30:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Italiani, brava gente|00:30:00|03:00:00|Quattro uomini, membri di un reggimento italiano durante la campagna russa del 41-43, ne raccontano la disfatta.
+|![Icon](https://guidatv.sky.it/uuid/b38d6def-e78e-4aa3-a0f9-c82e72c35ac6/cover?md5ChecksumParam=2f2bb1e5fe29696e12c931ebd02cdec9)|The Hollars|03:00:00|04:20:00|Tornato nella cittadina natale per la malattia della madre, un artista in crisi creativa incontra la sua fidanzata di un tempo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pappa e ciccia|04:20:00|06:00:00|Le vicende di un imbianchino imbroglione e un impiegato vittima di disavventure. Con la coppia Lino Banfi e Paolo Villaggio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Delitto a Porta Romana|06:00:00|07:40:00|Il ladro &#039;Venticello&#039; si introduce in un appartamento dove viene assassinata una donna. E lui, testimone, ne fara&#039; le spese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Women|07:40:00|09:40:00|La vita di una donna della ricca borghesia e delle sue amiche viene sconvolta quando scopre il tradimento del marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sedotta e abbandonata|09:40:00|11:50:00|Sedotta dal fidanzato della sorella, ora e&#039; costretta a sposarlo, ma il giovanotto rifiuta. La situazione degenera nel grottesco.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I lunghi giorni della vendetta|11:50:00|14:00:00|Ted evade di prigione per vendicare la morte del padre. Ci riuscira&#039; grazie all&#039;aiuto di una donna e di un onesto giudice.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli imperdibili|14:00:00|14:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I tre del Colorado|14:05:00|15:40:00|I meticci dell&#039;Hudson si ribellano ai soprusi dei coloni inglesi e rapiscono la figlia di un industriale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultimo apache|15:40:00|17:20:00|Nel 1886 le truppe americane sconfiggono Geronimo, ma il giovane Massai non accetta la sconfitta e continua la battaglia ai bianchi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lazzarella|17:20:00|19:10:00|Sandra, innamorata di Luciano anche se povero, si sente costretta a sposare un amico ricco per salvare la sua famiglia dalla bancarotta.
+|![Icon](https://guidatv.sky.it/uuid/f42bedea-ccb8-43d1-af00-aa949abf988c/cover?md5ChecksumParam=c62db7e0c19c257c3431789c356ad3d0)|Amore, cucina e curry|19:10:00|21:15:00|Una chef dichiara guerra al bistrot indiano che le fa concorrenza, ma il talento culinario del rivale colpira&#039; nel segno.
+|![Icon](https://guidatv.sky.it/uuid/b49f7103-952e-43a8-9181-9dc9b06c5301/cover?md5ChecksumParam=a43d8259b05fb7bfb6ab6bbc38b66c72)|La promessa dell&#039;alba|21:15:00|23:35:00|La vicenda di Romain Gary, uno dei piu&#039; grandi romanzieri del Novecento francese, dominato da una figura materna ingombrante.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:35:00|23:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/2da59470-eb7a-45cc-8026-be87ca2bc047/cover?md5ChecksumParam=5a2da9f67a1c309afe78aaf42607ca79)|Lo scandalo Kennedy|23:40:00|01:30:00|L&#039;ennesimo scandalo sulla famiglia Kennedy, taciuto per anni: l&#039;uccisione involontaria di una donna ad opera di Ted Kennedy.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mi chiamo Maya|01:30:00|03:00:00|Rimaste orfane di madre, due sorelle, pur di non separarsi, decidono di fuggire dalla casa famiglia cui erano state affidate.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Capri-Revolution|03:00:00|04:50:00|Alla vigilia della Prima guerra mondiale, sull&#039;isola di Capri giunge un gruppo di giovani artisti nordeuropei.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultimo apache|04:50:00|06:20:00|Nel 1886 le truppe americane sconfiggono Geronimo, ma il giovane Massai non accetta la sconfitta e continua la battaglia ai bianchi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Angeli senza Paradiso|06:20:00|07:55:00|La storia dell&#039;amore, tormentato e difficile fino al dramma, tra il giovane musicista Shubert e la contessina Anna Rostkov.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|07:55:00|08:20:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|08:20:00|08:25:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un jeans e una maglietta|08:25:00|10:00:00|Sketch comici e buoni sentimenti nella storia di un barista e cantante, innamorato di una donna contesa da un riccone.
+|![Icon](https://guidatv.sky.it/uuid/f42bedea-ccb8-43d1-af00-aa949abf988c/cover?md5ChecksumParam=c62db7e0c19c257c3431789c356ad3d0)|Amore, cucina e curry|10:00:00|12:05:00|Una chef dichiara guerra al bistrot indiano che le fa concorrenza, ma il talento culinario del rivale colpira&#039; nel segno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli imperdibili|12:05:00|12:10:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/7a0ea7da-12e0-43c1-9553-66ed7f6f4872/cover?md5ChecksumParam=e4674b23daaee232ef755b8640b5b906)|Tutto cio&#039; che voglio|12:10:00|14:00:00|Una giovane autistica decide di fuggire nel tentativo di sottoporre il suo manoscritto ad un concorso di scrittura.
+|![Icon](https://guidatv.sky.it/uuid/57714d01-b6b2-47ae-996e-6546e830f1c1/cover?md5ChecksumParam=d579858795a39785002c5c57a84f9a83)|Arrivano i prof|14:00:00|15:45:00|Per evitare la chiusura di un disastroso liceo, il preside decide di fare un ultimo folle tentativo, reclutando i peggiori insegnanti.
+|![Icon](https://guidatv.sky.it/uuid/b54129bb-68df-406d-8cea-9397024b8e12/cover?md5ChecksumParam=8915349835fae0113d3ecd745b3f5d24)|Ricchi di fantasia|15:45:00|17:40:00|La vita clandestina di due amanti, alle prese con problemi economici, sembra poter cambiare grazie a una vincita alla lotteria.
+|![Icon](https://guidatv.sky.it/uuid/00abc77b-a586-4ba5-b70b-fc016223e069/cover?md5ChecksumParam=7cea315037cfb24e3fbd54aef374cf23)|Nati stanchi|17:40:00|19:10:00|Due ragazzi siciliani, chiamati dalla societa&#039; a rendersi utili, fingono con abile disinvoltura di impegnarsi nella ricerca di lavoro.
+|![Icon](https://guidatv.sky.it/uuid/818804b6-c69a-4baf-88a8-e0c4a35ccc42/cover?md5ChecksumParam=b370ec476555cf3da10d94c079fd717c)|Book Club - Tutto puo&#039; succedere|19:10:00|21:00:00|Quattro amiche di vecchia data cambiano la loro vita dopo aver letto &#039;Cinquanta sfumature di grigio&#039; nel loro club del libro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sex and the city|21:00:00|23:35:00|Il film tratto dalla leggendaria serie che segue le vicende di quattro disinibite e intelligenti amiche di New York.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Wolf of Wall Street|23:35:00|03:25:00|L&#039;incredibile ascesa del broker newyorkese Jordan Belfort, capace di costruire un impero economico truffando gli investitori tra droghe e vita spericolata.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

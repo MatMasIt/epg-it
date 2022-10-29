@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Venerdì 28 Ottobre 2022
+> Programmazione di Sabato 29 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
