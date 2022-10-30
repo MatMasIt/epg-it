@@ -1,5 +1,5 @@
 # Eurosport 2 Italia
-> Programmazione di Sabato 29 Ottobre 2022
+> Programmazione di Domenica 30 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
