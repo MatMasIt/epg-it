@@ -1,0 +1,72 @@
+# CNBC Europe
+> Programmazione di Sabato 29 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Managing Asia|00:00:00|00:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tech Transformers|00:30:00|01:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Managing Asia|01:00:00|02:00:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Managing Asia|02:00:00|02:30:00|The top CEOs, entrepreneurs and business leaders from the Asia-Pacific region are interviewed to shed insights into how they have cultivated success.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tech Transformers|02:30:00|03:00:00|Technological innovations solve important issues and transform big business; experts in the field share their insights and thoughts.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The News with Shepard Smith|03:00:00|04:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|04:00:00|04:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|04:30:00|05:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The CNBC Debate|05:00:00|05:30:00|Asia&#039;s Energy Transition - Experts discuss energy-related policies and regulatory approaches.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Conversation|05:30:00|06:00:00|Patrick Chappette - Patrick Chappatte discusses freedom of speech and cancel culture.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The News with Shepard Smith|06:00:00|07:00:00|Host Shepard Smith presents a nightly newscast featuring non-partisan details about the day&#039;s most important stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Answers with Bayless Conley|07:00:00|07:30:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|07:30:00|08:00:00|Billionaire Beach; A Mystery Super Jet - An exclusive beach is a private oasis; a $30 million jet&#039;s secretive owner.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|08:00:00|08:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|08:30:00|09:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|American Greed: Scams, Scoundrels and...|09:00:00|10:00:00|American Greed: Scams, Scoundrels and Scandals - A trader whose investment fund collapsed in 2005 drew a 20-year sentence.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Sports|10:00:00|12:00:00|PGA TOUR: The CJ Cup in South Carolina Rds 3 &amp; 4 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Sports|12:00:00|12:30:00|European Le Mans 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|RIDE FEI Originals|12:30:00|13:00:00|An in-depth look at the bond between horses and humans.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Longines FEI Jumping World Cup 2022/2...|13:00:00|14:00:00|Longines FEI Jumping World Cup 2022/23 - Western European League - No Information Available
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The CNBC Debate|14:00:00|14:30:00|Asia&#039;s Energy Transition - Experts discuss energy-related policies and regulatory approaches.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Conversation|14:30:00|15:00:00|Patrick Chappette - Patrick Chappatte discusses freedom of speech and cancel culture.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|American Greed: Scams, Scoundrels and...|15:00:00|16:00:00|American Greed: Scams, Scoundrels and Scandals - A lawyer is accused of laundering over $50 million from a trust fund in order to buy himself World War II era planes, property and pay off debts.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|16:00:00|16:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|16:30:00|17:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The CNBC Debate|17:00:00|17:30:00|Asia&#039;s Energy Transition - Experts discuss energy-related policies and regulatory approaches.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Conversation|17:30:00|18:00:00|Patrick Chappette - Patrick Chappatte discusses freedom of speech and cancel culture.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|American Greed: Scams, Scoundrels and...|18:00:00|19:00:00|American Greed: Scams, Scoundrels and Scandals - A trader whose investment fund collapsed in 2005 drew a 20-year sentence.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|19:00:00|20:00:00|Robert De Niro; Chloe Fineman; Arctic Monkeys.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Taylor Swift; Meghan Trainor is interviewed and performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:00:00|22:00:00|Sigourney Weaver; Michaela Coel; Zedd and Maren Morris perform.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|22:00:00|22:30:00|Billionaire Beach; A Mystery Super Jet - An exclusive beach is a private oasis; a $30 million jet&#039;s secretive owner.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|NBC Nightly News|22:30:00|23:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|23:00:00|01:00:00|Robert De Niro; Chloe Fineman; Arctic Monkeys.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|01:00:00|02:00:00|Sigourney Weaver; Michaela Coel; Zedd and Maren Morris perform.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|02:00:00|03:00:00|Selena Gomez; Rose Byrne; Isabel Hagen.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|03:00:00|04:00:00|Millie Bobby Brown; Michael Imperioli; Tegan and Sara performs.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|04:00:00|05:00:00|Rachel Maddow; Noah Centineo; Fabien Frankel; Remi Wolf performs.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|05:00:00|05:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|05:30:00|06:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/03b4fa26-134a-4288-92dd-5e377b4222ab/cover?md5ChecksumParam=56d6488f2be13d61781dad335a9500be)|La vita segreta dei milionari|06:00:00|06:30:00|Secrets from Madoff&#039;s Penthouse and X-Rated Pocket Porn - An exclusive look is taken at the penthouse once owned by Bernie Madoff.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leading The Way with Dr. Michael Youssef|06:30:00|07:00:00|Author and evangelist Dr. Michael Youssef, the founding pastor of The Church Of The Apostles in Atlanta, Georgia, brings a fresh approach to messages.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Joel Osteen|07:00:00|07:30:00|Religious programme.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Answers with Bayless Conley|07:30:00|08:00:00|Pastor Conley&#039;s troubled teenage years led him to search for truth, and now, his sensible story of the Gospel conveys genuine answers to real-life problems.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|In Touch Ministries|08:00:00|08:30:00|In Touch Ministries, founded by Pastor Dr. Charles Stanley, shares sermons and other uplifting messages tackling a range of subjects.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Joseph Prince - New Creation Church TV|08:30:00|09:00:00|Senior Pastor Joseph Prince leads viewers in a time of worship and study as he addresses a series of religious topics designed to encourage individuals.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Elevation with Steven Furtick|09:00:00|09:30:00|Pastor Steven Furtick leads the followers of Elevation Church in an exciting and informative celebration of their beliefs and of God&#039;s teachings.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leading The Way with Dr. Michael Youssef|09:30:00|10:00:00|Author and evangelist Dr. Michael Youssef, the founding pastor of The Church Of The Apostles in Atlanta, Georgia, brings a fresh approach to messages.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|American Greed: Scams, Scoundrels and...|10:00:00|11:00:00|American Greed: Scams, Scoundrels and Scandals - A lawyer is accused of laundering over $50 million from a trust fund in order to buy himself World War II era planes, property and pay off debts.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Sports|11:00:00|13:00:00|PGA TOUR: The CJ Cup in South Carolina Rds 3 &amp; 4 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|FEI World Equestrian Games 2022|13:00:00|13:30:00|FEI Dressage World Championships, Para Dressage - Coverage of the 2022 FEI Dressage Team World Championship.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|FEI World Equestrian Games 2022|13:30:00|14:00:00|FEI Vaulting World Championships, Highlights - Coverage of the 2022 FEI Dressage Team World Championship.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Sports|14:00:00|15:00:00|European Le Mans 2022 - Some of the biggest sporting events from around the world are presented.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|15:00:00|15:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|15:30:00|16:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meet the Press|16:00:00|17:00:00|Roundtable talks and interviews address current events.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Profit|17:00:00|18:00:00|Snowdays - The host meets with the owner of an Asian-inspired shaved cream shop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNBC Meets: Defining Values|18:00:00|18:30:00|HH Sheikha Moza bint Nasser - Her Highness Sheikha Moza bint Nasser discusses how education is threatened.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|18:30:00|19:00:00|Merlin Entertainments - Dan Murphy learns about the marketing strategies of Legoland Sea Life.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meet the Press|19:00:00|20:00:00|Roundtable talks and interviews address current events.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|20:00:00|21:00:00|Selena Gomez; Rose Byrne; Isabel Hagen.
+|![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|21:00:00|22:00:00|Millie Bobby Brown; Michael Imperioli; Tegan and Sara performs.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Squawk Box|22:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
