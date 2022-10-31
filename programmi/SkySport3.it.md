@@ -3,8 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/04c4d635-9f41-40d5-9a66-c0382b157b05/cover?md5ChecksumParam=615279982f392a3e63c393d4c355c0c8)|30/10/22|13:00:00|16:00:00|Diretta Gol Serei C - 11a giornata. Ore 14:30 e 17:30
-|![Icon](https://guidatv.sky.it/uuid/04c4d635-9f41-40d5-9a66-c0382b157b05/cover?md5ChecksumParam=615279982f392a3e63c393d4c355c0c8)|30/10/22|16:00:00|19:30:00|Diretta Gol Serei C - 11a giornata. Ore 14:30 e 17:30
+|![Icon](https://guidatv.sky.it/uuid/28c17632-25ad-4268-8b9d-5d1f5bb12b66/cover?md5ChecksumParam=e612f6b9091ed3349f116e46ffe84503)|Liverpool - Napoli|19:00:00|23:30:00|Cod. 455282 - UEFA Champions League - 6a giornata. Calcio d&#039;inizio ore 21:00.
 
 
 

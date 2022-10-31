@@ -3,25 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Dyson, innovazione per i tuoi capelli|07:00:00|09:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|09:00:00|10:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buongiorno Bellezza Speciale BlackFriday|10:00:00|12:00:00|Ogni domenica alle 11,c&#039;e&#039; un momento in piu&#039; da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu&#039; belle
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Campo Marzio, accessori per essere unica|12:00:00|13:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con De&#039;Longhi|13:00:00|14:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Dyson, innovazione per i tuoi capelli|14:00:00|15:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|15:00:00|16:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Dyson, innovazione per i tuoi capelli|16:00:00|17:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In cucina con De&#039;Longhi|17:00:00|18:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Dyson, innovazione per i tuoi capelli|18:00:00|20:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; moda Speciale Black Friday|20:00:00|22:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Dyson, innovazione per i tuoi capelli|22:00:00|23:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Marzotto Home, inconfondibile eleganza|23:00:00|00:00:00|Scopri QVC. Scopri Marzotto Home brand storico fondato nel 1836 in provincia di Vicenza. Nome conosciuto in tutto il mondo, grazie al suo stile inconfondibile e alla cura sartoriale
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
@@ -44,6 +25,28 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|La tua favola Diamonique: Black Friday|20:00:00|21:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Vesti la tua casa con Marzotto|21:00:00|23:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|23:00:00|00:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|The Beauty Show con Elizabeth Grant|07:00:00|09:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Extesa, Tutte le donne che sei|09:00:00|10:00:00|Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|E&#039; tutta un&#039;altra casa con Philips|10:00:00|11:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|The Beauty Show con Elizabeth Grant|11:00:00|12:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Bianca, tutto il fascino del platino|12:00:00|13:00:00|Scopri Bianca, una linea unica di gioielli in argento placcati platino ai quali la qualita&#039; italiana dona una finitura esclusiva ed un&#039;ineguagliabile brillantezza.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Extesa, Tutte le donne che sei|13:00:00|14:00:00|Scopri QVC. Scopri Exstesa, una collezione di capi di produzione italiana da scegliere in base alle proprie attitudini ed esigenze: perfetti per il lavoro, la sera e i weekend di svago.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|14:00:00|15:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|E&#039; tutta un&#039;altra casa con Philips|15:00:00|16:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|16:00:00|17:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|17:00:00|18:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|18:00:00|19:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|19:00:00|20:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buonasera Bellezza Speciale Black Friday|20:00:00|22:00:00|Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|22:00:00|23:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade, le hit piu&#039; calde della moda|23:00:00|00:00:00|TV Shopping
 
 
 
