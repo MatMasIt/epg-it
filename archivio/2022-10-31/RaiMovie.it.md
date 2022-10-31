@@ -1,0 +1,37 @@
+# Rai Movie
+> Programmazione di Domenica 30 Ottobre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un nuovo imbroglio|03:25:00|04:00:00|Inseguiti da un poliziotto, Stanlio e Ollio si rifugiano nella cantina di una villa. Il proprietario della casa, il colonnello Wilbuforce Buckshot, parte, per lasciare i due alle prese col loro segugio.
+|![Icon](https://guidatv.sky.it/uuid/c3b5401f-25bc-41c1-9073-297b2847bf81/cover?md5ChecksumParam=1781a5a8c4bbc1ae0655abf2708021bf)|Moonlight - Tre storie di una vita|04:00:00|06:00:00|Un ragazzo di colore, Chiron, cresciuto nei sobborghi di Miami con una madre tossicodipendente, cerca di trovare il suo posto nel mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La mia super ex ragazza|06:00:00|06:05:00|Le avventure, soprattutto sentimentali, di G-Girl, una supereroina che cela la sua identita&#039; dietro quella delle timida Jenny.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nel sole|06:05:00|08:00:00|Carlo Carrera, studente e cameriere, s&#039;innamora della ricca Lorena. Fara&#039; di tutto per fingersi miliardario.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|08:00:00|08:05:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/c641e753-7a4a-4323-a8f6-f0fa7ea17d90/cover?md5ChecksumParam=6fad7217735da20f4eaf5875fdb69e10)|Miami Beach|08:05:00|09:40:00|Miami. Tra musica, equivoci e avventure romantiche, si intrecciano le avventure di tre adolescenti e dei rispettivi genitori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Toto&#039;, Fabrizi e i giovani d&#039;oggi|09:40:00|11:25:00|Due padri nemici tra loro, se ne fanno di tutti i colori a discapito dei rispettivi figli che progettano, invece, di sposarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Eye - Lo sguardo|11:25:00|13:15:00|Un agente dei servizi segreti britannici insegue fino in Alaska una misteriosa assassina che somiglia a sua moglie scomparsa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane e tulipani|13:15:00|15:20:00|Frustrata e trascurata, una casalinga di Pescara si ritrova da sola a Venezia. Assaporera&#039; l&#039;indipendenza e la felicita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|15:20:00|18:10:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/3484b4c3-eed6-4065-a8c8-f95a08fad65f/cover?md5ChecksumParam=99c69dc69f3ce9b05d7b4b71679d9af3)|Toto&#039;, Peppino e... la malafemmina|18:10:00|20:10:00|Toto&#039; e Peppino vanno a Milano per convincere un loro nipote, infatuato di un&#039;attrice del varieta&#039;, a tornare all&#039;universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/0484eb93-a8f6-426a-ab83-d0db202c0c3f/cover?md5ChecksumParam=b084c4424fd1ba5400fb00e6960b9658)|Belle &amp; Sebastien - Amici per sempre|20:10:00|21:40:00|Un uomo afferma di essere il padrone di Belle, ma Sebastien fara&#039; di tutto per impedire che porti via la sua amica e i cuccioli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una famiglia senza freni|21:40:00|23:15:00|La serena vacanza di una famiglia si trasforma in una surreale avventura quando si verifica un guasto all&#039;auto, che diventa fuori controllo.
+|![Icon](https://guidatv.sky.it/uuid/19c5d1df-3b88-400b-b682-605ced57af48/cover?md5ChecksumParam=5c25b95b00f637930174ba3a3f251cc7)|Io e Marley|23:15:00|01:20:00|Un nevrotico Labrador mette a dura prova la famiglia che lo possiede... e che fara&#039; importanti scoperte su se stessa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un uomo dalla pelle dura|01:20:00|02:50:00|&#039;Cherokee&#039;, un pugile deluso dal proprio manager, entra a far parte del gruppo di Tony Lamonaca. Gli intrighi lo coinvolgeranno ancora.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Allegri vagabondi|02:50:00|04:00:00|In viaggio per consegnare un testamento milionario, Stanlio e Ollio devono fare i conti con il perfido padrone di un saloon.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il figlio del gangster|04:00:00|05:25:00|Un ragazzo uccide senza volerlo un poliziotto. Il padre, industriale ma ex fuorilegge, cerca di aiutarlo ricorrendo non solo alle vie legali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;oro del mondo|05:25:00|07:05:00|Lorena, studentessa universitaria, e&#039; fidanzata con Carlo. Tutto bene finche&#039; non si fa avanti un ricco industriale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:05:00|07:10:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La risaia|07:10:00|08:55:00|Il padrone di una risaia riconosce in una sua mondina la figlia illegittima e la protegge senza svelarle la verita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/19c5d1df-3b88-400b-b682-605ced57af48/cover?md5ChecksumParam=5c25b95b00f637930174ba3a3f251cc7)|Io e Marley|08:55:00|10:55:00|Un nevrotico Labrador mette a dura prova la famiglia che lo possiede... e che fara&#039; importanti scoperte su se stessa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le meravigliose avventure di Marco Polo|10:55:00|12:55:00|Marco Polo si reca in Cina per portare il proprio sostegno al Kublai Khan. Il figlio di questi, sta tentando di destituirlo.
+|![Icon](https://guidatv.sky.it/uuid/3343f564-eeb1-4d7c-98ed-7cf727253769/cover?md5ChecksumParam=d64761ff198db6b0481d53eab08bd051)|Tre manifesti a Ebbing, Missouri|12:55:00|14:55:00|Un uomo accusa indirettamente di inefficienza il capo della Polizia. L&#039;omicidio di sua figlia, infatti, e&#039; rimasto irrisolto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sierra Charriba|14:55:00|17:05:00|La fuga attraverso il Messico del 1864 di Sierra Charriba, pericoloso rapitore di bambini indiano inseguito da un ufficiale nordista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La Venere dei pirati|17:05:00|18:30:00|Nel 600, una ragazza diventa regina dei pirati. Conosciuta con nome di Venere dei pirati, diventera&#039; famosa per le sue gesta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La settimana bianca|18:30:00|20:10:00|Un gruppo di impiegati in vacanza sulla neve si impegna non tanto nello sci quanto nella conquista della collega piu&#039; carina.
+|![Icon](https://guidatv.sky.it/uuid/9cc5a157-5a24-431c-abe7-71b846d9571a/cover?md5ChecksumParam=40c438ef2e13d5a263a69686b3e35c9b)|Il mio nome e&#039; Nessuno|20:10:00|22:15:00|Un celebre pistolero parte alla volta dell&#039;Europa e incontra un giovanotto che lo costringe a un&#039;ultima, memorabile impresa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un genio, due compari, un pollo|22:15:00|00:25:00|Due truffatori e un vagabondo si alleano per derubare un ufficiale dell&#039;esercito, titolare di una fortuna in oro.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

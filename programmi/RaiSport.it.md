@@ -1,5 +1,5 @@
 # Rai Sport
-> Programmazione di Domenica 30 Ottobre 2022
+> Programmazione di Lunedì 31 Ottobre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
