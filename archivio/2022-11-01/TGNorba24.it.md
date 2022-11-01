@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Lunedì 31 Ottobre 2022
+> Programmazione di Martedì 01 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
