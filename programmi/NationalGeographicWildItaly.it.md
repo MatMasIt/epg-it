@@ -1,5 +1,5 @@
 # National Geographic Wild Italia
-> Programmazione di Martedì 01 Novembre 2022
+> Programmazione di Mercoledì 02 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
