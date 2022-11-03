@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/cf68b742-bc7e-4ee0-a34b-85e156cbb6b2/cover?md5ChecksumParam=6d0b9a7586f793cefe1d842a57721c27)|Porto - Atletico Madrid|17:00:00|19:55:00|Cod. 455260 - UEFA Champions League - 6a giornata. Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/7665bac7-46c7-4176-89f7-327f64eab7d5/cover?md5ChecksumParam=df8c4a307b0ae8b5ac6a066e31c07041)|Marsiglia - Tottenham|19:55:00|23:00:00|Cod. 455306 - UEFA Champions League - 6a giornata. Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/13513303-9794-4474-9b7a-5bc431301ba1/cover?md5ChecksumParam=f96a717dbcad4803526420283fbc75e3)|Midtjylland - Sturm Graz|17:00:00|19:55:00|Cod. 455420 - UEFA Europa League - 6a giornata. Calcio d&#039;inizio ore 18:45.
+|![Icon](https://guidatv.sky.it/uuid/ed635581-c582-4fb7-9076-4e1dedc3af06/cover?md5ChecksumParam=92be766d31632ad5ce4f4632f21dcd20)|Betis - Hjk Helsinki|19:55:00|23:30:00|Cod. 455453 - UEFA Europa League - 6a giornata. Calcio d&#039;inizio ore 21:00.
 
 
 
