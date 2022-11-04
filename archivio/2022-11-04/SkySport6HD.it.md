@@ -3,7 +3,7 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/9faaf243-663e-4432-bc2c-5b6ad714261c/cover?md5ChecksumParam=08695278e0808b3fa79f88ca31183f28)|4a g.|09:30:00|21:30:00|World Padel Championship - Dubai - Day 4. Dalle 11:00
+|![Icon](https://guidatv.sky.it/uuid/7e4cc859-1fce-4266-a683-47c45ef81ed8/cover?md5ChecksumParam=2cdff003b1aa511104319ece80145aa9)|Pisa - Cosenza|12:30:00|15:30:00|Cod. 454760 - Serie B - 12a giornata. Calcio d&#039;inizio ore 14:00.
 
 
 

@@ -3,25 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Finals Fort Worth 2022 (live)|00:00:00|02:00:00|2a g. 2ndo Singolare Gruppo A - Dagli Stati Uniti, Texas, inizia il torneo femminile WTA Final 2022.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Piacenza - Padova|02:00:00|04:15:00|Serie C - 11a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:15:00|05:00:00|Rucphen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|05:00:00|05:30:00|Pordenone - Le piu&#039; belle manifestazioni di Orientamento.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tiro con l&#039;arco: Hyundai Archery...|05:30:00|06:00:00|...World Cup. Tlaxcala Finale - E&#039; la sedicesima stagione della manifestazione sportiva.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pallanuoto: World League F|06:30:00|07:45:00|Italia - Canada Super Final - Appuntamento con le campionesse di pallanuoto del panorama internazionale.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Supercoppa Italiana M|07:45:00|10:10:00|Finale - Le migliori squadre italiane si sfidano per vincere il prestigioso trofeo.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pallanuoto: World League F|10:10:00|11:20:00|Italia - Olanda Super Final - Appuntamento con le campionesse di pallanuoto del panorama internazionale.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|11:20:00|12:20:00|Rucphen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|12:20:00|13:25:00|Rucphen. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tiro con l&#039;arco: Hyundai Archery...|13:25:00|14:00:00|...World Cup. Tlaxcala Finale - E&#039; la sedicesima stagione della manifestazione sportiva.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|14:00:00|14:25:00|Pordenone - Le piu&#039; belle manifestazioni di Orientamento.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|14:25:00|15:25:00|Skate Canada. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Pinerolo - Vallefoglia|15:25:00|17:40:00|Serie A1 F, 4a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|17:40:00|18:40:00|Approfondimento dedicato al mondo del ciclismo.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|18:40:00|21:15:00|Finale All Around F - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|L&#039;uomo e il mare|21:15:00|21:45:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reparto Corse|21:45:00|22:15:00|Occhi puntati sul mondo dei motori.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Finals Fort Worth 2022 (live)|22:15:00|00:00:00|2a g. 1mo Singolare Gruppo B - Dagli Stati Uniti, Texas, inizia il torneo femminile WTA Final 2022.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Finals Fort Worth 2022 (live)|00:00:00|02:00:00|2a g. 2ndo Singolare Gruppo B - Dagli Stati Uniti, Texas, inizia il torneo femminile WTA Final 2022.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|02:00:00|05:00:00|Finale All Around F - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|05:00:00|06:00:00|Skate Canada. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
@@ -40,6 +21,22 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|17:55:00|21:10:00|Finale All Around M - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Finals Fort Worth 2022 (live)|21:10:00|23:00:00|3a g. 1mo Singolare Gruppo A - Dagli Stati Uniti, Texas, inizia il torneo femminile WTA Final 2022.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|23:00:00|00:00:00|GP de France Angers. Progrmma Corto Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Finals Fort Worth 2022 (live)|00:00:00|02:00:00|3a g. 2ndo Singolare Gruppo A - Dagli Stati Uniti, Texas, inizia il torneo femminile WTA Final 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Pinerolo - Vallefoglia|02:00:00|04:15:00|Serie A1 F, 4a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:15:00|05:00:00|Rucphen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|05:00:00|06:00:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Rugby: Coppa del Mondo F|06:15:00|08:30:00|Semifinale - Nona edizione della Coppa del Mondo, massima competizione internazionale di rugby a 15 femminile organizzata da World Rugby.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|08:30:00|09:45:00|GP de France Angers. Programma Danza Ritmica - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|09:45:00|11:00:00|GP de France Angers. Programma Corto M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|11:00:00|11:50:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gli Imperdibili|11:50:00|11:55:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|11:55:00|13:50:00|GP de France Angers. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|13:50:00|17:25:00|Finali 1a g - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Padova - Siena|17:25:00|19:55:00|Superlega, 6a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Cuneo - Conegliano|19:55:00|22:30:00|Serie A1 F, 5a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|TG Sport Notte|22:30:00|22:45:00|Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale TG Sport|22:45:00|23:30:00|Campionato - Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Road To... FIFA Qatar 2022|23:30:00|00:00:00|Ep. 9 - L&#039;avvicinamento ai Mondiali 2022 in programma in Qatar.
 
 
 
