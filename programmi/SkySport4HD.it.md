@@ -3,9 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/00f44aa1-261d-4361-9811-46db41061f6d/cover?md5ChecksumParam=a3b144fc8e87eed4b1422d6bf87a0220)|Basaksehir - Hearts|15:00:00|17:40:00|Cod. 455475 - UEFA Conference League - 6a giornata. Calcio d&#039;inizio ore 16:30.
-|![Icon](https://guidatv.sky.it/uuid/d5644ca0-c5c5-4e85-b8db-aa58d68f01d0/cover?md5ChecksumParam=cdedee4e66a049bcc0cfcbd7322c7658)|Real Sociedad - Manchester United|17:40:00|19:55:00|Cod. 455419 - UEFA Europa League - 6a giornata. Calcio d&#039;inizio ore 18:45.
-|![Icon](https://guidatv.sky.it/uuid/8869b04e-1b61-4a3c-91cc-21c3340edd06/cover?md5ChecksumParam=e0b0be2698a8dc2ca4bcb978f37030d0)|Arsenal - Zurigo|19:55:00|23:30:00|Cod. 455442 - UEFA Europa League - 6a giornata. Calcio d&#039;inizio ore 21:00.
+|![Icon](https://guidatv.sky.it/uuid/f44b8ef4-edbe-49eb-8ea2-afa5a17ac78d/cover?md5ChecksumParam=cd21d45c66b53dc3c4ac7ce933a879f3)|Sudtirol - Cagliari|12:30:00|15:30:00|Cod. 454771 - Serie B - 12a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/50f94601-5dad-43e6-83e7-cb908c67ea87/cover?md5ChecksumParam=6fa9bae27d44a7628fab2606da5125e8)|05/11/22|16:00:00|19:00:00|Dalle 17:30 Diretta Gol Serie C - 12a giornata
 
 
 
