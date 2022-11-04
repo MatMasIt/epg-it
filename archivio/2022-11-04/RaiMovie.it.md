@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Giovedì 03 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Shade - Carta vincente|00:25:00|02:05:00|Tre truffatori riescono a togliere ad un malfamato gangster un&#039;ingente somma e ora si preparano a sedersi al tavolo contro &#039;il Decano&#039;, re del poker.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cartouche|02:05:00|04:00:00|Le avventure del bandito Louis Dominique Bourguignon, detto Cartouche, nella turbolenta Parigi degli inizi del Settecento.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Manidu&#039;|04:00:00|05:30:00|In Polinesia, un orfano che ha per amico uno squalo desidera regalare alla fidanzata una perla, ma altri cercano di ostacolarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pensando a te|05:30:00|07:05:00|Al Bano e&#039; un ingegnere che sfonda come cantante. Si lascia sedurre da una fan, mettendo a repentaglio il proprio matrimonio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cerasella|07:05:00|08:55:00|La bizzosa Cerasella fugge poco prima del matrimonio col mite Alfredo e conosce Bruno, figlio di un ricco industriale, fidanzato con l&#039;infida Nora.
+|![Icon](https://guidatv.sky.it/uuid/d937a436-8435-4138-a3b7-c9a092196269/cover?md5ChecksumParam=82257c524076d508bf760ecbcffa49e2)|L&#039;uomo nell&#039;ombra|08:55:00|11:10:00|Un &#039;ghost writer&#039;, assunto per scrivere le memorie di un politico, scopre scottanti segreti in un intrigo senza via d&#039;uscita.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Carogne si nasce|11:10:00|12:50:00|Alcuni banditi uccidono i coloni per impadronirsi dei loro terreni. A fermarli arriva un bounty-killer che collabora con un procuratore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Alvarez Kelly|12:50:00|14:50:00|Un semplice ranchero ha il compito di portare dei capi di bestiame ai soldati nordisti, che stanno attaccando la citta&#039; di Richmond.
+|![Icon](https://guidatv.sky.it/uuid/d1095e09-f024-4074-8988-aeae9a86ab21/cover?md5ChecksumParam=cd0c954693f76ac5b676f7e2c0d3dda3)|Stringi i denti e vai!|14:50:00|17:10:00|Alla Western Press, nota corsa di resistenza americana, partecipano una ex prostituta, due cowboy e un appassionato di gare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La rivolta dei barbari|17:10:00|18:35:00|Un console romano viene inviato in incognito in una provincia per scoprire chi ha rubato le paghe dei soldati.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|W la foca|18:35:00|20:10:00|Un&#039;infermiera trova lavoro come domestica presso una famiglia di Roma e tenta il successo in tv. Cult della commedia sexy.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Basic|20:10:00|21:55:00|Agente della narcotici, John Travolta e&#039; chiamato ad indagare sulla misteriosa scomparsa di un leggendario sergente: Samuel L. Jackson.
+|![Icon](https://guidatv.sky.it/uuid/045c248a-b70e-426b-8db3-693ddca0d473/cover?md5ChecksumParam=939db5d58a3c8ae98030b2674cee0a80)|Empire State|21:55:00|23:35:00|Due amici d&#039;infanzia organizzano la rapina ad un furgone blindato. Il poliziotto che segue il caso dovra&#039; scovare i criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Zorro|23:35:00|01:50:00|Diego, avventuriero dal passato oscuro, vuole vendicare l&#039;amico Miguel. E ne assume l&#039;identita&#039; con la leggendaria maschera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:50:00|01:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|01:55:00|02:20:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Unico indizio una sciarpa gialla|02:20:00|04:00:00|Un matematico vive a Parigi con la moglie e i due figli. Un&#039;organizzazione spionistica rapisce i bambini, ma la polizia sospetta della moglie.
+|![Icon](https://guidatv.sky.it/uuid/d1095e09-f024-4074-8988-aeae9a86ab21/cover?md5ChecksumParam=cd0c954693f76ac5b676f7e2c0d3dda3)|Stringi i denti e vai!|04:00:00|06:05:00|Alla Western Press, nota corsa di resistenza americana, partecipano una ex prostituta, due cowboy e un appassionato di gare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mezzanotte d&#039;amore|06:05:00|07:45:00|Il marinaio Al Bano convola a nozze con Romina Power. Lei e&#039; costretta a fare un prestito, lui pensa che lo tradisca.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I terribili sette|07:45:00|09:25:00|Un gruppo di ragazzini trova un neonato in un prato: la prima idea e&#039; quella di venderlo per trovare qualche soldo. Ma finira&#039; bene.
+|![Icon](https://guidatv.sky.it/uuid/9d3bddfd-196e-40be-93cf-da1119e689e6/cover?md5ChecksumParam=8c9a14d78603996abae2df4202176080)|La bussola d&#039;oro|09:25:00|11:20:00|Avventura in un magico e spaventoso universo fantastico. Una bambina e il suo angelo custode incontrano straordinarie creature ai confini del mondo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sette ore di fuoco|11:20:00|13:00:00|Un gruppo di contrabbandieri rifornisce gli indiani di armi. Buffalo Bill stronca il traffico e punisce i colpevoli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli ultimi giganti|13:00:00|14:45:00|Un evaso rapisce per vendicarsi della sua cattura, la figlia dello sceriffo che, anche se in pensione, riprendera&#039; le armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|14:45:00|14:50:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;uomo di Laramie|14:50:00|16:40:00|In New Mexico, l&#039;investigatore Will Lockhart cerca l&#039;assassino del fratello. Ma deve anche sventare un traffico d&#039;armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|16:40:00|18:30:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piedino il questurino|18:30:00|20:10:00|A Napoli, lo sprovveduto brigadiere Petralia frequenta una ragazza legata agli ambienti del contrabbando.
+|![Icon](https://guidatv.sky.it/uuid/02e6c866-4bf7-431a-9f06-c8093944b1c0/cover?md5ChecksumParam=79ee724b8411ef67fd8e287e640a3c44)|Tutti in piedi|20:10:00|22:00:00|Jocelyn, misogino ed egoista, si finge disabile per sedurre una giovane donna. Ma quando lei gli presenta la sorella, realmente disabile...
+|![Icon](https://guidatv.sky.it/uuid/6a6a0cbf-4643-46ff-a404-b06b8b983869/cover?md5ChecksumParam=01486c412514471992756fa4200835a3)|Sogno di una notte di mezza eta&#039;|22:00:00|23:35:00|Un uomo fantastica sulla nuova ragazza del suo migliore amico. Sara&#039; disposto a tutto per realizzare i suoi sogni piu&#039; sfrenati?
+|![Icon](https://guidatv.sky.it/uuid/0874ea73-4855-4ec3-9f56-7377e3b9baa3/cover?md5ChecksumParam=56f25f1ae5368243f058cdbd44bc6f22)|Michael|23:35:00|01:25:00|John Travolta e&#039; un angelo antipatico con un paio di ali enormi. Caduto a Chicago, diventa un caso, ma sapra&#039; fare il suo dovere.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
