@@ -1,5 +1,5 @@
 # Canale 5
-> Programmazione di Giovedì 03 Novembre 2022
+> Programmazione di Venerdì 04 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
