@@ -1,5 +1,5 @@
 # Radio Italia TV
-> Programmazione di Venerdì 04 Novembre 2022
+> Programmazione di Sabato 05 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
