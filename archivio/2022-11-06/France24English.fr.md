@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Sabato 05 Novembre 2022
+> Programmazione di Domenica 06 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
