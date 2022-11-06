@@ -1,0 +1,96 @@
+# BFC Forbes
+> Programmazione di Sabato 05 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|00:00:00|00:30:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:30:00|01:00:00|LJC Store Palermo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|01:00:00|01:30:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BLUE ACADEMY|01:30:00|02:00:00|Ep109 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|02:00:00|02:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|02:05:00|03:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|03:00:00|03:30:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|03:30:00|04:00:00|LJC Store Palermo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|04:00:00|04:30:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BLUE ACADEMY|04:30:00|05:00:00|Ep109 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|05:00:00|05:30:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|05:30:00|05:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|05:35:00|06:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|06:30:00|07:00:00|Ep14 - Federico Morgantini intervista Cristiano Busnardo (socio e consigliere del CDA di ClubDeal S.p.A.) e Roberto Ferrari (Presidente esecutivo ClubDeal S.p.A.)
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes - Le Village|07:00:00|07:30:00|Ep37 - Federico Morgantini intervista Mirko Mastropietro (Asc27), Gabriele Sabbatini (Hercle Srl) e Lorenzo Perotta (Finanz) sulle loro startup
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|07:30:00|08:00:00|Ep48 - Federico Morgantini intervista Angelo Fasola, Co-Founder e CEO di TrustMeUp, su beneficienza e blockchain
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|08:00:00|09:00:00|Ep19 - Mosche. L&#039;atteso ritorno del talk show dedicato alla politica
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tax Show Live|09:00:00|10:00:00|Ep82 - Il primo programma fatto da imprenditori per imprenditori. Ospite Alessandro Sallusti
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|10:00:00|10:30:00|Ep138 - Trieste Science+Fiction Festival nell&#039;intervista a Francesco Ruzzier e il mondo dei videogames turistici con il presidente di IVIPro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|10:30:00|11:00:00|Ep117 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|11:00:00|11:30:00|Ep137 - Con Angelo Argento, presidente di Cultura Italiae, viaggio nell&#039;Italia della Cultura che e&#039; e che potrebbe essere
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|11:30:00|12:00:00|Ep116 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|12:00:00|12:30:00|Ep47 - Federico Morgantini intervista Nazzareno Gorni, Co-Founder e CEO di Growens su Digital Marketing, Advertising e Metaverso
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|12:30:00|13:00:00|Ep9 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|13:00:00|13:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|13:05:00|14:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive 1^TV|14:00:00|15:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|15:00:00|15:30:00|Ep20 - Di Riccardo Zanetti. Investire in modo semplice! Tutti i segreti di MoneyFarm
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes - Le Village|15:30:00|16:00:00|Ep36 - Federico Morgantini intervista Michael Saruggia (LIFEdata), Sergio Torriani (Simplifhy) e Alessia Mosca (Il Cielo Itinerante) sulle loro startup
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|16:00:00|17:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|17:00:00|17:30:00|Ep138 - Trieste Science+Fiction Festival nell&#039;intervista a Francesco Ruzzier e il mondo dei videogames turistici con il presidente di IVIPro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|17:30:00|18:00:00|Ep117 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|18:00:00|18:30:00|Ep59 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Giovanni De Mare, Head of Italy di AllianceBernstein
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BLUE ACADEMY|18:30:00|19:00:00|Ep109 - BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|19:00:00|19:30:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|19:30:00|20:00:00|Ep162 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Carlo Colpo, Global Marketing Communication Director Lavazza e Marco Marlia, Ceo di Motork
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|20:00:00|20:30:00|Ep115 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events 1^TV|20:30:00|21:30:00|Premio Economia del Futuro - Polo del Gusto by Illy. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|21:30:00|22:00:00|Ep25 - Il settore primario: la finanza nel mondo della moda. Ospiti: Martina Di Gioia, vicepresidente di L. Catterton; Enrico Casati, co-founder Velasca. Conduce Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|22:00:00|22:30:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|22:30:00|23:00:00|Ep19 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|23:00:00|23:30:00|Ep138 - Trieste Science+Fiction Festival nell&#039;intervista a Francesco Ruzzier e il mondo dei videogames turistici con il presidente di IVIPro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|23:30:00|00:00:00|Ep117 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|00:00:00|00:30:00|Ep48 - Federico Morgantini intervista Angelo Fasola, Co-Founder e CEO di TrustMeUp, su beneficienza e blockchain
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|00:30:00|01:00:00|Ep59 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Giovanni De Mare, Head of Italy di AllianceBernstein
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|01:00:00|01:30:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|01:30:00|02:00:00|Ep21 - Di Riccardo Zanetti. Sono diventato ufficialmente residente a Dubai: ecco come e perche&#039;
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|02:00:00|02:30:00|Ep10 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes - Le Village|02:30:00|03:00:00|Ep37 - Federico Morgantini intervista Mirko Mastropietro (Asc27), Gabriele Sabbatini (Hercle Srl) e Lorenzo Perotta (Finanz) sulle loro startup
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|03:00:00|03:30:00|Ep144 - Francesco Vacca, Presidente AISM - Associazione Italiana Sclerosi Multipla ci parla dell&#039;innovativa campagna di sensibilizzazione The SMeakers, promossa da Sanofi in collaborazione con AISM
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|03:30:00|04:00:00|Ep14 - Federico Morgantini intervista Cristiano Busnardo (socio e consigliere del CDA di ClubDeal S.p.A.) e Roberto Ferrari (Presidente esecutivo ClubDeal S.p.A.)
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|04:00:00|04:30:00|Ep19 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Terzo Canale Show|04:30:00|05:00:00|Ep296 - Connessioni Sostenibili con Rossella Sobrero del Salone della Csr e dell&#039;Innovazione Sociale. Con Mario Taddei il mondo leonardesco che verra&#039; nel Metaverso
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|05:00:00|05:30:00|Ep117 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|05:30:00|06:00:00|Ep162 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Carlo Colpo, Global Marketing Communication Director Lavazza e Marco Marlia, Ceo di Motork
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tax Show Live|06:00:00|07:00:00|Ep82 - Il primo programma fatto da imprenditori per imprenditori. Ospite Alessandro Sallusti
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|07:00:00|08:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|08:00:00|08:30:00|LJC Store Palermo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|08:30:00|09:00:00|Ep14 - Federico Morgantini intervista Cristiano Busnardo (socio e consigliere del CDA di ClubDeal S.p.A.) e Roberto Ferrari (Presidente esecutivo ClubDeal S.p.A.)
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|09:00:00|09:30:00|Ep10 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|09:30:00|10:00:00|Ep48 - Federico Morgantini intervista Angelo Fasola, Co-Founder e CEO di TrustMeUp, su beneficienza e blockchain
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Terzo Canale Show|10:00:00|10:30:00|Ep296 - Connessioni Sostenibili con Rossella Sobrero del Salone della Csr e dell&#039;Innovazione Sociale. Con Mario Taddei il mondo leonardesco che verra&#039; nel Metaverso
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|10:30:00|11:00:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|11:00:00|12:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|12:00:00|12:30:00|Ep14 - Federico Morgantini intervista Cristiano Busnardo (socio e consigliere del CDA di ClubDeal S.p.A.) e Roberto Ferrari (Presidente esecutivo ClubDeal S.p.A.)
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|12:30:00|13:00:00|Ep162 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Carlo Colpo, Global Marketing Communication Director Lavazza e Marco Marlia, Ceo di Motork
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|13:00:00|13:30:00|Ep115 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|13:30:00|14:00:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|14:00:00|14:30:00|LJC Store Palermo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|14:30:00|15:00:00|Ep25 - Il settore primario: la finanza nel mondo della moda. Ospiti: Martina Di Gioia, vicepresidente di L. Catterton; Enrico Casati, co-founder Velasca. Conduce Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|15:00:00|15:30:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|15:30:00|16:00:00|Ep138 - Trieste Science+Fiction Festival nell&#039;intervista a Francesco Ruzzier e il mondo dei videogames turistici con il presidente di IVIPro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|16:00:00|16:30:00|Ep117 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|16:30:00|17:00:00|Ep48 - Federico Morgantini intervista Angelo Fasola, Co-Founder e CEO di TrustMeUp, su beneficienza e blockchain
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|17:00:00|18:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|18:00:00|18:30:00|Ep21 - Di Riccardo Zanetti. Sono diventato ufficialmente residente a Dubai: ecco come e perche&#039;
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|18:30:00|19:00:00|Ep10 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes - Le Village|19:00:00|19:30:00|Ep37 - Federico Morgantini intervista Mirko Mastropietro (Asc27), Gabriele Sabbatini (Hercle Srl) e Lorenzo Perotta (Finanz) sulle loro startup
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|19:30:00|20:00:00|Ep144 - Francesco Vacca, Presidente AISM - Associazione Italiana Sclerosi Multipla ci parla dell&#039;innovativa campagna di sensibilizzazione The SMeakers, promossa da Sanofi in collaborazione con AISM
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|20:00:00|20:30:00|Ep14 - Federico Morgantini intervista Cristiano Busnardo (socio e consigliere del CDA di ClubDeal S.p.A.) e Roberto Ferrari (Presidente esecutivo ClubDeal S.p.A.)
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|20:30:00|21:00:00|Ep19 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Terzo Canale Show|21:00:00|21:30:00|Ep296 - Connessioni Sostenibili con Rossella Sobrero del Salone della Csr e dell&#039;Innovazione Sociale. Con Mario Taddei il mondo leonardesco che verra&#039; nel Metaverso
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|21:30:00|22:00:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|22:00:00|22:30:00|Ep162 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Carlo Colpo, Global Marketing Communication Director Lavazza e Marco Marlia, Ceo di Motork
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|22:30:00|23:00:00|Ep48 - Federico Morgantini intervista Angelo Fasola, Co-Founder e CEO di TrustMeUp, su beneficienza e blockchain
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|23:00:00|23:30:00|Ep25 - Il settore primario: la finanza nel mondo della moda. Ospiti: Martina Di Gioia, vicepresidente di L. Catterton; Enrico Casati, co-founder Velasca. Conduce Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|23:30:00|00:00:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
