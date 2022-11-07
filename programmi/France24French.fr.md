@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Domenica 06 Novembre 2022
+> Programmazione di Lunedì 07 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
