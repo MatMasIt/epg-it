@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Lunedì 07 Novembre 2022
+> Programmazione di Martedì 08 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
