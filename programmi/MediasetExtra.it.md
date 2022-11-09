@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Martedì 08 Novembre 2022
+> Programmazione di Mercoledì 09 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

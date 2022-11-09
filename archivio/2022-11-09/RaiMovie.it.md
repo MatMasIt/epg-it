@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Martedì 08 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli ultimi giganti|01:05:00|02:40:00|Un evaso rapisce per vendicarsi della sua cattura, la figlia dello sceriffo che, anche se in pensione, riprendera&#039; le armi.
+|![Icon](https://guidatv.sky.it/uuid/69c55e93-c44b-43b0-9cf9-862874dea1aa/cover?md5ChecksumParam=1e9604b921f90f37916072c4c5d60b53)|Breaking at the Edge|02:40:00|04:00:00|Una donna incinta teme per l&#039;incolumita&#039; del suo bambino non ancora nato: deve vendicarsi di un&#039;entita&#039; soprannaturale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ma papa&#039; ti manda sola?|04:00:00|05:30:00|San Francisco: una ragazza un po&#039; svitata coinvolge un impacciato musicologo in una serie di esilaranti, turbinose peripezie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Squadra antimafia|05:30:00|07:15:00|Per scoprire l&#039;assassino di un testimone, il commissario Nico Giraldi si fa arrestare, evade e si mette al servizio di un boss.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Perdono|07:15:00|09:20:00|Una commessa riesce a sfondare nel mondo della musica. Ma questo rischia di guastare le sue amicizie, e forse l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il pranzo della domenica|09:20:00|11:05:00|Le attenzioni di una signora borghese, rimasta vedova, si riversano sulle tre figlie. Ma i loro rapporti si complicano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|11:05:00|13:00:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/045c248a-b70e-426b-8db3-693ddca0d473/cover?md5ChecksumParam=939db5d58a3c8ae98030b2674cee0a80)|Empire State|13:00:00|14:40:00|Due amici d&#039;infanzia organizzano la rapina ad un furgone blindato. Il poliziotto che segue il caso dovra&#039; scovare i criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;arciere di fuoco|14:40:00|16:30:00|L&#039;inizio della storia leggendaria di Robin Hood, nobile che si fa fuorilegge per rubare ai ricchi e donare ai poveri, nell&#039;Inghilterra del 1200.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Vivi o preferibilmente morti|16:30:00|18:20:00|Due cugini squattrinati, in attesa di incassare un&#039;eredita&#039;, si alleano per escogitare diverse operazioni criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Luna di miele in tre|18:20:00|20:10:00|Prossimo alle nozze, un uomo vince un viaggio in Giamaica con una modella: cerchera&#039; di conciliare l&#039;inconciliabile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|20:10:00|21:55:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Attila|21:55:00|23:20:00|L&#039;avventura di Attila, re famigerato degli Unni, durante la sua marcia su Roma. Lo fermera&#039; un uomo disarmato: Papa Leone I.
+|![Icon](https://guidatv.sky.it/uuid/ca03967f-d56f-4234-9a3e-cbfce6f7ac8f/cover?md5ChecksumParam=0266743ab3f8815734a22c66f1c2b0e4)|Legend|23:20:00|01:40:00|Ascesa e caduta dei gemelli Kray, due leggendari gangster, a capo del crimine organizzato nella Londra degli anni &#039;50 e &#039;60.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:40:00|01:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhi di cristallo|01:45:00|03:30:00|Un pericoloso serial killer tenta di esorcizzare le proprie ossessioni lasciandosi dietro una sanguinosa scia di cadaveri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La scala musicale|03:30:00|04:00:00|Stanlio e Ollio fanno i trasportatori e devono consegnare, tra mille difficolta&#039; e su un carro trainato da un paziente ronzino, una pianola meccanica alla signora von Schwarzenhoffen.
+|![Icon](https://guidatv.sky.it/uuid/25c8f141-3e1f-4f32-bb0a-69a12ff78392/cover?md5ChecksumParam=d7234f33e648951d6cab28c523613795)|Come eravamo|04:00:00|05:55:00|La storia d&#039;amore, complicata e intensa, tra uno scrittore e una donna ebrea di fede comunista, tra il 1937 e il 1950.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Squadra antigangster|05:55:00|07:35:00|Diventato agente dell&#039;Interpol, Nico Giraldi si occupa di una guerra tra bande mafiose. Quinto e ultimo capitolo della serie delle &#039;Squadre&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:35:00|07:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e fantasia|07:40:00|09:20:00|Antonio, maresciallo dei Carabinieri, divide le sue attenzioni galanti tra la giovane &#039;Bersagliera&#039; e la piu&#039; matura levatrice Annarella.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|09:20:00|10:55:00|Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Alvarez Kelly|10:55:00|12:55:00|Un semplice ranchero ha il compito di portare dei capi di bestiame ai soldati nordisti, che stanno attaccando la citta&#039; di Richmond.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una pistola per cento bare|12:55:00|14:25:00|Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e&#039; stata sterminata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Prima ti perdono... poi t&#039;ammazzo|14:25:00|16:00:00|Il bandito Anthony Stevens e&#039; in prigione per omicidio. L&#039;unico in grado di provare la sua colpevolezza e&#039; in arrivo, ma verra&#039; sequestrato.
+|![Icon](https://guidatv.sky.it/uuid/d1095e09-f024-4074-8988-aeae9a86ab21/cover?md5ChecksumParam=cd0c954693f76ac5b676f7e2c0d3dda3)|Stringi i denti e vai!|16:00:00|18:25:00|Alla Western Press, nota corsa di resistenza americana, partecipano una ex prostituta, due cowboy e un appassionato di gare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Agenzia Riccardo Finzi... praticament...|18:25:00|20:10:00|...detective - Un detective per corrispondenza affronta il suo primo caso a Milano: la morte di una cameriera. L&#039;inesperienza portera&#039; guai.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|20:10:00|22:20:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|22:20:00|22:45:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/36f35a23-d7f9-4be3-9d2d-c1408dd33664/cover?md5ChecksumParam=e1827d110e35ddbef59b29f57977d47a)|Chiamami col tuo nome|22:45:00|01:10:00|La travolgente storia d&#039;amore fra due ragazzi nel corso di un&#039;indimenticabile estate fra le campagne del nord Italia.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
