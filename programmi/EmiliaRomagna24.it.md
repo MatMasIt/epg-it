@@ -35,13 +35,10 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|12Tg Parma|13:40:00|14:00:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Bologna|14:00:00|14:30:00|Il Telegiornale di Bologna e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Romagna|14:30:00|15:00:00|Il Telegiornale della Romagna
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Buone cose|15:00:00|15:50:00|Buone Cose e&#039; un viaggio alla scoperta delle brave persone che producono quello che arriva, sulle nostre tavole. Filosofie e tradizioni in grado di evidenziare qualita&#039;, sicurezza e sostenibilita&#039;.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Dare &amp; Avere|15:50:00|16:30:00|E&#039; il settimanale di Telereggio che approfondisce le notizie e le tematiche relative all&#039;economia, al lavoro e alla finanza.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Sesto Set|16:30:00|17:00:00|Servizi, commenti, interviste sul campionato A1 maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bologna Racconta|17:00:00|17:15:00|La citta&#039; si racconta attraverso storie, protagonisti, avvenimenti, curiosita&#039;
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Io leggo|17:15:00|17:30:00|Alla scoperta del mondo dei libri, spulciando tra classifiche e ultime uscite, ma anche approfondendo i temi con le interviste agli autori.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Agri 7|15:00:00|16:00:00|E&#039; il settimanale di agricoltura, verde, ambiente, alimentazione di Telereggio. Si compone di servizi giornalistici di attualita&#039; e di rubriche fisse di informazione per chi lavora in campagna.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|91esimo minuto|16:00:00|17:30:00|Tutto cio&#039; che accade sui campi di gioco dei campionati di calcio dilettantistico della provincia e non solo, con sintesi delle partite, interviste e ospiti in studio
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Nosterchef|17:30:00|17:45:00|La semplicita&#039; fa miracoli: la buona cucina quotidiana.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena e provincia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Affari Quotidiani|18:05:00|18:30:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Modena|18:30:00|19:00:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Bologna|19:05:00|19:15:00|Notiziario sportivo di Bologna e provincia
@@ -55,7 +52,9 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|12Tg Parma|21:00:00|21:20:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|21:20:00|21:30:00|Notiziario sportivo di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tv Giornale Ferrara|21:30:00|22:00:00|il Telegiornale di Ferrara e provincia
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zona D|22:00:00|23:30:00|Tutto sul calcio dei dilettanti. Dall&#039;eccellenza alla prima categoria da Piacenza a Rimini con i commenti dei massimi esperti del settore.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Su la zampa|22:00:00|22:30:00|Grandi protagonisti i nostri piccoli amici. Si parla di cani, gatti e co.: la loro cura, le loro storie.
+|![Icon](https://guidatv.sky.it/uuid/75f7496e-5fb5-49b8-b880-4e805efc34f0/cover?md5ChecksumParam=77b06111b63a437f939d3ec6d186b1df)|Salute e benessere|22:30:00|23:00:00|Dedicata ai temi della sanita&#039; e della salute, ogni settimana la trasmissione affronta un tema diverso e si confronta con i professionisti delle aziende sanitarie.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bologna Racconta|23:00:00|23:30:00|La citta&#039; si racconta attraverso storie, protagonisti, avvenimenti, curiosita&#039;
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Modena notte|23:30:00|23:50:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Reggio notte|23:50:00|00:10:00|Il Telegiornale di Reggio Emilia e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Bologna notte|00:10:00|00:30:00|Il Telegiornale di Bologna e provincia
@@ -90,10 +89,11 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|12Tg Parma|13:40:00|14:00:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Bologna|14:00:00|14:30:00|Il Telegiornale di Bologna e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Romagna|14:30:00|15:00:00|Il Telegiornale della Romagna
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Agri 7|15:00:00|16:00:00|E&#039; il settimanale di agricoltura, verde, ambiente, alimentazione di Telereggio. Si compone di servizi giornalistici di attualita&#039; e di rubriche fisse di informazione per chi lavora in campagna.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|91esimo minuto|16:00:00|17:30:00|Tutto cio&#039; che accade sui campi di gioco dei campionati di calcio dilettantistico della provincia e non solo, con sintesi delle partite, interviste e ospiti in studio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Parma Europa|15:00:00|16:30:00|Approfondimento riguardante i temi di attualita&#039; politica e sociale della realta&#039; parmigiana attraverso reportage, inchieste, scontri politici, svolte amministrative, problematiche sociali.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Speciale Agro|16:30:00|17:00:00|Settimanale di agricoltura, verde, ambiente, alimentazione.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Caffe&#039; da brivido|17:00:00|17:30:00|Rotocalco televisivo sul cinema Horror
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Nosterchef|17:30:00|17:45:00|La semplicita&#039; fa miracoli: la buona cucina quotidiana.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|17:45:00|18:05:00|Notiziario sportivo di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Affari Quotidiani|18:05:00|18:30:00|Appuntamento quotidiano con l&#039;economia, aggiornamenti e notizie su lavoro, imprese e finanza con particolare attenzione all&#039;andamento delle societa&#039; emiliano romagnole quotate in borsa.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Modena|18:30:00|19:00:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Bologna|19:05:00|19:15:00|Notiziario sportivo di Bologna e provincia
@@ -107,9 +107,9 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|12Tg Parma|21:00:00|21:20:00|Il Telegiornale di Parma e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trc Sport Modena|21:20:00|21:30:00|Notiziario sportivo di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tv Giornale Ferrara|21:30:00|22:00:00|il Telegiornale di Ferrara e provincia
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Su la zampa|22:00:00|22:30:00|Grandi protagonisti i nostri piccoli amici. Si parla di cani, gatti e co.: la loro cura, le loro storie.
-|![Icon](https://guidatv.sky.it/uuid/75f7496e-5fb5-49b8-b880-4e805efc34f0/cover?md5ChecksumParam=77b06111b63a437f939d3ec6d186b1df)|Salute e benessere|22:30:00|23:00:00|Dedicata ai temi della sanita&#039; e della salute, ogni settimana la trasmissione affronta un tema diverso e si confronta con i professionisti delle aziende sanitarie.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bologna Racconta|23:00:00|23:30:00|La citta&#039; si racconta attraverso storie, protagonisti, avvenimenti, curiosita&#039;
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ViaEmiliaNet|22:00:00|22:30:00|Racconta quell&#039;economia reale che lungo la via Emilia concentra distretti di prim&#039;ordine,Made in Italy manifatturiero e agroindustria. In sinergia con ViaEmiliaNet, il portale web dell&#039;economia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Trend|22:30:00|23:00:00|Moda, societa&#039;, Italian Style, benessere, bellezza, eventi, living e personaggi: tutto questo e&#039; Trend. Trend: il bello della vita, dentro e fuori.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Pizza Challenge|23:00:00|23:30:00|Raccontera&#039; le 12 pizzerie marchigiane andando a conoscerne i protagonisti, raccontando e testando le loro specialita&#039;, quattro le finaliste che si contenderanno il titolo.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il Telegiornale Modena notte|23:30:00|23:50:00|Il Telegiornale di Modena e provincia
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Reggio notte|23:50:00|00:10:00|Il Telegiornale di Reggio Emilia e provincia
 
