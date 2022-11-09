@@ -21,7 +21,7 @@
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|The Flight|14:00:00|16:00:00|The Flight. Due ore di musica e informazione musicale. Interviste ad artisti italiani ed internazionali, e tutte le novita&#039; sui generi musicali piu&#039; cool del momento.
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Password|16:00:00|18:00:00|Password. Magazine di attualita&#039; e costume del drive time pomeridiano. La migliore musica di RTL 102.5 si alterna a curiosita&#039; e notizie, con un occhio sempre rivolto alle agenzie dell&#039;ultimo minuto.
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Protagonisti|18:00:00|20:00:00|Protagonisti. Il miglior modo per tornare a casa in compagnia. La fine della giornata e&#039; scandita dalle notizie piu&#039; curiose del giorno, raccontate con simpatia e leggerezza dagli studi di Milano, Rom
-|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Suite 102.5|20:00:00|23:00:00|Suite 102.5. Gli ascoltatori hanno le chiavi della suite piu&#039; glamour ed elegante della radiofonia: intervengono in diretta e si confrontano sugli argomenti piu&#039; diversi in una serata very social. La
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Suite 102.5 - Speciale X Factor Live|20:00:00|23:00:00|Suite 102.5 - Speciale X Factor Live Il programma si ascolta su RTL 102.5, in RADIOVISIONE sul canale 36 del Digitale Terrestre e sul canale 736 di Sky, e in streaming su RTL 102.5 PLAY.
 |![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|I Nottambuli|23:00:00|02:00:00|I Nottambuli ci tengono compagnia con bella musica, tante chiacchiere e la loro sagace ironia. Spazio alle vostre emozioni e ai vostri pensieri notturni.
 
 
