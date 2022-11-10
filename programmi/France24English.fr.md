@@ -1,5 +1,5 @@
 # France 24 English
-> Programmazione di Mercoledì 09 Novembre 2022
+> Programmazione di Giovedì 10 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

@@ -1,0 +1,40 @@
+# Rai Movie
+> Programmazione di Mercoledì 09 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:40:00|01:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhi di cristallo|01:45:00|03:30:00|Un pericoloso serial killer tenta di esorcizzare le proprie ossessioni lasciandosi dietro una sanguinosa scia di cadaveri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La scala musicale|03:30:00|04:00:00|Stanlio e Ollio fanno i trasportatori e devono consegnare, tra mille difficolta&#039; e su un carro trainato da un paziente ronzino, una pianola meccanica alla signora von Schwarzenhoffen.
+|![Icon](https://guidatv.sky.it/uuid/25c8f141-3e1f-4f32-bb0a-69a12ff78392/cover?md5ChecksumParam=d7234f33e648951d6cab28c523613795)|Come eravamo|04:00:00|05:55:00|La storia d&#039;amore, complicata e intensa, tra uno scrittore e una donna ebrea di fede comunista, tra il 1937 e il 1950.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Squadra antigangster|05:55:00|07:35:00|Diventato agente dell&#039;Interpol, Nico Giraldi si occupa di una guerra tra bande mafiose. Quinto e ultimo capitolo della serie delle &#039;Squadre&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:35:00|07:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e fantasia|07:40:00|09:20:00|Antonio, maresciallo dei Carabinieri, divide le sue attenzioni galanti tra la giovane &#039;Bersagliera&#039; e la piu&#039; matura levatrice Annarella.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|09:20:00|10:55:00|Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Alvarez Kelly|10:55:00|12:55:00|Un semplice ranchero ha il compito di portare dei capi di bestiame ai soldati nordisti, che stanno attaccando la citta&#039; di Richmond.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una pistola per cento bare|12:55:00|14:25:00|Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e&#039; stata sterminata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Prima ti perdono... poi t&#039;ammazzo|14:25:00|16:00:00|Il bandito Anthony Stevens e&#039; in prigione per omicidio. L&#039;unico in grado di provare la sua colpevolezza e&#039; in arrivo, ma verra&#039; sequestrato.
+|![Icon](https://guidatv.sky.it/uuid/d1095e09-f024-4074-8988-aeae9a86ab21/cover?md5ChecksumParam=cd0c954693f76ac5b676f7e2c0d3dda3)|Stringi i denti e vai!|16:00:00|18:25:00|Alla Western Press, nota corsa di resistenza americana, partecipano una ex prostituta, due cowboy e un appassionato di gare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Agenzia Riccardo Finzi... praticament...|18:25:00|20:10:00|...detective - Un detective per corrispondenza affronta il suo primo caso a Milano: la morte di una cameriera. L&#039;inesperienza portera&#039; guai.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|20:10:00|22:20:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|22:20:00|22:45:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/36f35a23-d7f9-4be3-9d2d-c1408dd33664/cover?md5ChecksumParam=e1827d110e35ddbef59b29f57977d47a)|Chiamami col tuo nome|22:45:00|01:10:00|La travolgente storia d&#039;amore fra due ragazzi nel corso di un&#039;indimenticabile estate fra le campagne del nord Italia.
+|![Icon](https://guidatv.sky.it/uuid/6a6a0cbf-4643-46ff-a404-b06b8b983869/cover?md5ChecksumParam=01486c412514471992756fa4200835a3)|Sogno di una notte di mezza eta&#039;|01:10:00|02:35:00|Un uomo fantastica sulla nuova ragazza del suo migliore amico. Sara&#039; disposto a tutto per realizzare i suoi sogni piu&#039; sfrenati?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arianna|02:35:00|04:00:00|Arianna, una ragazza di diciannove anni, prende consapevolezza della propria sessualita&#039; durante un&#039;estate trascorsa sul Lago di Bolsena.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romeo &amp; Juliet|04:00:00|05:50:00|Verona. Due famiglie, i Montecchi e i Capuleti, sono divise da un odio atavico. I loro eredi, Romeo e Giulietta, finiscono per innamorarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il figlio dello sceicco|05:50:00|07:35:00|Nei suoi ultimi giorni di vita, uno sceicco va alla ricerca del legittimo erede, che si trova da qualche parte in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e gelosia|07:35:00|09:20:00|Il maresciallo vuole sposare una ragazza madre. Il suo subordinato gli affida la propria fidanzata, la &#039;bersagliera&#039; scatenando pettegolezzi.
+|![Icon](https://guidatv.sky.it/uuid/02e6c866-4bf7-431a-9f06-c8093944b1c0/cover?md5ChecksumParam=79ee724b8411ef67fd8e287e640a3c44)|Tutti in piedi|09:20:00|11:10:00|Jocelyn, misogino ed egoista, si finge disabile per sedurre una giovane donna. Ma quando lei gli presenta la sorella, realmente disabile...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Vendetta|11:10:00|13:00:00|...freddo - Desideroso di vendetta verso i pellerossa che gli hanno sterminato la famiglia, Jim scoprira&#039; invece una sconcertante verita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il Kentuckiano|13:00:00|14:55:00|Un boscaiolo rimasto vedovo, per lasciarsi alle spalle una faida tra famiglie, lascia il Kentucky per il Texas, ma viene raggiunto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cavalca e uccidi|14:55:00|16:30:00|Arizona: un gruppo di malviventi uccide lo sceriffo di una cittadina e lo sostituisce con un ubriacone che guidera&#039; la rivolta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I corvi ti scaveranno la fossa|16:30:00|18:05:00|Finita la guerra di secessione, una compagnia di trasporti del West assolda alcuni pistoleri per difendersi dai fuorilegge.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sono fotogenico|18:05:00|20:10:00|Antonio, un ingenuo trentenne di Laveno, raccoglie i risparmi di famiglia e si trasferisce a Roma, per sfondare nel cinema.
+|![Icon](https://guidatv.sky.it/uuid/c7b4e61a-bd59-4eb1-b113-84717cb39b2c/cover?md5ChecksumParam=90e8ab7561b03115e5b1b8114129460c)|Il segreto dei suoi occhi|20:10:00|22:05:00|Un ex agente FBI e&#039; da anni sulle tracce di un killer. Una prova fa si&#039; che Claire, il vice procuratore di cui e&#039; innamorato, debba aiutarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Basic|22:05:00|23:50:00|Agente della narcotici, John Travolta e&#039; chiamato ad indagare sulla misteriosa scomparsa di un leggendario sergente: Samuel L. Jackson.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:50:00|23:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/ddde4699-c634-4e91-a379-090ff695d368/cover?md5ChecksumParam=80761fd62c9accb71ebe29b56ef21b96)|Truth - Il prezzo della verita&#039;|23:55:00|02:00:00|Nel 2004, due giornalisti della CBS finiscono nell&#039;occhio del ciclone a causa di uno scoop sul Presidente George Bush.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
