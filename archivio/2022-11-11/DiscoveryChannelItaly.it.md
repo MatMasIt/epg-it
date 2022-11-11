@@ -1,5 +1,5 @@
 # Discovery Channel Italia
-> Programmazione di Giovedì 10 Novembre 2022
+> Programmazione di Venerdì 11 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
