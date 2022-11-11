@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Giovedì 10 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/6a6a0cbf-4643-46ff-a404-b06b8b983869/cover?md5ChecksumParam=01486c412514471992756fa4200835a3)|Sogno di una notte di mezza eta&#039;|01:10:00|02:35:00|Un uomo fantastica sulla nuova ragazza del suo migliore amico. Sara&#039; disposto a tutto per realizzare i suoi sogni piu&#039; sfrenati?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arianna|02:35:00|04:00:00|Arianna, una ragazza di diciannove anni, prende consapevolezza della propria sessualita&#039; durante un&#039;estate trascorsa sul Lago di Bolsena.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romeo &amp; Juliet|04:00:00|05:50:00|Verona. Due famiglie, i Montecchi e i Capuleti, sono divise da un odio atavico. I loro eredi, Romeo e Giulietta, finiscono per innamorarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il figlio dello sceicco|05:50:00|07:35:00|Nei suoi ultimi giorni di vita, uno sceicco va alla ricerca del legittimo erede, che si trova da qualche parte in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e gelosia|07:35:00|09:20:00|Il maresciallo vuole sposare una ragazza madre. Il suo subordinato gli affida la propria fidanzata, la &#039;bersagliera&#039; scatenando pettegolezzi.
+|![Icon](https://guidatv.sky.it/uuid/02e6c866-4bf7-431a-9f06-c8093944b1c0/cover?md5ChecksumParam=79ee724b8411ef67fd8e287e640a3c44)|Tutti in piedi|09:20:00|11:10:00|Jocelyn, misogino ed egoista, si finge disabile per sedurre una giovane donna. Ma quando lei gli presenta la sorella, realmente disabile...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Vendetta|11:10:00|13:00:00|...freddo - Desideroso di vendetta verso i pellerossa che gli hanno sterminato la famiglia, Jim scoprira&#039; invece una sconcertante verita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il Kentuckiano|13:00:00|14:55:00|Un boscaiolo rimasto vedovo, per lasciarsi alle spalle una faida tra famiglie, lascia il Kentucky per il Texas, ma viene raggiunto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cavalca e uccidi|14:55:00|16:30:00|Arizona: un gruppo di malviventi uccide lo sceriffo di una cittadina e lo sostituisce con un ubriacone che guidera&#039; la rivolta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I corvi ti scaveranno la fossa|16:30:00|18:05:00|Finita la guerra di secessione, una compagnia di trasporti del West assolda alcuni pistoleri per difendersi dai fuorilegge.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sono fotogenico|18:05:00|20:10:00|Antonio, un ingenuo trentenne di Laveno, raccoglie i risparmi di famiglia e si trasferisce a Roma, per sfondare nel cinema.
+|![Icon](https://guidatv.sky.it/uuid/c7b4e61a-bd59-4eb1-b113-84717cb39b2c/cover?md5ChecksumParam=90e8ab7561b03115e5b1b8114129460c)|Il segreto dei suoi occhi|20:10:00|22:05:00|Un ex agente FBI e&#039; da anni sulle tracce di un killer. Una prova fa si&#039; che Claire, il vice procuratore di cui e&#039; innamorato, debba aiutarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Basic|22:05:00|23:50:00|Agente della narcotici, John Travolta e&#039; chiamato ad indagare sulla misteriosa scomparsa di un leggendario sergente: Samuel L. Jackson.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:50:00|23:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/ddde4699-c634-4e91-a379-090ff695d368/cover?md5ChecksumParam=80761fd62c9accb71ebe29b56ef21b96)|Truth - Il prezzo della verita&#039;|23:55:00|02:00:00|Nel 2004, due giornalisti della CBS finiscono nell&#039;occhio del ciclone a causa di uno scoop sul Presidente George Bush.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|02:00:00|02:25:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Right at Your Door|02:25:00|04:00:00|La vita di Brad e Lexi e&#039; sconvolta dall&#039;esplosione, nel centro di Los Angeles, di alcune bombe che liberano gas tossici.
+|![Icon](https://guidatv.sky.it/uuid/85ca86b8-e9a7-4790-984a-24d1f65988c7/cover?md5ChecksumParam=2d9d54ce75c31674484c086f1c01c8eb)|Un mercoledi&#039; da leoni|04:00:00|06:00:00|Tre amici che adorano il surf e aspettano la &#039;grande onda&#039; vengono separati dalla guerra del Vietnam che li cambiera&#039; per sempre.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Assassinio sul Tevere|06:00:00|07:45:00|Nico Giraldi si ritrova a dover districare la matassa di un caso difficile e a scovare il responsabile di un omicidio su un barcone del Tevere.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|07:45:00|09:30:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/36aa0d28-7057-45e8-a02d-728cd659feb1/cover?md5ChecksumParam=6588eeb1d1f6552bdd85f16f61e23fc9)|The code|09:30:00|11:20:00|Il ladro Morgan Freeman si rivolge al collega Antonio Banderas per portare a termine un ultimo lavoro, commissionatogli dalla mafia russa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Viva Gringo|11:20:00|13:05:00|Un esploratore riceve dal governo del Peru&#039; l&#039;incarico di sedare una rivolta tra gli ultimi discententi degli Incas.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Vivo per la tua morte|13:05:00|14:40:00|Steve Reeves nella vicenda di due fratelli desiderosi di vendicarsi del feroce Meyner, autore con i suoi seguaci del furto dei loro cavalli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|14:40:00|14:45:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La battaglia di Maratona|14:45:00|16:20:00|Durante la guerra tra ateniesi e persiani, Filippide salva Atene e la promessa sposa Andromeda con l&#039;aiuto degli spartani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il ladro di Bagdad|16:20:00|18:05:00|L&#039;impresa del simpatico ladro Karim, alla ricerca della rosa blu capace di guarire da una malattia la figlia del sultano di Bagdad.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ecco noi per esempio|18:05:00|20:10:00|Un fotografo scaltro e truffaldino deruba un sempliciotto poeta di campagna. E&#039; solo l&#039;inizio di una splendida amicizia.
+|![Icon](https://guidatv.sky.it/uuid/069169f5-010f-4588-97a4-649f60bc0db1/cover?md5ChecksumParam=fe5458b79914e43195c71ec9380ee4f7)|La Belle Epoque|20:10:00|22:10:00|In crisi con la moglie, Victor accetta l&#039;invito di un&#039;agenzia che mette in scena, con degli attori, l&#039;epoca prediletta di ogni cliente. E...
+|![Icon](https://guidatv.sky.it/uuid/114dbf0d-e278-43fc-9bf8-df9a22e2d31b/cover?md5ChecksumParam=c4629702f1bcbfbd69363661ccb14389)|Le verita&#039;|22:10:00|00:05:00|Una diva del cinema francese, autrice di una biografia, riceve la visita della figlia con cui ha sempre avuto un rapporto burrascoso.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

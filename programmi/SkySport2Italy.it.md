@@ -1,5 +1,5 @@
 # Sky Sport 2
-> Programmazione di Giovedì 10 Novembre 2022
+> Programmazione di Venerdì 11 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
