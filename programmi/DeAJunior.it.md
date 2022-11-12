@@ -1,5 +1,5 @@
 # DeA Junior
-> Programmazione di Venerdì 11 Novembre 2022
+> Programmazione di Sabato 12 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
