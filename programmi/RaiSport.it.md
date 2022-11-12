@@ -3,23 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|01:30:00|05:00:00|Finali di specialita&#039; 1a g - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|05:00:00|06:00:00|Approfondimento dedicato al mondo del ciclismo.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|06:30:00|09:00:00|GP de France Angers. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Campionati Italiani Assoluti...|09:00:00|11:30:00|...Invernali. Batterie 2a g - A Riccione si svolgono le gare dei grandi protagonisti del nuoto italiano, tutti in vasca alla caccia dei titoli italiani.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FEI World Cup|11:30:00|13:00:00|Verona - I grandi protagonisti internazionali dell&#039;equitazione si sfidano nel prestigioso circuito mondiale.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Calcio Totale|13:00:00|14:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|14:00:00|14:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|14:30:00|14:45:00|Coppa Italia 3a Prova - Le piu&#039; belle manifestazioni di Orientamento.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|14:45:00|15:15:00|Wisla. HS 134 Gara 2 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Campionati Italiani Assoluti...|15:15:00|17:50:00|...Invernali. Finali 2a g - A Riccione si svolgono le gare dei grandi protagonisti del nuoto italiano, tutti in vasca alla caccia dei titoli italiani.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gli Imperdibili|17:50:00|17:55:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|17:55:00|19:05:00|MK John Wilson Trophy Sheffield. Programma Corto Coppia - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|19:05:00|19:25:00|Coppa Italia 3a Prova - Le piu&#039; belle manifestazioni di Orientamento.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|19:25:00|21:00:00|MK John Wilson Trophy Sheffield. Programma Corto M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reparto Corse|21:00:00|21:30:00|Occhi puntati sul mondo dei motori.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Road To... FIFA Qatar 2022|21:30:00|22:00:00|Ep. 13 - L&#039;avvicinamento ai Mondiali 2022 in programma in Qatar.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Mondiali|22:00:00|00:00:00|Finali di specialita&#039; 2a g - La grande ginnastica artistica internazionale si da&#039; appuntamento alla M&amp;S Bank Arena di Liverpool per la 51 edizione della competizione.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Campionati Italiani Assoluti...|00:00:00|02:30:00|...Invernali. Finali 2a g - A Riccione si svolgono le gare dei grandi protagonisti del nuoto italiano, tutti in vasca alla caccia dei titoli italiani.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FEI World Cup|02:30:00|04:00:00|Verona - I grandi protagonisti internazionali dell&#039;equitazione si sfidano nel prestigioso circuito mondiale.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|04:00:00|05:00:00|MK John Wilson Trophy Sheffield. Programma Corto Coppia - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
@@ -39,6 +22,21 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|TG Sport Notte|22:30:00|22:45:00|Tutte le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale TG Sport|22:45:00|23:30:00|Campionato - Tutte le notizie dei principali avvenimenti sportivi.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|23:30:00|00:20:00|MK John Wilson Trophy Sheffield. Programma Libero M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|00:20:00|03:35:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Novara - Chieri|03:35:00|05:00:00|Serie A1 F, 6a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Novara - Chieri|05:00:00|06:00:00|Serie A1 F, 6a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|06:30:00|07:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|07:00:00|10:15:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|10:15:00|11:10:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|11:10:00|13:05:00|MK John Wilson Trophy Sheffield. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|13:05:00|13:20:00|Campionato italiano 5a prova - Le piu&#039; belle manifestazioni di Orientamento.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:20:00|15:05:00|MK John Wilson Trophy Sheffield. Programma Libero Danza - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|15:05:00|16:00:00|Beekse Bergen. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|16:00:00|16:50:00|Beekse Bergen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Siena - Modena|16:50:00|19:25:00|Superlega, 7a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Verona - Monza|19:25:00|22:00:00|Superlega, 7a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|22:00:00|23:30:00|MK John Wilson Trophy Sheffield. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|23:30:00|00:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
 
 
 
