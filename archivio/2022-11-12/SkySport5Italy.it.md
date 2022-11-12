@@ -3,8 +3,9 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/79ffe664-65aa-40db-9a10-3490aff353c1/cover?md5ChecksumParam=3eb8c051e7ad48d8ef9dd2d612a8a6fc)|Malmo: Quarti M/F Sessione serale|14:30:00|23:00:00|World Padel Tour 2022 Malmo - Quarti di Finale Maschili e Femminili. Dalle 16:00
 |![Icon](https://guidatv.sky.it/uuid/cf75d3ed-7592-4212-9650-20974c9c1813/cover?md5ChecksumParam=bad3d0ebb60334bd343bb779d4b5e723)|Parma - Cittadella|12:30:00|16:00:00|Cod. 454884 - Serie B - 13a giornata. Calcio d&#039;inizio ore 14:00.
+|![Icon](https://guidatv.sky.it/uuid/fbbada69-7d6c-41ff-8359-2d43ac03b5bb/cover?md5ChecksumParam=152abf8c890d9c28e7702ae3bebce2b0)|World Padel Tour 2022 - Malmo 5|10:00:00|12:00:00|Altri
+|![Icon](https://guidatv.sky.it/uuid/77c7209a-cc72-41a1-a3e1-e59e2ffa3152/cover?md5ChecksumParam=d9de46855e777dea1912f03d6384d48a)|World Padel Tour 2022 - Malmo 6|12:00:00|17:00:00|Altri
 
 
 
