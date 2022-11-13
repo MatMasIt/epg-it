@@ -1,5 +1,5 @@
 # TRM h24
-> Programmazione di Sabato 12 Novembre 2022
+> Programmazione di Domenica 13 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
