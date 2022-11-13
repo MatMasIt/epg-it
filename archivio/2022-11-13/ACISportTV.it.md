@@ -3,28 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|01:35:00|02:30:00|Formula 4 Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|02:30:00|03:30:00|Touring Car Cup Qualifying Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|03:30:00|04:30:00|Touring Car Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|04:30:00|06:00:00|GT Sprint Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Fin.Naz. ACI Sport Rally Cup - Lazio|06:00:00|07:00:00|Fin.Naz. ACI Sport Rally Cup - Lazio - Fin.Naz. ACI Sport Rally Cup - Lazio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|07:00:00|07:40:00|ARW Mugello Puntata 1 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|07:40:00|08:20:00|ARW Mugello Puntata 2 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Piazza - Giffoni Film Festival|08:20:00|08:40:00|Karting Piazza - Giffoni Film Festival - Karting Piazza - Giffoni Film Festival
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST Austin Cat. PRO|08:40:00|10:30:00|eSport Coppa Ita ST Austin Cat. PRO - eSport Coppa Ita ST Austin Cat. PRO
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|10:30:00|11:20:00|Puntata 34 - Magazine ACI Sport
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta CIRT R5 Rally delle Marche|11:20:00|11:55:00|Diretta CIRT R5 Rally delle Marche - Diretta CIRT R5 Rally delle Marche
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|11:55:00|14:30:00|Karting Regionali Corridonia - Gare 2 - Karting Regionali Corridonia - Gare 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|14:30:00|16:05:00|GT Sprint Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport TT CUP Fixed R3 Zandvoort|16:05:00|17:40:00|eSport TT CUP Fixed R3 Zandvoort - eSport TT CUP Fixed R3 Zandvoort
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Formula Regional R10 Mugello Rev|17:40:00|18:05:00|Formula Regional R10 Mugello Rev - Formula Regional R10 Mugello Rev
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|18:05:00|18:40:00|Puntata 1 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|18:40:00|19:20:00|ARW Mugello Puntata 1 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|19:20:00|20:00:00|ARW Mugello Puntata 2 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|20:00:00|20:30:00|Puntata 2 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|20:30:00|21:10:00|Puntata 20 - Magazine ACI Storico
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Touring Car R4 Interlagos|21:10:00|23:00:00|eSport Touring Car R4 Interlagos - eSport Touring Car R4 Interlagos
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|C.I.A.R.S. R7 Rally Due Valli - SPS1|23:00:00|01:20:00|C.I.A.R.S. R7 Rally Due Valli - SPS1 - C.I.A.R.S. R7 Rally Due Valli - SPS1
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|C.I.A.R.S. R7 Rally Due Valli - Arrivo|01:20:00|02:30:00|C.I.A.R.S. R7 Rally Due Valli - Arrivo - C.I.A.R.S. R7 Rally Due Valli - Arrivo
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST Austin Cat. PRO|02:30:00|04:35:00|eSport Coppa Ita ST Austin Cat. PRO - eSport Coppa Ita ST Austin Cat. PRO
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|04:35:00|05:05:00|Puntata 1 - Padova Auto e Moto Epoca 2022
@@ -51,6 +29,25 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport TT CUP Fixed R3 Zandvoort|21:05:00|22:40:00|eSport TT CUP Fixed R3 Zandvoort - eSport TT CUP Fixed R3 Zandvoort
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Casteggio|22:40:00|23:00:00|Karting In Piazza - Casteggio - Karting In Piazza - Casteggio
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|23:00:00|01:35:00|Karting Regionali Corridonia - Gare 1 - Karting Regionali Corridonia - Gare 1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|01:35:00|04:15:00|Karting Regionali Corridonia - Gare 2 - Karting Regionali Corridonia - Gare 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport GT4 R3 Misano Cat. PRO|04:15:00|06:05:00|eSport GT4 R3 Misano Cat. PRO - eSport GT4 R3 Misano Cat. PRO
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST Austin Cat. PRO|06:05:00|07:55:00|eSport Coppa Ita ST Austin Cat. PRO - eSport Coppa Ita ST Austin Cat. PRO
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport TT CUP Fixed R3 Zandvoort|07:55:00|09:30:00|eSport TT CUP Fixed R3 Zandvoort - eSport TT CUP Fixed R3 Zandvoort
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|09:30:00|10:15:00|Puntata 20 - Magazine ACI Storico
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|10:15:00|11:50:00|Rally 2&amp;4 Historic Cups Stage Final - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|11:50:00|13:00:00|Touring Car Cup Race - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|13:00:00|13:30:00|Puntata 1 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|13:30:00|14:10:00|ARW Mugello Puntata 1 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|14:10:00|15:05:00|ARW Mugello Puntata 2 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Touring Car R4 Interlagos|15:05:00|17:00:00|eSport Touring Car R4 Interlagos - eSport Touring Car R4 Interlagos
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIRT R5 Rally delle Marche - Arrivo|17:00:00|18:00:00|CIRT R5 Rally delle Marche - Arrivo - CIRT R5 Rally delle Marche - Arrivo
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|18:00:00|18:50:00|Puntata 34 - Magazine ACI Sport
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Casteggio|18:50:00|19:05:00|Karting In Piazza - Casteggio - Karting In Piazza - Casteggio
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|19:05:00|20:40:00|GT Sprint Cup Race - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|20:40:00|21:10:00|Puntata 2 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport GT4 R3 Misano Cat. AM|21:10:00|22:50:00|eSport GT4 R3 Misano Cat. AM - eSport GT4 R3 Misano Cat. AM
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Piazza - Giffoni Film Festival|22:50:00|23:05:00|Karting Piazza - Giffoni Film Festival - Karting Piazza - Giffoni Film Festival
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Finale Naz. TIVM Castellana di Orvieto|23:05:00|03:05:00|Finale Naz. TIVM Castellana di Orvieto - Finale Naz. TIVM Castellana di Orvieto
 
 
 
