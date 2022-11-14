@@ -1,5 +1,5 @@
 # Class CNBC
-> Programmazione di Domenica 13 Novembre 2022
+> Programmazione di Lunedì 14 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
