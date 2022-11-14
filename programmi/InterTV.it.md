@@ -3,32 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Throwback Inter-Atalanta|00:00:00|00:30:00|Un viaggio nel passato di Inter-Atalanta: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Bomber Cruz|01:15:00|01:30:00|Gol, interviste, emozioni, particolarita&#039;: per conoscere davvero tutto su Cruz.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Atalanta-Inter 17/18|02:00:00|02:45:00|Rivediamo in sintesi il match della stagione 2017/18 tra Atalanta e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Careers: Barella|02:45:00|03:00:00|Non perdere Careers, il nuovo format di InterTv. Conosciamo meglio i giocatori della Prima Squadra nerazzurra attraverso il racconto della loro carriera: protagonista della prima puntata Barella.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Road To Atalanta-Inter 22/23|03:00:00|03:30:00|La prima tappa di avvicinamento alla sfida di Serie A contro l&#039;Atalanta.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta-Inter 21/22|04:00:00|06:00:00|Il match della stagione 2021/22 tra Atalanta e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:00:00|06:20:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|06:20:00|06:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:30:00|06:50:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|06:50:00|07:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Juventus-Inter U19 22/23|07:00:00|09:00:00|Il match della stagione 2022/23 tra Juventus e Inter U19.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|09:00:00|09:05:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Live Twitch Pre Partita|09:05:00|10:15:00|Live su Twitch di avvicinamento al match della stagione 2022/23 tra Juventus e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|10:15:00|10:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Match Live|10:30:00|11:20:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|11:20:00|11:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radiocronaca Atalanta-Inter 22/23|11:30:00|13:20:00|LIVE. Il match della stagione 2022/23 tra Atalanta e Inter. Radiocronaca di Roberto Scarpini.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|13:20:00|13:45:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Match Live|13:45:00|14:45:00|LIVE. Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta-Inter 22/23|14:45:00|16:45:00|Il match della stagione 2022/23 tra Atalanta e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|16:45:00|17:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter -Udinese U19 22/23|17:00:00|19:00:00|Il match della stagione 2022/23 tra Inter e Udinese.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Careers Legend: Zenga|19:00:00|19:30:00|Non perdere Careers Legend, il nuovo format di InterTv. Conosciamo meglio alcuni dei giocatori che hanno fatto la Storia dell&#039;Inter attraverso il racconto della loro carriera: protagonista della quarta puntata Zenga.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta-Inter 22/23|19:30:00|21:30:00|Il match della stagione 2022/23 tra Atalanta e Inter.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Match|21:30:00|22:30:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter -Udinese U19 22/23|22:30:00|00:30:00|Il match della stagione 2022/23 tra Inter e Udinese.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Goal Gallery Crespo|00:30:00|01:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta-Inter 22/23|01:00:00|03:00:00|Il match della stagione 2022/23 tra Atalanta e Inter.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Match|03:00:00|04:00:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
@@ -66,6 +40,38 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|23:00:00|23:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti vigilia UCL|23:15:00|23:30:00|Le migliori immagini di allenamento dei nostri campioni alla vigilia del match di UEFA Champions League.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Conferenza Stampa pre Inter-Barcellona|23:30:00|00:00:00|La conferenza stampa di mister Simone Inzaghi alla vigilia di Inter-Barcellona.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Hall Of Fame 2021|00:00:00|00:30:00|Il nostro evento speciale per celebrare le leggende nerazzurre entrate nella Inter Hall Of Fame, edizione 2021: Pagliuca, Materazzi, Sneijder, Eto&#039;o.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Barcellona 18/19|00:30:00|02:30:00|Il match di Champions League 18/19 tra Inter e Barcellona.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Inter-Barcellona 18/19|02:30:00|03:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Inter-Atalanta U19 22/23|03:00:00|03:45:00|Rivediamo in sintesi il match della stagione 2022/23 tra Inter e Atalanta U19.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti Vintage|03:45:00|04:00:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Barcellona 02/03|04:00:00|06:00:00|Il match di Champions League 02/03 tra Inter e Barcellona.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|06:15:00|06:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:30:00|06:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|06:45:00|07:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Bayern Monaco U19 2022 23|07:00:00|09:00:00|Le migliori immagini di allenamento dei nostri campioni alla vigilia del match di UEFA Champions League.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Careers: Lautaro|09:00:00|09:15:00|Non perdere Careers, il nuovo format di InterTv. Conosciamo meglio i giocatori della Prima Squadra nerazzurra attraverso il racconto della loro carriera: protagonista della seconda puntata Lautaro.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Viktoria Plzen-Inter U19 22/23|09:15:00|11:15:00|Il match di Youth League della stagione 2022/23 tra Viktoria Plzen e Inter U 19.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|11:15:00|11:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Trophy Baresi|11:30:00|12:00:00|Non perdere I M Trophy, il nuovo format di Inter Tv. In ogni puntata, un protagonisti della storia nerazzurra racconta un trofeo conquistato con la maglia dell&#039;Inter, presente alle sue spalle nella Trophy Room dell&#039;Inter HQ.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Hall Of Fame 2021|12:00:00|12:30:00|Il nostro evento speciale per celebrare le leggende nerazzurre entrate nella Inter Hall Of Fame, edizione 2021: Pagliuca, Materazzi, Sneijder, Eto&#039;o.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|12:30:00|12:45:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagonista della seconda puntata Elin Landstrom.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|12:45:00|14:45:00|Rivediamo in sintesi il match di Champions League 2009/10 tra Bayern Monaco e Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|14:45:00|15:30:00|Le migliori immagini di allenamento dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|15:30:00|16:00:00|La conferenza stampa di mister Simone Inzaghi alla vigilia di Inter-Bayern Monaco.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|16:00:00|16:15:00|Non perdere Showreel, il nuovo format di InterTv. Tutti i gol dei migliori bomber della storia recente nerazzurra, accompagnati dalle loro parole. Protagonista della seconda puntata Adriano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|16:15:00|18:15:00|Le migliori immagini di allenamento dei nostri campioni alla vigilia del match di UEFA Champions League.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|18:15:00|18:20:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Match Live Parte 1|18:20:00|19:15:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|19:15:00|19:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Match Live Parte 2|19:30:00|19:50:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|19:50:00|20:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radiocronaca Inter-Barcellona 22/23|20:00:00|21:55:00|LIVE. Il match di Champions League tra Inter e Barcellona. Radiocronaca di Roberto Scarpini.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|21:55:00|22:15:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Match Live|22:15:00|23:15:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|23:15:00|23:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Barcellona 22/23|23:30:00|01:30:00|Il match di Champions League 2022/23 tra Inter e Barcellona.
 
 
 

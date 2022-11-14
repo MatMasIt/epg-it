@@ -3,21 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|00:20:00|03:35:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Novara - Chieri|03:35:00|05:00:00|Serie A1 F, 6a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Novara - Chieri|05:00:00|06:00:00|Serie A1 F, 6a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|06:30:00|07:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|07:00:00|10:15:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|10:15:00|11:10:00|Approfondimento dedicato al mondo del ciclismo.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|11:10:00|13:05:00|MK John Wilson Trophy Sheffield. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Orientamento|13:05:00|13:20:00|Campionato italiano 5a prova - Le piu&#039; belle manifestazioni di Orientamento.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:20:00|15:05:00|MK John Wilson Trophy Sheffield. Programma Libero Danza - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|15:05:00|16:00:00|Beekse Bergen. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|16:00:00|16:50:00|Beekse Bergen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Siena - Modena|16:50:00|19:25:00|Superlega, 7a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Verona - Monza|19:25:00|22:00:00|Superlega, 7a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|22:00:00|23:30:00|MK John Wilson Trophy Sheffield. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|23:30:00|00:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tennis: Tsitsipas - Djokovic (live)|00:00:00|01:55:00|Le ATP Finals 2022 a Torino con i migliori giocatori delle classifiche ATP di singolare e doppio. Detiene il titolo per il singolare Zverev, per il doppio la coppia Herbert-Mahut.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|01:55:00|02:50:00|Beekse Bergen. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|02:50:00|04:30:00|MK John Wilson Trophy Sheffield. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
@@ -39,6 +24,24 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|C Siamo|21:30:00|22:00:00|Tutto il meglio dai campi della Serie C.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Calcio Totale|22:00:00|23:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tennis: Tsitsipas - Djokovic (live)|23:00:00|01:05:00|Le ATP Finals 2022 a Torino con i migliori giocatori delle classifiche ATP di singolare e doppio. Detiene il titolo per il singolare Zverev, per il doppio la coppia Herbert-Mahut.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Campionato Italiano Maratona|01:05:00|01:35:00|Si svolge a Ravenna il Campionato Italiano Assoluto e Master 2022, in occasione della Hoka Maratona di Ravenna Citta&#039; d&#039;Arte.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|01:35:00|02:50:00|Beekse Bergen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|02:50:00|05:00:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Campionato Italiano Maratona|05:00:00|05:30:00|Si svolge a Ravenna il Campionato Italiano Assoluto e Master 2022, in occasione della Hoka Maratona di Ravenna Citta&#039; d&#039;Arte.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale TG Sport|05:30:00|06:00:00|Mondiali di Apnea, Kas - A Bout de Souffle - Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FEI World Cup|06:30:00|08:00:00|Verona - I grandi protagonisti internazionali dell&#039;equitazione si sfidano nel prestigioso circuito mondiale.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|08:00:00|08:55:00|Beekse Bergen. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|08:55:00|09:50:00|Beekse Bergen. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Campionato Italiano Maratona|09:50:00|10:20:00|Si svolge a Ravenna il Campionato Italiano Assoluto e Master 2022, in occasione della Hoka Maratona di Ravenna Citta&#039; d&#039;Arte.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|10:20:00|13:30:00|Maiorca - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Verona - Monza|13:30:00|15:45:00|Superlega, 7a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Entella - Cesena|15:45:00|18:15:00|Serie C - 13a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Diretta Azzurra|18:15:00|18:50:00|Immagini, notizie e commenti sulla nazionale di calcio azzurra.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Irlanda Nord - Italia|18:50:00|21:00:00|Amichevole F - Le squadre scendono in campo per un incontro amichevole.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Calcio Totale|21:00:00|22:00:00|Seguiamo ogni settimana il &#039;pianeta football&#039;, italiano e straniero, in tutte le sue dimensioni, in particolare quella locale.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Road To... FIFA Qatar 2022|22:00:00|22:30:00|Ep. 14 - L&#039;avvicinamento ai Mondiali 2022 in programma in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|TG Sport Notte|22:30:00|22:50:00|Tutte le notizie dei principali avvenimenti sportivi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tennis: Tsitsipas - Djokovic (live)|22:50:00|01:00:00|Le ATP Finals 2022 a Torino con i migliori giocatori delle classifiche ATP di singolare e doppio. Detiene il titolo per il singolare Zverev, per il doppio la coppia Herbert-Mahut.
 
 
 
