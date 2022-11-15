@@ -1,5 +1,5 @@
 # Sky Cinema Comedy
-> Programmazione di Lunedì 14 Novembre 2022
+> Programmazione di Martedì 15 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
