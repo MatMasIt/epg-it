@@ -3,19 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Quell&#039;ultimo ponte|01:30:00|04:00:00|Nel 1944, dopo lo sbarco in Normandia, un esercito di paracadutisti inglesi viene lanciato ad affiancare le truppe di terra.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Io Semiramide|04:00:00|05:40:00|Storia e leggenda di Semiramide, la bella Regina di Assiria che edifico&#039; Babilonia e si innamoro&#039; di un re suo schiavo.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il diavolo e l&#039;acquasanta|05:40:00|07:25:00|Dopo essere stato salvato da un tentato suicidio, un calciatore depresso vorrebbe essere mantenuto dal suo benefattore.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:25:00|07:30:00|Rubrica per la promozione della cultura cinematografica in Italia.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ferdinando I, Re di Napoli|07:30:00|09:25:00|Dopo il Congresso di Vienna del 1815, Ferdinando I e&#039; il nuovo re di Napoli: si dimostrera&#039; da subito un sovrano cattivo e traditore.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una diecimilalire|09:25:00|11:10:00|1960. Un bambino di undici anni fugge da un paesino della Basilicata per raggiungere il fratello a Roma. Qui inizia una nuova vita.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il Kentuckiano|11:10:00|13:00:00|Un boscaiolo rimasto vedovo, per lasciarsi alle spalle una faida tra famiglie, lascia il Kentucky per il Texas, ma viene raggiunto.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Viva la muerte... tua!|13:00:00|15:00:00|Uno sceriffo libera due banditi, in possesso delle informazioni per raggiungere un tesoro. Ad accompagnarli, una giornalista.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rosmunda e Alboino|15:00:00|16:45:00|Per sconfiggere Roma, il re dei Longobardi Alboino propone un&#039;alleanza ai Gepidi. In cambio chiedera&#039; la mano di Rosmunda.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|El Zorro|16:45:00|18:25:00|Le vicende, in chiave parodica, del vendicatore Zorro alle prese con le brame di potere di don Jaime, spalleggiato dal perfido don Pedro.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|W le donne|18:25:00|20:10:00|Franchi e Ingrassia nella vicenda di un cantante chiamato alle armi. Si innamorera&#039; della figlia del terribile maresciallo.
-|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|20:10:00|22:35:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I cancelli del cielo|22:35:00|02:20:00|Wyoming 1890. La faida tra allevatori locali e gli immigrati europei, difesi da un solerte sceriffo, culmina in una definitiva battaglia.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ma papa&#039; ti manda sola?|02:20:00|04:00:00|San Francisco: una ragazza un po&#039; svitata coinvolge un impacciato musicologo in una serie di esilaranti, turbinose peripezie.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ultima estate a Tangeri|04:00:00|06:10:00|Travolto dalla bellezza seducente di una ragazza, un detective viene dapprima coinvolto nell&#039;omicidio di un avvocato, poi in un intrigo.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I magliari|06:10:00|08:15:00|Alberto Sordi nella vicenda di un emigrante che si lascia coinvolgere nei traffici di un losco venditore di stoffe.
@@ -27,6 +14,22 @@
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La sfida|18:35:00|20:10:00|Vito decide di entrare nell&#039;organizzazione camorristica del mercato ortofrutticolo, ma si scontra con il suo potente capo.
 |![Icon](https://guidatv.sky.it/uuid/d13c579f-32f3-406f-9ca1-a668d36a27e5/cover?md5ChecksumParam=9a6f306902c7c491b6b8d1439112caa5)|Citizen Rosi|20:10:00|22:35:00|Un viaggio attraverso il cinema del regista Francesco Rosi (1922-2015) insieme alla figlia Carolina e a Rosi stesso, che parla del suo metodo in frammenti di interviste passate.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lucky Luciano|22:35:00|00:35:00|Gian Maria Volonte&#039; nella biografia del gangster siculo-americano Salvatore Lucania, conosciuto come Lucky Luciano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:35:00|00:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Grudge|00:40:00|02:10:00|Un&#039;infermiera americana trasferitasi a Tokio inizia a essere perseguitata da una forza maledetta che vuole impossessarsi di lei.
+|![Icon](https://guidatv.sky.it/uuid/3343f564-eeb1-4d7c-98ed-7cf727253769/cover?md5ChecksumParam=d64761ff198db6b0481d53eab08bd051)|Tre manifesti a Ebbing, Missouri|02:10:00|04:00:00|Un uomo accusa indirettamente di inefficienza il capo della Polizia. L&#039;omicidio di sua figlia, infatti, e&#039; rimasto irrisolto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Katmandu|04:00:00|05:25:00|Durante gli scontri seguiti ad una manifestazione studentesca, il giovane Olivier ferisce un poliziotto. Dovra&#039; scappare dal padre a Katmandu.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|In ginocchio da te|05:25:00|07:25:00|Durante il servizio militare, il giovane cantante Gianni Traimonti s&#039;innamora ricambiato della figlia di un maresciallo, Carla Todisco.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:25:00|07:30:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il lupo della Sila|07:30:00|08:55:00|Quando Pietro viene incolpato di un omicidio, si ritrova senza un alibi. Era di nascosto con l&#039;amata Orsola e, per proteggerla, non lo rivela
+|![Icon](https://guidatv.sky.it/uuid/36f35a23-d7f9-4be3-9d2d-c1408dd33664/cover?md5ChecksumParam=e1827d110e35ddbef59b29f57977d47a)|Chiamami col tuo nome|08:55:00|11:20:00|La travolgente storia d&#039;amore fra due ragazzi nel corso di un&#039;indimenticabile estate fra le campagne del nord Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Quiet American|11:20:00|13:05:00|Nella Saigon del 1952 un agente americano si innamora dell&#039;amante vietnamita di un reporter inglese, e si mette nei guai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I due violenti|13:05:00|14:45:00|Il sergente Logan cattura Cassidy, ma una banda di ladri li aggredisce. Cassidy fugge, in cerca delle prove della sua innocenza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romolo e Remo|14:45:00|16:45:00|I due gemelli, perennemente in disaccordo, si separano. Mentre Romolo traccia il solco, arriva Remo a sfidarlo in duello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I 4 inesorabili|16:45:00|18:25:00|Quattro bounty killer texani progettano la vendetta nei confronti di un ranger, colpevole di aver scagionato un loro ricercato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhio alla vedova!|18:25:00|20:10:00|Un&#039;attraente donna, che ha visto morire il marito per mano della mafia, viene contesa da vari pretendenti.
+|![Icon](https://guidatv.sky.it/uuid/69ff8316-6e5b-4a79-9a20-538594550b1c/cover?md5ChecksumParam=281cabfdad2bff755fb9ccc9b1385558)|Monster|20:10:00|22:05:00|La storia della prima serial killer americana: Aileen Wuornos, sulla strada a 13 anni, cerca la sua vendetta per le violenze subite.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|22:05:00|22:30:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/6f6b4cc2-81c8-4a0b-838a-bb7291174600/cover?md5ChecksumParam=e1dc6eaf46164f79d48572a5e22841f5)|Cosa dira&#039; la gente|22:30:00|00:20:00|A Oslo, una sedicenne di origine pakistana viene sorpresa dal padre con il suo ragazzo. La famiglia decide cosi&#039; di affidarla a una zia...
 
 
 

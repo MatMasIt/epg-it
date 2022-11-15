@@ -3,11 +3,10 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|00:15:00|00:45:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
-|![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Sam il pompiere|00:45:00|01:10:00|S1 - Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
+|![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|00:45:00|01:10:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Sam il pompiere|01:10:00|01:35:00|S1 - Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
 |![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Sam il pompiere|01:35:00|01:50:00|S1 - Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
-|![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|01:50:00|02:15:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
+|![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Sam il pompiere|01:50:00|02:15:00|S1 - Sam e&#039; un simpatico pompiere, che con i suoi colleghi si prodiga sempre per tirare fuori dai guai gli abitanti di PontyPandy.
 |![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|02:15:00|02:35:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|02:35:00|03:00:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
 |![Icon](https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png)|Simsalagrimm|03:00:00|03:30:00|S1 - Le piu&#039; belle favole della tradizione europea vissute da due simpatici cantastorie, Yoyo e Doc Croc, che a bordo del magico Libro delle Favole ci accompagneranno in un fantastico viaggio.
