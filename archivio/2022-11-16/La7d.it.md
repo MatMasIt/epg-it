@@ -1,5 +1,5 @@
 # La 7 d
-> Programmazione di Martedì 15 Novembre 2022
+> Programmazione di Mercoledì 16 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

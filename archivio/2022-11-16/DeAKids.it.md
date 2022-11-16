@@ -1,5 +1,5 @@
 # DeA Kids
-> Programmazione di Martedì 15 Novembre 2022
+> Programmazione di Mercoledì 16 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
