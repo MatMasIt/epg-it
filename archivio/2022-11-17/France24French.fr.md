@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Mercoledì 16 Novembre 2022
+> Programmazione di Giovedì 17 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
