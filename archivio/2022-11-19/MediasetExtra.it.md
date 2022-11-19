@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Venerdì 18 Novembre 2022
+> Programmazione di Sabato 19 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
