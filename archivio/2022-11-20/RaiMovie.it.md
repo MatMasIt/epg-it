@@ -1,0 +1,40 @@
+# Rai Movie
+> Programmazione di Sabato 19 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:05:00|01:10:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La Regina Margot|01:10:00|03:25:00|La storia di Margot, figlia di Caterina de&#039; Medici, costretta a sposare Enrico di Navarra, e del suo amore per il giovane de la Mole.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|03:25:00|04:00:00|S1 Ep4 La morte porta consiglio - Un uomo in fin di vita promette alla figlia di rivelarle dall&#039;aldila&#039; i numeri del Lotto, ma sta progettando una divertente vendetta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le dolcezze del peccato|04:00:00|05:25:00|Un uomo, accusato ingiustamente della morte del padre della regina Margherita, si reca a Parigi per indagare sui fatti realmente accaduti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mi vedrai tornare|05:25:00|07:35:00|Gianni Morandi e&#039; un cadetto innamorato della figlia di un principe giapponese. Il loro amore pero&#039; sembrerebbe impossibile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La nonna Sabella|07:35:00|09:10:00|Al capezzale della nonna in fin di vita, si incrociano le vicende di Raffaele e della sorella minore, che e&#039; in attesa di sposarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|09:10:00|09:35:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|09:35:00|09:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Finalmente sposi|09:40:00|11:15:00|Per sanare i debiti del matrimonio, una coppia si trasferisce in Germania fingendo di partire per il viaggio di nozze.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fantozzi subisce ancora|11:15:00|12:50:00|Il ragionier Ugo Fantozzi, impiegato presso una grande azienda, e&#039; alle prese con le sue solite, umilianti disavventure.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:50:00|12:55:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Papa&#039; per amore|12:55:00|14:30:00|Dopo essere diventato il babysitter del piccolo Bart, Vincent si ritrova coinvolto anche nella vita scolastica del bambino insieme agli altri genitori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mr. Jones|14:30:00|16:30:00|Una psichiatra prende in cura un uomo ricoverato per una crisi maniaco depressiva ma finisce per innamorarsi di lui.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due partite|16:30:00|18:10:00|Un gruppo di donne e madri si racconta le proprie vicissitudini; trent&#039;anni dopo saranno le figlie a confrontarsi.
+|![Icon](https://guidatv.sky.it/uuid/22b802d2-8691-4035-bf9a-ca6d5fadb4a3/cover?md5ChecksumParam=07e1a4f589903c2f36c0a18c612a4414)|La quinta onda|18:10:00|20:10:00|In seguito a quattro devastanti invasioni aliene, Cassie ha il presagio che sia in arrivo la quinta, peggiore delle precedenti.
+|![Icon](https://guidatv.sky.it/uuid/24c3c72f-f39b-44d4-b47f-9de9e98b3f3b/cover?md5ChecksumParam=513696299c5f9fb5c30ad99499b583ee)|Il ladro di cardellini|20:10:00|21:50:00|Italia, terzo millennio. Il maresciallo Pasquale, finito nel vortice dei debiti di gioco, organizza una truffa per ripagare i buffi.
+|![Icon](https://guidatv.sky.it/uuid/d8b6c695-78b3-4228-810e-2e7180b379bd/cover?md5ChecksumParam=436b5495fd8f5b47450149cbd62c1550)|Il colore nascosto delle cose|21:50:00|23:55:00|La travolgente storia tra Emma, risoluta donna non vedente, e Teo, affascinante pubblicitario dal passato tormentato.
+|![Icon](https://guidatv.sky.it/uuid/ecd39d0a-bec2-4ab9-b6e0-8e96b19d6b02/cover?md5ChecksumParam=8305a300806c415b7f4efe5e7ec4747b)|Chesil Beach - Il segreto di una notte|23:55:00|01:50:00|Inghilterra, anni &#039;60. Il racconto della sofferta storia d&#039;amore tra due giovani novelli sposi, Edward e Florence.
+|![Icon](https://guidatv.sky.it/uuid/ca03967f-d56f-4234-9a3e-cbfce6f7ac8f/cover?md5ChecksumParam=0266743ab3f8815734a22c66f1c2b0e4)|Legend|01:50:00|04:00:00|Ascesa e caduta dei gemelli Kray, due leggendari gangster, a capo del crimine organizzato nella Londra degli anni &#039;50 e &#039;60.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gunga Din|04:00:00|05:55:00|Nell&#039;India britannica, tre soldati di Sua Maesta&#039; vengono mandati in missione. Catturati, verranno aiutati dal loro portatore d&#039;acqua.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Chimera|05:55:00|07:50:00|Mentre la moglie incinta rimane ad aspettarlo, Gianni, in cerca di successo, parte per una tournee in Brasile dove conosce un&#039;altra donna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:50:00|07:55:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fico d&#039;india|07:55:00|09:40:00|Il sindaco di una cittadina sorprende la moglie assieme a un playboy. Per lo spavento, quest&#039;ultimo viene colto da un infarto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Destinazione Piovarolo|09:40:00|11:20:00|Anni &#039;20. Toto&#039; e&#039; un capostazione, che vede aggiungersi ai suoi problemi i guai con le leggi razziali di Mussolini.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Agenzia Riccardo Finzi... praticament...|11:20:00|13:10:00|...detective - Un detective per corrispondenza affronta il suo primo caso a Milano: la morte di una cameriera. L&#039;inesperienza portera&#039; guai.
+|![Icon](https://guidatv.sky.it/uuid/22b802d2-8691-4035-bf9a-ca6d5fadb4a3/cover?md5ChecksumParam=07e1a4f589903c2f36c0a18c612a4414)|La quinta onda|13:10:00|15:05:00|In seguito a quattro devastanti invasioni aliene, Cassie ha il presagio che sia in arrivo la quinta, peggiore delle precedenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una famiglia senza freni|15:05:00|16:40:00|La serena vacanza di una famiglia si trasforma in una surreale avventura quando si verifica un guasto all&#039;auto, che diventa fuori controllo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La citta&#039; della paura|16:40:00|18:15:00|In una cittadina di cercatori d&#039;oro, due agenti di guardia vengono uccisi. Un poliziotto si finge anche lui cercatore per indagare...
+|![Icon](https://guidatv.sky.it/uuid/ed1c615f-8bfa-4aed-b8c0-a789d32495d4/cover?md5ChecksumParam=1d572b3c36f84f5cd1a228c551665eaf)|Criminal|18:15:00|20:10:00|La memoria di un agente della CIA defunto viene trasferita nel cervello di un detenuto. C&#039;e&#039; una missione da compiere.
+|![Icon](https://guidatv.sky.it/uuid/fde8b5dd-ab04-48eb-949c-7595a60473c1/cover?md5ChecksumParam=835b451bcf56570046b7b38f5fbd3f4f)|Ladies in Black|20:10:00|22:00:00|Sidney, 1959. Le speranze e le delusioni di un gruppo di commesse, impiegate in un&#039;elegante boutique.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|22:00:00|00:05:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

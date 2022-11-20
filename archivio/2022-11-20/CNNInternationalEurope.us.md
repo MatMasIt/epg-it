@@ -1,0 +1,74 @@
+# CNN International Europe
+> Programmazione di Sabato 19 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Erin Burnett OutFront|00:00:00|01:00:00|Erin Burnett stays ahead of the headlines, delivering a show that&#039;s in-depth and informative.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Anderson Cooper 360|01:00:00|02:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Anderson Cooper 360|02:00:00|03:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Tonight (CNN/US)|03:00:00|04:00:00|The latest news and information from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World&#039;s Untold Stories|04:00:00|05:00:00|In a basement in Denmark sits a collection of nearly 10,000 white plastic buckets, each holding a human brain. Could the answers hidden here help unlock the mysteries of the mind?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|05:00:00|05:30:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|African Voices Changemakers|05:30:00|06:00:00|Rescuing and rehabilitating turtles and penguins in South Africa; a bush pilot monitors and protects &quot;Big Tusker&quot; elephants in Kenya through the non-profit, Tsavo Trust.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|06:00:00|06:30:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Living Golf|06:30:00|07:00:00|Golf technology is constantly evolving, from cutting edge military technology used in launch monitors to games in the metaverse. We explore the latest in golf technology.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|07:00:00|08:00:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|08:00:00|09:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|09:00:00|10:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|10:00:00|11:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN This Morning Weekend - 1^TV|11:00:00|12:00:00|Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN This Morning Weekend - 1^TV|12:00:00|13:00:00|Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|African Voices Changemakers|13:00:00|13:30:00|Rescuing and rehabilitating turtles and penguins in South Africa; a bush pilot monitors and protects &quot;Big Tusker&quot; elephants in Kenya through the non-profit, Tsavo Trust.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Going Green|13:30:00|14:00:00|Five young climate activists share their solutions on everything from capturing carbon emissions to saving the bees, in a collective effort to preserve our planet.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Smerconish|14:00:00|15:00:00|Michael Smerconish tackles the American political and news stories of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|15:00:00|16:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|16:00:00|17:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport|17:00:00|17:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Living Golf|17:30:00|18:00:00|Golf technology is constantly evolving, from cutting edge military technology used in launch monitors to games in the metaverse. We explore the latest in golf technology.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|18:00:00|19:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|19:00:00|20:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|20:00:00|21:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|21:00:00|22:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport|22:00:00|22:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|22:30:00|23:00:00|Access to faster internet speeds, smartphones and tech hubs are all helping to drive a surge of young, tech-saavy entreprenuership on the continent.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|23:00:00|00:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|00:00:00|01:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Saturday - 1^TV|01:00:00|02:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport|02:00:00|02:30:00|Daily sports show features major stories and issues making news in the world of sports.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|02:30:00|03:00:00|From child prodigies to people who played a key role in the battle against coronavirus, Africa has produced some world-class scientists.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|03:00:00|03:30:00|Access to faster internet speeds, smartphones and tech hubs are all helping to drive a surge of young, tech-saavy entreprenuership on the continent.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|African Voices Changemakers|03:30:00|04:00:00|Rescuing and rehabilitating turtles and penguins in South Africa; a bush pilot monitors and protects &quot;Big Tusker&quot; elephants in Kenya through the non-profit, Tsavo Trust.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Living Golf|04:00:00|04:30:00|Golf technology is constantly evolving, from cutting edge military technology used in launch monitors to games in the metaverse. We explore the latest in golf technology.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketplace Europe|04:30:00|04:45:00|Anna Stewart explores the latest and greatest on display at Europe&#039;s biggest technology expo, from the metaverse to solar-powered cars.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketplace Asia|04:45:00|05:00:00|As Indonesia prepares to host the G20 summit in Bali this November, we explore how the goal of digital transformation is playing out on home turf through online warungs and Vidio.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|05:00:00|05:30:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Decoded|05:30:00|06:00:00|From behind the steering wheels of our cars, the healthcare we receive, and the media we consume, how Artificial Intelligence supports life in the modern world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|06:00:00|06:30:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|06:30:00|07:00:00|Access to faster internet speeds, smartphones and tech hubs are all helping to drive a surge of young, tech-saavy entreprenuership on the continent.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|07:00:00|07:45:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketplace Europe|07:45:00|08:00:00|Anna Stewart explores the latest and greatest on display at Europe&#039;s biggest technology expo, from the metaverse to solar-powered cars.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|08:00:00|09:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|09:00:00|10:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|10:00:00|11:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Living Golf|11:00:00|11:30:00|Golf technology is constantly evolving, from cutting edge military technology used in launch monitors to games in the metaverse. We explore the latest in golf technology.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|11:30:00|12:00:00|Access to faster internet speeds, smartphones and tech hubs are all helping to drive a surge of young, tech-saavy entreprenuership on the continent.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN This Morning Weekend - 1^TV|12:00:00|13:00:00|Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Politics|13:00:00|14:00:00|An insider&#039;s look into the key stories of the week from John King and a group of America&#039;s top political reporters.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union with Jake Tapper|14:00:00|15:00:00|Jake Tapper brings together major news makers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fareed Zakaria GPS|15:00:00|16:00:00|Fareed Zakaria GPS takes a comprehensive look at foreign affairs and the policies shaping our world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Sunday - 1^TV|16:00:00|17:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport|17:00:00|17:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|17:30:00|18:00:00|Access to faster internet speeds, smartphones and tech hubs are all helping to drive a surge of young, tech-saavy entreprenuership on the continent.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketplace Europe|18:00:00|18:15:00|Anna Stewart explores the latest and greatest on display at Europe&#039;s biggest technology expo, from the metaverse to solar-powered cars.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketplace Asia|18:15:00|18:30:00|As Indonesia prepares to host the G20 summit in Bali this November, we explore how the goal of digital transformation is playing out on home turf through online warungs and Vidio.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|African Voices Changemakers|18:30:00|19:00:00|Rescuing and rehabilitating turtles and penguins in South Africa; a bush pilot monitors and protects &quot;Big Tusker&quot; elephants in Kenya through the non-profit, Tsavo Trust.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Sunday - 1^TV|19:00:00|20:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Sunday - 1^TV|20:00:00|21:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Sunday - 1^TV|21:00:00|22:00:00|Updates of the latest news from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport|22:00:00|22:30:00|A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Living Golf|22:30:00|23:00:00|Golf technology is constantly evolving, from cutting edge military technology used in launch monitors to games in the metaverse. We explore the latest in golf technology.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom Sunday - 1^TV|23:00:00|00:00:00|Updates of the latest news from around the world.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
