@@ -1,5 +1,5 @@
 # Sky Cinema Action
-> Programmazione di Sabato 19 Novembre 2022
+> Programmazione di Domenica 20 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
