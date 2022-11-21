@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Domenica 20 Novembre 2022
+> Programmazione di Lunedì 21 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
