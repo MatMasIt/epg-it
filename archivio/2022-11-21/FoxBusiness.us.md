@@ -1,0 +1,48 @@
+# Fox Business
+> Programmazione di Domenica 20 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|America&#039;s Crime Crisis Summit Hosted...|00:00:00|01:00:00|...by Nancy Grace - An in-depth look at America&#039;s Crime Crisis Summit. Host: Nancy Grace.
+|![Icon](https://guidatv.sky.it/uuid/01222537-ebfb-42ac-8bf6-bee8f713323f/cover?md5ChecksumParam=2585f458bf079b7633461e424fd24f0e)|American Kidnapping: Finding Elizabeth Smart|01:00:00|02:00:00|...Elizabeth Smart - An in-depth look at the case of Elizabeth Smart, kidnapped when she was 14 years old.
+|![Icon](https://guidatv.sky.it/uuid/45c49d14-db20-4cd3-92db-f5a0314f0934/cover?md5ChecksumParam=c898c2a23db8f66fcdb1c87d9bad501f)|The Killer Next Door|02:00:00|03:00:00|John Douglas, former FBI investigator and criminal profiler, decodes the worst serial killers of the last years.
+|![Icon](https://guidatv.sky.it/uuid/2ce55280-851c-4496-b8d5-eae1d87ac610/cover?md5ChecksumParam=54f42c8741441adbe7ec756e509b0574)|The Twisted World of Jeffrey Epstein|03:00:00|04:00:00|With interviews of his victims, a look at the secret life of Jeffrey Epstein from his childhood to his death.
+|![Icon](https://guidatv.sky.it/uuid/965675cd-3e45-4155-a388-442545d7da69/cover?md5ChecksumParam=7f1f187718bc4a0c389c999b2457bd2a)|Surviving Bundy with Nancy Grace|04:00:00|05:00:00|Some victims of Ted Bundy share their personal stories of survival with Nancy Grace.
+|![Icon](https://guidatv.sky.it/uuid/f7919c5b-51b8-426f-9271-825bc294fadc/cover?md5ChecksumParam=81a26fb882e88ca17c0b9e8702af02a4)|Murdaugh Murder Mystery with Nancy Grace|05:00:00|06:00:00|Nancy Grace discusses the latest revelations and new developments in Murdaugh murder mystery.
+|![Icon](https://guidatv.sky.it/uuid/863f234a-c863-4f05-8c55-ad610a2e6956/cover?md5ChecksumParam=07528ae52fe0ebf1e6816ff162308916)|In the Valley of Sin|06:00:00|07:00:00|In 1995 the quiet town of Wenatchee, Washington, was rocked by a terrible scandal on child abuse. After dozens of arrests, the truth emerged.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|America&#039;s Crime Crisis Summit Hosted...|07:00:00|08:00:00|...by Nancy Grace - An in-depth look at America&#039;s Crime Crisis Summit. Host: Nancy Grace.
+|![Icon](https://guidatv.sky.it/uuid/01222537-ebfb-42ac-8bf6-bee8f713323f/cover?md5ChecksumParam=2585f458bf079b7633461e424fd24f0e)|American Kidnapping: Finding Elizabeth Smart|08:00:00|09:00:00|...Elizabeth Smart - An in-depth look at the case of Elizabeth Smart, kidnapped when she was 14 years old.
+|![Icon](https://guidatv.sky.it/uuid/45c49d14-db20-4cd3-92db-f5a0314f0934/cover?md5ChecksumParam=c898c2a23db8f66fcdb1c87d9bad501f)|The Killer Next Door|09:00:00|10:00:00|John Douglas, former FBI investigator and criminal profiler, decodes the worst serial killers of the last years.
+|![Icon](https://guidatv.sky.it/uuid/2ce55280-851c-4496-b8d5-eae1d87ac610/cover?md5ChecksumParam=54f42c8741441adbe7ec756e509b0574)|The Twisted World of Jeffrey Epstein|10:00:00|11:00:00|With interviews of his victims, a look at the secret life of Jeffrey Epstein from his childhood to his death.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|11:00:00|12:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|12:00:00|13:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d99e23b4-3a3f-4327-ac80-08145a476766/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|FOX Weather|13:00:00|14:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|14:00:00|14:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|14:30:00|15:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|15:00:00|15:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|15:30:00|16:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|16:00:00|16:30:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|16:30:00|17:00:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|17:00:00|18:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|18:00:00|19:00:00|...America. Bunker Hill - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|19:00:00|20:00:00|...America. Brooklyn - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|20:00:00|21:00:00|...America. Yorktown - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|21:00:00|21:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|21:30:00|22:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|22:00:00|22:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|22:30:00|23:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|23:00:00|00:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|01:00:00|02:00:00|...America. Bunker Hill - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|02:00:00|03:00:00|...America. Brooklyn - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|03:00:00|04:00:00|...America. Yorktown - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|04:00:00|05:00:00|...America. The Alamo - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|05:00:00|06:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|06:00:00|07:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|07:00:00|08:00:00|...America. The Alamo - Kelsey Grammer explains some important U.S. battles.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|08:00:00|09:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kelsey Grammer&#039;s Historic Battles for...|09:00:00|05:00:00|...America. Bunker Hill - Kelsey Grammer explains some important U.S. battles.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
