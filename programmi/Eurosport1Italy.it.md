@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Mercoledì 23 Novembre 2022
+> Programmazione di Giovedì 24 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
