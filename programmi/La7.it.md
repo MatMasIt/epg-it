@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Giovedì 24 Novembre 2022
+> Programmazione di Venerdì 25 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
