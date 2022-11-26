@@ -1,0 +1,43 @@
+# Rai Movie
+> Programmazione di Venerdì 25 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:05:00|00:10:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Toglimi un dubbio|00:10:00|01:55:00|La vita di Erwan viene stravolta dalla notizia di non essere il figlio dell&#039;uomo che ha sempre considerato suo padre.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|01:55:00|02:20:00|Speciale / La piazza che verra&#039; - Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/f0be21af-e8a4-4a2d-9fe1-46213a5bc12d/cover?md5ChecksumParam=5c96cd4ae6d6b8fe8b0ee69db74dfd51)|Desperado|02:20:00|04:00:00|Un boss della mala di una piccola citta&#039; del Messico e&#039; l&#039;obiettivo della vendetta di un misterioso straniero, carico di armi.
+|![Icon](https://guidatv.sky.it/uuid/61cfdda5-a00e-4dc9-8501-2b0d9158b4d1/cover?md5ChecksumParam=a054ed1f906c6aff4235df3cc3f77958)|Nessuno mi puo&#039; giudicare|04:00:00|05:45:00|Rimasta al verde dopo la morte del marito, una donna di 35 anni, asfissiata dai debiti, prende una drastica decisione e diventa una escort.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ercole contro i Figli del Sole|05:45:00|07:20:00|Ercole, accorso in aiuto della regina Inca Yamara, spodestata dai Figli del Sole e prossima a un sacrificio estremo, deve sconfiggere Athahualpa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;avaro|07:20:00|09:20:00|Alberto Sordi e&#039; un ricco e avaro usuraio, meschino con la famiglia come con gli sconosciuti. Il suo problema e&#039; trovar moglie.
+|![Icon](https://guidatv.sky.it/uuid/ecd39d0a-bec2-4ab9-b6e0-8e96b19d6b02/cover?md5ChecksumParam=8305a300806c415b7f4efe5e7ec4747b)|Chesil Beach - Il segreto di una notte|09:20:00|11:15:00|Inghilterra, anni &#039;60. Il racconto della sofferta storia d&#039;amore tra due giovani novelli sposi, Edward e Florence.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ballata per un pistolero|11:15:00|13:00:00|Spaghetti western che ha per protagonisti due cacciatori di taglie. La resa dei conti sara&#039; con una banda sanguinaria all&#039;interno di una miniera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il magnifico fuorilegge|13:00:00|14:35:00|Tradito da un collega corrotto, un ufficiale americano, dopo la Secessione diventa un bandito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|14:35:00|14:40:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sole rosso|14:40:00|16:40:00|Un samurai, di scorta ad un ambasciatore giapponese a Washington, ha dieci giorni per recuperare una preziosa spada rubata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Domani passo a salutare la tua vedova|16:40:00|18:20:00|Due malviventi, il dottor Janus e l&#039;irlandese Donovan, svuotano i forzieri di una banca. Sara&#039; Carrasco, pero&#039;, a sparire col bottino...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Zum Zum Zum n.2 - Sara&#039; capitato anch...|18:20:00|20:10:00|...anche a voi - I maggiori successi di Little Tony scandiscono le avventure sentimentali di un&#039;intraprendente assistente di volo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Separati ma non troppo|20:10:00|21:50:00|Una coppia in crisi e prossima al divorzio e&#039; costretta a una difficile convivenza forzata, tra gioie e dolori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Raid - Una poliziotta fuori di testa|21:50:00|23:40:00|Johanna sogna di far parte del RAID delle forze di sicurezza nazionale d&#039;elite.
+|![Icon](https://guidatv.sky.it/uuid/114dbf0d-e278-43fc-9bf8-df9a22e2d31b/cover?md5ChecksumParam=c4629702f1bcbfbd69363661ccb14389)|Le verita&#039;|23:40:00|01:35:00|Una diva del cinema francese, autrice di una biografia, riceve la visita della figlia con cui ha sempre avuto un rapporto burrascoso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:35:00|01:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mr. Jones|01:40:00|03:30:00|Una psichiatra prende in cura un uomo ricoverato per una crisi maniaco depressiva ma finisce per innamorarsi di lui.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|03:30:00|04:00:00|S1 Ep7 L&#039;imbiancone - Innamorato della proprietaria di un negozio di scarpe, un giovane solitario chiede un aiuto telefonico al servizio della Voce Amica.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Perdono|04:00:00|05:55:00|Una commessa riesce a sfondare nel mondo della musica. Ma questo rischia di guastare le sue amicizie, e forse l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arrivano i dollari!|05:55:00|07:30:00|Cinque fratelli ereditano da uno zio una grossa somma. Prima dovranno vedersela con la vedova di lui, una bellissima ragazza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La nipote Sabella|07:30:00|09:15:00|L&#039;interesse verso un giacimento di petrolio accende la competizione tra i quattro eredi di una famiglia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|09:15:00|09:40:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|09:40:00|09:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Favola|09:45:00|11:20:00|Nell&#039;America degli anni &#039;50, due donne borghesi e casalinghe si confidano sulla loro quotidianita&#039;, mentre si fanno largo segreti ed eventi inattesi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una famiglia senza freni|11:20:00|12:55:00|La serena vacanza di una famiglia si trasforma in una surreale avventura quando si verifica un guasto all&#039;auto, che diventa fuori controllo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:55:00|13:00:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/fde8b5dd-ab04-48eb-949c-7595a60473c1/cover?md5ChecksumParam=835b451bcf56570046b7b38f5fbd3f4f)|Ladies in Black|13:00:00|14:50:00|Sidney, 1959. Le speranze e le delusioni di un gruppo di commesse, impiegate in un&#039;elegante boutique.
+|![Icon](https://guidatv.sky.it/uuid/51f3f3ad-302b-4f33-b257-cdf9c6a6cbdc/cover?md5ChecksumParam=2e2591dccd6831c5ba0e7657703f4e0d)|45 Anni|14:50:00|16:30:00|Geoff e Kate stanno per festeggiare i 45 anni di matrimonio quando lui viene a sapere che il corpo della donna che amava e&#039; stato ritrovato.
+|![Icon](https://guidatv.sky.it/uuid/13e0f830-e4ae-48e3-88f3-3ead04c709ab/cover?md5ChecksumParam=a8d18e079b2243a0af05fa1993863961)|Un&#039;estate in Provenza|16:30:00|18:20:00|Costretti a trascorrere l&#039;estate in Provenza, Lea, Adrian e il piccolo Theo incontrano per la prima volta il loro nonno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Eye - Lo sguardo|18:20:00|20:10:00|Un agente dei servizi segreti britannici insegue fino in Alaska una misteriosa assassina che somiglia a sua moglie scomparsa.
+|![Icon](https://guidatv.sky.it/uuid/936447e8-3301-4625-b560-6ee0fc55c3eb/cover?md5ChecksumParam=d06ab66a9590d9641b64a2dbab3f4703)|Sei mai stata sulla luna?|20:10:00|22:10:00|Una donna in carriera vorrebbe vendere la masseria di cui e&#039; proprietaria. Il problema e&#039; sfrattare un affascinante contadino...
+|![Icon](https://guidatv.sky.it/uuid/a8365259-caea-436f-9a87-0bcbb4fc32cc/cover?md5ChecksumParam=81b6714ee4fee70a598695eef37726f7)|Mine vaganti|22:10:00|00:10:00|Un ragazzo torna in Puglia dopo aver finito gli studi. Le sue ambizioni si scontrano con i desideri della famiglia.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
