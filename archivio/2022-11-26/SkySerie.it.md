@@ -1,5 +1,5 @@
 # Sky Serie HD
-> Programmazione di Venerdì 25 Novembre 2022
+> Programmazione di Sabato 26 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
