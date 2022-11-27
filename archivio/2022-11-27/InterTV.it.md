@@ -1,0 +1,71 @@
+# Inter TV
+> Programmazione di Sabato 26 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Juventus - Inter Women 22/23|00:00:00|00:20:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|00:20:00|00:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Juventus - Inter Women 22/23|00:30:00|02:30:00|Il match della stagione 22/23 tra Juventus e Inter Women.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Juventus - Inter Women 22/23|02:30:00|02:50:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|02:50:00|03:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Juventus - Inter W. 22/23|03:00:00|03:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|03:30:00|03:45:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Trophy Maicon|03:45:00|04:00:00|Non perdere I M Trophy, il nuovo format di Inter Tv. In ogni puntata, un protagonisti della storia nerazzurra racconta un trofeo conquistato con la maglia dell&#039;Inter, presente alle sue spalle nella Trophy Room dell&#039;Inter HQ.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter-Sampdoria 22/23|04:00:00|06:00:00|Il match della stagione 22/23 tra Inter e Sampdoria.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:00:00|06:15:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamenti Vintage|06:15:00|06:30:00|Le migliori immagini di allenamento vintage dei nostri campioni.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter News- Replica|06:30:00|06:45:00|Internews, il notiziario di fine giornata. Servizi, interviste, approfondimenti dal mondo Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|06:45:00|07:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|07:00:00|07:15:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|A New Hero In Town: Vieri|07:15:00|07:30:00|Non perderti A New Hero in Town, il nuovo format di Inter TV in cui riviviamo alcuni degli esordi piu&#039; incredibili della storia dell&#039;Inter. Protagonista della terza puntata Vieri.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Inter - Bologna 22/23|07:30:00|08:20:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|08:20:00|08:30:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Bologna 22/23|08:30:00|10:30:00|Il match della stagione 22/23 tra Inter e Bologna.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Inter - Bologna 22/23|10:30:00|11:30:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Inter - Bologna 22/23|11:30:00|12:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Careers: Dumfries|12:00:00|12:15:00|Non perdere Careers, il nuovo format di InterTv. Conosciamo meglio i giocatori della Prima Squadra nerazzurra attraverso il racconto della loro carriera: protagonista della quarta puntata Dumfries.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|12:15:00|12:30:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Juventus - Inter Women 22/23|12:30:00|14:30:00|Il match della stagione 22/23 tra Juventus e Inter Women.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Goal Gallery Ronaldo|14:30:00|15:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Inter - Bologna 22/23|15:00:00|15:45:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Inter e Bologna.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|15:45:00|16:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Bologna 22/23|16:00:00|18:00:00|Il match della stagione 22/23 tra Inter e Bologna.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Inter - Bologna 22/23|18:00:00|19:00:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Inter - Bologna 22/23|19:00:00|19:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|The Outsider : Milito|19:30:00|20:00:00|Riviviamo la storia dei calciatori nerazzurri arrivati senza clamore ce poi si sono rivelati decisivi per cambiare il destino dell&#039;Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Juventus - Inter Women 22/23|20:00:00|20:15:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Juventus e Inter Women.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|20:15:00|20:30:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quarta puntata Ghoutia Karchouni e Anna Bjork Kristjansdottir.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|20:30:00|20:45:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Every Goal 20/21|20:45:00|21:30:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2020/21 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Bologna 22/23|21:30:00|23:30:00|Il match della stagione 22/23 tra Inter e Bologna.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Viktoria P.-Inter U19 22/23|23:30:00|00:00:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Inter - Bologna 22/23|00:00:00|00:45:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Inter e Bologna.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|A New Hero In Town: Vieri|00:45:00|01:00:00|Non perderti A New Hero in Town, il nuovo format di Inter TV in cui riviviamo alcuni degli esordi piu&#039; incredibili della storia dell&#039;Inter. Protagonista della terza puntata Vieri.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Viktoria Plzen - Inter U19 22/23|01:00:00|03:00:00|Il match di Youth League 22/23 tra Viktoria Plzen e Inter U19.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Viktoria P.-Inter U19 22/23|03:00:00|03:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Goal Gallery Ronaldo|03:30:00|04:00:00|Non perdere Goal Gallery: tutti i gol dei giocatori protagonisti in maglia nerazzurra.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Pomigliano Women 22/23|04:00:00|06:00:00|Il match della stagione 22/23 tra Inter Women e Pomigliano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Inter - Pomigliano Women 22/23|06:00:00|06:45:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Inter Women e Pomigliano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|I M Inter Woman|06:45:00|07:00:00|Non perdere I M Inter Woman, il nuovo format di InterTv. Conosciamo meglio le giocatrici della prima squadra femminile nerazzurra: protagoniste della quarta puntata Ghoutia Karchouni e Anna Bjork Kristjansdottir.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|07:00:00|07:15:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Viktoria Plzen - Inter U19 22/23|07:15:00|09:15:00|Il match di Youth League 22/23 tra Viktoria Plzen e Inter U19.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Every Goal 20/21|09:15:00|09:45:00|Rivediamo tutte le reti realizzate dall&#039;Inter nella stagione 2020/21 con Every Goal.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Viktoria P.-Inter U19 22/23|09:45:00|10:15:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Pomigliano Women 22/23|10:15:00|12:15:00|Il match della stagione 22/23 tra Inter Women e Pomigliano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Inter - Pomigliano Women 22/23|12:15:00|13:00:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Inter Women e Pomigliano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Throwback Atalanta-Inter|13:00:00|13:30:00|Un viaggio nel passato di Atalanta-Inter: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta - Inter 22/23|13:30:00|15:30:00|Il match della stagione 22/23 tra Atalanta e Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Where Are You From Lautaro|15:30:00|15:45:00|Alla scoperta delle tradizioni, degli usi e costumi e della cultura calcistica dei paesi dei nostri ragazzi. Nel primo episodio conosciamo meglio l&#039;Argentina di Lautaro Martinez.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Atalanta - Inter 22/23|15:45:00|16:30:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Atalanta e Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inter - Pomigliano Women 22/23|16:30:00|18:30:00|Il match della stagione 22/23 tra Inter Women e Pomigliano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Throwback Atalanta-Inter|18:30:00|19:00:00|Un viaggio nel passato di Atalanta-Inter: le immagini migliori e le parole dei protagonisti che hanno scritto la storia di questo confronto.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Atalanta - Inter 22/23|19:00:00|19:50:00|Vi accompagneremo al fischio d&#039;inizio del match con collegamenti live dagli stadi, approfondimenti tattici e tanti ospiti, tra cui Legends, influencer e tifosi vip.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Immagini e musica|19:50:00|20:00:00|Le migliori immagini dei nostri campioni e i grandi successi musicali di ieri e di oggi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atalanta - Inter 22/23|20:00:00|22:00:00|Il match della stagione 22/23 tra Atalanta e Inter.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Atalanta - Inter 22/23|22:00:00|23:00:00|Non perdere il post partita dell&#039;ultima gara giocata dall&#039;Inter. Tutte le analisi e le interviste.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Match Review Atalanta - Inter 22/23|23:00:00|23:30:00|Rivivi le partite piu&#039; belle giocate dall&#039;Inter con Match Review.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sintesi Atalanta - Inter 22/23|23:30:00|00:15:00|Rivediamo in sintesi il match di Serie A della stagione 2022/23 tra Atalanta e Inter.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

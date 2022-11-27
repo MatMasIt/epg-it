@@ -1,0 +1,41 @@
+# Rai Movie
+> Programmazione di Sabato 26 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:35:00|01:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mr. Jones|01:40:00|03:30:00|Una psichiatra prende in cura un uomo ricoverato per una crisi maniaco depressiva ma finisce per innamorarsi di lui.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|03:30:00|04:00:00|S1 Ep7 L&#039;imbiancone - Innamorato della proprietaria di un negozio di scarpe, un giovane solitario chiede un aiuto telefonico al servizio della Voce Amica.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Perdono|04:00:00|05:55:00|Una commessa riesce a sfondare nel mondo della musica. Ma questo rischia di guastare le sue amicizie, e forse l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arrivano i dollari!|05:55:00|07:30:00|Cinque fratelli ereditano da uno zio una grossa somma. Prima dovranno vedersela con la vedova di lui, una bellissima ragazza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La nipote Sabella|07:30:00|09:15:00|L&#039;interesse verso un giacimento di petrolio accende la competizione tra i quattro eredi di una famiglia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|09:15:00|09:40:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|09:40:00|09:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Favola|09:45:00|11:20:00|Nell&#039;America degli anni &#039;50, due donne borghesi e casalinghe si confidano sulla loro quotidianita&#039;, mentre si fanno largo segreti ed eventi inattesi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una famiglia senza freni|11:20:00|12:55:00|La serena vacanza di una famiglia si trasforma in una surreale avventura quando si verifica un guasto all&#039;auto, che diventa fuori controllo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:55:00|13:00:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/fde8b5dd-ab04-48eb-949c-7595a60473c1/cover?md5ChecksumParam=835b451bcf56570046b7b38f5fbd3f4f)|Ladies in Black|13:00:00|14:50:00|Sidney, 1959. Le speranze e le delusioni di un gruppo di commesse, impiegate in un&#039;elegante boutique.
+|![Icon](https://guidatv.sky.it/uuid/51f3f3ad-302b-4f33-b257-cdf9c6a6cbdc/cover?md5ChecksumParam=2e2591dccd6831c5ba0e7657703f4e0d)|45 Anni|14:50:00|16:30:00|Geoff e Kate stanno per festeggiare i 45 anni di matrimonio quando lui viene a sapere che il corpo della donna che amava e&#039; stato ritrovato.
+|![Icon](https://guidatv.sky.it/uuid/13e0f830-e4ae-48e3-88f3-3ead04c709ab/cover?md5ChecksumParam=a8d18e079b2243a0af05fa1993863961)|Un&#039;estate in Provenza|16:30:00|18:20:00|Costretti a trascorrere l&#039;estate in Provenza, Lea, Adrian e il piccolo Theo incontrano per la prima volta il loro nonno.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Eye - Lo sguardo|18:20:00|20:10:00|Un agente dei servizi segreti britannici insegue fino in Alaska una misteriosa assassina che somiglia a sua moglie scomparsa.
+|![Icon](https://guidatv.sky.it/uuid/936447e8-3301-4625-b560-6ee0fc55c3eb/cover?md5ChecksumParam=d06ab66a9590d9641b64a2dbab3f4703)|Sei mai stata sulla luna?|20:10:00|22:10:00|Una donna in carriera vorrebbe vendere la masseria di cui e&#039; proprietaria. Il problema e&#039; sfrattare un affascinante contadino...
+|![Icon](https://guidatv.sky.it/uuid/a8365259-caea-436f-9a87-0bcbb4fc32cc/cover?md5ChecksumParam=81b6714ee4fee70a598695eef37726f7)|Mine vaganti|22:10:00|00:10:00|Un ragazzo torna in Puglia dopo aver finito gli studi. Le sue ambizioni si scontrano con i desideri della famiglia.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|00:10:00|02:20:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/85affd0c-f838-4bae-b988-0ab6ecabb69a/cover?md5ChecksumParam=2db25263fb5cc4dec022015004a946a6)|Il clan|02:20:00|04:00:00|La drammatica epopea dei Puccio, la famiglia che negli anni &#039;80 sconvolse l&#039;Argentina commettendo atroci delitti e rapimenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Unico indizio una sciarpa gialla|04:00:00|05:35:00|Un matematico vive a Parigi con la moglie e i due figli. Un&#039;organizzazione spionistica rapisce i bambini, ma la polizia sospetta della moglie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romolo e Remo|05:35:00|07:30:00|I due gemelli, perennemente in disaccordo, si separano. Mentre Romolo traccia il solco, arriva Remo a sfidarlo in duello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:30:00|07:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Luna di miele in tre|07:35:00|09:25:00|Prossimo alle nozze, un uomo vince un viaggio in Giamaica con una modella: cerchera&#039; di conciliare l&#039;inconciliabile.
+|![Icon](https://guidatv.sky.it/uuid/2fb6ce33-6884-4b30-b19b-78eae8fef7c5/cover?md5ChecksumParam=8dd2aaa4a4bf26992a2f119b4e16a7ac)|Toto&#039; cerca casa|09:25:00|10:50:00|La grottesca odissea di una famigliola che viene continuamente sfrattata, e che alla fine trova ricovero in un&#039;aula di scuola.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|10:50:00|12:55:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/c7b4e61a-bd59-4eb1-b113-84717cb39b2c/cover?md5ChecksumParam=90e8ab7561b03115e5b1b8114129460c)|Il segreto dei suoi occhi|12:55:00|14:45:00|Un ex agente FBI e&#039; da anni sulle tracce di un killer. Una prova fa si&#039; che Claire, il vice procuratore di cui e&#039; innamorato, debba aiutarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhio alla penna|14:45:00|16:30:00|Un avventuriero arriva a Yucca City. Scambiato per un medico, aiutera&#039; gli abitanti contro le prepotenze di un latifondista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Caboblanco|16:30:00|18:05:00|Nel relitto di una nave e&#039; nascosto un enorme tesoro. Sulle sue tracce, i servizi segreti, un nazista e un esule americano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|15 minuti - Follia omicida a New York|18:05:00|20:10:00|Due folli appiccano incendi e uccidono sollecitando l&#039;interesse dei media. Li braccano un poliziotto e un esperto di incendi dolosi.
+|![Icon](https://guidatv.sky.it/uuid/5865421b-a407-4921-83e3-31c46fd89d88/cover?md5ChecksumParam=118c802b776389f1cc0b28603eccdd4b)|La canzone della vita - Danny Collins|20:10:00|22:00:00|Una rockstar ultrasessantenne si lascia ispirare da una lettera scritta da John Lennon per riconciliarsi con il figlio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Torino Special|22:00:00|22:25:00|Gli eventi piu&#039; significativi della quarantesima edizione del Festival di Torino: interviste esclusive, clip dei film presentati e retrospettive.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|22:25:00|00:30:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

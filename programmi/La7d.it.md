@@ -1,5 +1,5 @@
 # La 7 d
-> Programmazione di Sabato 26 Novembre 2022
+> Programmazione di Domenica 27 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
