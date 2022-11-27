@@ -10,25 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|07:00:00|09:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Caterina Lancini, moda e carattere|09:00:00|11:00:00|Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|11:00:00|12:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Le Corone Bags, straordinarie come te|12:00:00|13:00:00|Scopri Qvc. Scopri Le Corone Bags. Chi sceglie queste borse vuole esprimere la propria personalita&#039;, in quanto la varieta&#039; di colori proposti racconta cio&#039; che le parole non possono dire.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|13:00:00|15:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|M&#039;ama, e&#039; moda al primo sguardo|15:00:00|16:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Officina della moda, The fashion factory|16:00:00|17:00:00|Scopri QVC. Scopri Officina della Moda, esempio della creativita&#039; italiana e di una solida azienda familiare che produce centinaia di modelli tutti per la moda femminile.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Colour Lab, la ricerca dello stile|17:00:00|18:00:00|Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Caterina Lancini, moda e carattere|18:00:00|19:00:00|Scopri QVC. Scopri Caterina Lancini, brand che unisce classicita&#039; e modernita&#039; in uno stile unico totalmente made in Italy, creato dal designer Pierre C.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Olly Doo, tendenza con stile|19:00:00|20:00:00|Scopri Qvc. Scopri Olly Doo. Total look che coniugano creativita&#039; ed eleganza, attenzione alla qualita&#039; dei materiali e delle finiture e una costante ricerca per avere prodotti sempre moderni.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|20:00:00|23:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Galieti, Moda e sapienza italiane|23:00:00|00:00:00|Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Galieti, Moda e sapienza italiane|07:00:00|09:00:00|Scopri Galieti un&#039;azienda a conduzione familiare che porta avanti la tradizione italiana di scarpe, tutte realizzate prestando attenzione al design ed a ogni singolo dettaglio.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Lucrezia Sciortino, prima di tutto donna|09:00:00|10:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Enjoy, divertirsi con la moda|10:00:00|11:00:00|Enjoy e&#039; il brand di moda che cattura le tendenze del momento e le reinterpreta.Il suo stile si rivolge a tutte le donne che amano giocare con la moda ed esprimersi attraverso il proprio look.
@@ -42,6 +23,27 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Lucrezia Sciortino, prima di tutto donna|19:00:00|20:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|20:00:00|23:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|23:00:00|00:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|07:00:00|09:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Studio 19, moda Chic &amp; Sporty|09:00:00|10:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Matilde Design, fashion project|10:00:00|11:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|11:00:00|12:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Sottomarino, la moda italiana total look|12:00:00|13:00:00|Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Pikolinos, la felicita&#039; ai tuoi piedi|13:00:00|14:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|14:00:00|15:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|A*dela, pensa al tuo stile|15:00:00|16:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|16:00:00|17:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Sottomarino, la moda italiana total look|17:00:00|18:00:00|Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|NOMINATION ITALY, I gioielli per tutti|18:00:00|19:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Bianca della Torre,Personalita&#039; elegante|19:00:00|20:00:00|Scopri Bianca della Torre, un brand per una donna elegante esigente attenta ai dettagli e con la passione per la qualita&#039; ed il Made in Italy.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|20:00:00|23:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|M. Asam, Estratti d&#039;uva per la tua pelle|23:00:00|00:00:00|Scopri QVC. Scopri Asam, la linea di cosmetici che mette a frutto le proprieta&#039; di bellezza dell&#039;uva per contrastare insieme i segni dell&#039;invecchiamento della pelle.
 
 
 
