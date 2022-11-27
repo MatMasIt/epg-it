@@ -3,28 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|01:15:00|03:45:00|Karting Regionali Corridonia - Gare 1 - Karting Regionali Corridonia - Gare 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|03:45:00|04:35:00|Formula 4 Cup Qualifying Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|The Golden Age Of Rally 2022|04:35:00|05:05:00|The Golden Age Of Rally 2022 - The Golden Age Of Rally 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIARS R7 Rally Due Valli - SPS1|05:05:00|07:30:00|CIARS R7 Rally Due Valli - SPS1 - CIARS R7 Rally Due Valli - SPS1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST SPA Cat. PRO|07:30:00|09:25:00|eSport Coppa Ita ST SPA Cat. PRO - eSport Coppa Ita ST SPA Cat. PRO
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|09:25:00|09:50:00|Puntata 35 - Magazine ACI Sport
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Formula Regional R10 Mugello Rev|09:50:00|10:20:00|Formula Regional R10 Mugello Rev - Formula Regional R10 Mugello Rev
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|10:20:00|13:00:00|Karting Regionali Corridonia - Gare 2 - Karting Regionali Corridonia - Gare 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIRT R5 Rally delle Marche - Arrivo|13:00:00|13:40:00|CIRT R5 Rally delle Marche - Arrivo - CIRT R5 Rally delle Marche - Arrivo
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|13:40:00|14:15:00|Puntata 1 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|14:15:00|14:55:00|Puntata 2 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|14:55:00|15:25:00|Puntata 3 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|15:25:00|15:55:00|Puntata 4 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|The Golden Age Of Rally 2022|15:55:00|16:30:00|The Golden Age Of Rally 2022 - The Golden Age Of Rally 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport C.I. GT4 R4 Oulton Park AM|16:30:00|18:15:00|eSport C.I. GT4 R4 Oulton Park AM - eSport C.I. GT4 R4 Oulton Park AM
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Casteggio|18:15:00|18:30:00|Karting In Piazza - Casteggio - Karting In Piazza - Casteggio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Francavilla|18:30:00|18:50:00|Karting In Piazza - Francavilla - Karting In Piazza - Francavilla
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|18:50:00|19:30:00|ARW Mugello Puntata 1 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|19:30:00|20:25:00|ARW Mugello Puntata 2 - ACI Racing Weekend R10 Mugello
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|20:25:00|21:05:00|Puntata 22 - Magazine ACI Storico
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport TT Cup Fixed R4 SPA|21:05:00|22:50:00|eSport TT Cup Fixed R4 SPA - eSport TT Cup Fixed R4 SPA
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Finale Naz. TIVM Castellana Orvieto|22:50:00|02:50:00|Finale Naz. TIVM Castellana Orvieto - Finale Naz. TIVM Castellana Orvieto
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport C.I. GT4 R4 Oulton Park AM|02:50:00|05:00:00|eSport C.I. GT4 R4 Oulton Park AM - eSport C.I. GT4 R4 Oulton Park AM
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|05:00:00|05:20:00|Puntata 35 - Magazine ACI Sport
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|05:20:00|05:55:00|Puntata 1 - Padova Auto e Moto Epoca 2022
@@ -39,6 +17,30 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Regionali Corridonia - Gare 2|19:30:00|22:05:00|Karting Regionali Corridonia - Gare 2 - Karting Regionali Corridonia - Gare 2
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|22:05:00|23:05:00|Touring Car Cup Race - FIA Motorsport Games 2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport TT Cup Fixed R4 SPA|23:05:00|00:50:00|eSport TT Cup Fixed R4 SPA - eSport TT Cup Fixed R4 SPA
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F4 Championship R7 Mugello G1|00:50:00|01:45:00|F4 Championship R7 Mugello G1 - F4 Championship R7 Mugello G1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Mini Challenge R6 Mugello G1|01:45:00|02:35:00|Mini Challenge R6 Mugello G1 - Mini Challenge R6 Mugello G1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Formula Regional R10 Mugello G1|02:35:00|03:35:00|Formula Regional R10 Mugello G1 - Formula Regional R10 Mugello G1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gran Turismo Sprint R4 Mugello G1|03:35:00|05:10:00|Gran Turismo Sprint R4 Mugello G1 - Gran Turismo Sprint R4 Mugello G1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport C.I. GT4 R4 Oulton Park AM|05:10:00|06:50:00|eSport C.I. GT4 R4 Oulton Park AM - eSport C.I. GT4 R4 Oulton Park AM
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|06:50:00|08:30:00|Rally 2&amp;4 e Historic Cups - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting In Piazza - Francavilla|08:30:00|09:00:00|Karting In Piazza - Francavilla - Karting In Piazza - Francavilla
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Formula Regional R10 Mugello Rev|09:00:00|09:25:00|Formula Regional R10 Mugello Rev - Formula Regional R10 Mugello Rev
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|09:25:00|10:30:00|Touring Car Cup Race - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST SPA Cat. PRO|10:30:00|12:25:00|eSport Coppa Ita ST SPA Cat. PRO - eSport Coppa Ita ST SPA Cat. PRO
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|12:25:00|14:00:00|GT Sprint Cup Race - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|14:00:00|14:35:00|Puntata 1 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|14:35:00|15:10:00|Puntata 2 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|15:10:00|15:40:00|Puntata 3 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|15:40:00|16:15:00|Puntata 4 - Padova Auto e Moto Epoca 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|The Golden Age Of Rally 2022|16:15:00|16:50:00|The Golden Age Of Rally 2022 - The Golden Age Of Rally 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Storico|16:50:00|17:35:00|Puntata 22 - Magazine ACI Storico
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|17:35:00|18:30:00|Formula 4 Cup Race - FIA Motorsport Games 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Touring Car R5 Hockenheim|18:30:00|20:30:00|eSport Touring Car R5 Hockenheim - eSport Touring Car R5 Hockenheim
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milano Autoclassica 2022|20:30:00|21:05:00|Puntata 1 - Milano Autoclassica 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|21:05:00|21:50:00|ARW Mugello Puntata 1 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|21:50:00|22:30:00|ARW Mugello Puntata 2 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Magazine ACI Sport|22:30:00|23:00:00|Puntata 35 - Magazine ACI Sport
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Coppa Ita ST SPA Cat. PRO|23:00:00|00:55:00|eSport Coppa Ita ST SPA Cat. PRO - eSport Coppa Ita ST SPA Cat. PRO
 
 
 
