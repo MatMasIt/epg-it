@@ -1,5 +1,5 @@
 # Sky Sport 6
-> Programmazione di Domenica 27 Novembre 2022
+> Programmazione di Lunedì 28 Novembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
