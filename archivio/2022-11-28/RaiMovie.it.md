@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Domenica 27 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|00:10:00|02:20:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/85affd0c-f838-4bae-b988-0ab6ecabb69a/cover?md5ChecksumParam=2db25263fb5cc4dec022015004a946a6)|Il clan|02:20:00|04:00:00|La drammatica epopea dei Puccio, la famiglia che negli anni &#039;80 sconvolse l&#039;Argentina commettendo atroci delitti e rapimenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Unico indizio una sciarpa gialla|04:00:00|05:35:00|Un matematico vive a Parigi con la moglie e i due figli. Un&#039;organizzazione spionistica rapisce i bambini, ma la polizia sospetta della moglie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romolo e Remo|05:35:00|07:30:00|I due gemelli, perennemente in disaccordo, si separano. Mentre Romolo traccia il solco, arriva Remo a sfidarlo in duello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:30:00|07:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Luna di miele in tre|07:35:00|09:25:00|Prossimo alle nozze, un uomo vince un viaggio in Giamaica con una modella: cerchera&#039; di conciliare l&#039;inconciliabile.
+|![Icon](https://guidatv.sky.it/uuid/2fb6ce33-6884-4b30-b19b-78eae8fef7c5/cover?md5ChecksumParam=8dd2aaa4a4bf26992a2f119b4e16a7ac)|Toto&#039; cerca casa|09:25:00|10:50:00|La grottesca odissea di una famigliola che viene continuamente sfrattata, e che alla fine trova ricovero in un&#039;aula di scuola.
+|![Icon](https://guidatv.sky.it/uuid/25ca0255-011b-44f6-a5b9-09ebea98b8e1/cover?md5ChecksumParam=a1111a3faab5c67d938864b56a61f790)|La forma dell&#039;acqua|10:50:00|12:55:00|Nell&#039;America della Guerra Fredda, una donna muta dalla nascita si innamora di una creatura anfibia, reclusa in un laboratorio.
+|![Icon](https://guidatv.sky.it/uuid/c7b4e61a-bd59-4eb1-b113-84717cb39b2c/cover?md5ChecksumParam=90e8ab7561b03115e5b1b8114129460c)|Il segreto dei suoi occhi|12:55:00|14:45:00|Un ex agente FBI e&#039; da anni sulle tracce di un killer. Una prova fa si&#039; che Claire, il vice procuratore di cui e&#039; innamorato, debba aiutarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhio alla penna|14:45:00|16:30:00|Un avventuriero arriva a Yucca City. Scambiato per un medico, aiutera&#039; gli abitanti contro le prepotenze di un latifondista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Caboblanco|16:30:00|18:05:00|Nel relitto di una nave e&#039; nascosto un enorme tesoro. Sulle sue tracce, i servizi segreti, un nazista e un esule americano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|15 minuti - Follia omicida a New York|18:05:00|20:10:00|Due folli appiccano incendi e uccidono sollecitando l&#039;interesse dei media. Li braccano un poliziotto e un esperto di incendi dolosi.
+|![Icon](https://guidatv.sky.it/uuid/5865421b-a407-4921-83e3-31c46fd89d88/cover?md5ChecksumParam=118c802b776389f1cc0b28603eccdd4b)|La canzone della vita - Danny Collins|20:10:00|22:00:00|Una rockstar ultrasessantenne si lascia ispirare da una lettera scritta da John Lennon per riconciliarsi con il figlio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Torino Special|22:00:00|22:25:00|Gli eventi piu&#039; significativi della quarantesima edizione del Festival di Torino: interviste esclusive, clip dei film presentati e retrospettive.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|22:25:00|00:30:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/44b37909-ca48-4e01-b99f-52ed7da333c3/cover?md5ChecksumParam=7a04972e0ffda0c67167e40864b35a65)|Charlie Countryman deve morire|00:30:00|02:10:00|Arrivato a Bucarest, Charlie avra&#039; a che fare per la prima volta nella sua vita con la droga, la mafia, l&#039;amore e la morte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|W la foca|02:10:00|03:35:00|Un&#039;infermiera trova lavoro come domestica presso una famiglia di Roma e tenta il successo in tv. Cult della commedia sexy.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Torino Special|03:35:00|04:00:00|Gli eventi piu&#039; significativi della quarantesima edizione del Festival di Torino: interviste esclusive, clip dei film presentati e retrospettive.
+|![Icon](https://guidatv.sky.it/uuid/f0be21af-e8a4-4a2d-9fe1-46213a5bc12d/cover?md5ChecksumParam=5c96cd4ae6d6b8fe8b0ee69db74dfd51)|Desperado|04:00:00|05:40:00|Un boss della mala di una piccola citta&#039; del Messico e&#039; l&#039;obiettivo della vendetta di un misterioso straniero, carico di armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;arciere di fuoco|05:40:00|07:30:00|L&#039;inizio della storia leggendaria di Robin Hood, nobile che si fa fuorilegge per rubare ai ricchi e donare ai poveri, nell&#039;Inghilterra del 1200.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:30:00|07:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I due pompieri|07:35:00|09:15:00|L&#039;amore per la stessa donna mette uno contro l&#039;altro due colleghi pompieri, tra colpi bassi, bugie ed esilaranti equivoci.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ti-Koyo e il suo pescecane|09:15:00|11:15:00|In un&#039;isola del Pacifico, il piccolo Ti-Koyo stringe una curiosa amicizia con un pescecane e decide di condividerla con la dolce Diana.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I tre del Colorado|11:15:00|12:50:00|I meticci dell&#039;Hudson si ribellano ai soprusi dei coloni inglesi e rapiscono la figlia di un industriale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I lunghi giorni della vendetta|12:50:00|15:00:00|Ted evade di prigione per vendicare la morte del padre. Ci riuscira&#039; grazie all&#039;aiuto di una donna e di un onesto giudice.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Uomo avvisato mezzo ammazzato...|15:00:00|16:45:00|In cerca di una miniera d&#039;oro, il pistolero Spirito Santo salva il presidente messicano e la figlia, unendosi alla loro lotta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La battaglia di Maratona|16:45:00|18:20:00|Durante la guerra tra ateniesi e persiani, Filippide salva Atene e la promessa sposa Andromeda con l&#039;aiuto degli spartani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sturmtruppen|18:20:00|20:10:00|I soldati di uno sgangherato reparto dell&#039;esercito tedesco sono protagonisti di una sferzante satira antimilitarista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Oceano di fuoco - Hidalgo|20:10:00|22:35:00|1890. La storia vera di un cowboy che divenne leggenda partecipando alla corsa equestre di 3000 miglia nel deserto arabico.
+|![Icon](https://guidatv.sky.it/uuid/c4569976-38f7-48b3-a1ee-a249ff234108/cover?md5ChecksumParam=2b22a93f3ea451bf97176698733dfd7d)|Per qualche dollaro in piu&#039;|22:35:00|01:00:00|Due cacciatori di taglie sono intenzionati ad intascare un consistente premio. A tal fine devono eliminare un capobanda indio.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
