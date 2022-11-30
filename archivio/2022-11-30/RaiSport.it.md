@@ -1,0 +1,51 @@
+# Rai Sport
+> Programmazione di Martedì 29 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|00:30:00|01:35:00|Hulst. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|01:35:00|02:50:00|Hulst. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Maratona di Firenze|02:50:00|04:00:00|38a edizione della Firenze Marathon, uno degli appuntamenti piu&#039; attesi dagli atleti che gareggiano su un percorso con partenza e arrivo nel cuore della citta&#039;, piazza Duomo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:00:00|05:00:00|Ruka: Inseguimento 20 km a tecnica libera F - Le avvincenti gare della Coppa del Mondo di sci di fondo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|05:00:00|05:50:00|Ruka: Inseguimento 20 km a tecnica libera M - Le avvincenti gare della Coppa del Mondo di sci di fondo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gol Mondiali|05:50:00|06:00:00|Le sintesi e le azioni salienti dai campi di gioco dei Mondiali Qatar 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Brasile - Svizzera|06:30:00|08:30:00|Mondiali Qatar 2022 - Gruppo G. Dallo Stadio 974 con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Marco Lollobrigida e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Portogallo - Uruguay|08:30:00|10:30:00|Mondiali Qatar 2022 - Gruppo H. Dallo Stadio Lusail con la telecronaca di Stefano Bizzotto e Lele Adani. Interviste di Stefano Rizzato. In studio Alessandro Antinelli e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|10:30:00|11:00:00|Ruka: Salto HS 142/Fondo 5 km tecnica classica - Il norvegese Jarl Magnus Riiber, e&#039; il detentore della coppa di cristallo maschile e la norvegese Gyda Westvold Hansen di quella femminle.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|11:00:00|11:30:00|Ruka. Salto HS 142/Fondo 10 km tecnica classica - Il norvegese Jarl Magnus Riiber, e&#039; il detentore della coppa di cristallo maschile e la norvegese Gyda Westvold Hansen di quella femminle.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Maratona di Firenze|11:30:00|12:20:00|38a edizione della Firenze Marathon, uno degli appuntamenti piu&#039; attesi dagli atleti che gareggiano su un percorso con partenza e arrivo nel cuore della citta&#039;, piazza Duomo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|12:20:00|12:50:00|GP Espoo. Programma Corto Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|12:50:00|13:30:00|GP Espoo. Programma Corto M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:30:00|14:10:00|GP Espoo. Danza Ritmica - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|14:10:00|14:45:00|GP Espoo. Programma Corto F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ecuador - Senegal (live)|14:45:00|17:00:00|Mondiali Qatar 2022 - Gruppo A. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani assoluti a...|17:00:00|17:45:00|...squadre - A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Grand Prix Busto Arsizio|17:45:00|18:45:00|Alla e-work Arena di Busto Arsizio appuntamento con le stelle della ginnastica artistica, ritmica, aerobica e acrobatica.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Galles - Inghilterra (live)|18:45:00|21:00:00|Mondiali Qatar 2022 - Gruppo B. Dallo stadio Ahmad Bin Ali con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. Interviste di Stefano Rizzato.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|21:00:00|21:40:00|GP Espoo. Programma Corto Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|21:40:00|22:20:00|GP Espoo. Programma Corto M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|22:20:00|22:55:00|GP Espoo. Danza Ritmica - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|22:55:00|23:35:00|GP Espoo. Programma Corto F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arzignano - Vicenza|23:35:00|01:55:00|Serie C - 15a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Grand Prix Busto Arsizio|01:55:00|03:55:00|Alla e-work Arena di Busto Arsizio appuntamento con le stelle della ginnastica artistica, ritmica, aerobica e acrobatica.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|03:55:00|04:40:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Garda Trentino Half Marathon|04:40:00|05:00:00|Ventesima edizione della mezza maratona del Garda Trentino.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Maratona di Firenze|05:00:00|06:00:00|38a edizione della Firenze Marathon, uno degli appuntamenti piu&#039; attesi dagli atleti che gareggiano su un percorso con partenza e arrivo nel cuore della citta&#039;, piazza Duomo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arzignano - Vicenza|06:30:00|08:50:00|Serie C - 15a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|08:50:00|09:55:00|Hulst. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|09:55:00|11:10:00|Hulst. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|11:10:00|11:55:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|11:55:00|12:30:00|GP Espoo. Programma Libero Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|12:30:00|13:15:00|GP Espoo. Programma Libero M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:15:00|14:00:00|GP Espoo. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|14:00:00|14:45:00|GP Espoo. Programma Libero Danza - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Australia - Danimarca (live)|14:45:00|17:00:00|Mondiali Qatar 2022 - Gruppo D. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|17:00:00|18:05:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|18:05:00|18:45:00|Ruka. HS 142 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arabia Saudita - Messico (live)|18:45:00|21:00:00|Mondiali Qatar 2022 - Gruppo C. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Lecco - Renate|21:00:00|23:20:00|Serie C - 16a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|23:20:00|00:00:00|GP Espoo. Programma Libero Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
