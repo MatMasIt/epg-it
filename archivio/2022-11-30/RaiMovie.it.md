@@ -3,19 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sette ore di fuoco|01:00:00|02:25:00|Un gruppo di contrabbandieri rifornisce gli indiani di armi. Buffalo Bill stronca il traffico e punisce i colpevoli.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anonimo Veneziano|02:25:00|04:00:00|Un suonatore di oboe scopre di avere un male incurabile. Decide di invitare la sua ex moglie a Venezia per rivivere un amore passato.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le meravigliose avventure di Marco Polo|04:00:00|05:45:00|Marco Polo si reca in Cina per portare il proprio sostegno al Kublai Khan. Il figlio di questi, sta tentando di destituirlo.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le tigri di Mompracem|05:45:00|07:30:00|Nel Borneo, il perfido capitano Rosenthal fa condannare il principe Sandokan ai lavori forzati. Lui riuscira&#039; a evadere.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il padre di famiglia|07:30:00|09:30:00|La vita quotidiana e coniugale di una coppia di architetti, dagli anni eroici del dopoguerra a quelli del boom economico.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Manidu&#039;|09:30:00|11:10:00|In Polinesia, un orfano che ha per amico uno squalo desidera regalare alla fidanzata una perla, ma altri cercano di ostacolarlo.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|John il bastardo|11:10:00|13:00:00|Divorato dal rancore, John, figlio illegittimo di un ricco possidente, sfoga la propria rabbia sulla famiglia del padre.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Oceano di fuoco - Hidalgo|13:00:00|15:20:00|1890. La storia vera di un cowboy che divenne leggenda partecipando alla corsa equestre di 3000 miglia nel deserto arabico.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;uomo della valle maledetta|15:20:00|16:50:00|Gwen sposa un indiano contro la volonta&#039; di suo padre. Costretta a fuggire, verra&#039; salvata da un cowboy.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ognuno per se&#039;|16:50:00|18:30:00|La vicenda di quattro avventurieri che trovano l&#039;oro. Dovranno contenderselo, ma alla fine solo uno riuscira&#039; a goderselo.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sturmtruppen 2 (Tutti al fronte)|18:30:00|20:10:00|Sequel della satira antimilitarista incentrata su uno sgangherato reparto dell&#039;esercito tedesco durante la Seconda guerra mondiale.
-|![Icon](https://guidatv.sky.it/uuid/4cb89fc4-85bc-46c7-ad11-b70b3f8b839b/cover?md5ChecksumParam=05ee442e355e83d5eaeace3b67245e32)|Ieri, oggi, domani|20:10:00|22:20:00|Commedia a episodi in cui la Loren e&#039; una popolana, una borghese annoiata, una prostituta. Celebre la scena dello spogliarello.
-|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fatto di sangue fra due uomini per...|22:20:00|00:35:00|...causa di una vedova. Si sospettano moventi politici - Sicilia, 1922. La storia di una vedova che ama un socialista umanitario e un contrabbandiere italoamericano.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:35:00|00:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Solstice|00:40:00|02:05:00|Sei mesi dopo il suicidio della sorella gemella, Megan legge un articolo su come contattare i morti durante il solstizio e decide di metterlo in pratica.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Senza buccia|02:05:00|04:00:00|Un gruppo di giovani, con fisime di natura sessuale, e&#039; in vacanza nelle Eolie. L&#039;arrivo di Adriana cambiera&#039; tutto.
@@ -31,6 +18,19 @@
 |![Icon](https://guidatv.sky.it/uuid/be13258a-f822-491f-bd37-725809c8d142/cover?md5ChecksumParam=ffeb8222d0956ada4ca69c18fdc383a3)|La Duchessa|20:10:00|22:05:00|Inghilterra, XVII sec. Keira Knightley, una cortigiana affascinante e spregiudicata, diventa un modello per il suo popolo.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|22:05:00|22:30:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
 |![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Young Victoria|22:30:00|00:20:00|La giovinezza della regina Vittoria nel Regno Unito: le difficolta&#039;, la forza e il complesso e intenso rapporto con il marito, il principe Alberto.
+|![Icon](https://guidatv.sky.it/uuid/69ff8316-6e5b-4a79-9a20-538594550b1c/cover?md5ChecksumParam=281cabfdad2bff755fb9ccc9b1385558)|Monster|00:20:00|02:25:00|La storia della prima serial killer americana: Aileen Wuornos, sulla strada a 13 anni, cerca la sua vendetta per le violenze subite.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un Gioco Da Ragazze|02:25:00|04:00:00|Quattro ricche diciassettenni vivono con superficialita&#039; ogni aspetto della vita. Anche un professore si lascera&#039; incantare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I Tartari|04:00:00|05:20:00|L&#039;eterna lotta tra due popoli barbari, vichinghi e tartari, nemici a causa del rapimento reciproco delle due principesse.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cartagine in fiamme|05:20:00|07:20:00|La guerra punica raccontata dal punto di vista di un cartaginese: il guerriero Hiram, amato e salvato da una coraggiosa donna romana, Fulvia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il conte Tacchia|07:20:00|09:20:00|In una Roma d&#039;inizio secolo un modest&#039;uomo e&#039; indeciso: seguire il suo sogno di nobilta&#039; o inseguire... una bella popolana?
+|![Icon](https://guidatv.sky.it/uuid/69ff8316-6e5b-4a79-9a20-538594550b1c/cover?md5ChecksumParam=281cabfdad2bff755fb9ccc9b1385558)|Monster|09:20:00|11:20:00|La storia della prima serial killer americana: Aileen Wuornos, sulla strada a 13 anni, cerca la sua vendetta per le violenze subite.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La notte rossa del falco|11:20:00|13:00:00|Vecchio West. L&#039;investigatore OP viene ingaggiato dal magnate Wilson per sconfiggere la corruzione, ma niente andra&#039; come previsto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il vagabondo della foresta|13:00:00|14:30:00|Un pioniere vedovo, per badare alla casa e a suo figlio, decide di &#039;comprare&#039; una moglie. Ma dovra&#039; imparare a trattarla come si deve.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un genio, due compari, un pollo|14:30:00|16:40:00|Due truffatori e un vagabondo si alleano per derubare un ufficiale dell&#039;esercito, titolare di una fortuna in oro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La carica degli Apaches|16:40:00|18:15:00|Dopo la Guerra di Secessione, gli Stati Uniti concludono un effimero accordo con gli indiani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|32 dicembre|18:15:00|20:10:00|Tre episodi: un uomo si crede Socrate; due anziani fuggono dalla famiglia; un uomo rimanda i festeggiamenti del capodanno.
+|![Icon](https://guidatv.sky.it/uuid/2cce5552-e3c4-4828-9fa7-2b1e70ab0628/cover?md5ChecksumParam=2484b6070cc99f56e3f09c05490f547f)|Doppio taglio|20:10:00|22:05:00|Un editore accusato di omicidio e&#039; difeso da un&#039;avvocatessa che si innamora di lui. Ma le contraddizioni la faranno dubitare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|22:05:00|00:00:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
 
 
 

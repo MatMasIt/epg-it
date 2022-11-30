@@ -7,10 +7,10 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|11:00:00|17:00:00|Bloomber Uk
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|17:00:00|23:00:00|Bloomber Uk
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|23:00:00|05:00:00|Bloomber Uk
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|05:00:00|11:00:00|Bloomber Uk
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|11:00:00|17:00:00|Bloomber Uk
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|17:00:00|23:00:00|Bloomber Uk
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomber Uk|23:00:00|05:00:00|Bloomber Uk
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomberg UK|05:00:00|11:00:00|Bloomberg UK
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomberg UK|11:00:00|17:00:00|Bloomberg UK
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomberg UK|17:00:00|23:00:00|Bloomberg UK
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bloomberg UK|23:00:00|05:00:00|Bloomberg UK
 
 
 
