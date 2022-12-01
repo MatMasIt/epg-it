@@ -1,0 +1,50 @@
+# Rai Sport
+> Programmazione di Mercoledì 30 Novembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ginnastica: Grand Prix Busto Arsizio|01:55:00|03:55:00|Alla e-work Arena di Busto Arsizio appuntamento con le stelle della ginnastica artistica, ritmica, aerobica e acrobatica.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|03:55:00|04:40:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Garda Trentino Half Marathon|04:40:00|05:00:00|Ventesima edizione della mezza maratona del Garda Trentino.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Maratona di Firenze|05:00:00|06:00:00|38a edizione della Firenze Marathon, uno degli appuntamenti piu&#039; attesi dagli atleti che gareggiano su un percorso con partenza e arrivo nel cuore della citta&#039;, piazza Duomo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arzignano - Vicenza|06:30:00|08:50:00|Serie C - 15a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|08:50:00|09:55:00|Hulst. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|09:55:00|11:10:00|Hulst. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|11:10:00|11:55:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|11:55:00|12:30:00|GP Espoo. Programma Libero Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|12:30:00|13:15:00|GP Espoo. Programma Libero M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:15:00|14:00:00|GP Espoo. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|14:00:00|14:45:00|GP Espoo. Programma Libero Danza - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Australia - Danimarca (live)|14:45:00|17:00:00|Mondiali Qatar 2022 - Gruppo D. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|17:00:00|18:05:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|18:05:00|18:45:00|Ruka. HS 142 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arabia Saudita - Messico (live)|18:45:00|21:00:00|Mondiali Qatar 2022 - Gruppo C. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Lecco - Renate|21:00:00|23:20:00|Serie C - 16a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|23:20:00|00:00:00|GP Espoo. Programma Libero Coppie - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|00:00:00|00:40:00|GP Espoo. Programma Libero M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|00:40:00|01:20:00|GP Espoo. Programma Libero F - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|01:20:00|02:00:00|GP Espoo. Programma Libero Danza - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|02:00:00|02:45:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Maratona di Firenze|02:45:00|03:55:00|38a edizione della Firenze Marathon, uno degli appuntamenti piu&#039; attesi dagli atleti che gareggiano su un percorso con partenza e arrivo nel cuore della citta&#039;, piazza Duomo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|03:55:00|04:25:00|Ruka: Salto HS 142/Fondo 5 km tecnica classica - Il norvegese Jarl Magnus Riiber, e&#039; il detentore della coppa di cristallo maschile e la norvegese Gyda Westvold Hansen di quella femminle.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:25:00|05:00:00|Ruka: Fondo Mass Start 10 km/Salto HS 142 - Il norvegese Jarl Magnus Riiber, e&#039; il detentore della coppa di cristallo maschile e la norvegese Gyda Westvold Hansen di quella femminle.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|05:00:00|06:00:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|06:30:00|07:35:00|Hulst. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|07:35:00|08:50:00|Hulst. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|08:50:00|09:35:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|09:35:00|10:45:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Champions League|10:45:00|13:45:00|St. Quentin - La Champions League di ciclismo su pista, UCI Track Cycling Champions League, e&#039; una competizione annuale di ciclismo su pista, giunta alla sua 2a edizione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:45:00|14:45:00|GP Espoo. Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Canada - Marocco (live)|14:45:00|17:00:00|Mondiali Qatar 2022 - Gruppo F. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Ciclocross: Gran Premio Val Fontanabuona|17:00:00|17:30:00|Il secondo Gran Premio Val Fontanabuona, lungo le vie dell&#039;omonimo comune nell&#039;area della citta&#039; metropolitana di Genova. Una competizione Fuoristrada organizzata dall&#039;Asd Velo Team Val Fontanabuona
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|17:30:00|18:45:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Costarica - Germania (live)|18:45:00|21:00:00|Mondiali Qatar 2022 - Gruppo E. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reparto Corse|21:00:00|21:30:00|Occhi puntati sul mondo dei motori.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|L&#039;uomo e il mare|21:30:00|22:00:00|Rubrica dedicata al fascino del mare e al legame tra uomo e mare.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|22:00:00|23:00:00|Approfondimento dedicato al mondo del ciclismo.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|23:00:00|23:45:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Arti marziali: Campionati Italiani...|23:45:00|00:30:00|...Assoluti - A torino le avvincenti sfide di Kata/Kumite tra i grandi campioni per la conquista del titolo italiano.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

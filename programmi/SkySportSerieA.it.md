@@ -1,5 +1,5 @@
 # Sky Sport Serie A
-> Programmazione di Mercoledì 30 Novembre 2022
+> Programmazione di Giovedì 01 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
