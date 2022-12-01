@@ -18,7 +18,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell|20:00:00|21:00:00|Experts share how the markets are moving and what is driving them.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell: Overtime|21:00:00|22:00:00|Experts discuss all of the after-hours moves in the stock market.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Marketing. Media. Money|22:00:00|22:30:00|Anantara - The host shares insights about successful marketing executives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tech Transformers|22:00:00|22:30:00|Brent Hoberman - Technological innovations solve important issues.
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Asia Squawk Box|00:00:00|01:00:00|Business news is presented ahead of the opening of Asia&#039;s business trading day.
@@ -36,7 +36,7 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Power Lunch|19:00:00|20:00:00|A debate on the economy, the markets, real estate, media and technology.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell|20:00:00|21:00:00|Experts share how the markets are moving and what is driving them.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|US Closing Bell: Overtime|21:00:00|22:00:00|Experts discuss all of the after-hours moves in the stock market.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tech Transformers|22:00:00|22:30:00|Brent Hoberman - Technological innovations solve important issues.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fast Money|22:00:00|22:30:00|Investment traders discuss the market-related news of the day.
 |![Icon](https://guidatv.sky.it/uuid/1af396a0-c09b-4b34-9c05-90f5a9ca6010/cover?md5ChecksumParam=12b4f26e309cbeff67666b68b3460f62)|The Tonight Show Starring Jimmy Fallon|22:30:00|23:30:00|Award-winning comedian Jimmy Fallon hosts the long-running late-night talk show, featuring humorous monologues, comedic sketches and celebrity interviews.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|NBC Nightly News|23:30:00|00:00:00|NBC Nightly News providing reports of the day&#039;s national and international events.
 
