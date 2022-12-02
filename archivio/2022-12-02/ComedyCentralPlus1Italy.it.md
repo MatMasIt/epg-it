@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Giovedì 01 Dicembre 2022
+> Programmazione di Venerdì 02 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

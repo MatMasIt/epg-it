@@ -1,5 +1,5 @@
 # RTL 102.5 RadioVisione
-> Programmazione di Giovedì 01 Dicembre 2022
+> Programmazione di Venerdì 02 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
