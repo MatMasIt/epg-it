@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Venerdì 02 Dicembre 2022
+> Programmazione di Sabato 03 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

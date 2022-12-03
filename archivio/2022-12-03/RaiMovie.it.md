@@ -1,0 +1,42 @@
+# Rai Movie
+> Programmazione di Venerdì 02 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:00:00|00:05:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Eye - Lo sguardo|00:05:00|01:55:00|Un agente dei servizi segreti britannici insegue fino in Alaska una misteriosa assassina che somiglia a sua moglie scomparsa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|01:55:00|02:20:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/2266dfc7-7757-4043-b58c-7e1adcc3a6cd/cover?md5ChecksumParam=554864002f8655c882cf3f3a4dc7b1d2)|Hours|02:20:00|04:00:00|La costa atlantica degli USA e&#039; sconvolta dall&#039;uragano Katrina. Un padre deve proteggere la sua figlioletta ad ogni costo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La spada e la croce|04:00:00|05:45:00|Maria di Magdala, contesa fra un romano e un indigeno, rimane colpita dalla predicazione di Gesu&#039; e cerchera&#039; di salvarlo dalla croce.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Arrivano i Titani|05:45:00|07:50:00|I Titani, guidati da Crios, vengono inviati a Tebe a combattere il ribelle Re Cadmo. La missione sara&#039; piena di imprevisti.
+|![Icon](https://guidatv.sky.it/uuid/4cb89fc4-85bc-46c7-ad11-b70b3f8b839b/cover?md5ChecksumParam=05ee442e355e83d5eaeace3b67245e32)|Ieri, oggi, domani|07:50:00|10:00:00|Commedia a episodi in cui la Loren e&#039; una popolana, una borghese annoiata, una prostituta. Celebre la scena dello spogliarello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Eye - Lo sguardo|10:00:00|11:50:00|Un agente dei servizi segreti britannici insegue fino in Alaska una misteriosa assassina che somiglia a sua moglie scomparsa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il giustiziere dei mari|11:50:00|13:30:00|Australia, fine Settecento: Alcuni deportati sono costretti a cercare le perle finche&#039; uno di loro si ribella. Portera&#039; giustizia in quelle terre?
+|![Icon](https://guidatv.sky.it/uuid/c4569976-38f7-48b3-a1ee-a249ff234108/cover?md5ChecksumParam=2b22a93f3ea451bf97176698733dfd7d)|Per qualche dollaro in piu&#039;|13:30:00|16:00:00|Due cacciatori di taglie sono intenzionati ad intascare un consistente premio. A tal fine devono eliminare un capobanda indio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|16:00:00|16:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lo credevano uno stinco di santo|16:05:00|17:45:00|In prigione per vent&#039;anni, Carver ha custodito un segreto, che ora fa gola a una compagnia derubata e a quattro briganti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Oceano di fuoco - Hidalgo|17:45:00|20:10:00|1890. La storia vera di un cowboy che divenne leggenda partecipando alla corsa equestre di 3000 miglia nel deserto arabico.
+|![Icon](https://guidatv.sky.it/uuid/4c930cae-a6fb-4921-9693-ad751e591f14/cover?md5ChecksumParam=8edc3eefbf0914997191c0353630c024)|Un figlio all&#039;improvviso|20:10:00|21:35:00|Un giovane si presenta a casa dei coniugi Prioux, convinto di essere il loro figlio e con una fidanzata da presentargli!
+|![Icon](https://guidatv.sky.it/uuid/5865421b-a407-4921-83e3-31c46fd89d88/cover?md5ChecksumParam=118c802b776389f1cc0b28603eccdd4b)|La canzone della vita - Danny Collins|21:35:00|23:25:00|Una rockstar ultrasessantenne si lascia ispirare da una lettera scritta da John Lennon per riconciliarsi con il figlio.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|23:25:00|01:00:00|Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:00:00|01:05:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Classe 1984|01:05:00|02:40:00|Una scuola e&#039; sotto il controllo di una banda di teppisti vestiti in stile punk, quattro ragazzi e una ragazza. Il preside fara&#039; giustizia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Agente Federale X 3|02:40:00|04:00:00|Testimone di un omicidio, Linda fugge nel Montana: ma i killer sono sulle sue tracce.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Queimada|04:00:00|06:10:00|Nelle Antille, l&#039;avventuriero Marlon Brando e&#039; incaricato di neutralizzare il dominio portoghese a favore dell&#039;Inghilterra.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sandokan alla riscossa|06:10:00|07:45:00|Sandokan scopre di essere il figlio del sultano di Sarawak, trucidato da due avventurieri. Ora vuole punire gli assassini del padre.
+|![Icon](https://guidatv.sky.it/uuid/917a5943-5ceb-4959-ad32-9341f51fb673/cover?md5ChecksumParam=e098e18cefa9581e0ac5e4edca77dc6b)|Grandi bugie tra amici|07:45:00|10:05:00|Per il suo sessantesimo compleanno, Max riceve controvoglia, nella villa al mare, la visita dello storico gruppo di amici persi da anni.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|10:05:00|10:30:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|10:30:00|10:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Dalida|10:35:00|12:55:00|Il mito di Dalida rivive con Sveva Alviti. Un ritratto intimo della cantante e attrice italo-francese, morta suicida nel 1987.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|12:55:00|13:00:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/5865421b-a407-4921-83e3-31c46fd89d88/cover?md5ChecksumParam=118c802b776389f1cc0b28603eccdd4b)|La canzone della vita - Danny Collins|13:00:00|14:50:00|Una rockstar ultrasessantenne si lascia ispirare da una lettera scritta da John Lennon per riconciliarsi con il figlio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Noi 4|14:50:00|16:30:00|Due ex coniugi continuano ad incontrarsi e scontrarsi sulla gestione dei loro due figli. Dal regista di &#039;Scialla!&#039;.
+|![Icon](https://guidatv.sky.it/uuid/2c1b7ede-0c2d-4ea9-bd6b-5e784fcdef87/cover?md5ChecksumParam=e35499a3abc394b110f80e0db0dc0667)|Il nome del figlio|16:30:00|18:05:00|Durante una cena tra amici, una coppia rivela il nome del loro bambino che sta per nascere e si scatena un putiferio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|High crimes - Crimini di stato|18:05:00|20:10:00|Un giovane avvocato, Claire, si trova invischiata in un sordido complotto quando decide di difendere suo marito, accusato ingiustamente di crimini di guerra.
+|![Icon](https://guidatv.sky.it/uuid/c737e44c-9288-4334-9be3-323f49a39938/cover?md5ChecksumParam=d05267588407be5acbd79b7efb8a8f9f)|Metti la nonna in freezer|20:10:00|22:00:00|Una restauratrice in crisi finanziaria decide di surgelare il cadavere della nonna per continuare a incassarne la pensione.
+|![Icon](https://guidatv.sky.it/uuid/93cca3de-4ad6-4dd1-9d05-850944a9977e/cover?md5ChecksumParam=fd8d8a9715a103d1780e1018609f48d7)|Latin Lover|22:00:00|23:50:00|Per commemorare i dieci anni dalla scomparsa di un attore, le quattro figlie si radunano nella casa d&#039;infanzia del padre.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|23:50:00|01:45:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
