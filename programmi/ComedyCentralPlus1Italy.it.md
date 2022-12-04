@@ -1,5 +1,5 @@
 # Comedy Central Italia +1
-> Programmazione di Sabato 03 Dicembre 2022
+> Programmazione di Domenica 04 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
