@@ -10,26 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade veste Bianca della Torre|07:00:00|09:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Ama la tua casa|09:00:00|10:00:00|Scopri Qvc. Fatti accompagnare dai nostri personal shopper alla scoperta di tanti prodotti adatti a tutti i gusti e tutte le case.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buongiorno bellezza!|10:00:00|12:00:00|Ogni domenica alle 11,c&#039;e&#039; un momento in piu&#039; da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu&#039; belle
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade veste Carlotta Neri|12:00:00|13:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Mitarotonda, Classe e stile di oggi|13:00:00|14:00:00|Scopri QVC. Scopri Mitarotonda un marchio e una collezione di scarpe che nasce per rispondere a specifiche esigenze della donna contemporanea.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade veste Bianca della Torre|14:00:00|15:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Doll10, Ridefinisci la bellezza|15:00:00|16:00:00|Scopri QVC. Scopri Doll10, una linea di bellezza che mette la scienza e le innovazioni della tecnologia al servizio della cosmesi.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade veste Carlotta Neri|16:00:00|17:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Vintage Bijoux, Gioielli senza tempo|17:00:00|18:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Centigrade veste Hekla|18:00:00|19:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Hush&amp;Hush, integratori luxury|19:00:00|20:00:00|Hush&amp;Hush e&#039; il luxury brand che crea integratori alimentari seguendo un approccio che unisce il benessere di mente e corpo.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|20:00:00|23:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Samsung, il futuro e&#039; adesso|23:00:00|00:00:00|Scopri QVC.Scopri Samsung,uno dei leader nel il commercio di elettrodomestici e telecomunicazioni mobili,che ricerca l&#039;avanguardia nelle innovazioni per offrire esperienze digitali sempre piu&#039; ricche.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Qui Tecnologia|07:00:00|09:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta delle piu&#039; recenti innovazioni e curiosita&#039; sul mondo della tecnologia.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Wolford, il lusso di una seconda pelle|09:00:00|10:00:00|TV Shopping
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|10:00:00|11:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
@@ -46,6 +26,28 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Samsung, il futuro e&#039; adesso|21:00:00|22:00:00|Scopri QVC.Scopri Samsung,uno dei leader nel il commercio di elettrodomestici e telecomunicazioni mobili,che ricerca l&#039;avanguardia nelle innovazioni per offrire esperienze digitali sempre piu&#039; ricche.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Elizabeth Grant, Il volto della bellezza|22:00:00|23:00:00|Scopri QVC. Scopri Elizabeth Grant, I prodotti della sua collezione vantano una miscela di alghe unica con piu&#039; di 40 vitamine e minerali, efficaci contro i segni del tempo.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|23:00:00|00:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|07:00:00|09:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Doctor Seaweed Il benessere dal mare|09:00:00|10:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Demetra Closet, la musa della moda|10:00:00|11:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|11:00:00|12:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Ultimate, alleati del benessere|12:00:00|13:00:00|Scopri Ultimate, marchio Made in Italy, nato dalla passione per lo sport del titolare Enrico Levantino. Con 30 anni di esperienza, propone in esclusiva QVC, due nuove linee: Sprint e Wellness.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Mood Atelier, Originalita&#039; e passione|13:00:00|14:00:00|Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|14:00:00|15:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Foppapedretti|15:00:00|16:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|16:00:00|17:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Demetra Closet, la musa della moda|17:00:00|18:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|SBC: la tua naturale bellezza|18:00:00|19:00:00|Scopri QVC. Scopri SBC, prodotti cosmetici che racchiudono le proprieta&#039; delle piante per aiutare a migliorare la salute della pelle offrendo una gamma naturale adatta sia agli adulti che ai bambini.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|M&#039;ama, e&#039; moda al primo sguardo|19:00:00|20:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buongiorno Bellezza Speciale Natale|20:00:00|22:00:00|Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Mood Atelier, Originalita&#039; e passione|22:00:00|23:00:00|Scopri QVC. Scopri Mood Atelier un brand che veste la donna dando attenzione alle forme e alla vestibilita&#039; del prodotto per soddisfare le esigenze di tutte le donne.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Soffice Sogno, Lo stile della comodita&#039;|23:00:00|00:00:00|Scopri QVC. Scopri Soffice Sogno, una linea di scarpe di produzione italiana, che uniscono al comfort l&#039;attenzione alla moda e ai dettagli.
 
 
 
