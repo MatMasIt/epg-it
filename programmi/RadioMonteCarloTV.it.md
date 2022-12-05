@@ -1,5 +1,5 @@
 # Radio Monte Carlo TV
-> Programmazione di Domenica 04 Dicembre 2022
+> Programmazione di Lunedì 05 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
