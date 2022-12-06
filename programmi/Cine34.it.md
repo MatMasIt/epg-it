@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Lunedì 05 Dicembre 2022
+> Programmazione di Martedì 06 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
