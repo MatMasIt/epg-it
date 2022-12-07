@@ -1,5 +1,5 @@
 # BBC World News
-> Programmazione di Martedì 06 Dicembre 2022
+> Programmazione di Mercoledì 07 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
