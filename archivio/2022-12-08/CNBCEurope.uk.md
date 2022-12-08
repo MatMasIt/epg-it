@@ -1,5 +1,5 @@
 # CNBC Europe
-> Programmazione di Mercoledì 07 Dicembre 2022
+> Programmazione di Giovedì 08 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
