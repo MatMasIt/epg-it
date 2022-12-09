@@ -3,28 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|01:30:00|02:30:00|Formula 4 Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|02:30:00|03:25:00|Touring Car Cup Qualifying Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|03:25:00|04:25:00|Touring Car Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|FIA Motorsport Games 2022|04:25:00|05:55:00|GT Sprint Cup Race - FIA Motorsport Games 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|05:55:00|06:30:00|Puntata 1 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|06:30:00|07:05:00|Puntata 2 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|07:05:00|07:35:00|Puntata 3 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|07:35:00|08:05:00|Puntata 4 - Padova Auto e Moto Epoca 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Touring Car R6 Imola|08:05:00|10:05:00|eSport Touring Car R6 Imola - eSport Touring Car R6 Imola
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIREAS Season Review 2022|10:05:00|11:05:00|CIREAS Season Review 2022 - CIREAS Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Prototipi Season Review 2022|11:05:00|11:50:00|Sport Prototipi Season Review 2022 - Sport Prototipi Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Storico Magazine|11:50:00|12:35:00|Puntata 22 - ACI Storico Magazine
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Cross Country Season Review 2022|12:35:00|13:20:00|Cross Country Season Review 2022 - Cross Country Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Slalom Season Review 2022|13:20:00|14:30:00|Slalom Season Review 2022 - Slalom Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Supercorso Federale ACI Sport 2022|14:30:00|15:05:00|Supercorso Federale ACI Sport 2022 - Supercorso Federale ACI Sport 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport C.I. GT4 Imola Cat. AM|15:05:00|17:00:00|eSport C.I. GT4 Imola Cat. AM - eSport C.I. GT4 Imola Cat. AM
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIVSA Season Review 2022|17:00:00|18:20:00|CIVSA Season Review 2022 - CIVSA Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milano Autoclassica 2022|18:20:00|18:55:00|Puntata 3 - Milano Autoclassica 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|F. Regional Season Review 2022|18:55:00|20:05:00|F. Regional Season Review 2022 - F. Regional Season Review 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Sport Magazine|20:05:00|20:30:00|Puntata 35 - ACI Sport Magazine
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milano Autoclassica 2022|20:30:00|21:05:00|Puntata 4 - Milano Autoclassica 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIVM Season Review 2022|21:05:00|00:35:00|CIVM Season Review 2022 - CIVM Season Review 2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport Touring Car R6 Imola|00:35:00|02:30:00|eSport Touring Car R6 Imola - eSport Touring Car R6 Imola
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|02:30:00|03:05:00|Puntata 1 - Padova Auto e Moto Epoca 2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Padova Auto e Moto Epoca 2022|03:05:00|03:40:00|Puntata 2 - Padova Auto e Moto Epoca 2022
@@ -49,6 +27,14 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Supercorso Federale ACI Sport 2022|21:35:00|21:55:00|Supercorso Federale ACI Sport 2022 - Supercorso Federale ACI Sport 2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Karting Season Review 2022|21:55:00|23:30:00|Karting Season Review 2022 - Karting Season Review 2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIARS Season Review 2022|23:30:00|01:20:00|CIARS Season Review 2022 - CIARS Season Review 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|eSport C.I. GT4 Imola Cat. AM|01:20:00|03:15:00|eSport C.I. GT4 Imola Cat. AM - eSport C.I. GT4 Imola Cat. AM
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|CIREAS Season Review 2022|03:15:00|04:15:00|CIREAS Season Review 2022 - CIREAS Season Review 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|04:15:00|04:55:00|Puntata 1 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Racing Weekend R10 Mugello|04:55:00|05:00:00|Puntata 2 - ACI Racing Weekend R10 Mugello
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Sport Tv|05:00:00|11:00:00|ACI Sport Tv
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Sport Tv|11:00:00|17:00:00|ACI Sport Tv
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Sport Tv|17:00:00|23:00:00|ACI Sport Tv
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ACI Sport Tv|23:00:00|05:00:00|ACI Sport Tv
 
 
 
