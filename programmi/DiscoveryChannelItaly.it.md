@@ -1,5 +1,5 @@
 # Discovery Channel Italia
-> Programmazione di Giovedì 08 Dicembre 2022
+> Programmazione di Venerdì 09 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
