@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Venerdì 09 Dicembre 2022
+> Programmazione di Sabato 10 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
