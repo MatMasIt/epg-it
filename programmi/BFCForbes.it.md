@@ -3,50 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|00:00:00|00:30:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|00:30:00|01:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|01:00:00|01:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|01:30:00|02:00:00|Risparmia, investi, cresci con Michael Pino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|02:00:00|02:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|02:05:00|03:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|03:00:00|03:30:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|03:30:00|04:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|04:00:00|04:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|04:30:00|05:00:00|Risparmia, investi, cresci con Michael Pino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|05:00:00|05:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|05:30:00|05:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|05:35:00|06:30:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|06:30:00|07:00:00|CEO Italian Awards 2022. Evento organizzato da Forbes Italia, in collaborazione con Business International, durante il quale sono stati premiati i Capitani del made in Italy piu&#039; innovativi e di successo dell&#039;anno
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Easy Bike in Italy|07:00:00|07:30:00|Ep1 - Ciclovia del Santerno. In sella alla nostra e-bike partiremo dal Comune di Mordano per arrivare, tra guadi e paesaggi verdi, fino ai castagneti secolari di Castel del Rio: 44km alla portata di tutti i cicloturisti
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|07:30:00|08:00:00|Ep53 - Federico Morgantini intervista Giulia Baccarin, Founder e CEO di Mipu, su Intelligenza Artificiale e fabbrica predittiva
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|08:00:00|09:00:00|Ep24 - Mosche. L&#039;atteso ritorno del talk show dedicato alla politica
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|09:00:00|09:30:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|09:30:00|10:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|10:00:00|10:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|10:30:00|11:00:00|Ep122 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|11:00:00|11:30:00|Ep142 - Con Monica Poggio, vice presidente Assolombarda con delega all&#039;Universita&#039; e al Capitale Umano parliamo di impresa e lavoro giovanile
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|11:30:00|12:00:00|Ep121 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|12:00:00|12:30:00|Ep52 - Federico Morgantini intervista Fabrizio Soru, Co-Founder e CEO di Datlas Group sul Business Process Outsourcing
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|12:30:00|13:00:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Ostuni
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|13:00:00|13:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|13:05:00|14:00:00|La Tv del lavoro
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive 1^TV|14:00:00|15:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|15:00:00|15:30:00|Ep25 - Di Riccardo Zanetti. Investire 600 milioni in immobili a Dubai
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|15:30:00|16:00:00|Private Banking Awards 2022 - prima parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|16:00:00|17:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|17:00:00|17:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|17:30:00|18:00:00|Ep122 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|18:00:00|18:30:00|Ep64 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Massimo Fuggetta, Chief Investment Officer di Bayes Investments
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|18:30:00|19:00:00|Risparmia, investi, cresci con Michael Pino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|19:00:00|19:30:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|19:30:00|20:00:00|Ep167 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Salvatore Trifiro&#039;, avvocato; Edoardo Prallini, coordinatore Small Giants; Matteo Rigamonti, coordinatore Bike
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|20:00:00|20:30:00|Ep120 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali 1^TV|20:30:00|21:30:00|Ep14 - Fabrica Floridi - Consumo circolare. Le nuove frontiere della grande distribuzione, progetti e processi legati alla sostenibilita&#039; (impatto, energia), il ruolo nella lotta allo spreco in ambito di circular economy
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|21:30:00|22:00:00|Ep30 - Ok, il prezzo e&#039; giusto! Le strategie di pricing di prodotto. Ospiti Francesco Fiorese, Managing Partner di Simon-Kucher &amp; Partners Italia; Giorgio Santambrogio, Ceo Gruppo VeGe. Conduce Ivan Fogliata, inFinance
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|22:00:00|22:30:00|Ep1 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Primo episodio
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|22:30:00|23:00:00|Ep22 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|23:00:00|23:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|23:30:00|00:00:00|Ep122 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|00:00:00|00:30:00|Ep53 - Federico Morgantini intervista Giulia Baccarin, Founder e CEO di Mipu, su Intelligenza Artificiale e fabbrica predittiva
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|00:30:00|01:00:00|Ep64 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Massimo Fuggetta, Chief Investment Officer di Bayes Investments
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|01:00:00|01:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
@@ -93,6 +49,51 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|22:30:00|23:00:00|Ep53 - Federico Morgantini intervista Giulia Baccarin, Founder e CEO di Mipu, su Intelligenza Artificiale e fabbrica predittiva
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|23:00:00|23:30:00|Ep30 - Ok, il prezzo e&#039; giusto! Le strategie di pricing di prodotto. Ospiti Francesco Fiorese, Managing Partner di Simon-Kucher &amp; Partners Italia; Giorgio Santambrogio, Ceo Gruppo VeGe. Conduce Ivan Fogliata, inFinance
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|23:30:00|00:00:00|Ep1 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Primo episodio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|00:00:00|01:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|01:00:00|01:30:00|Private Banking Awards 2022 - prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|01:30:00|02:00:00|Ep26 - Di Riccardo Zanetti. Come vendere auto online?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|02:00:00|02:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|02:30:00|03:00:00|Risparmia, investi, cresci con Michael Pino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|03:00:00|03:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|03:30:00|04:00:00|Ep122 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|04:00:00|04:30:00|Ep53 - Federico Morgantini intervista Giulia Baccarin, Founder e CEO di Mipu, su Intelligenza Artificiale e fabbrica predittiva
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|04:30:00|05:00:00|Ep64 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Massimo Fuggetta, Chief Investment Officer di Bayes Investments
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|05:00:00|05:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|05:30:00|05:35:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|05:35:00|06:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|06:30:00|07:00:00|Private Banking Awards 2022 - prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|07:00:00|07:30:00|Ep149 - ReadyForIT, un programma ideato dalla Fondazione Italiana Accenture, raccontato da due ragazzi che lo hanno frequentato. Scopriamo l&#039;Istituto di Informatica e Telematica del CNR
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|07:30:00|08:00:00|Ep64 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Massimo Fuggetta, Chief Investment Officer di Bayes Investments
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|08:00:00|08:30:00|IT Forum 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|08:30:00|09:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|09:00:00|09:30:00|Ep30 - Ok, il prezzo e&#039; giusto! Le strategie di pricing di prodotto. Ospiti Francesco Fiorese, Managing Partner di Simon-Kucher &amp; Partners Italia; Giorgio Santambrogio, Ceo Gruppo VeGe. Conduce Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|09:30:00|10:00:00|Ep1 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Primo episodio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|10:00:00|10:30:00|Speciale Forbes Women&#039;s Week 2022 - seconda parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|10:30:00|11:00:00|Risparmia, investi, cresci con Michael Pino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|11:00:00|11:30:00|Ep143 - Sustainability Tobaco. Intervista a Roberta Palazzetti, Presidente e AD di BAT Italia e Area Director per il Sud Europa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|11:30:00|12:00:00|Ep122 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|12:00:00|12:30:00|Ep53 - Federico Morgantini intervista Giulia Baccarin, Founder e CEO di Mipu, su Intelligenza Artificiale e fabbrica predittiva
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|12:30:00|13:00:00|Private Banking Awards 2022 - prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|13:00:00|14:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|14:00:00|14:30:00|Ep149 - ReadyForIT, un programma ideato dalla Fondazione Italiana Accenture, raccontato da due ragazzi che lo hanno frequentato. Scopriamo l&#039;Istituto di Informatica e Telematica del CNR
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|14:30:00|15:00:00|Ep64 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Massimo Fuggetta, Chief Investment Officer di Bayes Investments
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|15:00:00|15:30:00|Ep26 - Di Riccardo Zanetti. Come vendere auto online?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Easy Bike in Italy|15:30:00|16:00:00|Ep1 - Ciclovia del Santerno. In sella alla nostra e-bike partiremo dal Comune di Mordano per arrivare, tra guadi e paesaggi verdi, fino ai castagneti secolari di Castel del Rio: 44km alla portata di tutti i cicloturisti
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|16:00:00|16:30:00|Ep167 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Salvatore Trifiro&#039;, avvocato; Edoardo Prallini, coordinatore Small Giants; Matteo Rigamonti, coordinatore Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|16:30:00|17:00:00|Ep120 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista i protagonisti della finanza.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|17:00:00|17:30:00|IT Forum 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|17:30:00|18:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews 1^TV|18:00:00|18:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tax Show Live|18:05:00|19:00:00|Ep84 - Il primo programma fatto da imprenditori per imprenditori.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|19:00:00|19:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24 1^TV|19:05:00|20:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET 1^TV|20:00:00|20:30:00|Ep144 - Incontro con Martina Pluda, direttrice per l&#039;Italia di Humane Society International Europe, una delle piu&#039; grandi organizzazioni per la protezione degli animali nel mondo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|20:30:00|21:00:00|Ep121 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution 1^TV|21:00:00|21:30:00|Ep54 - Federico Morgantini intervista Chiara Bacilieri, Head of Research &amp; Innovation di Lifeed, su formazione e tecnologie digitali
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati 1^TV|21:30:00|22:00:00|Ep65 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24 1^TV|22:00:00|23:00:00|Ep25 - Mosche. L&#039;atteso ritorno del talk show dedicato alla politica
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|23:00:00|23:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|23:05:00|00:00:00|La Tv del lavoro
 
 
 
