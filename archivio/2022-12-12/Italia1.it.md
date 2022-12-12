@@ -1,5 +1,5 @@
 # Italia 1
-> Programmazione di Domenica 11 Dicembre 2022
+> Programmazione di Lunedì 12 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
