@@ -1,5 +1,5 @@
 # Sky Meteo 24
-> Programmazione di Lunedì 12 Dicembre 2022
+> Programmazione di Martedì 13 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
