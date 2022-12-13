@@ -3,8 +3,8 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/924d89e9-1af4-4254-b5d1-df3701472f4f/cover?md5ChecksumParam=161665eaac73ab37152245c13353545f)|Brescia - Parma|19:00:00|22:00:00|Cod. 455965 - Serie B - 17a giornata. Calcio d&#039;inizio ore 20:30.
-|![Icon](https://guidatv.sky.it/uuid/624ba64e-c809-4b26-b49e-05d025c6750a/cover?md5ChecksumParam=c46f9dbae59beb129664fc715ceeb783)|Basket: Olympiacos... (diretta)|17:30:00|21:00:00|Basket Eurolega - Round 13 . Ore 19:00
+|![Icon](https://guidatv.sky.it/uuid/5b7d209a-5cb5-4711-868f-246b538257c2/cover?md5ChecksumParam=1075f5c54aa1b94b8868621c600abed0)|Arsenal - Milan|13:30:00|17:00:00|Cod. 456227 - Calcio Internazionale Amichevoli . Calcio d&#039;inizio ore 15:00
+|![Icon](https://guidatv.sky.it/uuid/624ba64e-c809-4b26-b49e-05d025c6750a/cover?md5ChecksumParam=c46f9dbae59beb129664fc715ceeb783)|Olympiacos - Fenerbahce|17:30:00|21:00:00|Basket Eurolega - Round 13 . Ore 19:00
 
 
 
