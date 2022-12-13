@@ -1,0 +1,35 @@
+# Rai Movie
+> Programmazione di Lunedì 12 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/7ee6faaf-d5c3-43b5-a85f-845ef1c68f55/cover?md5ChecksumParam=62ef0bc5de7e8df2aa800e1a8ff8fe6a)|Submergence|01:35:00|03:20:00|Una scienziata si innamora di una spia sotto copertura. Ma quando le diverse professioni li dividono, tutto si complica.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|03:20:00|04:00:00|S1 Ep11 Cuore nero - Una coppia di ricchi senza figli decide di adottare un bambino africano, salvo poi fare marcia indietro quando si tratta di prendere davvero la decisione definitiva.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The Grudge|04:00:00|05:30:00|Un&#039;infermiera americana trasferitasi a Tokio inizia a essere perseguitata da una forza maledetta che vuole impossessarsi di lei.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il segreto dello sparviero nero|05:30:00|07:15:00|Lo Sparviero Nero e&#039; un corsaro che per conto dell&#039;Inghilterra deve impadronirsi di importanti documenti in possesso di una banda di pirati.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ulisse|07:20:00|09:15:00|Magniloquente messa in scena del poema omerico, con Kirk Douglas che interpreta Ulisse. Silvana Mangano e&#039; Penelope.
+|![Icon](https://guidatv.sky.it/uuid/2cce5552-e3c4-4828-9fa7-2b1e70ab0628/cover?md5ChecksumParam=2484b6070cc99f56e3f09c05490f547f)|Doppio taglio|09:15:00|11:10:00|Un editore accusato di omicidio e&#039; difeso da un&#039;avvocatessa che si innamora di lui. Ma le contraddizioni la faranno dubitare.
+|![Icon](https://guidatv.sky.it/uuid/f0be21af-e8a4-4a2d-9fe1-46213a5bc12d/cover?md5ChecksumParam=5c96cd4ae6d6b8fe8b0ee69db74dfd51)|Desperado|11:10:00|13:00:00|Un boss della mala di una piccola citta&#039; del Messico e&#039; l&#039;obiettivo della vendetta di un misterioso straniero, carico di armi.
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|13:00:00|15:00:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/1aeaca8f-545d-42c6-85ad-a8ffbc32160b/cover?md5ChecksumParam=60d960cf7c4e9c0e352cfd9b48942986)|Il grande paese|15:00:00|18:05:00|Western classico con due pezzi da novanta come Gregory Peck e Charlton Heston, capifamiglia di due famiglie texane divise da un odio atavico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il conte Tacchia|18:05:00|20:10:00|In una Roma d&#039;inizio secolo un modest&#039;uomo e&#039; indeciso: seguire il suo sogno di nobilta&#039; o inseguire... una bella popolana?
+|![Icon](https://guidatv.sky.it/uuid/06e46b6c-af57-424f-8a9b-93670e37be96/cover?md5ChecksumParam=e13badf2b4a866305bad2d2b9733dc90)|Hostiles - Ostili|20:10:00|22:35:00|Un capitano che ha combattuto per anni contro gli indiani deve condurre fino al Montana un capo cheyenne, sfidando le proprie convinzioni.
+|![Icon](https://guidatv.sky.it/uuid/553e0e3d-c256-4807-9d70-797769bd8a83/cover?md5ChecksumParam=facef3f78a065de08a7a4e06387b10e1)|C&#039;era una volta il West|22:35:00|01:30:00|Per impossessarsi di un terreno appartenente a un&#039;ex prostituta, un magnate assolda un killer. Ma ci sono conti in sospeso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nowhere Boy|01:30:00|03:00:00|Un quindicenne di Liverpool, cresciuto con la zia, viene riavvicinato dalla madre eccentrica che lo ha abbandonato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Teste dure|03:00:00|04:00:00|Stanlio e Ollio sono combattenti per l&#039;esercito che, dopo essere stati in guerra, tornano a casa reduci ed eroi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|04:00:00|05:50:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sinbad il marinaio|05:50:00|07:50:00|Avventure esotiche del marinaio Sinbad alla ricerca del tesoro di Alessandro Magno. Dalle &#039;Mille e una notte&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bellissima|07:50:00|09:50:00|Una popolana, che sogna un avvenire nel mondo del cinema per la figlia, si imbatte in un impresario che non esita a truffarla.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|09:50:00|12:50:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/9d903e1e-9419-4eeb-9b5e-a802a1227351/cover?md5ChecksumParam=3f1e026f36adab7111f57ee0f595137c)|Red lights|12:50:00|14:50:00|Scioccanti studi sui fenomeni paranormali suscitano la curiosita&#039; di una psicologa e del suo assistente, ma qualcosa di imprevisto accade...
+|![Icon](https://guidatv.sky.it/uuid/cd7e4cd2-b106-45ec-acfa-2dc869d57fb0/cover?md5ChecksumParam=74a3df73e5c0f3bcc7e71320d8b97539)|Faccia a faccia|14:50:00|16:35:00|Un professore malandato viene rapito da una banda del West: finira&#039; per subire il fascino dell&#039;avventurosa vita criminale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Straniero... fatti il segno della croce!|16:35:00|18:15:00|Nella cittadina di White City, due fratelli e una banda di pistoleri terrorizzano gli abitanti riscuotendo grosse tangenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|2061: un anno eccezionale|18:15:00|20:10:00|L&#039;Italia del 2061 secondo Carlo Vanzina. Ripiombata nel Medioevo, vedra&#039; Diego Abatantuono alla conquista dell&#039;unita&#039; del Paese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una giornata particolare|20:10:00|22:00:00|Dacia Maraini / La violenza - Dacia Maraini rilegge la giornata proponendo documentari e riflessioni sul tema della violenza contro le donne.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Voce umana|22:00:00|22:30:00|Il figlio di Sophia Loren dirige la grande attrice ispirandosi all&#039;opera omonima di Jean Cocteau. Tema conduttore, la fine di un amore.
+|![Icon](https://guidatv.sky.it/uuid/8a67c807-8b4b-44ba-a752-ab4e524aea95/cover?md5ChecksumParam=2c9d8ffb085d1535ca70734714ea3073)|Sky Cinema Magazine|22:30:00|00:30:00|Per sposare la fiera Sophia Loren, il principe Omar Sharif e&#039; costretto a sottoporla a una serie di prove. Ma le fallira&#039; tutte.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
