@@ -1,0 +1,41 @@
+# Rai Sport
+> Programmazione di Martedì 13 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Casalmaggiore - Busto Arsizio|01:20:00|04:00:00|Serie A1 F, 11a g - Viviamo le emozioni della massima serie del campionato femminile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:00:00|04:30:00|Beitostolen. Staffetta Mista 4x5 km - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il norvegese Johannes Hosflot Klbo, tra le donne la russa Natal&#039;ja Michajlovna Neprjaeva.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|04:30:00|05:00:00|Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|05:00:00|06:00:00|Beitostolen. Staffetta Mista 4x5 km - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il norvegese Johannes Hosflot Klbo, tra le donne la russa Natal&#039;ja Michajlovna Neprjaeva.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|06:30:00|07:05:00|Titisee Neustadt. HS 142 Gara 1 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|07:05:00|07:40:00|Titisee Neustadt. HS 142 Gara 2 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|07:40:00|08:20:00|Idre Fjall. Dual Moguls - La Coppa del Mondo di freestyle 2023 e&#039; la 44a edizione. Partenza da Coira per terminare in Silvaplana, in Svizzera.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gol Mondiali|08:20:00|08:30:00|Le sintesi e le azioni salienti dai campi di gioco dei Mondiali Qatar 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Mondiali Vasca Corta|08:30:00|11:10:00|Semifinali e Finali 1a g - I migliori atleti del mondo si sfidano a Melbourne per la conquista dei titoli iridati in vasca corta.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|11:10:00|12:10:00|Arosa. Ski Cross - La Coppa del Mondo di freestyle 2023 e&#039; la 44a edizione. Partenza da Coira per terminare in Silvaplana, in Svizzera.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|12:10:00|13:30:00|Finals Torino. Gran Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|13:30:00|14:00:00|Finals Torino. Programma Libero Juniores M - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|14:00:00|15:00:00|Beitostolen. Staffetta Mista 4x5 km - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il norvegese Johannes Hosflot Klbo, tra le donne la russa Natal&#039;ja Michajlovna Neprjaeva.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Foggia - Catanzaro|15:00:00|17:10:00|Serie C - 18a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Europei Cross|17:10:00|20:10:00|A Torino i migliori protagonisti del Cross County del vecchio continente si sfidano per i titoli europei.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Mondiali Vasca Corta|20:10:00|22:50:00|Semifinali e Finali 1a g - I migliori atleti del mondo si sfidano a Melbourne per la conquista dei titoli iridati in vasca corta.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|22:50:00|23:50:00|Dublino. Elite F - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|23:50:00|01:05:00|Dublino. Elite M - Occhi puntati sul Ciclocross. I migliori rappresentanti della specialita&#039; si sfidano per il la conquista della coppa piu&#039; ambita nelle varie categorie.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|01:05:00|02:25:00|Winterberg. Slalom Parallelo a squadre - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|02:25:00|02:55:00|Una panoramica sulle discipline degli atleti diversamente abili.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|02:55:00|03:30:00|Titisee Neustadt. HS 142 Gara 1 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|03:30:00|04:05:00|Titisee Neustadt. HS 142 Gara 2 - Le spettacolari evoluzioni dei campioni internazionali nella 44a edizione della Coppa del Mondo di salto con gli sci.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|04:05:00|05:00:00|Beitostolen. Staffetta Mista 4x5 km - Le avvincenti gare della Coppa del Mondo di sci di fondo. Campione in carica tra gli uomini il norvegese Johannes Hosflot Klbo, tra le donne la russa Natal&#039;ja Michajlovna Neprjaeva.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|05:00:00|06:00:00|Arosa. Ski Cross - La Coppa del Mondo di freestyle 2023 e&#039; la 44a edizione. Partenza da Coira per terminare in Silvaplana, in Svizzera.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Foggia - Catanzaro|06:30:00|08:30:00|Serie C - 18a g. Le avvincenti partite dei campionati italiani di calcio di Serie C. Le squadre dei tre gironi si sfidano per la promozione in Serie B.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Mondiali Vasca Corta|08:30:00|11:15:00|Semifinali e Finali 2a g - I migliori atleti del mondo si sfidano a Melbourne per la conquista dei titoli iridati in vasca corta.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Atletica: Europei Cross|11:15:00|14:15:00|A Torino i migliori protagonisti del Cross County del vecchio continente si sfidano per i titoli europei.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Taranto - Milano|14:15:00|16:40:00|Superlega, 11a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Coppa del Mondo|16:40:00|18:00:00|Winterberg. Slalom Parallelo a squadre - Il grande spettacolo della Coppa del Mondo di Snowboard.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|ISU Grand Prix Series|18:00:00|20:20:00|Finals Torino. Gran Gala - Le evoluzioni dei grandi protagonisti del pattinaggio su ghiaccio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Nuoto: Mondiali Vasca Corta|20:20:00|23:00:00|Semifinali e Finali 2a g - I migliori atleti del mondo si sfidano a Melbourne per la conquista dei titoli iridati in vasca corta.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Volley: Taranto - Milano|23:00:00|01:30:00|Superlega, 11a g - Le emozionanti sfide della massima serie del campionato italiano maschile di volley.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

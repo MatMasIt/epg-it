@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Martedì 13 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nowhere Boy|01:30:00|03:00:00|Un quindicenne di Liverpool, cresciuto con la zia, viene riavvicinato dalla madre eccentrica che lo ha abbandonato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Teste dure|03:00:00|04:00:00|Stanlio e Ollio sono combattenti per l&#039;esercito che, dopo essere stati in guerra, tornano a casa reduci ed eroi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|04:00:00|05:50:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sinbad il marinaio|05:50:00|07:50:00|Avventure esotiche del marinaio Sinbad alla ricerca del tesoro di Alessandro Magno. Dalle &#039;Mille e una notte&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bellissima|07:50:00|09:50:00|Una popolana, che sogna un avvenire nel mondo del cinema per la figlia, si imbatte in un impresario che non esita a truffarla.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|09:50:00|12:50:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/9d903e1e-9419-4eeb-9b5e-a802a1227351/cover?md5ChecksumParam=3f1e026f36adab7111f57ee0f595137c)|Red lights|12:50:00|14:50:00|Scioccanti studi sui fenomeni paranormali suscitano la curiosita&#039; di una psicologa e del suo assistente, ma qualcosa di imprevisto accade...
+|![Icon](https://guidatv.sky.it/uuid/cd7e4cd2-b106-45ec-acfa-2dc869d57fb0/cover?md5ChecksumParam=74a3df73e5c0f3bcc7e71320d8b97539)|Faccia a faccia|14:50:00|16:35:00|Un professore malandato viene rapito da una banda del West: finira&#039; per subire il fascino dell&#039;avventurosa vita criminale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Straniero... fatti il segno della croce!|16:35:00|18:15:00|Nella cittadina di White City, due fratelli e una banda di pistoleri terrorizzano gli abitanti riscuotendo grosse tangenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|2061: un anno eccezionale|18:15:00|20:10:00|L&#039;Italia del 2061 secondo Carlo Vanzina. Ripiombata nel Medioevo, vedra&#039; Diego Abatantuono alla conquista dell&#039;unita&#039; del Paese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una giornata particolare|20:10:00|22:00:00|Dacia Maraini / La violenza - Dacia Maraini rilegge la giornata proponendo documentari e riflessioni sul tema della violenza contro le donne.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Voce umana|22:00:00|22:30:00|Il figlio di Sophia Loren dirige la grande attrice ispirandosi all&#039;opera omonima di Jean Cocteau. Tema conduttore, la fine di un amore.
+|![Icon](https://guidatv.sky.it/uuid/8a67c807-8b4b-44ba-a752-ab4e524aea95/cover?md5ChecksumParam=2c9d8ffb085d1535ca70734714ea3073)|Sky Cinema Magazine|22:30:00|00:30:00|Per sposare la fiera Sophia Loren, il principe Omar Sharif e&#039; costretto a sottoporla a una serie di prove. Ma le fallira&#039; tutte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:30:00|00:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/f0be21af-e8a4-4a2d-9fe1-46213a5bc12d/cover?md5ChecksumParam=5c96cd4ae6d6b8fe8b0ee69db74dfd51)|Desperado|00:35:00|02:20:00|Un boss della mala di una piccola citta&#039; del Messico e&#039; l&#039;obiettivo della vendetta di un misterioso straniero, carico di armi.
+|![Icon](https://guidatv.sky.it/uuid/44b37909-ca48-4e01-b99f-52ed7da333c3/cover?md5ChecksumParam=7a04972e0ffda0c67167e40864b35a65)|Charlie Countryman deve morire|02:20:00|04:00:00|Arrivato a Bucarest, Charlie avra&#039; a che fare per la prima volta nella sua vita con la droga, la mafia, l&#039;amore e la morte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due agenti molto speciali|04:00:00|05:30:00|Due poliziotti agli antipodi sono costretti a collaborare per risolvere un misterioso e controverso omicidio a Parigi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nel segno di Roma|05:30:00|07:15:00|La regina Zenobia si ribella all&#039;impero romano e si innamora di Marco Valerio, che trama pero&#039; per far trionfare i Romani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Divorzio all&#039;italiana|07:20:00|09:15:00|Innamorato della cugina, un barone vuol farsi tradire dalla moglie per poi ucciderla invocando il delitto d&#039;onore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albatross - Oltre la tempesta|09:15:00|11:25:00|Tredici liceali problematici, durante una traversata del Pacifico, vengono travolti da una tempesta. L&#039;esperienza formera&#039; i loro caratteri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il mio nome e&#039; Scopone e faccio...|11:25:00|13:00:00|...sempre cappotto - Dallas e Lumacone aiutano una ragazza a liberarsi dei ladri che vogliono appropriarsi della sua fortuna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I tre implacabili|13:00:00|14:35:00|Un gruppo di banditi uccide la giovane moglie del proprietario di un ranch. Questi partira&#039; alla ricerca dei sette assassini...
+|![Icon](https://guidatv.sky.it/uuid/ecf80e47-a40d-42f9-9420-c4b021de3a9a/cover?md5ChecksumParam=7e8b2038aa771c13e1beafa7ef480d54)|I quattro dell&#039;Ave Maria|14:35:00|17:00:00|A due rapinatori viene sottratto il malloppo da un anziano avanzo di galera, Eli Wallache. I tre si incontreranno di nuovo...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una pistola per cento bare|17:00:00|18:30:00|Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e&#039; stata sterminata.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|18:30:00|20:10:00|Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/308a0561-34d7-4d9d-9674-bf7a10c22ade/cover?md5ChecksumParam=7676c4e3bc16daaebb7d68d47dab2bcc)|The Tomorrow Man|20:10:00|21:45:00|Ed e&#039; ossessionato dalla paura di una catastrofe, Ronnie insabbia il dolore per una perdita collezionando oggetti. Entrambi cercano l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|21:45:00|22:10:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Quel che sapeva Maisie|22:10:00|00:00:00|La storia di Maisie, una bambina di sei anni costretta a vivere il divorzio tra i genitori, un uomo e una donna in carriera.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
