@@ -1,5 +1,5 @@
 # Sky Sport 7
-> Programmazione di Martedì 13 Dicembre 2022
+> Programmazione di Mercoledì 14 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
