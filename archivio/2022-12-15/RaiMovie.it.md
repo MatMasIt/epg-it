@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Mercoledì 14 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:30:00|00:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/f0be21af-e8a4-4a2d-9fe1-46213a5bc12d/cover?md5ChecksumParam=5c96cd4ae6d6b8fe8b0ee69db74dfd51)|Desperado|00:35:00|02:20:00|Un boss della mala di una piccola citta&#039; del Messico e&#039; l&#039;obiettivo della vendetta di un misterioso straniero, carico di armi.
+|![Icon](https://guidatv.sky.it/uuid/44b37909-ca48-4e01-b99f-52ed7da333c3/cover?md5ChecksumParam=7a04972e0ffda0c67167e40864b35a65)|Charlie Countryman deve morire|02:20:00|04:00:00|Arrivato a Bucarest, Charlie avra&#039; a che fare per la prima volta nella sua vita con la droga, la mafia, l&#039;amore e la morte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due agenti molto speciali|04:00:00|05:30:00|Due poliziotti agli antipodi sono costretti a collaborare per risolvere un misterioso e controverso omicidio a Parigi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nel segno di Roma|05:30:00|07:15:00|La regina Zenobia si ribella all&#039;impero romano e si innamora di Marco Valerio, che trama pero&#039; per far trionfare i Romani.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Divorzio all&#039;italiana|07:20:00|09:15:00|Innamorato della cugina, un barone vuol farsi tradire dalla moglie per poi ucciderla invocando il delitto d&#039;onore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albatross - Oltre la tempesta|09:15:00|11:25:00|Tredici liceali problematici, durante una traversata del Pacifico, vengono travolti da una tempesta. L&#039;esperienza formera&#039; i loro caratteri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il mio nome e&#039; Scopone e faccio...|11:25:00|13:00:00|...sempre cappotto - Dallas e Lumacone aiutano una ragazza a liberarsi dei ladri che vogliono appropriarsi della sua fortuna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I tre implacabili|13:00:00|14:35:00|Un gruppo di banditi uccide la giovane moglie del proprietario di un ranch. Questi partira&#039; alla ricerca dei sette assassini...
+|![Icon](https://guidatv.sky.it/uuid/ecf80e47-a40d-42f9-9420-c4b021de3a9a/cover?md5ChecksumParam=7e8b2038aa771c13e1beafa7ef480d54)|I quattro dell&#039;Ave Maria|14:35:00|17:00:00|A due rapinatori viene sottratto il malloppo da un anziano avanzo di galera, Eli Wallache. I tre si incontreranno di nuovo...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una pistola per cento bare|17:00:00|18:30:00|Un soldato pacifista si trasforma in sanguinario vendicatore quando scopre che la sua famiglia e&#039; stata sterminata.
+|![Icon](https://guidatv.sky.it/uuid/e0cf12cf-4240-472a-b141-a731e3224f95/cover?md5ChecksumParam=e5caca632396474925be096182e46fb6)|La mafia uccide solo d&#039;estate|18:30:00|20:10:00|Dagli anni &#039;70 ai &#039;90, Arturo e&#039; testimone insieme all&#039;amata Flora dei controversi fatti di mafia che hanno sconvolto Palermo.
+|![Icon](https://guidatv.sky.it/uuid/308a0561-34d7-4d9d-9674-bf7a10c22ade/cover?md5ChecksumParam=7676c4e3bc16daaebb7d68d47dab2bcc)|The Tomorrow Man|20:10:00|21:45:00|Ed e&#039; ossessionato dalla paura di una catastrofe, Ronnie insabbia il dolore per una perdita collezionando oggetti. Entrambi cercano l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|21:45:00|22:10:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Quel che sapeva Maisie|22:10:00|00:00:00|La storia di Maisie, una bambina di sei anni costretta a vivere il divorzio tra i genitori, un uomo e una donna in carriera.
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|00:00:00|02:00:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albatross - Oltre la tempesta|02:00:00|04:00:00|Tredici liceali problematici, durante una traversata del Pacifico, vengono travolti da una tempesta. L&#039;esperienza formera&#039; i loro caratteri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Classe 1984|04:00:00|05:30:00|Una scuola e&#039; sotto il controllo di una banda di teppisti vestiti in stile punk, quattro ragazzi e una ragazza. Il preside fara&#039; giustizia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I cento cavalieri|05:30:00|07:35:00|Nella Spagna del Medioevo, gli arabi conquistano un villaggio. Gli abitanti organizzano una sommossa, aiutati da cento cavalieri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sedotta e abbandonata|07:35:00|09:45:00|Sedotta dal fidanzato della sorella, ora e&#039; costretta a sposarlo, ma il giovanotto rifiuta. La situazione degenera nel grottesco.
+|![Icon](https://guidatv.sky.it/uuid/66f3cdf7-8cce-4bfc-b491-e2165dccbfbb/cover?md5ChecksumParam=ec092ca4989a369937f78875a1ccb145)|A spasso con Daisy|09:45:00|11:30:00|Anziana e razzista, Miss Daisy non riesce ad accettare l&#039;ingresso nella sua vita dell&#039;autista nero Hoke. Quattro Oscar.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Revak, lo schiavo di Cartagine|11:30:00|13:00:00|Quando i cartaginesi distruggono la sua isola, Revak decide di vendicarsi aiutando i romani a conquistare Cartagine.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|13:00:00|14:50:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Viva la muerte... tua!|14:50:00|16:55:00|Uno sceriffo libera due banditi, in possesso delle informazioni per raggiungere un tesoro. Ad accompagnarli, una giornalista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cavalca e uccidi|16:55:00|18:30:00|Arizona: un gruppo di malviventi uccide lo sceriffo di una cittadina e lo sostituisce con un ubriacone che guidera&#039; la rivolta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una vacanza bestiale|18:30:00|20:10:00|La disastrosa vacanza in Medio Oriente di un gruppo di amici che si e&#039; voluto affidare all&#039;agenzia turistica sbagliata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il momento di uccidere|20:10:00|22:55:00|Mississipi. Due balordi bianchi violentano una bambina di colore e il padre, preso dall&#039;odio, li uccide. Un giovane avvocato decidera&#039; di difenderlo.
+|![Icon](https://guidatv.sky.it/uuid/18e8ab6d-5da5-4291-9527-4f12e257bac8/cover?md5ChecksumParam=d61b202aafee0b8ee0bada0b14c5f984)|La giuria|22:55:00|01:10:00|Una donna denuncia una multinazionale, responsabile della costruzione dell&#039;arma del delitto che ha ucciso il marito.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
