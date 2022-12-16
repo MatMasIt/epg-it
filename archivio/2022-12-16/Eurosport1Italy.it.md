@@ -1,5 +1,5 @@
 # Eurosport 1 Italia
-> Programmazione di Giovedì 15 Dicembre 2022
+> Programmazione di Venerdì 16 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
