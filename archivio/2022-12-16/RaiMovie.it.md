@@ -1,0 +1,37 @@
+# Rai Movie
+> Programmazione di Giovedì 15 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|00:00:00|02:00:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albatross - Oltre la tempesta|02:00:00|04:00:00|Tredici liceali problematici, durante una traversata del Pacifico, vengono travolti da una tempesta. L&#039;esperienza formera&#039; i loro caratteri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Classe 1984|04:00:00|05:30:00|Una scuola e&#039; sotto il controllo di una banda di teppisti vestiti in stile punk, quattro ragazzi e una ragazza. Il preside fara&#039; giustizia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I cento cavalieri|05:30:00|07:35:00|Nella Spagna del Medioevo, gli arabi conquistano un villaggio. Gli abitanti organizzano una sommossa, aiutati da cento cavalieri.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sedotta e abbandonata|07:35:00|09:45:00|Sedotta dal fidanzato della sorella, ora e&#039; costretta a sposarlo, ma il giovanotto rifiuta. La situazione degenera nel grottesco.
+|![Icon](https://guidatv.sky.it/uuid/66f3cdf7-8cce-4bfc-b491-e2165dccbfbb/cover?md5ChecksumParam=ec092ca4989a369937f78875a1ccb145)|A spasso con Daisy|09:45:00|11:30:00|Anziana e razzista, Miss Daisy non riesce ad accettare l&#039;ingresso nella sua vita dell&#039;autista nero Hoke. Quattro Oscar.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Revak, lo schiavo di Cartagine|11:30:00|13:00:00|Quando i cartaginesi distruggono la sua isola, Revak decide di vendicarsi aiutando i romani a conquistare Cartagine.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|13:00:00|14:50:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Viva la muerte... tua!|14:50:00|16:55:00|Uno sceriffo libera due banditi, in possesso delle informazioni per raggiungere un tesoro. Ad accompagnarli, una giornalista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cavalca e uccidi|16:55:00|18:30:00|Arizona: un gruppo di malviventi uccide lo sceriffo di una cittadina e lo sostituisce con un ubriacone che guidera&#039; la rivolta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una vacanza bestiale|18:30:00|20:10:00|La disastrosa vacanza in Medio Oriente di un gruppo di amici che si e&#039; voluto affidare all&#039;agenzia turistica sbagliata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il momento di uccidere|20:10:00|22:55:00|Mississipi. Due balordi bianchi violentano una bambina di colore e il padre, preso dall&#039;odio, li uccide. Un giovane avvocato decidera&#039; di difenderlo.
+|![Icon](https://guidatv.sky.it/uuid/18e8ab6d-5da5-4291-9527-4f12e257bac8/cover?md5ChecksumParam=d61b202aafee0b8ee0bada0b14c5f984)|La giuria|22:55:00|01:10:00|Una donna denuncia una multinazionale, responsabile della costruzione dell&#039;arma del delitto che ha ucciso il marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|01:10:00|01:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/ddb5c1e9-43df-4b7d-bf5a-c1ee100a1154/cover?md5ChecksumParam=c7b1aefa977f895918fecb48d9b9194e)|Tempo instabile con probabili schiarite|01:15:00|02:45:00|Due amici, Giacomo ed Ermanno, portano avanti un&#039;azienda ormai sull&#039;orlo del tracollo finanziario. Ma trovano il petrolio...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|02:45:00|03:10:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sogni e bisogni|03:10:00|04:00:00|S1 Ep1 Amore cieco - Innamorato di una giovane impagliatrice cieca, Orazio rinuncia a tutto cio&#039; che ha per pagarle l&#039;operazione agli occhi, pur nell&#039;incertezza che la donna resti con lui.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un Gioco Da Ragazze|04:00:00|05:35:00|Quattro ricche diciassettenni vivono con superficialita&#039; ogni aspetto della vita. Anche un professore si lascera&#039; incantare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Col ferro e col fuoco|05:35:00|07:35:00|XVII secolo: il colonnello Jan Ketuski si innamora della bella principessa Elena, ma la loro sara&#039; una storia tormentata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il segno di Venere|07:35:00|09:20:00|Cesira e&#039; alla ricerca dell&#039;anima gemella, ma sua cugina Agnese attira su di se&#039; tutte le attenzioni maschili.
+|![Icon](https://guidatv.sky.it/uuid/b87101cd-9036-4657-bcbb-bd11fc40a9d1/cover?md5ChecksumParam=e3b9a4fc1397becb49984c5de4e6bae7)|La brava moglie|09:20:00|11:20:00|La direttrice di un istituto che forma madri e mogli esemplari decide di cambiare radicalmente la propria vita totalmente dedita al marito.
+|![Icon](https://guidatv.sky.it/uuid/85affd0c-f838-4bae-b988-0ab6ecabb69a/cover?md5ChecksumParam=2db25263fb5cc4dec022015004a946a6)|Il clan|11:20:00|13:10:00|La drammatica epopea dei Puccio, la famiglia che negli anni &#039;80 sconvolse l&#039;Argentina commettendo atroci delitti e rapimenti.
+|![Icon](https://guidatv.sky.it/uuid/553e0e3d-c256-4807-9d70-797769bd8a83/cover?md5ChecksumParam=facef3f78a065de08a7a4e06387b10e1)|C&#039;era una volta il West|13:10:00|16:10:00|Per impossessarsi di un terreno appartenente a un&#039;ex prostituta, un magnate assolda un killer. Ma ci sono conti in sospeso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|16:10:00|16:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sangue sulla luna|16:15:00|17:55:00|Chiamato da un amico per realizzare un colpo ai danni dei contadini del posto, un pistolero decide di mettersi dalla parte dei piu&#039; deboli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un genio, due compari, un pollo|17:55:00|20:10:00|Due truffatori e un vagabondo si alleano per derubare un ufficiale dell&#039;esercito, titolare di una fortuna in oro.
+|![Icon](https://guidatv.sky.it/uuid/818804b6-c69a-4baf-88a8-e0c4a35ccc42/cover?md5ChecksumParam=b370ec476555cf3da10d94c079fd717c)|Book Club - Tutto puo&#039; succedere|20:10:00|21:55:00|Quattro amiche di vecchia data cambiano la loro vita dopo aver letto &#039;Cinquanta sfumature di grigio&#039; nel loro club del libro.
+|![Icon](https://guidatv.sky.it/uuid/0a77f360-55c0-48ab-8815-915587780f78/cover?md5ChecksumParam=7910a868cf600566ba665ecb51abf8de)|Julie &amp;#38; Julia|21:55:00|00:05:00|Storie della leggendaria Julia, autrice nel 1949 di un libro di cucina, e di Julie, che sfida la sua bravura a 50 anni di distanza.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
