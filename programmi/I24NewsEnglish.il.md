@@ -1,5 +1,5 @@
 # I24 News English
-> Programmazione di Venerdì 16 Dicembre 2022
+> Programmazione di Sabato 17 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
