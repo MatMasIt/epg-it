@@ -1,5 +1,5 @@
 # TG Norba 24
-> Programmazione di Sabato 17 Dicembre 2022
+> Programmazione di Domenica 18 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
