@@ -1,0 +1,36 @@
+# Rai Movie
+> Programmazione di Domenica 18 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Vicolo cieco|02:25:00|04:00:00|New York, anni &#039;60. Walter e&#039; sposato con Sara, ma si innamora di Ellie, mentre entra in scena un misterioso assassino.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ombre bianche|04:00:00|05:50:00|Un cacciatore esquimese cambia il corso della sua vita quando lascia i ghiacci eterni e si confronta con la civilta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Casomai|05:50:00|07:55:00|Tommaso incontra Stefania e nasce l&#039;amore. E&#039; l&#039;inizio di una vita insieme: il matrimonio e un bambino. Poi aumentano problemi e crisi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:55:00|08:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/66f3cdf7-8cce-4bfc-b491-e2165dccbfbb/cover?md5ChecksumParam=ec092ca4989a369937f78875a1ccb145)|A spasso con Daisy|08:00:00|09:45:00|Anziana e razzista, Miss Daisy non riesce ad accettare l&#039;ingresso nella sua vita dell&#039;autista nero Hoke. Quattro Oscar.
+|![Icon](https://guidatv.sky.it/uuid/508dc619-7838-4f8c-a7f8-8e36c6174ee6/cover?md5ChecksumParam=c65afcb348979b69bd2509b46cc04dba)|Toto&#039;, Peppino e i fuorilegge|09:45:00|11:35:00|Antonio, sposato con la ricchissima ma avara Teresa, inscena il proprio rapimento per intascare un congruo riscatto.
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|11:35:00|13:30:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/608f4c7f-0497-452d-a5b7-396edfa06ad0/cover?md5ChecksumParam=fdcde1f85b8b2e22e80c8228545a2514)|...E poi lo chiamarono il Magnifico|13:30:00|15:50:00|In fuga dalla natia Inghilterra per via di uno scandalo, un giovane nobile approda in America e diventa un pistolero.
+|![Icon](https://guidatv.sky.it/uuid/553e0e3d-c256-4807-9d70-797769bd8a83/cover?md5ChecksumParam=facef3f78a065de08a7a4e06387b10e1)|C&#039;era una volta il West|15:50:00|18:50:00|Per impossessarsi di un terreno appartenente a un&#039;ex prostituta, un magnate assolda un killer. Ma ci sono conti in sospeso.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sim Sala Bim|18:50:00|20:10:00|Le avventure di Stanlio e Ollio, alle prese con una banda di malviventi che deve trasportare una bara con un uomo... vivo!
+|![Icon](https://guidatv.sky.it/uuid/54f2f6e5-4f2d-4e3c-be74-f083a9f34708/cover?md5ChecksumParam=f6af7a5fab03467bee380e85640dbe0e)|Non sposate le mie figlie!|20:10:00|21:50:00|Una coppia borghese aspetta con ansia il matrimonio della quarta figlia, l&#039;unica ad aver scelto un uomo cattolico. Ma...
+|![Icon](https://guidatv.sky.it/uuid/05c06098-b438-456e-8b7f-4bfee8562827/cover?md5ChecksumParam=496f9d1e7fe3bf5f5d76bb23a0f71b45)|Non sposate le mie figlie! 2|21:50:00|23:35:00|Claude e Marie si sono rassegnati al matrimonio delle figlie con uomini di origini e culture molto distanti dalla loro, ma non e&#039; finita qui!
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Caboblanco|23:35:00|01:15:00|Nel relitto di una nave e&#039; nascosto un enorme tesoro. Sulle sue tracce, i servizi segreti, un nazista e un esule americano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Favola|01:15:00|02:40:00|Nell&#039;America degli anni &#039;50, due donne borghesi e casalinghe si confidano sulla loro quotidianita&#039;, mentre si fanno largo segreti ed eventi inattesi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Duello sulla Sierra Madre|02:40:00|04:00:00|La testimone di un processo contro un gangster deve scappare in Messico per sfuggire a un sicario fino al giorno dell&#039;appello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tu partirai con me|04:00:00|05:30:00|Una vedova di guerra si innamora di un uomo proprio quando stava per cedere ad un altro spasimante. L&#039;ago della bilancia sara&#039; il figlio.
+|![Icon](https://guidatv.sky.it/uuid/308a0561-34d7-4d9d-9674-bf7a10c22ade/cover?md5ChecksumParam=7676c4e3bc16daaebb7d68d47dab2bcc)|The Tomorrow Man|05:30:00|07:10:00|Ed e&#039; ossessionato dalla paura di una catastrofe, Ronnie insabbia il dolore per una perdita collezionando oggetti. Entrambi cercano l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:10:00|07:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mio figlio Nerone|07:15:00|08:50:00|Istigato dalla madre, Nerone riprende la guerra. Oppresso dalla donna, ordisce un bizzarro piano per farla eliminare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|08:50:00|10:45:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I Tartari|10:45:00|12:20:00|L&#039;eterna lotta tra due popoli barbari, vichinghi e tartari, nemici a causa del rapimento reciproco delle due principesse.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il momento di uccidere|12:20:00|15:00:00|Mississipi. Due balordi bianchi violentano una bambina di colore e il padre, preso dall&#039;odio, li uccide. Un giovane avvocato decidera&#039; di difenderlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|15:00:00|16:50:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/5ee9f09b-3220-4372-9e69-e5f2ee65a344/cover?md5ChecksumParam=fad6999e6afde72c41a1e19ef0094f60)|La resa dei conti|16:50:00|18:45:00|Sulle tracce di un messicano accusato di assassinio, un cacciatore di taglie scopre che la verita&#039; sull&#039;uomo e&#039; un&#039;altra...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli allegri imbroglioni|18:45:00|20:10:00|Stanlio e Ollio si guadagnano da vivere esibendosi come suonatori nelle piazze. Si trovano ad aiutare un simpatico imbroglione finito nei guai.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|20:10:00|22:30:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|22:30:00|01:20:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
