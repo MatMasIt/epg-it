@@ -10,27 +10,6 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|07:00:00|09:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|L&#039;Una, moda al chiaro di luna|09:00:00|10:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buongiorno bellezza!|10:00:00|11:00:00|Ogni domenica alle 11,c&#039;e&#039; un momento in piu&#039; da dedicare a noi stesse:consigli, suggerimenti e prodotti ravviveranno il salotto beauty di QVC seguendo il nostro desiderio di sentirci sempre piu&#039; belle
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|11:00:00|12:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Lucrezia Sciortino, prima di tutto donna|12:00:00|13:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|13:00:00|15:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Sottomarino, la moda italiana total look|15:00:00|16:00:00|Scopri QVC. Scopri Sottomarino, collezioni moda total look create e realizzate in Italia da un team di stilisti attenti alle tendenze e alle esigenze dei clienti in termini di vestibilita&#039; ed eleganza
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|16:00:00|17:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Lucrezia Sciortino, prima di tutto donna|17:00:00|18:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|18:00:00|19:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|L&#039;Una, moda al chiaro di luna|19:00:00|20:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Adesso e&#039; Moda|20:00:00|22:00:00|TV Shopping
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|In Cucina insieme a Stoneline|22:00:00|23:00:00|Scopri QVC. Benvenuto nel nostro show in cucina con Stoneline in cui verranno presentati tanti prodotti e tanti utili consigli dai nostri esperti.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Skechers, Calzature e lifestyle|23:00:00|00:00:00|Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
-|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Skechers, Calzature e lifestyle|07:00:00|09:00:00|Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Denim &amp; Co, femminilita&#039; casual|09:00:00|10:00:00|Scopri QVC. Scopri Denim &amp;Co, brand di moda che ha pensato ad una collezione molto versatile declinata in stile casual e femminile; perfetto per vivere al meglio tutte le occasioni del tempo libero
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Salute e Fitness|10:00:00|11:00:00|Scopri QVC e fatti guidare dai nostri personal shopper alla scoperta del modo migliore per curare la propria salute ed essere sempre belli e in forma.
@@ -47,6 +26,27 @@
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Skechers, Calzature e lifestyle|21:00:00|22:00:00|Scopri QVC. Scopri Skechers, un&#039;azienda calzaturiera leader globale nel settore lifestyle. Skechers progetta, sviluppa e commercializza calzature lifestyle per uomini, donne e bambini di ogni eta&#039;.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Perricone MD, Scienza e bellezza|22:00:00|23:00:00|Scopri QVC. Scopri i prodotti del Dr. Perricone, con acido Alfa Lipoico sono adatti a tutti i tipi di pelle. Trattamenti anti eta&#039; che migliorano la luminosita&#039; cutanea e aiutano a prevenire le rughe.
 |![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|23:00:00|00:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|00:00:00|01:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|01:00:00|02:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|02:00:00|03:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|03:00:00|04:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|04:00:00|05:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|05:00:00|06:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Replica|06:00:00|07:00:00|Replica
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|07:00:00|09:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Preparati al Capodanno|09:00:00|11:00:00|TV Shopping
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|11:00:00|12:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|BaByliss Paris,Reinventa i tuoi capelli|12:00:00|13:00:00|Scopri QVC. Scopri BaByliss fin dalla sua creazione nel 1961, BaByliss si e&#039; affermata come un vero esperto dell&#039;acconciatura e della bellezza.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Isaac Mizrahi Live!|13:00:00|14:00:00|Scopri QVC. Scopri Isaac Mizhari Live! Lasciati inspirare dai colori delle creazioni del genio innovativo di Isaac Mizhari e dalla sua passione per il fashion design.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|14:00:00|15:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Colour Lab, la ricerca dello stile|15:00:00|16:00:00|Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|16:00:00|17:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|BaByliss Paris,Reinventa i tuoi capelli|17:00:00|18:00:00|Scopri QVC. Scopri BaByliss fin dalla sua creazione nel 1961, BaByliss si e&#039; affermata come un vero esperto dell&#039;acconciatura e della bellezza.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Joachim Kaeser, aiuta il benessere|18:00:00|19:00:00|Joachim Kaeser, specialista fitoterapeuta, ha scelto di utilizzare i principi attivi di erbe, piante, funghi e micronutrienti naturali. Le ricette di Joachim Kaeser offrono risultati visibili.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Isaac Mizrahi Live!|19:00:00|20:00:00|Scopri QVC. Scopri Isaac Mizhari Live! Lasciati inspirare dai colori delle creazioni del genio innovativo di Isaac Mizhari e dalla sua passione per il fashion design.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Buonasera Bellezza Speciale Natale|20:00:00|22:00:00|Scopri QVC. Ci occuperemo di bellezza a 360gradi: make-up, skincare, prodotti per capelli e molto altro! Tanti prodotti diversi, per un imperdibile appuntamento di visione.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Colour Lab, la ricerca dello stile|22:00:00|23:00:00|Scopri QVC. Scopri Colour Lab, brand cosmopolita e raffinato. Collezione sofisticata, creata con innovative tecniche di produzione, per chi ama i look sobri ed eleganti.
+|![Icon](https://guidatv.sky.it/uuid/Documentari_Cover_d89_D1mUI0.png)|Prai, la bellezza dall&#039; America|23:00:00|00:00:00|Scopri QVC. Scopri Prai, prestigiosa gamma di prodotti per il viso realizzata in accordo alle tradizioni thailandesi e agli ultimi ritrovati tecnologici del mondo occidentale della cosmesi.
 
 
 
