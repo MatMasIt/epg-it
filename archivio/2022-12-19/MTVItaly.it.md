@@ -1,5 +1,5 @@
 # MTV HD
-> Programmazione di Domenica 18 Dicembre 2022
+> Programmazione di Lunedì 19 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
