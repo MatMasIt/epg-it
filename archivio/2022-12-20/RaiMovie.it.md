@@ -1,0 +1,36 @@
+# Rai Movie
+> Programmazione di Lunedì 19 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Favola|01:15:00|02:40:00|Nell&#039;America degli anni &#039;50, due donne borghesi e casalinghe si confidano sulla loro quotidianita&#039;, mentre si fanno largo segreti ed eventi inattesi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Duello sulla Sierra Madre|02:40:00|04:00:00|La testimone di un processo contro un gangster deve scappare in Messico per sfuggire a un sicario fino al giorno dell&#039;appello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Tu partirai con me|04:00:00|05:30:00|Una vedova di guerra si innamora di un uomo proprio quando stava per cedere ad un altro spasimante. L&#039;ago della bilancia sara&#039; il figlio.
+|![Icon](https://guidatv.sky.it/uuid/308a0561-34d7-4d9d-9674-bf7a10c22ade/cover?md5ChecksumParam=7676c4e3bc16daaebb7d68d47dab2bcc)|The Tomorrow Man|05:30:00|07:10:00|Ed e&#039; ossessionato dalla paura di una catastrofe, Ronnie insabbia il dolore per una perdita collezionando oggetti. Entrambi cercano l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:10:00|07:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mio figlio Nerone|07:15:00|08:50:00|Istigato dalla madre, Nerone riprende la guerra. Oppresso dalla donna, ordisce un bizzarro piano per farla eliminare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Nessuna pieta&#039;|08:50:00|10:45:00|Sulle tracce di un criminale, un agente si imbatte nella donna di questi, tenuta come una schiava. E decide di salvarla.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I Tartari|10:45:00|12:20:00|L&#039;eterna lotta tra due popoli barbari, vichinghi e tartari, nemici a causa del rapimento reciproco delle due principesse.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il momento di uccidere|12:20:00|15:00:00|Mississipi. Due balordi bianchi violentano una bambina di colore e il padre, preso dall&#039;odio, li uccide. Un giovane avvocato decidera&#039; di difenderlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|15:00:00|16:50:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/5ee9f09b-3220-4372-9e69-e5f2ee65a344/cover?md5ChecksumParam=fad6999e6afde72c41a1e19ef0094f60)|La resa dei conti|16:50:00|18:45:00|Sulle tracce di un messicano accusato di assassinio, un cacciatore di taglie scopre che la verita&#039; sull&#039;uomo e&#039; un&#039;altra...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli allegri imbroglioni|18:45:00|20:10:00|Stanlio e Ollio si guadagnano da vivere esibendosi come suonatori nelle piazze. Si trovano ad aiutare un simpatico imbroglione finito nei guai.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|20:10:00|22:30:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|22:30:00|01:20:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/308a0561-34d7-4d9d-9674-bf7a10c22ade/cover?md5ChecksumParam=7676c4e3bc16daaebb7d68d47dab2bcc)|The Tomorrow Man|01:20:00|02:50:00|Ed e&#039; ossessionato dalla paura di una catastrofe, Ronnie insabbia il dolore per una perdita collezionando oggetti. Entrambi cercano l&#039;amore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Terrore sul Mar Nero|02:50:00|04:00:00|Un uomo e&#039; a conoscenza di segrete informazioni tattiche sui nazisti. Le SS assoldano uno spietato killer per eliminarlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le mie due mogli|04:00:00|05:30:00|Cary Grant, vedovo da sette anni, e&#039; in procinto di risposarsi quando la prima moglie ricompare con una rivelazione da fare.
+|![Icon](https://guidatv.sky.it/uuid/0a77f360-55c0-48ab-8815-915587780f78/cover?md5ChecksumParam=7910a868cf600566ba665ecb51abf8de)|Julie &amp;#38; Julia|05:30:00|07:35:00|Storie della leggendaria Julia, autrice nel 1949 di un libro di cucina, e di Julie, che sfida la sua bravura a 50 anni di distanza.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;ombrellone|07:35:00|09:20:00|L&#039;ingegner Marletti raggiunge la moglie in villeggiatura ma, trovandola distaccata, sospetta un tradimento.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;amore ai tempi del colera|09:20:00|11:45:00|Javier Bardem e Giovanna Mezzogiorno nella vicenda di un telegrafista ossessivo e insistente, deciso a conquistare una donna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Attila|11:45:00|13:10:00|L&#039;avventura di Attila, re famigerato degli Unni, durante la sua marcia su Roma. Lo fermera&#039; un uomo disarmato: Papa Leone I.
+|![Icon](https://guidatv.sky.it/uuid/5ee40f78-4792-4003-a2b3-2cc0603ba34b/cover?md5ChecksumParam=720e7bf52677363e02a52f1c65e1adcb)|Qualunquemente|13:10:00|14:55:00|Dopo un periodo di latitanza, Cetto La Qualunque torna in Italia e si candida a sindaco per difendere la sua citta&#039; dalla... legalita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il ritorno di Zanna Bianca|14:55:00|16:40:00|I minatori di un villaggio sono sfruttati dallo spregiudicato Beauty Smith. Bill Tarwater e Jason Scott gli contendono un nuovo giacimento.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il grande cielo|16:40:00|18:55:00|Due cacciatori di pellicce si alleano per una causa comune, finche&#039; non si innamorano della stessa donna, una pellerossa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I maestri di ballo|18:55:00|20:10:00|Stanlio e Ollio sono maestri di ballo, e vogliono aiutare l&#039;amore tra una loro allieva e un operaio. Ma come sempre combinano solo pasticci.
+|![Icon](https://guidatv.sky.it/uuid/f86da4e0-f469-436f-9327-2775d03fe126/cover?md5ChecksumParam=dca123c26733ce11aa767c98b689ee7b)|The Great Debaters - Il potere della...|20:10:00|22:20:00|...parola - La vera storia di un professore del college che ispiro&#039; i suoi studenti a formare un gruppo di dibattito tra universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/c697109a-2a78-4ee8-a359-d28ccb2d3881/cover?md5ChecksumParam=a60e08b3d1622ed59e4804e5c188453b)|Il cane pompiere|22:20:00|00:10:00|Un famoso cane-attore si smarrisce e viene adottato in una caserma dei vigili del fuoco dove diventera&#039; un eroe anche nella vita reale.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
