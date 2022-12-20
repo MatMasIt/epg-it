@@ -1,5 +1,5 @@
 # Sky Sport 2
-> Programmazione di Lunedì 19 Dicembre 2022
+> Programmazione di Martedì 20 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
