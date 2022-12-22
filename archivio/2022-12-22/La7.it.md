@@ -1,5 +1,5 @@
 # La 7
-> Programmazione di Mercoledì 21 Dicembre 2022
+> Programmazione di Giovedì 22 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
