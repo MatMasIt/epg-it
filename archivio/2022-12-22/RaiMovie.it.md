@@ -1,0 +1,40 @@
+# Rai Movie
+> Programmazione di Mercoledì 21 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:10:00|00:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/66f3cdf7-8cce-4bfc-b491-e2165dccbfbb/cover?md5ChecksumParam=ec092ca4989a369937f78875a1ccb145)|A spasso con Daisy|00:15:00|02:00:00|Anziana e razzista, Miss Daisy non riesce ad accettare l&#039;ingresso nella sua vita dell&#039;autista nero Hoke. Quattro Oscar.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Operation Finale|02:00:00|04:00:00|Una squadra di agenti segreti e&#039; incaricata di rintracciare l&#039;ufficiale nazista responsabile della tragedia dell&#039;Olocausto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anime ferite|04:00:00|05:45:00|Seconda Guerra Mondiale. Due uomini, provati dall&#039;esperienza del conflitto, cercano di reinserirsi nella vita normale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Semplicemente insieme|05:45:00|07:25:00|Una donna delle pulizie, un aristocratico, un cuoco e un&#039;anziana signora incrociano i loro destini sotto lo stesso tetto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:25:00|07:30:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Non c&#039;e&#039; pace tra gli ulivi|07:30:00|09:20:00|Un reduce di guerra torna a casa e scopre che un usuraio ha ridotto la sua famiglia in rovina.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il momento di uccidere|09:20:00|12:00:00|Mississipi. Due balordi bianchi violentano una bambina di colore e il padre, preso dall&#039;odio, li uccide. Un giovane avvocato decidera&#039; di difenderlo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Annibale|12:00:00|13:45:00|Le gesta del condottiero cartaginese Annibale. Sbarcato in Italia, si scontrera&#039; con la guarnigione di Fabio Massimo.
+|![Icon](https://guidatv.sky.it/uuid/1aeaca8f-545d-42c6-85ad-a8ffbc32160b/cover?md5ChecksumParam=60d960cf7c4e9c0e352cfd9b48942986)|Il grande paese|13:45:00|16:50:00|Western classico con due pezzi da novanta come Gregory Peck e Charlton Heston, capifamiglia di due famiglie texane divise da un odio atavico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joe Bass l&#039;implacabile|16:50:00|18:45:00|Ironico western con Burt Lancaster nei panni del cacciatore Joe Bass. Derubato dagli indiani, inizia una caccia implacabile.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il grande botto|18:45:00|20:10:00|Due portieri di un&#039;agenzia investigativa si fanno ingaggiare come scorta di un inventore, il quale deve consegnare una micidiale bomba.
+|![Icon](https://guidatv.sky.it/uuid/88eda046-3367-4daf-be96-e327fb3d009e/cover?md5ChecksumParam=9db906553cd52581a127e621e65c7492)|Mistero a Crooked House|20:10:00|22:10:00|In una sontuosa villa inglese si consuma un omicidio e un giovane investigatore privato indaga. L&#039;assassino colpira&#039; ancora?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Movie Mag|22:10:00|22:35:00|Il magazine che, percorrendo le mille strade del cinema, esplora di volta in volta argomenti di attualita&#039; e tematiche classiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli occhi della notte|22:35:00|00:30:00|Una ragazza cieca entra accidentalmente in possesso di una partita di droga. E dovra&#039; difendersi da tre criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Francesco|00:30:00|03:10:00|La vita di San Francesco da Assisi, ricostruita dopo la morte dai suoi seguaci e dalle persone amiche come Santa Chiara.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lasciali ridendo|03:10:00|03:35:00|Stanlio e&#039; preoccupato per la seduta dal dentista, ma a sostenerlo c&#039;e&#039; Ollio. Peccato che entrambi inalino gas esilarante e...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il loro momento magico|03:35:00|04:00:00|Stanlio e Ollio hanno messo da parte un gruzzoletto e decidono di spassarsela. Peccato che le loro mogli sappiano tutto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gioia d&#039;amare|04:00:00|05:35:00|Una star del musical, affaticata dalla vita sotto ai riflettori, si innamora di un giovane e scopre altre gioie della vita.
+|![Icon](https://guidatv.sky.it/uuid/b87101cd-9036-4657-bcbb-bd11fc40a9d1/cover?md5ChecksumParam=e3b9a4fc1397becb49984c5de4e6bae7)|La brava moglie|05:35:00|07:35:00|La direttrice di un istituto che forma madri e mogli esemplari decide di cambiare radicalmente la propria vita totalmente dedita al marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Miss Italia|07:35:00|09:15:00|Italia del secondo dopoguerra. Un giornalista conduce un reportage sul concorso di bellezza Miss Italia: scoprira&#039; un mondo squallido e corrotto.
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|09:15:00|11:15:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Erode il grande|11:15:00|13:00:00|Erode comanda ad Aronne di uccidere la sua amante, ma lui, saputo della morte di Erode, non esegue. Il Grande pero&#039; ritorna.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|13:00:00|15:20:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il segno del coyote|15:20:00|17:05:00|California 1847: per vendicare i torti inferti ai messicani dal governatore, il figlio di un barone si finge collaborazionista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I sette del Texas|17:05:00|18:55:00|Texas. Un ricco proprietario terriero deve attraversare il deserto per portare all&#039;ospedale la moglie ammalata. Un viaggio che sara&#039; pieno d&#039;insidie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I Toreador|18:55:00|20:10:00|Due investigatori messicani vengono coinvolti in una corrida. Uno di loro assomiglia a un matador scomparso che sara&#039; costretto a sostituire.
+|![Icon](https://guidatv.sky.it/uuid/b5bfc048-2666-4837-a578-42b8eff60deb/cover?md5ChecksumParam=266356153b92f9e451aed8210fad8df9)|La cena di Natale|20:10:00|21:50:00|Amori, tradimenti e incomprensioni fanno da sfondo alla cena di Natale organizzata a casa della famiglia Scagliusi. Le cose pero&#039; non vanno come previsto.
+|![Icon](https://guidatv.sky.it/uuid/76e9035e-1105-439e-ad4f-d8fa554728b8/cover?md5ChecksumParam=43119c6669ed5d3698cdc03733cd409b)|Matrimonio all&#039;italiana|21:50:00|23:40:00|Un&#039;ex prostituta, Sophia Loren, si finge moribonda per farsi sposare dall&#039;amato Marcello Mastroianni. Il piano riesce, a meta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:40:00|23:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|23:45:00|01:50:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
