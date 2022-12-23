@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Giovedì 22 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Francesco|00:30:00|03:10:00|La vita di San Francesco da Assisi, ricostruita dopo la morte dai suoi seguaci e dalle persone amiche come Santa Chiara.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lasciali ridendo|03:10:00|03:35:00|Stanlio e&#039; preoccupato per la seduta dal dentista, ma a sostenerlo c&#039;e&#039; Ollio. Peccato che entrambi inalino gas esilarante e...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il loro momento magico|03:35:00|04:00:00|Stanlio e Ollio hanno messo da parte un gruzzoletto e decidono di spassarsela. Peccato che le loro mogli sappiano tutto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gioia d&#039;amare|04:00:00|05:35:00|Una star del musical, affaticata dalla vita sotto ai riflettori, si innamora di un giovane e scopre altre gioie della vita.
+|![Icon](https://guidatv.sky.it/uuid/b87101cd-9036-4657-bcbb-bd11fc40a9d1/cover?md5ChecksumParam=e3b9a4fc1397becb49984c5de4e6bae7)|La brava moglie|05:35:00|07:35:00|La direttrice di un istituto che forma madri e mogli esemplari decide di cambiare radicalmente la propria vita totalmente dedita al marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Miss Italia|07:35:00|09:15:00|Italia del secondo dopoguerra. Un giornalista conduce un reportage sul concorso di bellezza Miss Italia: scoprira&#039; un mondo squallido e corrotto.
+|![Icon](https://guidatv.sky.it/uuid/b8baef0a-1984-45b4-a96f-6a906f17dfe7/cover?md5ChecksumParam=3a4d00aebbd60b89b80ce54c390f95ae)|Don&#039;t Say a Word|09:15:00|11:15:00|Uno psichiatra e&#039; vittima di un ricatto: alcuni criminali hanno rapito la figlia e gli intimano di carpire un segreto ad una ragazza malata di mente.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Erode il grande|11:15:00|13:00:00|Erode comanda ad Aronne di uccidere la sua amante, ma lui, saputo della morte di Erode, non esegue. Il Grande pero&#039; ritorna.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|13:00:00|15:20:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il segno del coyote|15:20:00|17:05:00|California 1847: per vendicare i torti inferti ai messicani dal governatore, il figlio di un barone si finge collaborazionista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I sette del Texas|17:05:00|18:55:00|Texas. Un ricco proprietario terriero deve attraversare il deserto per portare all&#039;ospedale la moglie ammalata. Un viaggio che sara&#039; pieno d&#039;insidie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I Toreador|18:55:00|20:10:00|Due investigatori messicani vengono coinvolti in una corrida. Uno di loro assomiglia a un matador scomparso che sara&#039; costretto a sostituire.
+|![Icon](https://guidatv.sky.it/uuid/b5bfc048-2666-4837-a578-42b8eff60deb/cover?md5ChecksumParam=266356153b92f9e451aed8210fad8df9)|La cena di Natale|20:10:00|21:50:00|Amori, tradimenti e incomprensioni fanno da sfondo alla cena di Natale organizzata a casa della famiglia Scagliusi. Le cose pero&#039; non vanno come previsto.
+|![Icon](https://guidatv.sky.it/uuid/76e9035e-1105-439e-ad4f-d8fa554728b8/cover?md5ChecksumParam=43119c6669ed5d3698cdc03733cd409b)|Matrimonio all&#039;italiana|21:50:00|23:40:00|Un&#039;ex prostituta, Sophia Loren, si finge moribonda per farsi sposare dall&#039;amato Marcello Mastroianni. Il piano riesce, a meta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:40:00|23:45:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|23:45:00|01:50:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/b87101cd-9036-4657-bcbb-bd11fc40a9d1/cover?md5ChecksumParam=e3b9a4fc1397becb49984c5de4e6bae7)|La brava moglie|01:50:00|03:40:00|La direttrice di un istituto che forma madri e mogli esemplari decide di cambiare radicalmente la propria vita totalmente dedita al marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un salvataggio pericoloso|03:40:00|04:00:00|Ospiti in un albergo, Stanlio e Ollio si accorgono che il loro cagnolino non e&#039; ben accetto dagli altri clienti. Lo proteggeranno da tutto e tutti?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romeo &amp; Juliet|04:00:00|05:50:00|Verona. Due famiglie, i Montecchi e i Capuleti, sono divise da un odio atavico. I loro eredi, Romeo e Giulietta, finiscono per innamorarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le pistolere|05:50:00|07:30:00|Maria vorrebbe acquistare un ranch, ma vi si e&#039; installata la fuorilegge Louise, a capo di una banda di sole donne.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il ladrone|07:30:00|09:30:00|Un ladro della Palestina, Caleb, conosce Gesu&#039; che crede uomo disonesto come lui. Saputa la verita&#039; si redimera&#039;.
+|![Icon](https://guidatv.sky.it/uuid/5ee40f78-4792-4003-a2b3-2cc0603ba34b/cover?md5ChecksumParam=720e7bf52677363e02a52f1c65e1adcb)|Qualunquemente|09:30:00|11:10:00|Dopo un periodo di latitanza, Cetto La Qualunque torna in Italia e si candida a sindaco per difendere la sua citta&#039; dalla... legalita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ulisse|11:10:00|13:05:00|Magniloquente messa in scena del poema omerico, con Kirk Douglas che interpreta Ulisse. Silvana Mangano e&#039; Penelope.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli occhi della notte|13:05:00|15:00:00|Una ragazza cieca entra accidentalmente in possesso di una partita di droga. E dovra&#039; difendersi da tre criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|15:00:00|15:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/00abc77b-a586-4ba5-b70b-fc016223e069/cover?md5ChecksumParam=7cea315037cfb24e3fbd54aef374cf23)|Nati stanchi|15:05:00|16:30:00|Due ragazzi siciliani, chiamati dalla societa&#039; a rendersi utili, fingono con abile disinvoltura di impegnarsi nella ricerca di lavoro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I lunghi giorni della vendetta|16:30:00|18:45:00|Ted evade di prigione per vendicare la morte del padre. Ci riuscira&#039; grazie all&#039;aiuto di una donna e di un onesto giudice.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Muraglie|18:45:00|20:10:00|Lo scenario per gli sketch esilaranti di Stanlio e Ollio e&#039; l&#039;epoca del proibizionismo. I due finiscono in prigione...
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|20:10:00|22:25:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Charlot|22:25:00|00:55:00|La vita di Charles Chaplin, divenuto famoso per la sua interpretazione di un personaggio tanto amato quanto emblematico: Charlot.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

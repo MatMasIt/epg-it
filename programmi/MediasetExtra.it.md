@@ -1,5 +1,5 @@
 # Mediaset Extra
-> Programmazione di Giovedì 22 Dicembre 2022
+> Programmazione di Venerdì 23 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
