@@ -3,57 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Milan vs Inter|01:00:00|01:10:00|Behind The Scene Milan vs Inter
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Pre Partita-Milan vs Salisburgo|01:10:00|02:30:00|Pre Partita-Milan vs Salisburgo
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Salisburgo-02/11/2022|02:30:00|04:35:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road-Dida|04:35:00|05:00:00|Milan Tv-On The Road-Dida
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Simo Ibra Dubai|05:35:00|05:50:00|Milan Tv-Speciale Simo Ibra Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Focus On Pioli|05:50:00|06:00:00|Milan Tv-Focus On Pioli
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Sampdoria vs Milan|06:00:00|06:05:00|Behind The Scene Sampdoria vs Milan
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Femminile-Parma vs Milan-24/09/22|06:05:00|07:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Giroud e i tifosi|07:50:00|08:00:00|Milan Tv-Giroud e i tifosi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Primavera-Bologna vs Milan-02/10/22|08:00:00|09:45:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Oscar del Calcio|09:45:00|09:55:00|Speciale Oscar del Calcio
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Liverpool-16/12/2022|09:55:00|12:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli Dubai|12:00:00|12:10:00|Milan Tv-Interview Pioli Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Lumezzane-08/12/2022|12:10:00|13:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Clip Auguri Fondazione|13:50:00|13:55:00|Milan Tv-Clip Auguri Fondazione
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|13:55:00|14:05:00|Dubai Training Camp Day 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 11/12/2022|14:05:00|14:10:00|Milan Tv-Allenamenti 11/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|14:10:00|14:20:00|Dubai Training Camp Day 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 3|14:20:00|14:30:00|Dubai Training Camp Day 3
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 4|14:30:00|14:35:00|Dubai Training Camp Day 4
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 14/12/2022|14:35:00|14:45:00|Milan Tv-Allenamenti 14/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 5|14:45:00|14:50:00|Dubai Training Camp Day 5
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 15/12/2022|14:50:00|14:55:00|Milan Tv-Allenamenti 15/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 6|14:55:00|15:10:00|Dubai Training Camp Day 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 7|15:10:00|15:15:00|Dubai Training Camp Day 7
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Indovina Chi|15:15:00|15:25:00|Milan Tv-Indovina Chi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 8|15:25:00|15:35:00|Dubai Training Camp Day 8
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 18/12/2022|15:35:00|15:40:00|Milan Tv-Allenamenti 18/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 9|15:40:00|15:50:00|Dubai Training Camp Day 9
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 19/12/2022|15:50:00|16:00:00|Milan Tv-Allenamenti 19/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Twitch Sempre Milan-Live|16:00:00|17:30:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|17:30:00|17:35:00|Dubai Training Camp Day 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 11/12/2022|17:35:00|17:45:00|Milan Tv-Allenamenti 11/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|17:45:00|17:55:00|Dubai Training Camp Day 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 3|17:55:00|18:05:00|Dubai Training Camp Day 3
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 4|18:05:00|18:10:00|Dubai Training Camp Day 4
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 14/12/2022|18:10:00|18:20:00|Milan Tv-Allenamenti 14/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 5|18:20:00|18:25:00|Dubai Training Camp Day 5
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 15/12/2022|18:25:00|18:30:00|Milan Tv-Allenamenti 15/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 6|18:30:00|18:40:00|Dubai Training Camp Day 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 7|18:40:00|18:50:00|Dubai Training Camp Day 7
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Indovina Chi|18:50:00|19:00:00|Milan Tv-Indovina Chi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 8|19:00:00|19:05:00|Dubai Training Camp Day 8
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 18/12/2022|19:05:00|19:15:00|Milan Tv-Allenamenti 18/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 9|19:15:00|19:25:00|Dubai Training Camp Day 9
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 19/12/2022|19:25:00|19:30:00|Milan Tv-Allenamenti 19/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 22|19:30:00|20:00:00|Milan Tv-Forza Milan Pt. 22
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Juventus-08/10/2022|20:00:00|21:55:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Juventus|21:55:00|22:45:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Behind The Scene Milan vs Juventus|22:45:00|22:50:00|Behind The Scene Milan vs Juventus
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Pioli Universita&#039; Statale|22:50:00|00:00:00|Milan Tv-Pioli Universita&#039; Statale
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|00:00:00|00:05:00|Dubai Training Camp Day 1
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 11/12/2022|00:05:00|00:10:00|Milan Tv-Allenamenti 11/12/2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|00:10:00|00:20:00|Dubai Training Camp Day 2
@@ -73,6 +22,54 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Twitch Sempre Milan-22/12/2022|02:25:00|03:55:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-PILLOLA TWITCH|03:55:00|04:25:00|Milan Tv-PILLOLA TWITCH
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Magliette|04:25:00|05:00:00|Milan Tv-Speciale Magliette
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Clip Auguri Fondazione|05:00:00|05:10:00|Clip Auguri Fondazione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Femminile-Sassuolo vs Milan-10/12/22|05:10:00|07:00:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Opera di San Francesco|07:00:00|07:15:00|Speciale Opera di San Francesco
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|07:15:00|07:20:00|Dubai Training Camp Day 1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 11/12/2022|07:20:00|07:30:00|Milan Tv-Allenamenti 11/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|07:30:00|07:40:00|Dubai Training Camp Day 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 3|07:40:00|07:50:00|Dubai Training Camp Day 3
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 4|07:50:00|08:00:00|Dubai Training Camp Day 4
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 14/12/2022|08:00:00|08:05:00|Milan Tv-Allenamenti 14/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 5|08:05:00|08:10:00|Dubai Training Camp Day 5
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 15/12/2022|08:10:00|08:15:00|Milan Tv-Allenamenti 15/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 6|08:15:00|08:30:00|Dubai Training Camp Day 6
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 7|08:30:00|08:40:00|Dubai Training Camp Day 7
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Indovina Chi (Florenzi-Mirante)|08:40:00|08:45:00|Milan Tv-Indovina Chi (Florenzi-Mirante)
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 8|08:45:00|08:55:00|Dubai Training Camp Day 8
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 18/12/2022|08:55:00|09:05:00|Milan Tv-Allenamenti 18/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 9|09:05:00|09:10:00|Dubai Training Camp Day 9
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 19/12/2022|09:10:00|09:20:00|Milan Tv-Allenamenti 19/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Primavera-Udinese vs Milan-15/10/22|09:20:00|11:05:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Giroud e i tifosi|11:05:00|11:10:00|Milan Tv-Giroud e i tifosi
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Juventus vs Milan-23/12/16|11:10:00|14:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|14:20:00|14:25:00|Dubai Training Camp Day 1
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 11/12/2022|14:25:00|14:30:00|Milan Tv-Allenamenti 11/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|14:30:00|14:40:00|Dubai Training Camp Day 2
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 3|14:40:00|14:50:00|Dubai Training Camp Day 3
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 4|14:50:00|15:00:00|Dubai Training Camp Day 4
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 14/12/2022|15:00:00|15:05:00|Milan Tv-Allenamenti 14/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 5|15:05:00|15:10:00|Dubai Training Camp Day 5
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 15/12/2022|15:10:00|15:20:00|Milan Tv-Allenamenti 15/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 6|15:20:00|15:30:00|Dubai Training Camp Day 6
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 7|15:30:00|15:40:00|Dubai Training Camp Day 7
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Indovina Chi (Florenzi-Mirante)|15:40:00|15:45:00|Milan Tv-Indovina Chi (Florenzi-Mirante)
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 8|15:45:00|15:55:00|Dubai Training Camp Day 8
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 18/12/2022|15:55:00|16:05:00|Milan Tv-Allenamenti 18/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 9|16:05:00|16:10:00|Dubai Training Camp Day 9
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 19/12/2022|16:10:00|16:25:00|Milan Tv-Allenamenti 19/12/2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Juventus vs Milan-23/12/16|16:25:00|19:30:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Forza Milan Pt. 23|19:30:00|20:00:00|Milan Tv-Forza Milan Pt. 23
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Fiorentina-13/11/2022|20:00:00|21:50:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita-Milan vs Fiorentina|21:50:00|22:30:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Clip Auguri Fondazione|22:30:00|22:40:00|Clip Auguri Fondazione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Live Reaction Milan vs Fiorentina|22:40:00|00:40:00|Live Reaction Milan vs Fiorentina
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Rinnovo Kalulu|00:40:00|01:10:00|Speciale Rinnovo Kalulu
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road Kalulu|01:10:00|01:35:00|Milan Tv-On The Road Kalulu
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Salisburgo-02/11/2022|01:35:00|03:20:00|Il Milan e&#039; in campo e il Club Channel rossonero segue la squadra con cuore e passione.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale &#039;Gli Immortali&#039;|03:20:00|04:35:00|Milan Tv-Speciale &#039;Gli Immortali&#039;
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Soulmates Gattuso Pirlo Seedorf|04:35:00|04:50:00|Soulmates Desailly Savicevic Massaro
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Soulmates Gattuso Pirlo Seedorf|04:50:00|05:00:00|Soulmates Gattuso Pirlo Seedorf
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|05:00:00|11:00:00|Milan TV
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|11:00:00|17:00:00|Milan TV
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan TV|17:00:00|23:00:00|Milan TV
