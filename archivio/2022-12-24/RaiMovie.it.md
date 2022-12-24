@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Venerdì 23 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/b87101cd-9036-4657-bcbb-bd11fc40a9d1/cover?md5ChecksumParam=e3b9a4fc1397becb49984c5de4e6bae7)|La brava moglie|01:50:00|03:40:00|La direttrice di un istituto che forma madri e mogli esemplari decide di cambiare radicalmente la propria vita totalmente dedita al marito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Un salvataggio pericoloso|03:40:00|04:00:00|Ospiti in un albergo, Stanlio e Ollio si accorgono che il loro cagnolino non e&#039; ben accetto dagli altri clienti. Lo proteggeranno da tutto e tutti?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Romeo &amp; Juliet|04:00:00|05:50:00|Verona. Due famiglie, i Montecchi e i Capuleti, sono divise da un odio atavico. I loro eredi, Romeo e Giulietta, finiscono per innamorarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le pistolere|05:50:00|07:30:00|Maria vorrebbe acquistare un ranch, ma vi si e&#039; installata la fuorilegge Louise, a capo di una banda di sole donne.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il ladrone|07:30:00|09:30:00|Un ladro della Palestina, Caleb, conosce Gesu&#039; che crede uomo disonesto come lui. Saputa la verita&#039; si redimera&#039;.
+|![Icon](https://guidatv.sky.it/uuid/5ee40f78-4792-4003-a2b3-2cc0603ba34b/cover?md5ChecksumParam=720e7bf52677363e02a52f1c65e1adcb)|Qualunquemente|09:30:00|11:10:00|Dopo un periodo di latitanza, Cetto La Qualunque torna in Italia e si candida a sindaco per difendere la sua citta&#039; dalla... legalita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ulisse|11:10:00|13:05:00|Magniloquente messa in scena del poema omerico, con Kirk Douglas che interpreta Ulisse. Silvana Mangano e&#039; Penelope.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli occhi della notte|13:05:00|15:00:00|Una ragazza cieca entra accidentalmente in possesso di una partita di droga. E dovra&#039; difendersi da tre criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|15:00:00|15:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/00abc77b-a586-4ba5-b70b-fc016223e069/cover?md5ChecksumParam=7cea315037cfb24e3fbd54aef374cf23)|Nati stanchi|15:05:00|16:30:00|Due ragazzi siciliani, chiamati dalla societa&#039; a rendersi utili, fingono con abile disinvoltura di impegnarsi nella ricerca di lavoro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I lunghi giorni della vendetta|16:30:00|18:45:00|Ted evade di prigione per vendicare la morte del padre. Ci riuscira&#039; grazie all&#039;aiuto di una donna e di un onesto giudice.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Muraglie|18:45:00|20:10:00|Lo scenario per gli sketch esilaranti di Stanlio e Ollio e&#039; l&#039;epoca del proibizionismo. I due finiscono in prigione...
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|20:10:00|22:25:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Charlot|22:25:00|00:55:00|La vita di Charles Chaplin, divenuto famoso per la sua interpretazione di un personaggio tanto amato quanto emblematico: Charlot.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:55:00|01:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albero degli zoccoli|01:00:00|04:00:00|Vincitore della Palma d&#039;oro nel 1978, Ermanno Olmi descrive la realta&#039; contadina del XIX secolo attraverso le vicende di quattro famiglie del bergamasco.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La casa dei nostri sogni|04:00:00|05:35:00|Il sogno di una famiglia americana media e&#039; una casa in campagna. Ma l&#039;acquisto si rivela sbagliato per Cary Grant e Myrna Loy.
+|![Icon](https://guidatv.sky.it/uuid/e0f08954-eacb-46a7-9e38-68451cc11630/cover?md5ChecksumParam=ff2e5a0ee118e7d3093f5ff04358fc8b)|Fraulein - Una fiaba d&#039;inverno|05:35:00|07:15:00|La quarantenne Regina, soprannominata Fraulein, vive in solitudine nel suo albergo di montagna, finche&#039; uno sconosciuto...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|07:20:00|10:15:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/1aeaca8f-545d-42c6-85ad-a8ffbc32160b/cover?md5ChecksumParam=60d960cf7c4e9c0e352cfd9b48942986)|Il grande paese|10:15:00|13:10:00|Western classico con due pezzi da novanta come Gregory Peck e Charlton Heston, capifamiglia di due famiglie texane divise da un odio atavico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|13:10:00|13:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/f86da4e0-f469-436f-9327-2775d03fe126/cover?md5ChecksumParam=dca123c26733ce11aa767c98b689ee7b)|The Great Debaters - Il potere della...|13:15:00|15:25:00|...parola - La vera storia di un professore del college che ispiro&#039; i suoi studenti a formare un gruppo di dibattito tra universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/54f2f6e5-4f2d-4e3c-be74-f083a9f34708/cover?md5ChecksumParam=f6af7a5fab03467bee380e85640dbe0e)|Non sposate le mie figlie!|15:25:00|17:10:00|Una coppia borghese aspetta con ansia il matrimonio della quarta figlia, l&#039;unica ad aver scelto un uomo cattolico. Ma...
+|![Icon](https://guidatv.sky.it/uuid/b5bfc048-2666-4837-a578-42b8eff60deb/cover?md5ChecksumParam=266356153b92f9e451aed8210fad8df9)|La cena di Natale|17:10:00|18:50:00|Amori, tradimenti e incomprensioni fanno da sfondo alla cena di Natale organizzata a casa della famiglia Scagliusi. Le cose pero&#039; non vanno come previsto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il compagno B|18:50:00|20:10:00|Due reduci di guerra devono scovare la famiglia di un&#039;orfanella dal cognome piu&#039; comune d&#039;America: Smith.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|20:10:00|22:15:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bar Giuseppe|22:15:00|23:55:00|Rimasto vedovo, Giuseppe non vuole rinunciare al suo bar e decide di assumere come cameriera una giovane africana, Bikira.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|To the Wonder|23:55:00|01:55:00|Neil e Marina si innamorano a Mont Saint-Michel. Dopo un periodo di idillio, vedono incrinarsi qualcosa nel loro rapporto.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
