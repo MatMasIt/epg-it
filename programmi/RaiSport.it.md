@@ -3,14 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Radio Corsa|03:00:00|04:00:00|Approfondimento dedicato al mondo del ciclismo.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|04:00:00|05:00:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|14:00:00|14:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Sport Disabili: SportAbilia|18:00:00|18:30:00|Una panoramica sulle discipline degli atleti diversamente abili.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Gli Imperdibili|18:30:00|18:35:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Judo: Campionati Italiani Assoluti|21:30:00|22:30:00|A Torino le avvincenti sfide tra i grandi campioni di judo per la conquista del titolo italiano.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|TG Sport Notte|22:30:00|22:50:00|Tutte le notizie dei principali avvenimenti sportivi.
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Argentina - Arabia Saudita|22:50:00|01:10:00|Mondiali Qatar 2022 - Gruppo C. Dallo Stadio Lusail con la telecronaca di Dario Di Gennaro e Andrea Stramaccioni. In studio Marco Lollobrigida.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Portogallo - Ghana|01:10:00|03:30:00|Mondiali Qatar 2022 - Gruppo H. Dallo Stadio 974 con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Marco Lollobrigida e Claudio Marchisio.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Francia - Danimarca|03:30:00|05:00:00|Mondiali Qatar 2022 - Gruppo D. Dallo Stadio 974 con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Marco Lollobrigida e Claudio Marchisio.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Francia - Danimarca|05:00:00|06:00:00|Mondiali Qatar 2022 - Gruppo D. Dallo Stadio 974 con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Marco Lollobrigida e Claudio Marchisio.
@@ -24,6 +16,17 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Olanda - USA|20:05:00|22:00:00|Mondiali Qatar 2022 - Ottavi. Da Ar-Rayyan con la telecronaca di Luca De Capitani e Sebino Nela. In studio Marco Lollobrigida e Claudio Marchisio.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Argentina - Australia|22:00:00|23:55:00|Mondiali Qatar 2022 - Ottavi. Da Ar-Rayyan con la telecronaca di Stefano Bizzotto e Lele Adani. In studio Alessandro Antinelli e Claudio Marchisio.
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Francia - Polonia|23:55:00|01:45:00|Mondiali Qatar 2022 - Ottavi. Da Al Wakrah con la telecronoca di Dario Di Gennaro e Andrea Stramaccioni. In studio Simona Rolandi e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inghilterra - Senegal|01:45:00|03:35:00|Mondiali Qatar 2022 - Ottavi. Da Al Khor con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Alessandro Antinelli e Lele Adami.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Giappone - Croazia|03:35:00|05:00:00|Mondiali Qatar 2022 - Ottavi. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Francia - Polonia|05:00:00|06:00:00|Mondiali Qatar 2022 - Ottavi. Da Al Wakrah con la telecronoca di Dario Di Gennaro e Andrea Stramaccioni. In studio Simona Rolandi e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Inghilterra - Senegal|06:30:00|08:50:00|Mondiali Qatar 2022 - Ottavi. Da Al Khor con la telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Alessandro Antinelli e Lele Adami.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Giappone - Croazia|08:50:00|11:05:00|Mondiali Qatar 2022 - Ottavi. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Brasile - Corea del Sud|11:05:00|13:20:00|Mondiali Qatar 2022 - Ottavi. La 22a edizione della massima competizione calcistica per la conquista della Coppa del Mondo FIFA 2022 in Qatar.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Marocco - Spagna|13:20:00|15:35:00|Mondiali Qatar 2022 - Ottavi. Da Doha. Telecronaca di Dario Di Gennaro e Andrea Stramaccioni. In studio Simona Rolandi e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Portogallo - Svizzera|15:35:00|17:50:00|Mondiali Qatar 2022 - Ottavi. Da Al Daayen. Telecronaca di Alberto Rimedio e Antonio Di Gennaro. In studio Alessandro Antinelli e Lele Adani.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Croazia - Brasile|17:50:00|20:00:00|Mondiali Qatar 2022 - 1mo Quarto. Da Doha con la telecronaca di Luca De Capitani e Sebino Nela. In studio Marco Lollobrigida e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Olanda - Argentina|20:00:00|22:15:00|Mondiali Qatar 2022 - 2ndo Quarto. Da Al Daayen con la telecronaca di Stefano Bizzotto e Lele Adani. In studio Alessandro Antinelli e Claudio Marchisio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Marocco - Portogallo|22:15:00|00:30:00|Mondiali Qatar 2022 - 3rzo Quarto. Da Doha con la telecronaca di Dario Di Gennaro e Andrea Stramaccioni. In studio Marco Lollobrigida e Claudio Marchisio.
 
 
 
