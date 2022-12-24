@@ -1,5 +1,5 @@
 # Emilia-Romagna 24
-> Programmazione di Venerdì 23 Dicembre 2022
+> Programmazione di Sabato 24 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
