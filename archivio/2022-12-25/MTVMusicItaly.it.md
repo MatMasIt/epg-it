@@ -1,0 +1,32 @@
+# MTV Music
+> Programmazione di Sabato 24 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|05:00:00|08:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/37e25e4a-870f-4276-934b-2ede9140505c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|Euro Top Chart|08:00:00|10:00:00|La classifica dei pezzi piu&#039; scaricati e suonati della settimana in Europa!
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|10:00:00|12:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/b49ee7aa-e7df-48ac-a08d-64d1e4cc06e4/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|Hitlist Italia|12:00:00|14:00:00|La storica classifica dei pezzi piu&#039; scaricati e suonati della settimana in Italia!
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|14:00:00|15:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|15:00:00|18:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|18:00:00|20:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Behind The Music (2021) - George Michael|20:00:00|20:55:00|La serie di approfondimento musicale che racconta le storie di successo di artisti straordinari con immagini ed interviste inedite! Nell&#039;anniversario della sua scomparsa, ricordiamo George Michael.
+|![Icon](https://guidatv.sky.it/uuid/d5eb8a96-fd78-4dac-8ab2-f8cfa8df1bc7/cover?md5ChecksumParam=7e148d8588c0d0fb1f6b67487fabf0f0)|Mariah Carey: Merry Christmas To All|20:55:00|22:45:00|Un vero e proprio concerto natalizio di cui Mariah Carey sara&#039; la protagonista indiscussa con tutti i classici da lei gia&#039; interpretati, ma anche pezzi inediti e ospiti a sorpresa.
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|22:45:00|02:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|02:00:00|05:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|05:00:00|08:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/b49ee7aa-e7df-48ac-a08d-64d1e4cc06e4/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|Hitlist Italia|08:00:00|10:00:00|La storica classifica dei pezzi piu&#039; scaricati e suonati della settimana in Italia!
+|![Icon](https://guidatv.sky.it/uuid/5b345833-4e44-4d78-a9c6-ebaebee079bf/cover?md5ChecksumParam=bd825cdfa6c28a22cd6d23c92af66db1)|100% Xmas|10:00:00|12:00:00|Solo video musicali natalizi per festeggiare insieme le feste!
+|![Icon](https://guidatv.sky.it/uuid/37e25e4a-870f-4276-934b-2ede9140505c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|Euro Top Chart|12:00:00|14:00:00|La classifica dei pezzi piu&#039; scaricati e suonati della settimana in Europa!
+|![Icon](https://guidatv.sky.it/uuid/16c15e96-f404-4986-918e-3a5ac80309c7/cover?md5ChecksumParam=8b18bfe4ec69733989124d965e6123da)|Top 10 Xmas|14:00:00|14:55:00|Una Top 10 tutta natalizia!
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|14:55:00|18:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+|![Icon](https://guidatv.sky.it/uuid/b49ee7aa-e7df-48ac-a08d-64d1e4cc06e4/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|Hitlist Italia|18:00:00|20:00:00|La storica classifica dei pezzi piu&#039; scaricati e suonati della settimana in Italia!
+|![Icon](https://guidatv.sky.it/uuid/38e4fbed-09f3-4b63-b14d-ff552fceff7d/cover?md5ChecksumParam=fec086bf59b4c47477690383a89388f7)|Behind The Music: Dentro La Musica|20:00:00|21:05:00|I Duran Duran raccontano il viaggio che li ha portati dall&#039;essere new wavers fino a diventare una delle band di maggiore successo al mondo. Per piu&#039; di quattro decenni la band e&#039; riuscita...
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Sampled|21:05:00|21:30:00|S1 Ep2 Tinashe ad Amsterdam - Tinashe inizia il tour europeo ad Amsterdam dove si unisce al DJ e produttore locale Cesqeaux. Insieme esplorano la diversita&#039; e la cultura eclettica della citta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Sampled|21:30:00|21:55:00|S1 Ep1 Marc Rebillet a Londra - Marc Rebillet si scatena per Londra insieme alla DJ e conduttrice, Carly Wilford. Lo champagne scorre a fiumi mentre i due ridanno vita a questa citta&#039; ribelle.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|MTV&#039;s Family Legacy: Special Moments|21:55:00|23:00:00|Attraverso immagini esclusive e interviste inedite con i figli delle nostre star preferite, MTV offre ai propri fan un nuovo punto di vista di alcuni degli eventi e degli artisti piu&#039; iconici
+|![Icon](https://guidatv.sky.it/uuid/8b37aea1-931a-4b03-a137-fa302d8e151c/cover?md5ChecksumParam=e6177eefb08d0bb57aae9035f600d4a0)|100% Music|23:00:00|05:00:00|I video piu&#039; belli, i pezzi piu&#039; forti del momento, gli artisti piu&#039; amati e quelli su cui puntiamo, le ultime novita&#039; in musica: tutto questo in 100% Music!
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

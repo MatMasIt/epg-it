@@ -1,0 +1,91 @@
+# BFC Forbes
+> Programmazione di Sabato 24 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|00:00:00|01:00:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|01:00:00|01:30:00|Speciale Forbes Women&#039;s Week 2022 - quarta parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|01:30:00|02:00:00|Risparmia, investi, cresci con Michael Pino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|02:00:00|02:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|02:05:00|03:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|03:00:00|04:00:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|04:00:00|04:30:00|Speciale Forbes Women&#039;s Week 2022 - quarta parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|04:30:00|05:00:00|Risparmia, investi, cresci con Michael Pino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|05:00:00|05:30:00|Speciale Forbes Women&#039;s Week 2022 - quarta parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|05:30:00|05:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|05:35:00|06:30:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|06:30:00|07:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|07:00:00|07:30:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Alghero
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|07:30:00|08:00:00|Ep55 - Federico Morgantini intervista Simone Ranucci Brandimarte, Fondatore e Presidente di Italian Insurtech Association, sull&#039;Insurtech in Italia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|08:00:00|09:00:00|Ep25 - Mosche. L&#039;atteso ritorno del talk show dedicato alla politica
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|09:00:00|10:00:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|10:00:00|10:30:00|Ep145 - Matteo Maffucci, cofounder di One Shot Agency ci racconta la via italiana agli influencer
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|10:30:00|11:00:00|Ep120 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|11:00:00|11:30:00|Ep144 - Incontro con Martina Pluda, direttrice per l&#039;Italia di Humane Society International Europe, una delle piu&#039; grandi organizzazioni per la protezione degli animali nel mondo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|11:30:00|12:00:00|Ep121 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|12:00:00|12:30:00|Ep54 - Federico Morgantini intervista Chiara Bacilieri, Head of Research &amp; Innovation di Lifeed, su formazione e tecnologie digitali
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|12:30:00|13:00:00|TikTok Awards 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|13:00:00|13:30:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|13:30:00|14:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive 1^TV|14:00:00|15:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|15:00:00|15:30:00|Ep27 - Di Riccardo Zanetti. Quanto costa vivere a Monaco, a Istambul, a Madrid?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Easy Bike in Italy|15:30:00|16:00:00|Ep2 - Un programma ideato e condotto da David Romano. Sentiero degli Ezzelini
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|16:00:00|17:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|17:00:00|17:30:00|Ep145 - Matteo Maffucci, cofounder di One Shot Agency ci racconta la via italiana agli influencer
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|17:30:00|18:00:00|Ep120 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|18:00:00|18:30:00|Ep66 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Federico Polese, fondatore di Simplify Partners
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|18:30:00|19:30:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|19:30:00|20:00:00|Ep168 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Francesca Mortari, Director di YouTube Southern Europe
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|20:00:00|20:30:00|Ep111 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Simona Maellare, UBS
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Trotto|20:30:00|21:30:00|Ep12 - Una produzione BFC Media
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|21:30:00|22:00:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|22:00:00|22:30:00|Ep3 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Terzo episodio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|22:30:00|23:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|23:00:00|23:30:00|Ep145 - Matteo Maffucci, cofounder di One Shot Agency ci racconta la via italiana agli influencer
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|23:30:00|00:00:00|Ep120 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|00:00:00|00:30:00|Ep55 - Federico Morgantini intervista Simone Ranucci Brandimarte, Fondatore e Presidente di Italian Insurtech Association, sull&#039;Insurtech in Italia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|00:30:00|01:00:00|Ep66 - L&#039;approfondimento settimanale a cura di Andrea Telara, Matteo Chiamenti, Gianluigi Raimondi, Viola Sturaro. Ospite della puntata Federico Polese, fondatore di Simplify Partners
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|01:00:00|01:30:00|Speciale Forbes Women&#039;s Week 2022 - quarta parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|01:30:00|02:00:00|Ep28 - Di Riccardo Zanetti. Gli investimenti che ti faranno diventare ricco - Come raggiungere un obiettivo?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|02:00:00|02:30:00|CEO Italian Awards 2022. Evento organizzato da Forbes Italia, in collaborazione con Business International, durante il quale sono stati premiati i Capitani del made in Italy piu&#039; innovativi e di successo dell&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|02:30:00|03:00:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Alghero
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|03:00:00|03:30:00|Ep120 - Dal rapper Kento la serie televisiva con i ragazzi del carcere minorile Beccaria e dell&#039;associazione Puntozero; il giornalismo inclusivo secondo Antonio Giuseppe Malafarina; le rubriche 100%Hack, Scienza in Valigia e IoT
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|03:30:00|04:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Trotto|04:00:00|05:00:00|Ep12 - Una produzione BFC Media
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|05:00:00|05:30:00|Ep120 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|05:30:00|06:00:00|Ep168 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Francesca Mortari, Director di YouTube Southern Europe
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|06:00:00|06:30:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|06:30:00|07:00:00|Ep111 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Simona Maellare, UBS
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|07:00:00|08:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|08:00:00|08:15:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|08:15:00|08:45:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|08:45:00|09:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|09:00:00|09:30:00|CEO Italian Awards 2022. Evento organizzato da Forbes Italia, in collaborazione con Business International, durante il quale sono stati premiati i Capitani del made in Italy piu&#039; innovativi e di successo dell&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|09:30:00|10:00:00|Ep55 - Federico Morgantini intervista Simone Ranucci Brandimarte, Fondatore e Presidente di Italian Insurtech Association, sull&#039;Insurtech in Italia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Terzo Canale Show|10:00:00|10:30:00|Ep288 - Filippo Montesi, segretario Generale Social Impact agenda per l&#039;Italia spiega come investire generando impatto sociale. Con Enrico Parano di IRIB CNR affrontiamo il tema della violenza sui minori
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|10:30:00|11:00:00|Speciale Forbes Women&#039;s Week 2022 - quarta parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|11:00:00|12:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|12:00:00|12:30:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|12:30:00|13:00:00|Ep168 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Francesca Mortari, Director di YouTube Southern Europe
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ASSETandtheCITY|13:00:00|13:30:00|Ep111 - Le scelte degli investitori internazionali: da Milano a Londra, a New York, Angela Antetomaso intervista Simona Maellare, UBS
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|13:30:00|14:30:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|14:30:00|15:00:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|15:00:00|15:30:00|Ep3 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Terzo episodio
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|15:30:00|16:00:00|Ep145 - Matteo Maffucci, cofounder di One Shot Agency ci racconta la via italiana agli influencer
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|16:00:00|16:30:00|Ep120 - BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|16:30:00|17:00:00|Ep55 - Federico Morgantini intervista Simone Ranucci Brandimarte, Fondatore e Presidente di Italian Insurtech Association, sull&#039;Insurtech in Italia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Business 24|17:00:00|18:00:00|La Tv del lavoro
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Alla scoperta del denaro|18:00:00|18:30:00|Ep28 - Di Riccardo Zanetti. Gli investimenti che ti faranno diventare ricco - Come raggiungere un obiettivo?
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|18:30:00|19:00:00|CEO Italian Awards 2022. Evento organizzato da Forbes Italia, in collaborazione con Business International, durante il quale sono stati premiati i Capitani del made in Italy piu&#039; innovativi e di successo dell&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|19:00:00|19:30:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Alghero
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|19:30:00|20:30:00|Ep15 - Fabrica Floridi - La moda italiana si afferma nel mondo per stile, creativita&#039;, intraprendenza e per la svolta sostenibile che ha saputo dare. Con un occhio al pianeta e uno ai nuovi mondi, metaverso e NFT in testa
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Trotto|20:30:00|21:30:00|Ep12 - Una produzione BFC Media
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|21:30:00|22:00:00|Ep120 - Dal rapper Kento la serie televisiva con i ragazzi del carcere minorile Beccaria e dell&#039;associazione Puntozero; il giornalismo inclusivo secondo Antonio Giuseppe Malafarina; le rubriche 100%Hack, Scienza in Valigia e IoT
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|22:00:00|22:30:00|Ep168 - In esclusiva i protagonisti del mondo Forbes. Massimiliano Carra&#039; incontra Francesca Mortari, Director di YouTube Southern Europe
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Forbes - Digital Revolution|22:30:00|23:00:00|Ep55 - Federico Morgantini intervista Simone Ranucci Brandimarte, Fondatore e Presidente di Italian Insurtech Association, sull&#039;Insurtech in Italia
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|23:00:00|23:30:00|Visione Sicurezza 2022. A cura di Matteo Rigamonti, giornalista Forbes Italia e Bike
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Zhejiang|23:30:00|00:00:00|Ep3 - 100 Years - The Impressions of China in Foreigners&#039; Eyes. Terzo episodio
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

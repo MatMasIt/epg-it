@@ -1,0 +1,37 @@
+# Rai Movie
+> Programmazione di Sabato 24 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:55:00|01:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;albero degli zoccoli|01:00:00|04:00:00|Vincitore della Palma d&#039;oro nel 1978, Ermanno Olmi descrive la realta&#039; contadina del XIX secolo attraverso le vicende di quattro famiglie del bergamasco.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La casa dei nostri sogni|04:00:00|05:35:00|Il sogno di una famiglia americana media e&#039; una casa in campagna. Ma l&#039;acquisto si rivela sbagliato per Cary Grant e Myrna Loy.
+|![Icon](https://guidatv.sky.it/uuid/e0f08954-eacb-46a7-9e38-68451cc11630/cover?md5ChecksumParam=ff2e5a0ee118e7d3093f5ff04358fc8b)|Fraulein - Una fiaba d&#039;inverno|05:35:00|07:15:00|La quarantenne Regina, soprannominata Fraulein, vive in solitudine nel suo albergo di montagna, finche&#039; uno sconosciuto...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:15:00|07:20:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|07:20:00|10:15:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/1aeaca8f-545d-42c6-85ad-a8ffbc32160b/cover?md5ChecksumParam=60d960cf7c4e9c0e352cfd9b48942986)|Il grande paese|10:15:00|13:10:00|Western classico con due pezzi da novanta come Gregory Peck e Charlton Heston, capifamiglia di due famiglie texane divise da un odio atavico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|13:10:00|13:15:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/f86da4e0-f469-436f-9327-2775d03fe126/cover?md5ChecksumParam=dca123c26733ce11aa767c98b689ee7b)|The Great Debaters - Il potere della...|13:15:00|15:25:00|...parola - La vera storia di un professore del college che ispiro&#039; i suoi studenti a formare un gruppo di dibattito tra universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/54f2f6e5-4f2d-4e3c-be74-f083a9f34708/cover?md5ChecksumParam=f6af7a5fab03467bee380e85640dbe0e)|Non sposate le mie figlie!|15:25:00|17:10:00|Una coppia borghese aspetta con ansia il matrimonio della quarta figlia, l&#039;unica ad aver scelto un uomo cattolico. Ma...
+|![Icon](https://guidatv.sky.it/uuid/b5bfc048-2666-4837-a578-42b8eff60deb/cover?md5ChecksumParam=266356153b92f9e451aed8210fad8df9)|La cena di Natale|17:10:00|18:50:00|Amori, tradimenti e incomprensioni fanno da sfondo alla cena di Natale organizzata a casa della famiglia Scagliusi. Le cose pero&#039; non vanno come previsto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il compagno B|18:50:00|20:10:00|Due reduci di guerra devono scovare la famiglia di un&#039;orfanella dal cognome piu&#039; comune d&#039;America: Smith.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|20:10:00|22:15:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bar Giuseppe|22:15:00|23:55:00|Rimasto vedovo, Giuseppe non vuole rinunciare al suo bar e decide di assumere come cameriera una giovane africana, Bikira.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|To the Wonder|23:55:00|01:55:00|Neil e Marina si innamorano a Mont Saint-Michel. Dopo un periodo di idillio, vedono incrinarsi qualcosa nel loro rapporto.
+|![Icon](https://guidatv.sky.it/uuid/1abb1f50-7ef3-4d5b-aa95-b34c6b608cfa/cover?md5ChecksumParam=599c2a6c252a9a8ebf9825356b21b81e)|Song to Song|01:55:00|04:00:00|Ad Austin, citta&#039; di artisti e produttori, un musicista in cerca di successo si innamora di una ragazza tra lussuria e tradimenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Carioca|04:00:00|05:30:00|Per contrastare la concorrenza sleale di un gruppo di biscazzieri, un uomo inventa un sorprendente spettacolo musicale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ho amici in paradiso|05:30:00|07:10:00|Dopo essere stato condannato ai servizi sociali presso un istituto della periferia di Roma, Felice Castriota scopre il piacere di aiutare il prossimo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:10:00|07:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/05a56b6b-9a5b-4956-93bc-51db1b0fb11c/cover?md5ChecksumParam=6667e60227d267a83f36b97a7dc88346)|Ricomincio da capo|07:15:00|09:05:00|Un giornalista inviato a seguire un evento folcloristico precipita in un incubo: rivive la stessa giornata all&#039;infinito.
+|![Icon](https://guidatv.sky.it/uuid/3484b4c3-eed6-4065-a8c8-f95a08fad65f/cover?md5ChecksumParam=99c69dc69f3ce9b05d7b4b71679d9af3)|Toto&#039;, Peppino e... la malafemmina|09:05:00|10:55:00|Toto&#039; e Peppino vanno a Milano per convincere un loro nipote, infatuato di un&#039;attrice del varieta&#039;, a tornare all&#039;universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|10:55:00|13:00:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Porgi l&#039;altra guancia|13:00:00|14:40:00|XIX secolo: un missionario e un sedicente sacerdote aiutano gli abitanti di un&#039;isola dei Caraibi a difendersi dalle prepotenze di un signorotto locale.
+|![Icon](https://guidatv.sky.it/uuid/c697109a-2a78-4ee8-a359-d28ccb2d3881/cover?md5ChecksumParam=a60e08b3d1622ed59e4804e5c188453b)|Il cane pompiere|14:40:00|16:30:00|Un famoso cane-attore si smarrisce e viene adottato in una caserma dei vigili del fuoco dove diventera&#039; un eroe anche nella vita reale.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|16:30:00|18:55:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I figli del deserto|18:55:00|20:10:00|Stanlio e Ollio sono due rispettabili borghesi che, stanchi della loro banale vita e delle mogli, cercano l&#039;avventura in crociera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La principessa Sissi|20:10:00|22:05:00|Il giovane imperatore d&#039;Austria Francesco Giuseppe si innamora della sorella della sua promessa sposa, figlia del Granduca di Baviera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La tenda rossa|22:05:00|00:45:00|Un dirigibile si schianta mentre sorvola il Polo Nord. I superstiti devono resistere nel gelo in attesa dei soccorsi.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
