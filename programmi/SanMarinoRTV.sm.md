@@ -4,34 +4,6 @@
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|00:00:00|00:30:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Eurocops|00:30:00|01:25:00|Poliziesco
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|01:25:00|06:15:00|Il meglio dei programmi della giornata
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|06:15:00|06:30:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;arte del cinema|06:30:00|06:50:00|Charlie Chaplin
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|06:50:00|07:08:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un certo Harry Brant|07:08:00|08:05:00|Parte 5. Con Alberto Lupo, Claudia Giannotti, Valeria Fabrizi
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|08:05:00|08:35:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Bruno Ghigi racconta|08:35:00|09:00:00|Documentario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Santa Messa|09:00:00|10:15:00|Diretta Santa Messa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Le radici antiche di uno Stato Libero|10:15:00|11:00:00|Speciale a cura di Antonio Prenna
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Urbi et Orbi|11:00:00|11:30:00|In diretta d a Piazza San Pietro
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Documentario|11:30:00|12:00:00|Documentario
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|A bale&#039; 2022|12:00:00|13:00:00|Un format che San Marino Rtv dedica alla canzone popolare, rigorosamente in dialetto. Con Roberto Chiesa e la cantante Luana Babini voce storica dell&#039;orchestra Casadei
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rossella|13:00:00|14:55:00|7^Parte. Regia di Gianni Lepre con Gabriella Pession, Danilo Brugia, Giuseppe Zeno, Paolo Mazzarelli, Francesca Cavallin, Monica Guerritore
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|14:55:00|15:13:00|Televendita
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|15:13:00|15:35:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il restauratore 2|15:35:00|16:35:00|Con Lando Buzzanca , Paolo Calabresi, Anna Safroncik, Macro Falaguasta, Claudio Castrogiovanni
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fatti Unici|16:35:00|18:00:00|con Ciro Ceruti, Paolo Caiazzo, Maia Bolignano, Costanza Caracciolo
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Generazione Z|18:00:00|18:13:00|Magazine ragazzi
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Raffaello e gli amici di Urbino|18:13:00|18:30:00|Speciale Palazzo Ducale di Urbino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|18:30:00|18:43:00|Notizie dal mondo, TG San Marino
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meteo Rtv|18:43:00|18:47:00|Meteo
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un anno di Sport 2022|18:47:00|19:40:00|Speciale sport Sammarinese
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Serial Times|19:40:00|20:20:00|Magazine sulle serie televisive. A cura di Sergio Gamberale
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Nuvole passeggere|20:20:00|22:40:00|Regia di Richard Whorf con Robert Walker, Lucille Bremer, Van Heflin, Dorothy Patrick, Judy Garland, Harry Haiden, Paul Langton, Van Johnson
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Viaggio in musica 2022|22:40:00|23:35:00|I concerti delle Tv Pubbliche Europee
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|23:35:00|00:00:00|Con Enrico Bertolino e Max Tortora
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|00:00:00|00:30:00|Televendita
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|L&#039;arte del cinema|00:30:00|00:45:00|Charlie Chaplin
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|00:45:00|06:15:00|Il meglio dei programmi della giornata
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|06:15:00|06:30:00|Televendita
@@ -62,6 +34,42 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Il mondo e&#039; delle donne|18:45:00|20:28:00|Regia di Jean Negulesco con Clifton Webb, June Allison, Van Heflin, Lauren Bacall, Fred MacMurray, Arlene Dahl
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Rossella|20:28:00|22:27:00|7^Parte. Regia di Gianni Lepre con Gabriella Pession, Danilo Brugia, Giuseppe Zeno, Paolo Mazzarelli, Francesca Cavallin, Monica Guerritore
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Iron Lady|22:27:00|00:05:00|Regia di Phyllida Lloyd con Meryl Streep, Jim Broadbent, Olivia Coman, Roger William Allam, Susan Brown, Nick Dunning
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|00:05:00|00:35:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La scelta di Francisca|00:35:00|01:20:00|con Gabriela Duarte, Regina Duarte, Marcello Novaes, Norton Nascimento
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|SMRTV Notte|01:20:00|06:15:00|Il meglio dei programmi della giornata
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|06:15:00|06:30:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Zevo 3|06:30:00|07:00:00|Zevo 3
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un posto al sole|07:00:00|07:25:00|Un posto al sole Settima serie
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|07:25:00|07:42:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Amarcord|07:42:00|08:04:00|Intervista agli anziani che hanno vissuto gli anni della guerra
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Commedia Cinematografica Italiana|08:04:00|09:00:00|Commedia Cinematografica Italiana
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La scelta di Francisca|09:00:00|09:45:00|con Gabriela Duarte, Regina Duarte, Marcello Novaes, Norton Nascimento
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|09:45:00|10:07:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|10:07:00|10:39:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Italiani di carta|10:39:00|11:45:00|2016 - 2017 In studio Paolo Mieli con Valentina Antonioli e la partecipazione di Dario Vergassola
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kitchen Montersino|11:45:00|12:00:00|Rubrica dello Chef Luca Montersino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Andromeda|12:00:00|12:50:00|Regia di Gene Roddenberry con Kevin Sorbo, Lexa Doig, Lisa Ryder, Brent Stait
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Sport|12:50:00|13:00:00|Notizie sportive
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|13:00:00|13:13:00|Notizie sammarinesi e dal mondo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un posto al sole|13:13:00|13:40:00|Un posto al sole Settima serie
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La strada dei Teatri|13:40:00|14:00:00|Viaggio tra i teatri storici dell&#039; Emilia Romagna e delle Marche, tra storie e curiosita&#039;
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Televendita|14:00:00|14:30:00|Televendita
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Serial Times|14:30:00|15:05:00|Magazine sulle serie televisive. A cura di Sergio Gamberale
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Un anno di Sport 2022|15:05:00|16:00:00|Speciale sport Sammarinese
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|16:00:00|16:30:00|Con Enrico Bertolino e Max Tortora
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Pet Alein|16:30:00|16:55:00|Pet Alein
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Secret animals|16:55:00|17:25:00|Secret animals
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Andromeda|17:25:00|18:15:00|Regia di Gene Roddenberry con Kevin Sorbo, Lexa Doig, Lisa Ryder, Brent Stait
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Tg Sport|18:15:00|18:30:00|Notizie sportive
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|TG SAN MARINO|18:30:00|18:55:00|Notizie dal mondo, TG San Marino
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Meteo Rtv|18:55:00|19:00:00|Meteo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La scelta di Francisca|19:00:00|19:40:00|con Gabriela Duarte, Regina Duarte, Marcello Novaes, Norton Nascimento
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Generazione Z|19:40:00|19:55:00|Magazine ragazzi
+|![Icon](https://guidatv.sky.it/uuid/6897b2a1-5728-496a-ab77-87139ef6b4f1/cover?md5ChecksumParam=94aed9f330039cfb7686317f4cd58d29)|Ep. 6|19:55:00|20:15:00|Gli approfondimenti di San Marino RTV
+|![Icon](https://guidatv.sky.it/uuid/dd7e6312-7e27-4050-aee3-50e1d603f657/cover?md5ChecksumParam=ea6f97d2627c1c650dca1b9ca792cbcc)|Shine|20:15:00|22:00:00|Regia di Scott Hicks con Armin Mueller-Stahl, Noah Taylor, Geoffrey Rush, Lynn Redgrave, John Gielgud
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Fatti Unici|22:00:00|23:25:00|con Ciro Ceruti, Paolo Caiazzo, Maia Bolignano, Costanza Caracciolo
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Amarcord|23:25:00|23:40:00|Intervista agli anziani che hanno vissuto gli anni della guerra
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Piloti|23:40:00|00:00:00|Con Enrico Bertolino e Max Tortora
 
 
 
