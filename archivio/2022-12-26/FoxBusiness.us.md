@@ -1,0 +1,68 @@
+# Fox Business
+> Programmazione di Domenica 25 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/05286221-43f3-452b-a851-6779f73f54ed/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|00:00:00|01:00:00|The Rockefellers - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/b6d642d5-7e87-4bf4-bf42-09ac85755e07/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|01:00:00|02:00:00|The Bushes - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/859c1130-2dde-4222-90a0-8b29de9f2c80/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|02:00:00|03:00:00|The Fords - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/aafa05a5-0da6-48fc-80d3-405786fa5198/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|03:00:00|04:00:00|The DuPonts - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/ef749101-eb23-45e5-a3e3-5e2f2fb14d1c/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|04:00:00|05:00:00|Glass - Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/f8a44071-bb14-48e8-9010-656d50167561/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|05:00:00|06:00:00|Army - Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/6cb5d0f5-c0ea-4256-96e3-641e72948b08/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|06:00:00|07:00:00|Cargo - Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/d90fb177-0777-4134-9da3-e08a280b757c/cover?md5ChecksumParam=64e0ae7a8ccfc7d0633500baf852c1b4)|How America Works|07:00:00|08:00:00|Concrete - Mike Rowe discusses the importance of America&#039;s industries and explains how American infrastructures work.
+|![Icon](https://guidatv.sky.it/uuid/05286221-43f3-452b-a851-6779f73f54ed/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|08:00:00|09:00:00|The Rockefellers - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/b6d642d5-7e87-4bf4-bf42-09ac85755e07/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|09:00:00|10:00:00|The Bushes - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/859c1130-2dde-4222-90a0-8b29de9f2c80/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|10:00:00|11:00:00|The Fords - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/cf142c5b-c147-44eb-a62a-9b20b7ffcc91/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|Fox Weather First Weekend|11:00:00|12:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/cf142c5b-c147-44eb-a62a-9b20b7ffcc91/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|Fox Weather First Weekend|12:00:00|13:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/cf142c5b-c147-44eb-a62a-9b20b7ffcc91/cover?md5ChecksumParam=90525ce0b54c83b401754b25c207773d)|Fox Weather First Weekend|13:00:00|14:00:00|The weather forecast with an analysis of the impact of major weather events.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|14:00:00|14:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|14:30:00|15:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|15:00:00|15:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|15:30:00|16:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|16:00:00|16:30:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|16:30:00|17:00:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|17:00:00|18:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/05286221-43f3-452b-a851-6779f73f54ed/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|18:00:00|19:00:00|The Rockefellers - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/b6d642d5-7e87-4bf4-bf42-09ac85755e07/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|19:00:00|20:00:00|The Bushes - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/aafa05a5-0da6-48fc-80d3-405786fa5198/cover?md5ChecksumParam=372d10cd848b120d7edac66506bfbaa5)|American Dynasty|20:00:00|21:00:00|The DuPonts - The stories of the most important aristocratic families in America.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|21:00:00|21:30:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/b13cb6ae-93d8-4864-8dd6-04f716e69f00/cover?md5ChecksumParam=df9e920be9c394322a2bcd72ca2645b6)|WSJ at Large|21:30:00|22:00:00|Gerry Baker leads discussions with major influencers on the news of the week.
+|![Icon](https://guidatv.sky.it/uuid/11249d8e-0b17-4565-993b-f169983c7936/cover?md5ChecksumParam=0d2da77d754d1b51c1a9aaac2ff4dc34)|Barron&#039;s Round Table|22:00:00|22:30:00|Jack Otter hosts Barron&#039;s Roundtable.
+|![Icon](https://guidatv.sky.it/uuid/d8e17512-7c5c-4188-8d39-8f9bcdcb4b33/cover?md5ChecksumParam=2ce7ebeb12a63ebc828bd65f84b07af5)|Maria Bartiromo&#039;s Wall Street|22:30:00|23:00:00|Maria Bartiromo offers the stock markets latest headlines and business events.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|23:00:00|00:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|00:00:00|01:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Life of Jesus|01:00:00|02:00:00|God with Us. Part 1 - The story and life of Jesus.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|West Point Holiday Show|02:00:00|03:00:00|Host Sandra Smith presents the show featuring seasonal hits from classic melodies to contemporary songs.
+|![Icon](https://guidatv.sky.it/uuid/f30a3233-1ba0-419a-9798-7fe2eae32ec4/cover?md5ChecksumParam=e728ad7918f30ff355a2849b931020b5)|Fox Nation Presents The Patriot Awards 2022|03:00:00|04:00:00|...Awards 2022 - Musical performances and surprising moments with Fox stars to honor the American heroes and patriots.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Life of Jesus|04:00:00|05:00:00|God with Us. Part 1 - The story and life of Jesus.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|05:00:00|06:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|06:00:00|07:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|West Point Holiday Show|07:00:00|08:00:00|Host Sandra Smith presents the show featuring seasonal hits from classic melodies to contemporary songs.
+|![Icon](https://guidatv.sky.it/uuid/6557859e-ee02-499a-a1bd-06869f9ea55e/cover?md5ChecksumParam=fb75c7f4628ba4063626a53eaec48c02)|Sunday Morning Futures|08:00:00|09:00:00|Takes a hard look at job creation, investment opportunities and more.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Great Christmas Debate|09:00:00|10:00:00|A debate on Christmas traditions.
+|![Icon](https://guidatv.sky.it/uuid/ab37cab5-d42b-4a8e-bfc0-754c94881212/cover?md5ChecksumParam=ed90b6e1e2f130f044b221f4dc9b9a4b)|Kudlow Weekend|10:00:00|11:00:00|Former National Economic Council Director gives market analysis and interviews.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|11:00:00|11:30:00|1969 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|11:30:00|12:00:00|1972 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|12:00:00|12:30:00|1974 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|12:30:00|13:00:00|1977 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|13:00:00|13:30:00|1980 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|13:30:00|14:00:00|1982 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|14:00:00|14:30:00|1987 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|14:30:00|15:00:00|1994 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|15:00:00|15:30:00|1997 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|15:30:00|16:00:00|1999 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|16:00:00|16:30:00|2004 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget|16:30:00|17:00:00|2011 - A look back to the most notable and important moment in the history of America.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget Christmas?|17:00:00|18:00:00|An analysis on the top ten traditions of Christmas and controversial gifts, cakes and electrical bills of this period of the year.
+|![Icon](https://guidatv.sky.it/uuid/f30a3233-1ba0-419a-9798-7fe2eae32ec4/cover?md5ChecksumParam=e728ad7918f30ff355a2849b931020b5)|Fox Nation Presents The Patriot Awards 2022|18:00:00|19:00:00|...Awards 2022 - Musical performances and surprising moments with Fox stars to honor the American heroes and patriots.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|West Point Holiday Show|19:00:00|20:00:00|Host Sandra Smith presents the show featuring seasonal hits from classic melodies to contemporary songs.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Kennedy Best of Segments Show|20:00:00|21:00:00|The best of the top stories of the day through the eyes of former MTV star Kennedy.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|The Great Christmas Debate|21:00:00|22:00:00|A debate on Christmas traditions.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Who Can Forget Christmas?|22:00:00|23:00:00|An analysis on the top ten traditions of Christmas and controversial gifts, cakes and electrical bills of this period of the year.
+|![Icon](https://guidatv.sky.it/uuid/f30a3233-1ba0-419a-9798-7fe2eae32ec4/cover?md5ChecksumParam=e728ad7918f30ff355a2849b931020b5)|Fox Nation Presents The Patriot Awards 2022|23:00:00|00:00:00|...Awards 2022 - Musical performances and surprising moments with Fox stars to honor the American heroes and patriots.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

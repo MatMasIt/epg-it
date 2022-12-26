@@ -1,0 +1,37 @@
+# Rai Movie
+> Programmazione di Domenica 25 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/1abb1f50-7ef3-4d5b-aa95-b34c6b608cfa/cover?md5ChecksumParam=599c2a6c252a9a8ebf9825356b21b81e)|Song to Song|01:55:00|04:00:00|Ad Austin, citta&#039; di artisti e produttori, un musicista in cerca di successo si innamora di una ragazza tra lussuria e tradimenti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Carioca|04:00:00|05:30:00|Per contrastare la concorrenza sleale di un gruppo di biscazzieri, un uomo inventa un sorprendente spettacolo musicale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ho amici in paradiso|05:30:00|07:10:00|Dopo essere stato condannato ai servizi sociali presso un istituto della periferia di Roma, Felice Castriota scopre il piacere di aiutare il prossimo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:10:00|07:15:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/05a56b6b-9a5b-4956-93bc-51db1b0fb11c/cover?md5ChecksumParam=6667e60227d267a83f36b97a7dc88346)|Ricomincio da capo|07:15:00|09:05:00|Un giornalista inviato a seguire un evento folcloristico precipita in un incubo: rivive la stessa giornata all&#039;infinito.
+|![Icon](https://guidatv.sky.it/uuid/3484b4c3-eed6-4065-a8c8-f95a08fad65f/cover?md5ChecksumParam=99c69dc69f3ce9b05d7b4b71679d9af3)|Toto&#039;, Peppino e... la malafemmina|09:05:00|10:55:00|Toto&#039; e Peppino vanno a Milano per convincere un loro nipote, infatuato di un&#039;attrice del varieta&#039;, a tornare all&#039;universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|10:55:00|13:00:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Porgi l&#039;altra guancia|13:00:00|14:40:00|XIX secolo: un missionario e un sedicente sacerdote aiutano gli abitanti di un&#039;isola dei Caraibi a difendersi dalle prepotenze di un signorotto locale.
+|![Icon](https://guidatv.sky.it/uuid/c697109a-2a78-4ee8-a359-d28ccb2d3881/cover?md5ChecksumParam=a60e08b3d1622ed59e4804e5c188453b)|Il cane pompiere|14:40:00|16:30:00|Un famoso cane-attore si smarrisce e viene adottato in una caserma dei vigili del fuoco dove diventera&#039; un eroe anche nella vita reale.
+|![Icon](https://guidatv.sky.it/uuid/81d52d5d-09da-41e1-9115-1b6f9345865e/cover?md5ChecksumParam=da8f41d4bb23e81d497f25a4b8e1a2d8)|I magnifici sette|16:30:00|18:55:00|Un pistolero texano accetta di difendere gli abitanti di un villaggio messicano dai soprusi di una banda di malviventi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I figli del deserto|18:55:00|20:10:00|Stanlio e Ollio sono due rispettabili borghesi che, stanchi della loro banale vita e delle mogli, cercano l&#039;avventura in crociera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La principessa Sissi|20:10:00|22:05:00|Il giovane imperatore d&#039;Austria Francesco Giuseppe si innamora della sorella della sua promessa sposa, figlia del Granduca di Baviera.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La tenda rossa|22:05:00|00:45:00|Un dirigibile si schianta mentre sorvola il Polo Nord. I superstiti devono resistere nel gelo in attesa dei soccorsi.
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|00:45:00|03:15:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due come noi|03:15:00|03:35:00|Stanlio e Ollio offrono un passaggio in auto a due ragazze, ma restano intrappolati in un ingorgo scatenando una rissa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Con amore e fischi|03:35:00|04:00:00|Finito nell&#039;esercito, Stanlio crea problemi a tutti durante un viaggio in treno e Ollio complica le cose bruciando con una sigaretta i vestiti di tutti i soldati.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cerco il mio amore|04:00:00|05:50:00|Un&#039;americana in crisi con il marito finge un adulterio per liberarsene. Va in vacanza e si imbatte nel ballerino Fred Astaire.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ma papa&#039; ti manda sola?|05:50:00|07:35:00|San Francisco: una ragazza un po&#039; svitata coinvolge un impacciato musicologo in una serie di esilaranti, turbinose peripezie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:35:00|07:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e fantasia|07:40:00|09:20:00|Antonio, maresciallo dei Carabinieri, divide le sue attenzioni galanti tra la giovane &#039;Bersagliera&#039; e la piu&#039; matura levatrice Annarella.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli occhi della notte|09:20:00|11:15:00|Una ragazza cieca entra accidentalmente in possesso di una partita di droga. E dovra&#039; difendersi da tre criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le meraviglie di Aladino|11:15:00|12:55:00|Un giovane popolano di Baghdad trova una lampada preziosa, dalla quale esce un genio, pronto ad esaudire ogni suo desiderio.
+|![Icon](https://guidatv.sky.it/uuid/7cf34277-dcaf-4b60-bce1-a39d36ac159e/cover?md5ChecksumParam=ef44e2a5bbfaf3a5f942908ed589f93a)|L&#039;ultimo lupo|12:55:00|15:00:00|Chen Zhen viene mandato ad insegnare nelle tribu&#039; nomadi e rimane affascinato dai lupi. Decide cosi&#039; di allevarne uno e...
+|![Icon](https://guidatv.sky.it/uuid/4cb89fc4-85bc-46c7-ad11-b70b3f8b839b/cover?md5ChecksumParam=05ee442e355e83d5eaeace3b67245e32)|Ieri, oggi, domani|15:00:00|17:10:00|Commedia a episodi in cui la Loren e&#039; una popolana, una borghese annoiata, una prostituta. Celebre la scena dello spogliarello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Porgi l&#039;altra guancia|17:10:00|18:50:00|XIX secolo: un missionario e un sedicente sacerdote aiutano gli abitanti di un&#039;isola dei Caraibi a difendersi dalle prepotenze di un signorotto locale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La ragazza di Boemia|18:50:00|20:10:00|Stanlio e Ollio sono due gitani che adottano una bimba rapita da una zingara. Non sanno che la piccola ha sangue blu.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sissi, la giovane imperatrice|20:10:00|22:05:00|Sissi, sposata ormai con Francesco Giuseppe, entra in crisi quando si scontra con l&#039;austera suocera che non ne tollera il comportamento disinvolto.
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|22:05:00|00:20:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
