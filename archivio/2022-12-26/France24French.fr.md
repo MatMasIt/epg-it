@@ -1,5 +1,5 @@
 # France 24 Français
-> Programmazione di Domenica 25 Dicembre 2022
+> Programmazione di Lunedì 26 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
