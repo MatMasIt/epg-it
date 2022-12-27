@@ -1,5 +1,5 @@
 # Gambero Rosso Channel
-> Programmazione di Lunedì 26 Dicembre 2022
+> Programmazione di Martedì 27 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

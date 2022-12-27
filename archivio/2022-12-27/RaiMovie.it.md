@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Lunedì 26 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/41d68acd-99be-4ca7-babd-1ebf9e7165f8/cover?md5ChecksumParam=4b31dea8f7272f0ad6e63d1a158bca86)|Giu&#039; la testa|00:45:00|03:15:00|Ribelle irlandese, esperto di dinamite, emigra in Messico e si allea con un rozzo ma generoso bandito per svuotare una banca.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due come noi|03:15:00|03:35:00|Stanlio e Ollio offrono un passaggio in auto a due ragazze, ma restano intrappolati in un ingorgo scatenando una rissa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Con amore e fischi|03:35:00|04:00:00|Finito nell&#039;esercito, Stanlio crea problemi a tutti durante un viaggio in treno e Ollio complica le cose bruciando con una sigaretta i vestiti di tutti i soldati.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Cerco il mio amore|04:00:00|05:50:00|Un&#039;americana in crisi con il marito finge un adulterio per liberarsene. Va in vacanza e si imbatte nel ballerino Fred Astaire.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ma papa&#039; ti manda sola?|05:50:00|07:35:00|San Francisco: una ragazza un po&#039; svitata coinvolge un impacciato musicologo in una serie di esilaranti, turbinose peripezie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:35:00|07:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e fantasia|07:40:00|09:20:00|Antonio, maresciallo dei Carabinieri, divide le sue attenzioni galanti tra la giovane &#039;Bersagliera&#039; e la piu&#039; matura levatrice Annarella.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli occhi della notte|09:20:00|11:15:00|Una ragazza cieca entra accidentalmente in possesso di una partita di droga. E dovra&#039; difendersi da tre criminali.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le meraviglie di Aladino|11:15:00|12:55:00|Un giovane popolano di Baghdad trova una lampada preziosa, dalla quale esce un genio, pronto ad esaudire ogni suo desiderio.
+|![Icon](https://guidatv.sky.it/uuid/7cf34277-dcaf-4b60-bce1-a39d36ac159e/cover?md5ChecksumParam=ef44e2a5bbfaf3a5f942908ed589f93a)|L&#039;ultimo lupo|12:55:00|15:00:00|Chen Zhen viene mandato ad insegnare nelle tribu&#039; nomadi e rimane affascinato dai lupi. Decide cosi&#039; di allevarne uno e...
+|![Icon](https://guidatv.sky.it/uuid/4cb89fc4-85bc-46c7-ad11-b70b3f8b839b/cover?md5ChecksumParam=05ee442e355e83d5eaeace3b67245e32)|Ieri, oggi, domani|15:00:00|17:10:00|Commedia a episodi in cui la Loren e&#039; una popolana, una borghese annoiata, una prostituta. Celebre la scena dello spogliarello.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Porgi l&#039;altra guancia|17:10:00|18:50:00|XIX secolo: un missionario e un sedicente sacerdote aiutano gli abitanti di un&#039;isola dei Caraibi a difendersi dalle prepotenze di un signorotto locale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La ragazza di Boemia|18:50:00|20:10:00|Stanlio e Ollio sono due gitani che adottano una bimba rapita da una zingara. Non sanno che la piccola ha sangue blu.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sissi, la giovane imperatrice|20:10:00|22:05:00|Sissi, sposata ormai con Francesco Giuseppe, entra in crisi quando si scontra con l&#039;austera suocera che non ne tollera il comportamento disinvolto.
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|22:05:00|00:20:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|00:20:00|03:00:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due legionari|03:00:00|03:35:00|Reduce da una delusione amorosa, Ollio si arruola nella Legione Straniera portando con se&#039; l&#039;incerto Stanlio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli uomini sposati devono andare a casa?|03:35:00|04:00:00|Sempre in cerca di guai, Stanlio e Ollio vengono cacciati di casa dalle rispettive mogli. Diretti verso un campo da golf, ignorano il pasticcio che li attende.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|King Kong|04:00:00|05:40:00|In Malesia per un film, un&#039;attrice viene rapita dagli indigeni e offerta in dono al dio Kong, un gorilla gigante che si innamorera&#039; di lei.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I piloti dell&#039;inferno|05:40:00|07:35:00|Un ex detenuto sfida il suo prepotente capo in una gara al volante, dove quest&#039;ultimo perdera&#039; la vita.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e gelosia|07:35:00|09:20:00|Il maresciallo vuole sposare una ragazza madre. Il suo subordinato gli affida la propria fidanzata, la &#039;bersagliera&#039; scatenando pettegolezzi.
+|![Icon](https://guidatv.sky.it/uuid/c697109a-2a78-4ee8-a359-d28ccb2d3881/cover?md5ChecksumParam=a60e08b3d1622ed59e4804e5c188453b)|Il cane pompiere|09:20:00|11:15:00|Un famoso cane-attore si smarrisce e viene adottato in una caserma dei vigili del fuoco dove diventera&#039; un eroe anche nella vita reale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sandokan alla riscossa|11:15:00|12:55:00|Sandokan scopre di essere il figlio del sultano di Sarawak, trucidato da due avventurieri. Ora vuole punire gli assassini del padre.
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|12:55:00|15:10:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+|![Icon](https://guidatv.sky.it/uuid/76e9035e-1105-439e-ad4f-d8fa554728b8/cover?md5ChecksumParam=43119c6669ed5d3698cdc03733cd409b)|Matrimonio all&#039;italiana|15:10:00|17:00:00|Un&#039;ex prostituta, Sophia Loren, si finge moribonda per farsi sposare dall&#039;amato Marcello Mastroianni. Il piano riesce, a meta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhio alla penna|17:00:00|18:45:00|Un avventuriero arriva a Yucca City. Scambiato per un medico, aiutera&#039; gli abitanti contro le prepotenze di un latifondista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Allegri gemelli|18:45:00|20:10:00|Stanlio e Ollio sono in un locale con le mogli e ricevono la visita dei loro gemelli, arrivati per consegnare un anello rubato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sissi - Destino di un&#039;imperatrice|20:10:00|22:10:00|Salita sul trono dopo le nozze con Francesco Giuseppe, Sissi da&#039; prova di grande carisma, ma una malattia la allontana da Vienna.
+|![Icon](https://guidatv.sky.it/uuid/73dfb706-9bd4-454a-8797-0b33fbeef236/cover?md5ChecksumParam=cd8c826bba53ccfb99f31af941791aee)|Addio mia regina|22:10:00|23:55:00|Francia, 1789. La regina Maria Antonietta coinvolge in un losco piano una ragazza per tentare la fuga durante la notte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:55:00|00:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
