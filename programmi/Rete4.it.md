@@ -1,5 +1,5 @@
 # Rete 4
-> Programmazione di Martedì 27 Dicembre 2022
+> Programmazione di Mercoledì 28 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

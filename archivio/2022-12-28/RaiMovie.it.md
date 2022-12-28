@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Martedì 27 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|00:20:00|03:00:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due legionari|03:00:00|03:35:00|Reduce da una delusione amorosa, Ollio si arruola nella Legione Straniera portando con se&#039; l&#039;incerto Stanlio.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli uomini sposati devono andare a casa?|03:35:00|04:00:00|Sempre in cerca di guai, Stanlio e Ollio vengono cacciati di casa dalle rispettive mogli. Diretti verso un campo da golf, ignorano il pasticcio che li attende.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|King Kong|04:00:00|05:40:00|In Malesia per un film, un&#039;attrice viene rapita dagli indigeni e offerta in dono al dio Kong, un gorilla gigante che si innamorera&#039; di lei.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I piloti dell&#039;inferno|05:40:00|07:35:00|Un ex detenuto sfida il suo prepotente capo in una gara al volante, dove quest&#039;ultimo perdera&#039; la vita.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e gelosia|07:35:00|09:20:00|Il maresciallo vuole sposare una ragazza madre. Il suo subordinato gli affida la propria fidanzata, la &#039;bersagliera&#039; scatenando pettegolezzi.
+|![Icon](https://guidatv.sky.it/uuid/c697109a-2a78-4ee8-a359-d28ccb2d3881/cover?md5ChecksumParam=a60e08b3d1622ed59e4804e5c188453b)|Il cane pompiere|09:20:00|11:15:00|Un famoso cane-attore si smarrisce e viene adottato in una caserma dei vigili del fuoco dove diventera&#039; un eroe anche nella vita reale.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sandokan alla riscossa|11:15:00|12:55:00|Sandokan scopre di essere il figlio del sultano di Sarawak, trucidato da due avventurieri. Ora vuole punire gli assassini del padre.
+|![Icon](https://guidatv.sky.it/uuid/8292bf75-5aaa-4f94-a4a7-79f797f289c4/cover?md5ChecksumParam=d2ed45fafab0bd387e8accc708ce64e2)|A qualcuno piace caldo|12:55:00|15:10:00|Pietra miliare del cinema. Curtis e Lemmon, vestiti da donna, sfuggono ai gangster e si aggregano all&#039;orchestra in cui suona Marilyn.
+|![Icon](https://guidatv.sky.it/uuid/76e9035e-1105-439e-ad4f-d8fa554728b8/cover?md5ChecksumParam=43119c6669ed5d3698cdc03733cd409b)|Matrimonio all&#039;italiana|15:10:00|17:00:00|Un&#039;ex prostituta, Sophia Loren, si finge moribonda per farsi sposare dall&#039;amato Marcello Mastroianni. Il piano riesce, a meta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Occhio alla penna|17:00:00|18:45:00|Un avventuriero arriva a Yucca City. Scambiato per un medico, aiutera&#039; gli abitanti contro le prepotenze di un latifondista.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Allegri gemelli|18:45:00|20:10:00|Stanlio e Ollio sono in un locale con le mogli e ricevono la visita dei loro gemelli, arrivati per consegnare un anello rubato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sissi - Destino di un&#039;imperatrice|20:10:00|22:10:00|Salita sul trono dopo le nozze con Francesco Giuseppe, Sissi da&#039; prova di grande carisma, ma una malattia la allontana da Vienna.
+|![Icon](https://guidatv.sky.it/uuid/73dfb706-9bd4-454a-8797-0b33fbeef236/cover?md5ChecksumParam=cd8c826bba53ccfb99f31af941791aee)|Addio mia regina|22:10:00|23:55:00|Francia, 1789. La regina Maria Antonietta coinvolge in un losco piano una ragazza per tentare la fuga durante la notte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:55:00|00:00:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/22fd80fd-b653-4909-b319-30f1b77458da/cover?md5ChecksumParam=67d58a20f9d5fcc80463cb74271fe41f)|Il colosso di Rodi|00:00:00|02:30:00|Esordio alla regia di Sergio Leone. A Rodi si diffonde il malcontento popolare contro Re Serse. E i fenici attaccano la citta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il corsaro della mezza luna|02:30:00|04:00:00|Penetrato nel castello del barone di Camerlata, Vasco viene catturato. In suo soccorso arriva il fratello corsaro, terrore dei mari.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il re dell&#039;Africa|04:00:00|05:30:00|Cresciuta in Africa, una ragazza addomestica un gorilla ed entrambi vengono scritturati per uno spettacolo. Ma il disagio cresce.
+|![Icon](https://guidatv.sky.it/uuid/be13258a-f822-491f-bd37-725809c8d142/cover?md5ChecksumParam=ffeb8222d0956ada4ca69c18fdc383a3)|La Duchessa|05:30:00|07:20:00|Inghilterra, XVII sec. Keira Knightley, una cortigiana affascinante e spregiudicata, diventa un modello per il suo popolo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:20:00|07:25:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|07:25:00|09:10:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|09:10:00|11:15:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sandokan contro il leopardo di Sarawak|11:15:00|12:50:00|Sandokan parte alla ricerca di sua moglie, che e&#039; stata rapita e ipnotizzata. Si trovera&#039; contro Sarawak, &#039;il leopardo&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|California addio|12:50:00|14:40:00|Due ufficiali sudisti tornano verso casa. Uno di loro viene ucciso, l&#039;altro decide di raggiungere la famiglia dell&#039;amico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;avaro|14:40:00|16:35:00|Alberto Sordi e&#039; un ricco e avaro usuraio, meschino con la famiglia come con gli sconosciuti. Il suo problema e&#039; trovar moglie.
+|![Icon](https://guidatv.sky.it/uuid/ecf80e47-a40d-42f9-9420-c4b021de3a9a/cover?md5ChecksumParam=7e8b2038aa771c13e1beafa7ef480d54)|I quattro dell&#039;Ave Maria|16:35:00|18:55:00|A due rapinatori viene sottratto il malloppo da un anziano avanzo di galera, Eli Wallache. I tre si incontreranno di nuovo...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Allegri vagabondi|18:55:00|20:10:00|In viaggio per consegnare un testamento milionario, Stanlio e Ollio devono fare i conti con il perfido padrone di un saloon.
+|![Icon](https://guidatv.sky.it/uuid/f4418d0b-ab67-4be6-983a-9cb0218e3f02/cover?md5ChecksumParam=e4bbfda39d1c5f4548ae946ed933edc3)|L&#039;ora delle pistole|20:10:00|22:00:00|Un gruppo di pistoleri si allea con lo sceriffo Wyatt Earp, desideroso di vendetta verso l&#039;infido trafficante Clanton.
+|![Icon](https://guidatv.sky.it/uuid/9cc5a157-5a24-431c-abe7-71b846d9571a/cover?md5ChecksumParam=40c438ef2e13d5a263a69686b3e35c9b)|Il mio nome e&#039; Nessuno|22:00:00|00:05:00|Un celebre pistolero parte alla volta dell&#039;Europa e incontra un giovanotto che lo costringe a un&#039;ultima, memorabile impresa.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

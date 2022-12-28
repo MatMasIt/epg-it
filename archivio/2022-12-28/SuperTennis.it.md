@@ -1,0 +1,44 @@
+# Super Tennis
+> Programmazione di Martedì 27 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of WTA 2022 2022 Gauff...|01:15:00|03:45:00|Best of WTA 2022 2022 Sabalenka - Jabeur, Finals Fort Worth - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La fine di un&#039;era: Roger e Serena...|03:45:00|05:30:00|...Williams - Ivanonic, Cincinnati 2015. La fine di un&#039;era: Roger e Serena - I match piu belli di Roger Federer e Serena Williams, le due icone globali che hanno lasciato il tennis nel 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|WTA Magazine|05:30:00|06:30:00|WTA Magazine - La rubrica della WTA ci conduce nei dietro le quinte dei tornei e ci porta alla scoperta delle protagoniste del circuito femminile.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Davis Cup Musetti - Auger...|06:30:00|07:45:00|Best of Davis Cup Musetti - Auger Aliassime - Le sfide pu&#039; belle disputate in Coppa Davis, nell&#039;ultimo decennio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|07:45:00|08:00:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Italiani 2022 2022 Musetti...|08:00:00|11:15:00|Best of Italiani 2022 2022 Sinner - Kokkinakis, Cincinnati - I match piu&#039; appassionanti dei tennisti italiani nel corso del 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Colpo da Campione|11:15:00|11:30:00|Colpo da Campione. Il dritto di Martina Trevisan
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of ATP 2022 2022 Berrettini...|11:30:00|13:30:00|Best of ATP 2022 2022 Medvedev - Djokovic, Nitto ATP Finals - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|13:30:00|13:45:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of WTA 2022 2022 Gauff...|13:45:00|15:45:00|Best of WTA 2022 2022 Garcia - Kasatkina, Finals Fort Worth - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La fine di un&#039;era: Roger e Serena...|15:45:00|17:45:00|...Federer - Wawinka, Londra 2014. La fine di un&#039;era: Roger e Serena - I match piu belli di Roger Federer e Serena Williams, le due icone globali che hanno lasciato il tennis nel 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tiebook|17:45:00|18:00:00|Tiebook - Claudia Fusani e Ronald Giammo&#039; presentano Tiebook, un viaggio tra le letture dedicate al tennis.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Davis Cup Doppio Italia - Canada|18:00:00|20:00:00|Best of Davis Cup Doppio Italia - Canada - Le sfide pu&#039; belle disputate in Coppa Davis, nell&#039;ultimo decennio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|20:00:00|20:15:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Italiani 2022 2022 Musetti...|20:15:00|22:15:00|Best of Italiani 2022 2022 Musetti - Bedene, Umag - I match piu&#039; appassionanti dei tennisti italiani nel corso del 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Colpo da Campione|22:15:00|22:30:00|Colpo da Campione. Comparazione Rovescio Dimitrov Thiem
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of ATP 2022 2022 Berrettini...|22:30:00|01:30:00|Best of ATP 2022 2022 Medvedev - Djokovic, Nitto ATP Finals - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded Davis Cup Finals Malaga 2022|01:30:00|02:30:00|Reloaded Davis Cup Finals Malaga 2022 - Tutte le emozioni dei quattro gironi di settembre delle Davis Cup Finals da cui sono uscite le 8 finaliste che si daranno battaglia per alzare l&#039;insalatiera al cielo di Malaga.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of WTA 2022 2022 Gauff...|02:30:00|04:45:00|Best of WTA 2022 2022 Garcia - Kasatkina, Finals Fort Worth - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tiebook|04:45:00|05:00:00|Tiebook - Claudia Fusani e Ronald Giammo&#039; presentano Tiebook, un viaggio tra le letture dedicate al tennis.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La fine di un&#039;era: Roger e Serena...|05:00:00|07:45:00|...Federer - Wawinka, Londra 2014. La fine di un&#039;era: Roger e Serena - I match piu belli di Roger Federer e Serena Williams, le due icone globali che hanno lasciato il tennis nel 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|07:45:00|08:00:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Davis Cup Doppio Italia - Canada|08:00:00|10:00:00|Best of Davis Cup Doppio Italia - Canada - Le sfide pu&#039; belle disputate in Coppa Davis, nell&#039;ultimo decennio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Italiani 2022 2022 Musetti...|10:00:00|12:00:00|Best of Italiani 2022 2022 Musetti - Bedene, Umag - I match piu&#039; appassionanti dei tennisti italiani nel corso del 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of ATP 2022 2022 Berrettini...|12:00:00|13:30:00|Best of ATP 2022 2022 Djokovic - Ruud, Nitto ATP Finals - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|13:30:00|13:45:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of WTA 2022 2022 Gauff...|13:45:00|15:30:00|Best of WTA 2022 2022 Garcia - Sabalenka, Finals Fort Worth - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Colpo da Campione|15:30:00|15:45:00|Colpo da Campione. Comparazione Rovescio Dimitrov Thiem
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|La fine di un&#039;era: Roger e Serena...|15:45:00|18:00:00|...Williams - Capriati, Roma 2002. La fine di un&#039;era: Roger e Serena - I match piu belli di Roger Federer e Serena Williams, le due icone globali che hanno lasciato il tennis nel 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Tennis Parade|18:00:00|18:30:00|Tennis Parade - La classifica dei colpi piu&#039; spettacolari del mese accompagnati dalle hit musicali del momento.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Davis Cup Auger Aiassime - De...|18:30:00|20:00:00|Best of Davis Cup Auger Aiassime - De Minaur - Le sfide pu&#039; belle disputate in Coppa Davis, nell&#039;ultimo decennio.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Reloaded 2022|20:00:00|20:15:00|Reloaded 2022 - Il meglio del 2022. Dieci puntate che raccontano i principali fatti, i personaggi, le emozioni di questa stagione che va chiudendosi.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of Italiani 2022 2022 Musetti...|20:15:00|22:15:00|Best of Italiani 2022 2022 Musetti - Berrettini, Napoli - I match piu&#039; appassionanti dei tennisti italiani nel corso del 2022.
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Colpo da Campione|22:15:00|22:30:00|Colpo da Campione. Il gioco di Volo di Barbora Krejcikova
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Best of ATP 2022 2022 Berrettini...|22:30:00|00:00:00|Best of ATP 2022 2022 Djokovic - Ruud, Nitto ATP Finals - I migliori match delle campionesse e dei campioni dei circuiti WTA e ATP.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
