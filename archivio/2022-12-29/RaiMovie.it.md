@@ -1,0 +1,37 @@
+# Rai Movie
+> Programmazione di Mercoledì 28 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/22fd80fd-b653-4909-b319-30f1b77458da/cover?md5ChecksumParam=67d58a20f9d5fcc80463cb74271fe41f)|Il colosso di Rodi|00:00:00|02:30:00|Esordio alla regia di Sergio Leone. A Rodi si diffonde il malcontento popolare contro Re Serse. E i fenici attaccano la citta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il corsaro della mezza luna|02:30:00|04:00:00|Penetrato nel castello del barone di Camerlata, Vasco viene catturato. In suo soccorso arriva il fratello corsaro, terrore dei mari.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il re dell&#039;Africa|04:00:00|05:30:00|Cresciuta in Africa, una ragazza addomestica un gorilla ed entrambi vengono scritturati per uno spettacolo. Ma il disagio cresce.
+|![Icon](https://guidatv.sky.it/uuid/be13258a-f822-491f-bd37-725809c8d142/cover?md5ChecksumParam=ffeb8222d0956ada4ca69c18fdc383a3)|La Duchessa|05:30:00|07:20:00|Inghilterra, XVII sec. Keira Knightley, una cortigiana affascinante e spregiudicata, diventa un modello per il suo popolo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:20:00|07:25:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pane, amore e...|07:25:00|09:10:00|Il maresciallo Carotenuto torna a Sorrento. Nella sua casa di famiglia vive pero&#039; una bella pescivendola che flirta con lui per non farsi sfrattare.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|09:10:00|11:15:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sandokan contro il leopardo di Sarawak|11:15:00|12:50:00|Sandokan parte alla ricerca di sua moglie, che e&#039; stata rapita e ipnotizzata. Si trovera&#039; contro Sarawak, &#039;il leopardo&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|California addio|12:50:00|14:40:00|Due ufficiali sudisti tornano verso casa. Uno di loro viene ucciso, l&#039;altro decide di raggiungere la famiglia dell&#039;amico.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;avaro|14:40:00|16:35:00|Alberto Sordi e&#039; un ricco e avaro usuraio, meschino con la famiglia come con gli sconosciuti. Il suo problema e&#039; trovar moglie.
+|![Icon](https://guidatv.sky.it/uuid/ecf80e47-a40d-42f9-9420-c4b021de3a9a/cover?md5ChecksumParam=7e8b2038aa771c13e1beafa7ef480d54)|I quattro dell&#039;Ave Maria|16:35:00|18:55:00|A due rapinatori viene sottratto il malloppo da un anziano avanzo di galera, Eli Wallache. I tre si incontreranno di nuovo...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Allegri vagabondi|18:55:00|20:10:00|In viaggio per consegnare un testamento milionario, Stanlio e Ollio devono fare i conti con il perfido padrone di un saloon.
+|![Icon](https://guidatv.sky.it/uuid/f4418d0b-ab67-4be6-983a-9cb0218e3f02/cover?md5ChecksumParam=e4bbfda39d1c5f4548ae946ed933edc3)|L&#039;ora delle pistole|20:10:00|22:00:00|Un gruppo di pistoleri si allea con lo sceriffo Wyatt Earp, desideroso di vendetta verso l&#039;infido trafficante Clanton.
+|![Icon](https://guidatv.sky.it/uuid/9cc5a157-5a24-431c-abe7-71b846d9571a/cover?md5ChecksumParam=40c438ef2e13d5a263a69686b3e35c9b)|Il mio nome e&#039; Nessuno|22:00:00|00:05:00|Un celebre pistolero parte alla volta dell&#039;Europa e incontra un giovanotto che lo costringe a un&#039;ultima, memorabile impresa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mani di fata|00:05:00|01:45:00|Mentre la moglie fa carriera, Andrea perde il lavoro. Inizia a occuparsi dei lavori di casa, finendo per appassionarsi.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|01:45:00|03:35:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sotto zero|03:35:00|04:00:00|In una gelida e nevosa giornata invernale, Stanlio e Ollio, musicisti senzatetto, dopo un diverbio con una signora, trovano un portafoglio zeppo di soldi nella neve, ma un ladro e&#039; gia pronto a derubarli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ogni ragazza vuol marito|04:00:00|05:25:00|Una ragazza decisa a trovar marito sceglie il pediatra Cary Grant, mettendo a punto un&#039;implacabile strategia di conquista.
+|![Icon](https://guidatv.sky.it/uuid/05a56b6b-9a5b-4956-93bc-51db1b0fb11c/cover?md5ChecksumParam=6667e60227d267a83f36b97a7dc88346)|Ricomincio da capo|05:25:00|07:05:00|Un giornalista inviato a seguire un evento folcloristico precipita in un incubo: rivive la stessa giornata all&#039;infinito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il conte Tacchia|07:05:00|09:00:00|In una Roma d&#039;inizio secolo un modest&#039;uomo e&#039; indeciso: seguire il suo sogno di nobilta&#039; o inseguire... una bella popolana?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bar Giuseppe|09:00:00|10:40:00|Rimasto vedovo, Giuseppe non vuole rinunciare al suo bar e decide di assumere come cameriera una giovane africana, Bikira.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|10:40:00|13:25:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/f4418d0b-ab67-4be6-983a-9cb0218e3f02/cover?md5ChecksumParam=e4bbfda39d1c5f4548ae946ed933edc3)|L&#039;ora delle pistole|13:25:00|15:15:00|Un gruppo di pistoleri si allea con lo sceriffo Wyatt Earp, desideroso di vendetta verso l&#039;infido trafficante Clanton.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fantozzi contro tutti|15:15:00|17:05:00|Terzo capitolo della saga: questa volta Fantozzi e&#039; alle prese con un fanatico direttore e con le follie della moglie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Preparati la bara|17:05:00|18:45:00|Deciso a diventare a ogni costo governatore dello Stato, lo spietato David Berry chiede aiuto a Django, che si rifiuta pero&#039; di collaborare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Avventura a Vallechiara|18:45:00|20:10:00|Due venditori di trappole per topi vanno in trasferta in Svizzera, patria del formaggio, ma vengono truffati e finiscono per lavorare in un albergo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una strega in paradiso|20:10:00|22:00:00|Il giovane editore Shop, alla vigilia del suo matrimonio con Merle, e&#039; vittima dell&#039;incantesimo di Gil, un&#039;allieva stregona alle prime armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|22:00:00|00:05:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

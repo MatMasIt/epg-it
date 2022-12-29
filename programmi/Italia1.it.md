@@ -1,5 +1,5 @@
 # Italia 1
-> Programmazione di Mercoledì 28 Dicembre 2022
+> Programmazione di Giovedì 29 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
