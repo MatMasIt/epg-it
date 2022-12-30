@@ -1,5 +1,5 @@
 # National Geographic Italia +1
-> Programmazione di Giovedì 29 Dicembre 2022
+> Programmazione di Venerdì 30 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|

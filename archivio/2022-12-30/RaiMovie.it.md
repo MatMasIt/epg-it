@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Giovedì 29 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Mani di fata|00:05:00|01:45:00|Mentre la moglie fa carriera, Andrea perde il lavoro. Inizia a occuparsi dei lavori di casa, finendo per appassionarsi.
+|![Icon](https://guidatv.sky.it/uuid/6ae4f121-6736-444b-abdd-534e4171df19/cover?md5ChecksumParam=12b69d2cd62853545bf1fd0b67ae8975)|Buon compleanno Mr. Grape|01:45:00|03:35:00|La vita, dolce ma monotona e faticosa, di un giovane dell&#039;Iowa con famiglia a carico cambia con l&#039;arrivo della vivace Becky.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sotto zero|03:35:00|04:00:00|In una gelida e nevosa giornata invernale, Stanlio e Ollio, musicisti senzatetto, dopo un diverbio con una signora, trovano un portafoglio zeppo di soldi nella neve, ma un ladro e&#039; gia pronto a derubarli.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ogni ragazza vuol marito|04:00:00|05:25:00|Una ragazza decisa a trovar marito sceglie il pediatra Cary Grant, mettendo a punto un&#039;implacabile strategia di conquista.
+|![Icon](https://guidatv.sky.it/uuid/05a56b6b-9a5b-4956-93bc-51db1b0fb11c/cover?md5ChecksumParam=6667e60227d267a83f36b97a7dc88346)|Ricomincio da capo|05:25:00|07:05:00|Un giornalista inviato a seguire un evento folcloristico precipita in un incubo: rivive la stessa giornata all&#039;infinito.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il conte Tacchia|07:05:00|09:00:00|In una Roma d&#039;inizio secolo un modest&#039;uomo e&#039; indeciso: seguire il suo sogno di nobilta&#039; o inseguire... una bella popolana?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Bar Giuseppe|09:00:00|10:40:00|Rimasto vedovo, Giuseppe non vuole rinunciare al suo bar e decide di assumere come cameriera una giovane africana, Bikira.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|10:40:00|13:25:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/f4418d0b-ab67-4be6-983a-9cb0218e3f02/cover?md5ChecksumParam=e4bbfda39d1c5f4548ae946ed933edc3)|L&#039;ora delle pistole|13:25:00|15:15:00|Un gruppo di pistoleri si allea con lo sceriffo Wyatt Earp, desideroso di vendetta verso l&#039;infido trafficante Clanton.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fantozzi contro tutti|15:15:00|17:05:00|Terzo capitolo della saga: questa volta Fantozzi e&#039; alle prese con un fanatico direttore e con le follie della moglie.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Preparati la bara|17:05:00|18:45:00|Deciso a diventare a ogni costo governatore dello Stato, lo spietato David Berry chiede aiuto a Django, che si rifiuta pero&#039; di collaborare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Avventura a Vallechiara|18:45:00|20:10:00|Due venditori di trappole per topi vanno in trasferta in Svizzera, patria del formaggio, ma vengono truffati e finiscono per lavorare in un albergo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Una strega in paradiso|20:10:00|22:00:00|Il giovane editore Shop, alla vigilia del suo matrimonio con Merle, e&#039; vittima dell&#039;incantesimo di Gil, un&#039;allieva stregona alle prime armi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Joyeux Noe&#039;l - Una verita&#039; dimenticat...|22:00:00|00:05:00|...dalla storia - Prima Guerra Mondiale: il Natale unisce i soldati avversari di Scozia, Germania, Francia. Una toccante storia di umanita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:05:00|00:10:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/6d8838c1-3f81-44f2-9073-8685d7523bf0/cover?md5ChecksumParam=49ddf2f39935d5d71e558e0eea1dfa0c)|Suffragette|00:10:00|02:00:00|Londra, 1912. Un gruppo di operaie combatte per il diritto al voto e contro le violenze subite in fabbrica.
+|![Icon](https://guidatv.sky.it/uuid/8a67c807-8b4b-44ba-a752-ab4e524aea95/cover?md5ChecksumParam=2c9d8ffb085d1535ca70734714ea3073)|Sky Cinema Magazine|02:00:00|04:00:00|Per sposare la fiera Sophia Loren, il principe Omar Sharif e&#039; costretto a sottoporla a una serie di prove. Ma le fallira&#039; tutte.
+|![Icon](https://guidatv.sky.it/uuid/b7c1d392-3e00-40ba-9edf-e68aa908c793/cover?md5ChecksumParam=48215986cec219e12a820aca19b9de4b)|Papillon|04:00:00|06:40:00|Uno scassinatore viene incastrato per un omicidio che non ha commesso. Costretto a scontare la pena, si allea con un altro condannato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Campane a martello|06:40:00|08:20:00|Una ragazza, costretta a prostituirsi, invia i soldi al parroco perche&#039; li conservi, ma lui li utilizza per un orfanotrofio.
+|![Icon](https://guidatv.sky.it/uuid/f86da4e0-f469-436f-9327-2775d03fe126/cover?md5ChecksumParam=dca123c26733ce11aa767c98b689ee7b)|The Great Debaters - Il potere della...|08:20:00|10:30:00|...parola - La vera storia di un professore del college che ispiro&#039; i suoi studenti a formare un gruppo di dibattito tra universita&#039;.
+|![Icon](https://guidatv.sky.it/uuid/22fd80fd-b653-4909-b319-30f1b77458da/cover?md5ChecksumParam=67d58a20f9d5fcc80463cb74271fe41f)|Il colosso di Rodi|10:30:00|13:00:00|Esordio alla regia di Sergio Leone. A Rodi si diffonde il malcontento popolare contro Re Serse. E i fenici attaccano la citta&#039;.
+|![Icon](https://guidatv.sky.it/uuid/9cc5a157-5a24-431c-abe7-71b846d9571a/cover?md5ChecksumParam=40c438ef2e13d5a263a69686b3e35c9b)|Il mio nome e&#039; Nessuno|13:00:00|15:05:00|Un celebre pistolero parte alla volta dell&#039;Europa e incontra un giovanotto che lo costringe a un&#039;ultima, memorabile impresa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|15:05:00|15:10:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fantozzi subisce ancora|15:10:00|16:45:00|Il ragionier Ugo Fantozzi, impiegato presso una grande azienda, e&#039; alle prese con le sue solite, umilianti disavventure.
+|![Icon](https://guidatv.sky.it/uuid/608f4c7f-0497-452d-a5b7-396edfa06ad0/cover?md5ChecksumParam=fdcde1f85b8b2e22e80c8228545a2514)|...E poi lo chiamarono il Magnifico|16:45:00|19:05:00|In fuga dalla natia Inghilterra per via di uno scandalo, un giovane nobile approda in America e diventa un pistolero.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Teste dure|19:05:00|20:10:00|Stanlio e Ollio sono combattenti per l&#039;esercito che, dopo essere stati in guerra, tornano a casa reduci ed eroi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il gigante|20:10:00|23:45:00|Nelle terre del Texas si consuma l&#039;amore impossibile del bracciante Jett per la bella Leslie, sposa del ricco possidente Rick.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|23:45:00|23:50:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Senza un attimo di tregua|23:50:00|01:30:00|I componenti di una banda tradiscono il loro leader e scappano col bottino. L&#039;uomo, creduto morto, ha in mente solamente la vendetta.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
