@@ -1,0 +1,45 @@
+# VH1 Italia
+> Programmazione di Venerdì 30 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/c611d186-262f-46e7-a4d1-1abab42a91ed/cover?md5ChecksumParam=7d4868aaf0341e0fc54025962edda5c6)|Geordie Shore|00:10:00|00:55:00|S17 Ep11 - La gang celebra il Pride in pieno stile Geordie, con un ospite a sorpresa!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Classics &amp; Pearls|00:55:00|05:00:00|La nostra selezione musicale piu&#039; pregiata per farti scoprire video sconosciuti o dimenticati dei piu&#039; grandi Artisti di sempre. Una chicca dietro l&#039;altra.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|05:00:00|08:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 5 ANNI FA|08:00:00|09:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 5 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART NOW!|09:00:00|10:00:00|La classifica di VH1 con i video piu&#039; forti del momento, ORA!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Top Chart 18 Anni fa|10:00:00|11:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 18 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART NOW!|11:00:00|12:00:00|La classifica di VH1 con i video piu&#039; forti del momento, ORA!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|BEST OF 2022|12:00:00|13:00:00|Una rotazione dedicata al meglio della produzione musicale di quest&#039;anno!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|13:00:00|16:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Best of 5 ANNI FA|16:00:00|17:00:00|Le hit piu&#039; ascoltate esattamente... 5 anni fa!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART NOW!|17:00:00|18:00:00|La classifica di VH1 con i video piu&#039; forti del momento, ORA!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Happy Birthday Jamiroquai|18:00:00|19:00:00|Una selezione dei video piu&#039; belli di Jamiroquai per festeggiare insieme il suo compleanno.
+|![Icon](https://guidatv.sky.it/uuid/52d66eeb-70d2-4d9b-9708-d1763592dd27/cover?md5ChecksumParam=4bda139df7c1522212dc8b0c06f2f137)|Ridiculousness Italia|19:00:00|19:30:00|S2 Ep15 Best Of - La versione italiana dello show che mixa i piu&#039; divertenti video amatoriali su internet. Conducono Stefano Corti e Alessandro Onnis insieme a Giulia Salemi
+|![Icon](https://guidatv.sky.it/uuid/ab77bcf5-9792-4197-bb7a-0aaad38302a8/cover?md5ChecksumParam=49544fec8af818d86e574bc09a27ec59)|Ridiculousness Italia 1|19:30:00|20:00:00|S1 Ep1 Michele Bravi - La versione italiana dello show che mixa i piu&#039; divertenti video amatoriali su internet. Conducono Stefano Corti e Alessandro Onnis insieme a Giulia Salemi
+|![Icon](https://guidatv.sky.it/uuid/4eca7b6f-7ce9-4756-9f65-09a1fbc1ebe2/cover?md5ChecksumParam=49544fec8af818d86e574bc09a27ec59)|Ridiculousness Italia 1|20:00:00|20:25:00|S1 Ep3 Ridiculousness Italia - La versione italiana dello show che mixa i piu&#039; divertenti video amatoriali su internet. Conducono Stefano Corti e Alessandro Onnis insieme a Giulia Salemi
+|![Icon](https://guidatv.sky.it/uuid/97af4e2e-b99d-4e6e-9d63-cbcd17b604f0/cover?md5ChecksumParam=339f9d82d77355313600d23170ffaa9b)|Ridiculousness: Very American Idiots|20:25:00|20:50:00|S10 Ep1 The Ridickys - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio.
+|![Icon](https://guidatv.sky.it/uuid/335651ae-2dc3-4462-9b3c-bf5f80d6f749/cover?md5ChecksumParam=627d5e648b2db996f1910401f39a466e)|Ridiculousness: Very American Idiots|20:50:00|21:10:00|S10 Ep2 21 Savage - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio.
+|![Icon](https://guidatv.sky.it/uuid/d30964d4-3f06-4a50-a6ba-cf341b1585d8/cover?md5ChecksumParam=979ecc1eead6087de109a927dcfcd34d)|Ex On The Beach Italia|21:10:00|22:10:00|S2 Ep9 - In una fantastica villa dell&#039;Andalusia, tra spiagge, locali e vita caliente, un gruppo di single sta per affrontare una meravigliosa vacanza per conoscersi e realizzare i propri sogni d&#039;amore
+|![Icon](https://guidatv.sky.it/uuid/0a096aa1-7b8f-4fcd-b403-bd00a314bbb6/cover?md5ChecksumParam=0d3fecc8fda8848ecc43e63184731206)|Ex On The Beach Italia|22:10:00|23:15:00|S2 Ep10 - Spiagge, locali e vita caliente. Riviviamo insieme i momenti migliori di questa stagione di Ex On The Beach Italia!
+|![Icon](https://guidatv.sky.it/uuid/52d66eeb-70d2-4d9b-9708-d1763592dd27/cover?md5ChecksumParam=4bda139df7c1522212dc8b0c06f2f137)|Ridiculousness Italia|23:15:00|23:40:00|S2 Ep15 Best Of - La versione italiana dello show che mixa i piu&#039; divertenti video amatoriali su internet. Conducono Stefano Corti e Alessandro Onnis insieme a Giulia Salemi
+|![Icon](https://guidatv.sky.it/uuid/775ea17c-cfe2-4f22-91f4-b355ab76a317/cover?md5ChecksumParam=30d5381e79a053d2c52d3f866cad2590)|Ridiculousness: Very American Idiots|23:40:00|00:00:00|S9 Ep29 Post Malone - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio
+|![Icon](https://guidatv.sky.it/uuid/892a9035-7319-415b-ac24-b901e689a8aa/cover?md5ChecksumParam=30d5381e79a053d2c52d3f866cad2590)|Ridiculousness: Very American Idiots|00:00:00|00:20:00|S9 Ep30 DJ Khaled - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio
+|![Icon](https://guidatv.sky.it/uuid/d89fdd4b-b702-41b5-a196-23219976c989/cover?md5ChecksumParam=7d4868aaf0341e0fc54025962edda5c6)|Geordie Shore|00:20:00|01:05:00|S17 Ep12 - E&#039; quasi ora che i Geordies tornino al Toon Le lacrime scorrono a fiumi al momento dei saluti...soprattutto tra Sophie ed Alex
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Classics &amp; Pearls|01:05:00|05:00:00|La nostra selezione musicale piu&#039; pregiata per farti scoprire video sconosciuti o dimenticati dei piu&#039; grandi Artisti di sempre. Una chicca dietro l&#039;altra.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|05:00:00|08:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Official Chart|08:00:00|10:00:00|La classifica ufficiale di VH1 con i pezzi piu&#039; forti del momento in Italia.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Top Chart Diciannove anni fa|10:00:00|11:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 19 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART NOW!|11:00:00|12:00:00|La classifica di VH1 con i video piu&#039; forti del momento, ORA!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|BEST OF 2022|12:00:00|13:00:00|Una rotazione dedicata al meglio della produzione musicale di quest&#039;anno!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|13:00:00|16:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 VIDEOS|16:00:00|17:00:00|La classifica di VH1 dei migliori video del 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 BALLADS|17:00:00|18:00:00|La classifica di VH1 delle migliori ballad del 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022|18:00:00|21:00:00|La classifica ufficiale di VH1 con il meglio della musica di quest&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 NEW ARTISTS|21:00:00|22:00:00|La classifica di VH1 dei migliori video di artisti esplosi nel 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 DANCE|22:00:00|23:00:00|La classifica di VH1 con i pezzi dance piu&#039; forti del 2022
+|![Icon](https://guidatv.sky.it/uuid/e3670c56-b89e-4408-9942-e193ad94dca0/cover?md5ChecksumParam=923426f212b5c3c740fe8f5811a74f55)|Felice anno nuovo!|23:00:00|01:50:00|Celebriamo insieme il nuovo anno con la musica di VH1. Auguri!
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
