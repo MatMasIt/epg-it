@@ -1,5 +1,5 @@
 # Sky Sport Action HD
-> Programmazione di Venerdì 30 Dicembre 2022
+> Programmazione di Sabato 31 Dicembre 2022
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
