@@ -1,0 +1,40 @@
+# VH1 Italia
+> Programmazione di Sabato 31 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/892a9035-7319-415b-ac24-b901e689a8aa/cover?md5ChecksumParam=30d5381e79a053d2c52d3f866cad2590)|Ridiculousness: Very American Idiots|00:00:00|00:20:00|S9 Ep30 DJ Khaled - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio
+|![Icon](https://guidatv.sky.it/uuid/d89fdd4b-b702-41b5-a196-23219976c989/cover?md5ChecksumParam=7d4868aaf0341e0fc54025962edda5c6)|Geordie Shore|00:20:00|01:05:00|S17 Ep12 - E&#039; quasi ora che i Geordies tornino al Toon Le lacrime scorrono a fiumi al momento dei saluti...soprattutto tra Sophie ed Alex
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Classics &amp; Pearls|01:05:00|05:00:00|La nostra selezione musicale piu&#039; pregiata per farti scoprire video sconosciuti o dimenticati dei piu&#039; grandi Artisti di sempre. Una chicca dietro l&#039;altra.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|05:00:00|08:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Official Chart|08:00:00|10:00:00|La classifica ufficiale di VH1 con i pezzi piu&#039; forti del momento in Italia.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Top Chart Diciannove anni fa|10:00:00|11:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 19 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART NOW!|11:00:00|12:00:00|La classifica di VH1 con i video piu&#039; forti del momento, ORA!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|BEST OF 2022|12:00:00|13:00:00|Una rotazione dedicata al meglio della produzione musicale di quest&#039;anno!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|13:00:00|16:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 VIDEOS|16:00:00|17:00:00|La classifica di VH1 dei migliori video del 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 BALLADS|17:00:00|18:00:00|La classifica di VH1 delle migliori ballad del 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022|18:00:00|21:00:00|La classifica ufficiale di VH1 con il meglio della musica di quest&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 NEW ARTISTS|21:00:00|22:00:00|La classifica di VH1 dei migliori video di artisti esplosi nel 2022
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022 DANCE|22:00:00|23:00:00|La classifica di VH1 con i pezzi dance piu&#039; forti del 2022
+|![Icon](https://guidatv.sky.it/uuid/e3670c56-b89e-4408-9942-e193ad94dca0/cover?md5ChecksumParam=923426f212b5c3c740fe8f5811a74f55)|Felice anno nuovo!|23:00:00|01:50:00|Celebriamo insieme il nuovo anno con la musica di VH1. Auguri!
+|![Icon](https://guidatv.sky.it/uuid/e3670c56-b89e-4408-9942-e193ad94dca0/cover?md5ChecksumParam=923426f212b5c3c740fe8f5811a74f55)|Felice anno nuovo!|01:50:00|05:00:00|Celebriamo insieme il nuovo anno con la musica di VH1. Auguri!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|05:00:00|08:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Top Chart Sei Anni fa|08:00:00|09:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 6 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|Top Chart Cinque Anni fa|09:00:00|10:00:00|Un salto indietro nel passato per scoprire le canzoni che dominavano le classifiche questa settimana 5 anni fa
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Official Chart|10:00:00|11:55:00|La classifica ufficiale di VH1 con i pezzi piu&#039; forti del momento in Italia.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|BEST OF 2022|11:55:00|13:00:00|Una rotazione dedicata al meglio della produzione musicale di quest&#039;anno!
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|VH1 Playlist|13:00:00|16:00:00|La playlist firmata VH1 e&#039; dedicata ai grandi artisti, le star di ieri, oggi e domani, le hit senza tempo, i successi del momento.
+|![Icon](https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png)|TOP CHART 2022|16:00:00|19:00:00|La classifica di VH1 con il meglio della musica di quest&#039;anno
+|![Icon](https://guidatv.sky.it/uuid/b893e895-b50f-4e33-832e-292991962eec/cover?md5ChecksumParam=ba0f36e5dbd11651e6745d3258aed6c8)|MTV EMA 2022|19:00:00|20:40:00|Dal PSD Bank Dome di Dusseldorf in Germania gli MTV EMA 2022. Lo show che celebra i piu&#039; grandi artisti del pianeta con performance spettacolari e icone della musica internazionale.
+|![Icon](https://guidatv.sky.it/uuid/86758f7a-616a-4bde-a74b-3335a33d7d9c/cover?md5ChecksumParam=dea168f1a40f5f2a9a36d14e753994d3)|Ex On The Beach Italia|20:40:00|21:35:00|S4 Ep1 - La vacanza e&#039; appena cominciata e tra gli otto ormonati single nascono gia&#039; forti simpatie e colpi di fulmini degni di un temporale caraibico.
+|![Icon](https://guidatv.sky.it/uuid/102dedf8-67f9-4b5b-883d-491f8daa38c2/cover?md5ChecksumParam=dea168f1a40f5f2a9a36d14e753994d3)|Ex On The Beach Italia|21:35:00|22:20:00|S4 Ep2 - L&#039;arrivo di Giammarco, ex di Eleonora, destabilizza i fragili equilibri. La simpatia tra Camilla ed Antonio cresce e il voto di castita&#039; della toscana inizia a vacillare.
+|![Icon](https://guidatv.sky.it/uuid/a7627375-0b56-4e14-919a-35457a71862d/cover?md5ChecksumParam=81a2235fe9631c046c589595b02e27a7)|Ridiculousness: Veri American Idiots 8|22:20:00|22:40:00|S8 Ep21 Wanda Sykes - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio. Insieme a Rob, Chanel e Sterling oggi ci sara&#039; Wanda Sykes
+|![Icon](https://guidatv.sky.it/uuid/b449a658-aa95-475c-959a-8f7b5a17192b/cover?md5ChecksumParam=81a2235fe9631c046c589595b02e27a7)|Ridiculousness: Veri American Idiots 8|22:40:00|23:00:00|S8 Ep22 Chanel and Sterling XXXV - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio.
+|![Icon](https://guidatv.sky.it/uuid/cc872b3f-3de1-40dd-80a3-c077612c5792/cover?md5ChecksumParam=81a2235fe9631c046c589595b02e27a7)|Ridiculousness: Veri American Idiots 8|23:00:00|23:20:00|S8 Ep23 Dillon Francis - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio. A Rob, Sterling e Chanel si unira&#039; oggi l&#039;artista e producer Dillon...
+|![Icon](https://guidatv.sky.it/uuid/3cc75e29-4b8f-46da-bc1f-0280393a7cd6/cover?md5ChecksumParam=81a2235fe9631c046c589595b02e27a7)|Ridiculousness: Veri American Idiots 8|23:20:00|23:45:00|S8 Ep24 Dave England - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio. Rob, Sterling e Chanel ospiteranno la star di Jackass Dave England
+|![Icon](https://guidatv.sky.it/uuid/07b0e034-048b-472c-8a61-f0a1544c3d39/cover?md5ChecksumParam=81a2235fe9631c046c589595b02e27a7)|Ridiculousness: Veri American Idiots 8|23:45:00|00:05:00|S8 Ep25 Bryan Callen &amp; Brendan Schaub - Lo show di MTV che mixa i piu&#039; divertenti video amatoriali su internet in un unico esilarante episodio.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

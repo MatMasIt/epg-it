@@ -1,0 +1,80 @@
+# Euronews English
+> Programmazione di Sabato 31 Dicembre 2022
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews|05:00:00|11:00:00|Euronews
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews|11:00:00|17:00:00|Euronews
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews|17:00:00|23:00:00|Euronews
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews|23:00:00|05:05:00|Euronews
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|05:05:00|05:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|05:16:00|05:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|05:37:00|05:47:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|05:47:00|06:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|06:05:00|06:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|06:35:00|06:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|06:49:00|07:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|07:05:00|07:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|07:16:00|07:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|07:37:00|07:48:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|07:48:00|08:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|08:05:00|08:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|08:35:00|08:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|08:49:00|09:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|09:05:00|09:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|09:16:00|09:36:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|09:36:00|09:47:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|09:47:00|10:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|10:05:00|10:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|10:35:00|10:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|10:49:00|11:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|11:05:00|11:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|11:16:00|11:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|11:37:00|11:47:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|11:47:00|12:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:05:00|12:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|12:35:00|12:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|12:49:00|13:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|13:05:00|13:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|13:16:00|13:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|13:37:00|13:47:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|13:47:00|14:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|14:05:00|14:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|14:35:00|14:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|14:49:00|15:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|15:05:00|15:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|15:16:00|15:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|15:37:00|15:48:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|15:48:00|16:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:05:00|16:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|16:35:00|16:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|16:49:00|17:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|17:05:00|17:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|17:16:00|17:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|17:37:00|17:49:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|17:49:00|18:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|18:05:00|18:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|18:35:00|18:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|18:49:00|19:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|19:05:00|19:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|19:16:00|19:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|19:37:00|19:49:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|19:49:00|20:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|20:05:00|20:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|20:35:00|20:49:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|20:49:00|21:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|21:05:00|21:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|21:16:00|21:35:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|21:35:00|21:49:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|21:49:00|22:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|22:05:00|22:35:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|News|22:35:00|22:50:00|The leading news stories of the moment.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|22:50:00|23:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|23:05:00|23:16:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|23:16:00|23:37:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|23:37:00|23:48:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|State of the Union|23:48:00|00:05:00|Euronews&#039; State of the Union brings you up to date with the most important European affairs, politics, economic, financial and corporate events of the week.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY

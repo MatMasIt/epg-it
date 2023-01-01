@@ -1,5 +1,5 @@
 # CNN International Europe
-> Programmazione di Sabato 31 Dicembre 2022
+> Programmazione di Domenica 01 Gennaio 2023
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
