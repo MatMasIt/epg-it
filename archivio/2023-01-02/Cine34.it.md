@@ -1,5 +1,5 @@
 # Cine 34
-> Programmazione di Domenica 01 Gennaio 2023
+> Programmazione di Lunedì 02 Gennaio 2023
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
