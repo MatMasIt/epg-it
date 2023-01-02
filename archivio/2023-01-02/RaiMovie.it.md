@@ -1,0 +1,38 @@
+# Rai Movie
+> Programmazione di Domenica 01 Gennaio 2023
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|The tree of life|00:10:00|02:40:00|Il viaggio esistenziale dall&#039;infanzia all&#039;eta&#039; adulta di un ragazzo del Midwest degli anni &#039;50 in conflitto con un padre autoritario.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Asino vola|02:40:00|04:00:00|Maurizio e&#039; un bambino che gioca con gli oggetti abbandonati di una discarica, mentre sogna di suonare nella banda del paese.
+|![Icon](https://guidatv.sky.it/uuid/73dfb706-9bd4-454a-8797-0b33fbeef236/cover?md5ChecksumParam=cd8c826bba53ccfb99f31af941791aee)|Addio mia regina|04:00:00|05:45:00|Francia, 1789. La regina Maria Antonietta coinvolge in un losco piano una ragazza per tentare la fuga durante la notte.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Due soldi di speranza|05:45:00|07:35:00|L&#039;amore di due giovani fidanzati, che sognano di sposarsi, viene ostacolato dalle difficili condizioni economiche.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:35:00|07:40:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|2061: un anno eccezionale|07:40:00|09:30:00|L&#039;Italia del 2061 secondo Carlo Vanzina. Ripiombata nel Medioevo, vedra&#039; Diego Abatantuono alla conquista dell&#039;unita&#039; del Paese.
+|![Icon](https://guidatv.sky.it/uuid/7112624d-cca2-43c8-9a99-739509f0d18c/cover?md5ChecksumParam=7210831c8c54ac738f37901d8b58edf3)|La banda degli onesti|09:30:00|11:25:00|Con due amici, il portinaio Toto&#039; inizia a fabbricare banconote false. Scoprira&#039; che il crimine non e&#039; pane per i suoi denti.
+|![Icon](https://guidatv.sky.it/uuid/3b8050d8-46cb-4d5c-ba42-359208fe755c/cover?md5ChecksumParam=0740c12b9b06b838679311c21da479f4)|Mortdecai|11:25:00|13:05:00|Un mercante d&#039;arte dai modi bizzarri e dal look sbarazzino accetta di recuperare, in California, un quadro di Goya trafugato.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Otzi e il mistero del tempo|13:05:00|14:35:00|Il giovane Kip, prima di lasciare Bolzano, va con gli amici al museo a salutare la mummia Otzi, ma accade una magia: Otzi si risveglia.
+|![Icon](https://guidatv.sky.it/uuid/13e0f830-e4ae-48e3-88f3-3ead04c709ab/cover?md5ChecksumParam=a8d18e079b2243a0af05fa1993863961)|Un&#039;estate in Provenza|14:35:00|16:25:00|Costretti a trascorrere l&#039;estate in Provenza, Lea, Adrian e il piccolo Theo incontrano per la prima volta il loro nonno.
+|![Icon](https://guidatv.sky.it/uuid/f4418d0b-ab67-4be6-983a-9cb0218e3f02/cover?md5ChecksumParam=e4bbfda39d1c5f4548ae946ed933edc3)|L&#039;ora delle pistole|16:25:00|18:15:00|Un gruppo di pistoleri si allea con lo sceriffo Wyatt Earp, desideroso di vendetta verso l&#039;infido trafficante Clanton.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I diavoli volanti|18:15:00|19:30:00|Stanlio e Ollio, arruolati nella legione straniera, ne combinano di tutti i colori, rischiando grosso e riuscendo a uscirne sani e salvi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Polli, tornate a casa|19:30:00|20:10:00|Oliver, candidato sindaco alle elezioni, viene ricattato da una ex fiamma. I due decidono di rinviare la discussione alla sera stessa e...
+|![Icon](https://guidatv.sky.it/uuid/4b305108-2918-4c75-a372-9f0e4e8de0cb/cover?md5ChecksumParam=38061fcd9db59bc65896be62be4df458)|Passengers|20:10:00|22:05:00|Migliaia di persone addormentate in capsule stanno migrando verso una nuova terra a bordo di una nave stellare. Ma Jim si sveglia...
+|![Icon](https://guidatv.sky.it/uuid/14a791aa-fae2-4d59-9504-f48d4e8f7e1a/cover?md5ChecksumParam=5aa7ecb52eb67917f64f4724dd37fbf4)|Proxima|22:05:00|00:00:00|Colonia, III millennio: l&#039;astronauta Sarah si prepara per una lunga missione spaziale, ma il rapporto con la figlia rischia di soffrirne.
+|![Icon](https://guidatv.sky.it/uuid/a4ff5121-221d-483d-bb7b-db2d0d61a978/cover?md5ChecksumParam=14f7dfe9183479186ba2584c5909a2b9)|Borsalino|00:00:00|02:15:00|Negli anni Trenta, due piccoli truffatori rivali decidono di allearsi per un fine comune: dominare la malavita locale.
+|![Icon](https://guidatv.sky.it/uuid/be13258a-f822-491f-bd37-725809c8d142/cover?md5ChecksumParam=ffeb8222d0956ada4ca69c18fdc383a3)|La Duchessa|02:15:00|04:00:00|Inghilterra, XVII sec. Keira Knightley, una cortigiana affascinante e spregiudicata, diventa un modello per il suo popolo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli eroi del pacifico|04:00:00|05:35:00|Durante la Seconda guerra mondiale, un colonnello viene inviato nelle Filippine per organizzare la resistenza antigiapponese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I diavoli alati|05:35:00|07:30:00|Seconda guerra mondiale. Dopo le iniziali ostilita&#039;, un burbero comandante riesce a conquistare la fiducia dei propri uomini.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|07:30:00|07:35:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il monaco di Monza|07:35:00|09:30:00|Toto&#039;, vedovo con una nidiata di figli da sfamare, si traveste da frate e trova alloggio nel castello di un perfido marchese.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Magnifica presenza|09:30:00|11:20:00|Un pasticcere tenta la strada del successo come attore e si ritrova come &#039;coinquilini&#039; gli spiriti di una famiglia di comici.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Le fatiche di Ercole|11:20:00|13:10:00|Tre celebri prove attendono Ercole, deciso ad aiutare Giasone a conquistare il trono e il vello d&#039;oro, simbolo del potere.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Senza un attimo di tregua|13:10:00|14:55:00|I componenti di una banda tradiscono il loro leader e scappano col bottino. L&#039;uomo, creduto morto, ha in mente solamente la vendetta.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piedone lo sbirro|14:55:00|16:50:00|A Napoli, l&#039;ispettore Rizzo, ostacolato dal nuovo commissario capo che ne disapprova i metodi, combatte una banda di narcotrafficanti marsigliesi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il prezzo del potere|16:50:00|18:55:00|Rilettura western della morte di Kennedy. Nel 1881, a Dallas, dopo la guerra di Secessione, viene assassinato il Presidente degli Stati Uniti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Noi siamo le colonne|18:55:00|20:10:00|Come premio per aver sventato una rapina, Stanlio e Ollio possono iscriversi all&#039;Univesita&#039; di Oxford.
+|![Icon](https://guidatv.sky.it/uuid/9cbc28dc-29a5-4f3f-89ce-dab047c5277b/cover?md5ChecksumParam=b49fcc3c09c22c94804d122721449bad)|Real steel|20:10:00|22:20:00|In un futuro dove spopola la boxe tra robot, un promoter di combattimenti scopre di avere un figlio che non ha mai conosciuto.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Atmosfera Zero|22:20:00|00:15:00|Sul pianeta Io, satellite di Giove, circola una droga pericolosa. Sean Connery, sceriffo intergalattico, viene incaricato di indagare.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
