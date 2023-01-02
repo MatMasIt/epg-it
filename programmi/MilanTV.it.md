@@ -3,46 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|We The Champ19ons|00:30:00|05:00:00|We The Champ19ons
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Twitch Sempre Milan-29/12/2022|05:00:00|06:20:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Allenamento Integrale con Ancelotti|06:20:00|06:45:00|Allenamento Integrale con Ancelotti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Pioli Dubai|06:45:00|07:05:00|Milan Tv-Conferenza Pioli Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Simo Ibra Dubai|07:05:00|07:25:00|Milan Tv-Speciale Simo Ibra Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Tonali Dubai|07:25:00|07:50:00|Milan Tv-Conferenza Tonali Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli Dubai|07:50:00|08:00:00|Milan Tv-Interview Pioli Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Merry Xmas To All Rossoneri|08:00:00|08:10:00|Merry Xmas To All Rossoneri
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Itw Sacchi|08:10:00|08:50:00|Milan Tv-Itw Sacchi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Steaua Bucarest-1988/1989|08:50:00|10:25:00|Milan vs Steaua Bucarest-1988/1989
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Clip Auguri Fondazione|10:25:00|10:35:00|Clip Auguri Fondazione
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|PSV vs Milan-30/12/2022|10:35:00|12:20:00|PSV vs Milan-30/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Rinnovo Pioli|12:20:00|12:40:00|Milan Tv-Speciale Rinnovo Pioli
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Rinnovo Kalulu|12:40:00|13:05:00|Milan Tv-Speciale Rinnovo Kalulu
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-On The Road Kalulu|13:05:00|13:35:00|Milan Tv-On The Road Kalulu
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|13:35:00|13:40:00|Dubai Training Camp Day 1
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti|13:40:00|13:45:00|Milan Tv-Allenamenti
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 2|13:45:00|14:00:00|Dubai Training Camp Day 2
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 3|14:00:00|14:10:00|Dubai Training Camp Day 3
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 4|14:10:00|14:15:00|Dubai Training Camp Day 4
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 14/12/2022|14:15:00|14:20:00|Milan Tv-Allenamenti 14/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 5|14:20:00|14:25:00|Dubai Training Camp Day 5
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 15/12/2022|14:25:00|14:35:00|Milan Tv-Allenamenti 15/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 6|14:35:00|14:50:00|Dubai Training Camp Day 6
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 7|14:50:00|14:55:00|Dubai Training Camp Day 7
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Indovina Chi|14:55:00|15:05:00|Milan Tv-Indovina Chi
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 8|15:05:00|15:15:00|Dubai Training Camp Day 8
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 18/12/2022|15:15:00|15:20:00|Milan Tv-Allenamenti 18/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 9|15:20:00|15:30:00|Dubai Training Camp Day 9
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti 19/12/2022|15:30:00|15:40:00|Milan Tv-Allenamenti 19/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|PSV vs Milan-30/12/2022|15:40:00|17:25:00|PSV vs Milan-30/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Pioli Dubai|17:25:00|17:50:00|Milan Tv-Conferenza Pioli Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Simo Ibra Dubai|17:50:00|18:05:00|Milan Tv-Speciale Simo Ibra Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Twitch Sempre Milan-29/12/2022|18:05:00|19:25:00|Aneddoti e retroscena, attualita&#039; e storie rossonere, con lo sguardo sempre verso il futuro: Lorenzo Lollo e Mauro Suma vi portano dentro al mondo rossonero con SempreMilan, il format che unisce Twitch e Milan TV
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Tonali Dubai|19:25:00|19:45:00|Milan Tv-Conferenza Tonali Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli Dubai|19:45:00|20:00:00|Milan Tv-Interview Pioli Dubai
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Salernitana-04/12/2021|20:00:00|21:45:00|Milan vs Salernitana-04/12/2021
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Speciale Oscar del Calcio 2022|21:45:00|21:55:00|Speciale Oscar del Calcio 2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|PSV vs Milan-30/12/2022|21:55:00|23:40:00|PSV vs Milan-30/12/2022
-|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Pioli Dubai|23:40:00|00:05:00|Milan Tv-Conferenza Pioli Dubai
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Simo Ibra Dubai|00:05:00|00:25:00|Milan Tv-Speciale Simo Ibra Dubai
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Merry Xmas To All Rossoneri|00:25:00|00:35:00|Merry Xmas To All Rossoneri
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Dubai Training Camp Day 1|00:35:00|00:40:00|Dubai Training Camp Day 1
@@ -101,6 +61,33 @@
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan vs Lumezzane-08/12/2022|22:00:00|23:35:00|Milan vs Lumezzane-08/12/2022
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Ibra Dubai|23:35:00|23:50:00|Milan Tv-Speciale Ibra Dubai
 |![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Tonali Dubai|23:50:00|00:10:00|Milan Tv-Conferenza Tonali Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli Dubai|00:10:00|00:30:00|Milan Tv-Interview Pioli Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Merry Xmas To All Rossoneri|00:30:00|00:40:00|Merry Xmas To All Rossoneri
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Festival dello Sport 2022|00:40:00|01:45:00|Milan Tv-Festival dello Sport 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Giroud e i tifosi|01:45:00|01:50:00|Milan Tv-Giroud e i tifosi
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Pioli Universita&#039; Statale|01:50:00|02:50:00|Milan Tv-Pioli Universita&#039; Statale
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Tomori Dubai|02:50:00|03:10:00|Milan Tv-Interview Tomori Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Short Collection 2022|03:10:00|03:50:00|Milan Tv-Short Collection 2022
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Speciale Simo Ibra Dubai|03:50:00|04:05:00|Milan Tv-Speciale Simo Ibra Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Conferenza Tonali Dubai|04:05:00|04:25:00|Milan Tv-Conferenza Tonali Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Interview Pioli Dubai|04:25:00|05:00:00|Milan Tv-Interview Pioli Dubai
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Prima Squadra|05:00:00|06:45:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - A casa di Bennancer|06:45:00|07:00:00|Milan Tv - A casa di Bennancer
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Prima Squadra|07:00:00|08:50:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - Icons|08:50:00|09:00:00|Milan Tv - Icons
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Primavera|09:00:00|10:55:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - Icons|10:55:00|11:00:00|Milan Tv - Icons
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Femminile|11:00:00|13:00:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv-Allenamenti|13:00:00|13:10:00|Soulmates Gattuso Pirlo Seedorf
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Prima Squadra|13:10:00|15:05:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - Addicted Gegio|15:05:00|15:15:00|Milan Tv - Addicted Gegio
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Prima Squadra|15:15:00|17:10:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - Addicted Cracco|17:10:00|17:20:00|Milan Tv - Addicted Cracco
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Primavera|17:20:00|19:20:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Post Partita - Review|19:20:00|20:10:00|Milan TV e i tifosi, botta e risposta. Il commento dei milanisti, l&#039;analisi del Club Channel. Interviste al tecnico e alla squadra, da tutte le postazioni collegate sia in casa che in trasferta
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Milan Tv - The Ring Puntata 3|20:10:00|20:20:00|Milan Tv - The Ring Puntata 3
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Femminile|20:20:00|22:15:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
+|![Icon](https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png)|Review 20-21 AC Milan Primavera|22:15:00|00:10:00|Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione
 
 
 
