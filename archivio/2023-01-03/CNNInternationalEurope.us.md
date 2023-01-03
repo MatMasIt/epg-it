@@ -3,17 +3,14 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mission: Ahead|00:00:00|00:30:00|Pushing the boundaries of technology to new heights: performing surgery with holograms, designing game-changing antibiotics in virtual reality, and growing human milk in the lab.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Mission: Ahead|00:30:00|01:00:00|Inventors and entrepreneurs from across the globe rethink the way we get ourselves and our things from point A to point B, helping us go further without the carbon footprint.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Special Report|01:00:00|02:00:00|You ask, CNN answers. In an in-depth exploration, CNN hosts examine extraordinary individuals and unexpected events through interviews, stories, images and video.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Extraordinary with Fareed Zakaria|02:00:00|03:00:00|Billy Joel has sold more than 150 million records and received the Gershwin Prize for Popular Song from The Library of Congress.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|African Voices Changemakers|03:00:00|03:30:00|African Voices starts a new chapter as we focus on some of the Changemakers who are coming up with innovative ways to have a positive impact on their communities.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Eco Solutions|03:30:00|04:00:00|Due to global impacts of the climate crisis, the United Arab Emirates is making a sharp pivot for renewable energy solutions, even with a high reliance on oil fom Abu Dhabi.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Hidden Treasures|04:00:00|04:30:00|The distinctive rock formations of Cappodocia are surreal, sculpted and carved by nature over time. The secrets these geological wonders have held within are just as extraordinary.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Inside Africa|04:30:00|05:00:00|Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Michael Holmes|05:00:00|05:45:00|Live from Atlanta, Michael Holmes brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Erin Burnett OutFront|00:00:00|01:00:00|Erin Burnett stays ahead of the headlines, delivering a show that&#039;s in-depth and informative.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Anderson Cooper 360|01:00:00|02:00:00|Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Tonight (CNN/US)|02:00:00|03:00:00|The latest news and information from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Tonight (CNN/US)|03:00:00|04:00:00|The latest news and information from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Tonight (CNN/US)|04:00:00|05:00:00|The latest news and information from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with John Vause|05:00:00|05:45:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport - 1^TV|05:45:00|06:00:00|Daily sports show features major stories and issues making news in the world of sports.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Laila Harrak|06:00:00|07:00:00|Live from Atlanta, Laila Harrak brings context and clarity to the day&#039;s top stories from around the world.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with John Vause|06:00:00|07:00:00|Live from Atlanta, John Vause brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Rosemary Church|07:00:00|07:45:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|World Sport - 1^TV|07:45:00|08:00:00|Daily sports show features major stories and issues making news in the world of sports.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|CNN Newsroom with Rosemary Church|08:00:00|09:00:00|Live from Atlanta, Rosemary Church brings context and clarity to the day&#039;s top stories from around the world.
