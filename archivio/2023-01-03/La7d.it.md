@@ -1,5 +1,5 @@
 # La 7 d
-> Programmazione di Lunedì 02 Gennaio 2023
+> Programmazione di Martedì 03 Gennaio 2023
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
