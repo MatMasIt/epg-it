@@ -1,5 +1,5 @@
 # Real Time Italia
-> Programmazione di Mercoledì 04 Gennaio 2023
+> Programmazione di Giovedì 05 Gennaio 2023
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
