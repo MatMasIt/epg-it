@@ -93,8 +93,8 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|21:45:00|22:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:00:00|22:15:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:15:00|22:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:30:00|22:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:45:00|23:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:30:00|22:47:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|22:47:00|23:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:00:00|23:15:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:15:00|23:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:30:00|23:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
@@ -186,11 +186,11 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|21:00:00|21:15:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|21:15:00|21:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|21:30:00|21:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|21:45:00|22:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|21:45:00|22:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:00:00|22:15:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:15:00|22:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:30:00|22:47:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Witness|22:47:00|23:00:00|World issues in focus through the experiences of men, women and children at the heart of stories - Anelise Borges goes beyond the headlines and debates... and into people&#039;s lives.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:30:00|22:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|22:45:00|23:00:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:00:00|23:15:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:15:00|23:30:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Euronews Tonight|23:30:00|23:45:00|Headlines, breaking news, analysis and interviews from Europe&#039;s News Centre.
