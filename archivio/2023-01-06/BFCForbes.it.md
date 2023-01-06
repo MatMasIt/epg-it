@@ -3,61 +3,6 @@
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:00:00|00:30:00|Team System 100 Best in Class - Cernobbio
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:30:00|01:00:00|Salesforce - Executive Talk. Forbes incontra i protagonisti dell&#039;Executive Talk di Salesforce tenutosi a Milano
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|01:00:00|01:30:00|Ep7 - Stagione 3: Sarnano e San Gemini
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|01:30:00|02:00:00|Ep24 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|02:00:00|02:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|02:05:00|02:30:00|Ep5 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|02:30:00|03:00:00|Ep6 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|03:00:00|03:30:00|Team System 100 Best in Class - Cernobbio
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|03:30:00|04:00:00|Salesforce - Executive Talk. Forbes incontra i protagonisti dell&#039;Executive Talk di Salesforce tenutosi a Milano
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|04:00:00|04:30:00|Ep7 - Stagione 3: Sarnano e San Gemini
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|04:30:00|05:00:00|Ep24 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|05:00:00|05:30:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Trieste - seconda parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|05:30:00|05:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|05:35:00|06:00:00|Ep5 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|06:00:00|06:30:00|Ep6 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|06:30:00|07:00:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|07:00:00|07:30:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|07:30:00|08:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Prima parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|08:00:00|08:30:00|Ep1 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per prepararsi al colloquio di lavoro in modo da non farsi cogliere impreparati e avere successo
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|08:30:00|09:00:00|Team System 100 Best in Class - Cernobbio
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|09:00:00|09:30:00|Salesforce - Executive Talk. Forbes incontra i protagonisti dell&#039;Executive Talk di Salesforce tenutosi a Milano
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|09:30:00|09:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|09:35:00|10:00:00|Gli approfondimenti settimanali di AdnKronos
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|10:00:00|10:30:00|Ep7 - Stagione 3: Sarnano e San Gemini
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|10:30:00|11:00:00|Ep24 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali|11:00:00|11:30:00|IT Forum 2022
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|11:30:00|12:00:00|Ep4 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per cambiare ruolo e settore professionale nel corso della propria carriera
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|12:00:00|12:30:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Seconda parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Doc - Generazione Z|12:30:00|13:00:00|Ep1 - Dall&#039;Africa alla Cina
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|13:00:00|13:30:00|Ep5 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|13:30:00|14:00:00|Ep6 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|14:00:00|14:30:00|Ep3 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per curare il proprio personal branding in ottica di ricerca del lavoro
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|14:30:00|15:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Terza parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|15:00:00|15:30:00|Ep23 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Speciali - IAB Forum 2022|15:30:00|16:00:00|Forbes Italia ha intervistato i protagonisti di Decoding Changed, ventesima edizione dello IAB Forum, il principale evento sull&#039;innovazione digitale in Italia. Quarta parte
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Job Tips|16:00:00|16:30:00|Ep2 - Gioia e Guenda Novena, founder di Nextopp, condividono alcuni consigli per fare networking ad alti livelli con chi assume
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|16:30:00|17:00:00|Ep1 - Stagione 3: Merano
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|17:00:00|17:30:00|Ep7 - Stagione 3: Sarnano e San Gemini
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|17:30:00|18:00:00|Salesforce - Executive Talk. Forbes incontra i protagonisti dell&#039;Executive Talk di Salesforce tenutosi a Milano
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews 1^TV|18:00:00|18:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos 1^TV|18:05:00|18:30:00|Gli approfondimenti settimanali di AdnKronos
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|18:30:00|19:00:00|Ep24 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|19:00:00|19:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|19:05:00|19:30:00|Ep7 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|19:30:00|20:00:00|Ep8 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|20:00:00|20:30:00|100 Professionals: l&#039;evento targato Forbes dedicato alla ricerca e alla selezione delle eccellenze nella categoria dei professionisti. Cento professionisti, cento innovatori capaci di guardare al futuro e creare valore
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|20:30:00|21:00:00|Forbes 30 under 30 al Principe Savoia di Milano
-|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|21:00:00|21:30:00|Ep8 - Stagione 3: Terni
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|21:30:00|22:00:00|Forbes Small Giants 2022 - Un viaggio alla scoperta delle eccellenze italiane. Tappa di Ostuni
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|22:00:00|22:30:00|Team System 100 Best in Class - Cernobbio
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|22:30:00|22:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Equos Mondo Galoppo|22:35:00|23:00:00|Ep24 - Emozioni purosangue - uomini a cavallo di un sogno. Un programma di Filippo Brusa
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|23:00:00|23:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|23:05:00|23:30:00|Ep7 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
-|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|23:30:00|00:00:00|Ep8 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:00:00|00:30:00|100 Professionals: l&#039;evento targato Forbes dedicato alla ricerca e alla selezione delle eccellenze nella categoria dei professionisti. Cento professionisti, cento innovatori capaci di guardare al futuro e creare valore
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:30:00|01:00:00|Forbes 30 under 30 al Principe Savoia di Milano
 |![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|01:00:00|01:30:00|Ep8 - Stagione 3: Terni
@@ -113,6 +58,55 @@
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|23:00:00|23:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|23:05:00|23:30:00|Ep9 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
 |![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|23:30:00|00:00:00|Ep10 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:00:00|00:30:00|Magna Grecia Awards - Bari luglio 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|00:30:00|01:00:00|Salesforce - Executive Equality Talk. Forbes incontra i protagonisti dell&#039;Executive Equality Talk di Salesforce tenutosi a Milano
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|01:00:00|01:30:00|Ep9 - Stagione 3: Sui Sentieri degli Ezzelini
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Codice Gardini|01:30:00|02:00:00|Codice Gardini. Heritage, Academy &amp; Tasting. Degustare il vino in chiave pop, in un viaggio tra grandi vini e Cantine. Una wine series con Luca Gardini, opinion leader nel mondo del vino.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|02:00:00|02:05:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|02:05:00|02:30:00|Ep9 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|02:30:00|03:00:00|Ep10 - La terza edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|03:00:00|03:30:00|Magna Grecia Awards - Bari luglio 2022
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BFC Events|03:30:00|04:00:00|Salesforce - Executive Equality Talk. Forbes incontra i protagonisti dell&#039;Executive Equality Talk di Salesforce tenutosi a Milano
+|![Icon](https://guidatv.sky.it/uuid/c62c3a3c-2b17-4095-baaf-de8836c3d9d6/cover?md5ChecksumParam=f5d6dd2744e94bddd589f9f71039962b)|Gita fuori porta|04:00:00|04:30:00|Ep9 - Stagione 3: Sui Sentieri degli Ezzelini
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Codice Gardini|04:30:00|05:00:00|Codice Gardini. Heritage, Academy &amp; Tasting. Degustare il vino in chiave pop, in un viaggio tra grandi vini e Cantine. Una wine series con Luca Gardini, opinion leader nel mondo del vino.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BLUE ACADEMY|05:00:00|05:30:00|BFC EDUCATION - Blue Academy. La formazione professionale rivolta a neolaureati e professionisti della finanza per lo sviluppo di nuove competenze. Conduce Vito Massafra.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|BlueratingNews|05:30:00|05:35:00|BFC bluerating - blueratingNews. Le principali notizie del giorno dal mondo del risparmio gestito e dei servizi finanziari. La giornata in Borsa: news, analisi, outlook. I titoli top e flop.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|05:35:00|06:00:00|La seconda edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|4cLegal Academy|06:00:00|06:30:00|La seconda edizione di 4cLegal Academy, il talent show dedicato al mercato legale e ai neolaureati italiani.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|06:30:00|07:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|07:00:00|07:30:00|BFC Responsibility. Siamo Jedi. Un programma sul lavoro e impresa innovativa e sostenibile realizzato dai ragazzi delle scuole superiori di Accademia + . Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|07:30:00|08:00:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|08:00:00|08:15:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|08:15:00|08:45:00|La Finanza in Azienda. Keep it Simple!
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|AdnKronos|08:45:00|09:00:00|AdnKronos
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes MOBILITY|09:00:00|09:30:00|Fobes MOBILITY
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|09:30:00|10:00:00|BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|10:00:00|10:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Motorsport Garage|10:30:00|11:00:00|I test di prodotto esclusivi, le emozioni impagabili del motorsport e il legame che unisce da sempre il mondo delle competizioni e quello della produzione di serie.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes BLOCKCHAIN &amp; CO|11:00:00|11:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|11:30:00|12:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes GREEN CARPET|12:00:00|12:30:00|BFC Forbes-Forbes GREEN CARPET. Imprenditori e manager protagonisti dell&#039;impresa internazionale esplorano i mondi della responsabilita&#039; sociale. Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|12:30:00|13:00:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|13:00:00|13:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Siamo Jedi|13:30:00|14:00:00|BFC Responsibility. Siamo Jedi. Un programma sul lavoro e impresa innovativa e sostenibile realizzato dai ragazzi delle scuole superiori di Accademia + . Conduce Enzo Argante.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|14:00:00|15:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Motorsport Garage|15:00:00|15:30:00|I test di prodotto esclusivi, le emozioni impagabili del motorsport e il legame che unisce da sempre il mondo delle competizioni e quello della produzione di serie.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive Motorsport|15:30:00|16:00:00|Safe Drive Motorsport
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive|16:00:00|17:00:00|Una finestra sul mondo dell&#039;auto, dove e&#039; possibile trovare: anteprime, interviste, presentazioni saloni e fiere, test e prove.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes BLOCKCHAIN &amp; CO|17:00:00|17:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|17:30:00|18:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Leader Mercati|18:00:00|18:30:00|Leader Mercati
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Club Deal OnLine|18:30:00|19:00:00|Club Deal OnLine
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes #CENACOLOARTOM|19:00:00|19:30:00|BFC Forbes - #CENACOLOARTOM. I leader si raccontano ad Arturo Artom: talento, fortuna, visioni.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesLEADER|19:30:00|20:00:00|BFC Forbes - Forbes LEADER. In esclusiva i protagonisti del mondo Forbes. A cura di Marcello Astorri
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|20:00:00|20:30:00|Un programma a cura di Ivan Fogliata, inFinance
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes - Le Village|20:30:00|21:00:00|Forbes - Le Village
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes MOBILITY|21:00:00|21:30:00|Fobes MOBILITY
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|La Finanza in Azienda. Keep it Simple!|21:30:00|22:00:00|La Finanza in Azienda. Keep it Simple!
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Safe Drive Motorsport|22:00:00|22:30:00|Safe Drive Motorsport
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes WOMEN|22:30:00|23:00:00|Le donne che rappresentano al meglio l&#039;Italia al femminile: capacita&#039;, carisma, creativita&#039; e visione del futuro. A cura di Roberta Maddalena.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|Forbes BLOCKCHAIN &amp; CO|23:00:00|23:30:00|BFC Forbes - Fobes BLOCKCHAIN &amp; CO. Federico Morgantini vi porta nel mondo della ICO, delle cryptoasset e delle applicazioni tecnologiche del futuro.
+|![Icon](https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png)|ForbesSILICIO|23:30:00|00:00:00|BFC Forbes - Forbes SILICIO. Gabriele Di Matteo conduce il magazine dedicato all&#039;innovazione tecnologica e al mondo digitale.
 
 
 
