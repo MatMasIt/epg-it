@@ -1,5 +1,5 @@
 # Virgin Radio TV
-> Programmazione di Giovedì 05 Gennaio 2023
+> Programmazione di Venerdì 06 Gennaio 2023
 
 ||Programma|Inizio|Fine|Descrizione|
 |---|---|---|---|---|
