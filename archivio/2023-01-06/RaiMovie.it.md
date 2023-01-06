@@ -1,0 +1,39 @@
+# Rai Movie
+> Programmazione di Giovedì 05 Gennaio 2023
+
+||Programma|Inizio|Fine|Descrizione|
+|---|---|---|---|---|
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Razorback Oltre l&#039;urlo del demonio|00:30:00|02:05:00|Un mostruoso animale detto razorback uccide un bambino, ma a essere accusato della sparizione e&#039; il nonno del piccolo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Diabolicamente tua|02:05:00|03:35:00|Un uomo perde la memoria e qualcuno lo convince che la sua vera identita&#039; sia un&#039;altra. Capira&#039; di essere stato raggirato?
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Pugno di ferro|03:35:00|04:00:00|Stanlio e Ollio, vagabondi giramondo, arrivano in uno squallido albergo il cui proprietario vuole a tutti i costi sposarsi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Lacrime delle Dolomiti di Sesto|04:00:00|06:15:00|Prima Guerra Mondiale. Due giovani, arruolati nell&#039;esercito asburgico per difendere il loro territorio, si contendono l&#039;amore della stessa donna.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Morgan il pirata|06:15:00|07:55:00|Innamorato della figlia del governatore, uno scudiero viene allontanato e diventa un terribile e vendicativo pirata.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;emigrante|07:55:00|09:55:00|La vicenda di un giovane napoletano che ai primi del &#039;900 emigra in America e viene coinvolto nelle attivita&#039; mafiose.
+|![Icon](https://guidatv.sky.it/uuid/00abc77b-a586-4ba5-b70b-fc016223e069/cover?md5ChecksumParam=7cea315037cfb24e3fbd54aef374cf23)|Nati stanchi|09:55:00|11:20:00|Due ragazzi siciliani, chiamati dalla societa&#039; a rendersi utili, fingono con abile disinvoltura di impegnarsi nella ricerca di lavoro.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ercole contro Roma|11:20:00|13:00:00|Ercole accorre in Italia per sventare un complotto delle guardie pretoriane contro l&#039;Imperatore.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Sacro e profano|13:00:00|15:10:00|Debutto registico di Madonna. La storia di uno scrittore, di una ballerina e di una farmacista, legati da Eugene Hutz.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Piedone d&#039;Egitto|15:10:00|17:05:00|Piedone e il fedele Caputo partono per Il Cairo alla ricerca di un professore, notorio esperto di giacimenti petroliferi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|I cavalieri del Nord Ovest|17:05:00|19:00:00|Dopo il massacro di Little Big Horn, un capitano rinuncia al congedo per tenere sotto controllo la tensione coi pellerossa.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La bugia|19:00:00|19:35:00|In vacanza ad Atlantic City con le mogli, Stanlio e Ollio vengono invitati a una festa in loro onore. Dovranno, pero&#039;, mentire alle consorti.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La scala musicale|19:35:00|20:10:00|Stanlio e Ollio fanno i trasportatori e devono consegnare, tra mille difficolta&#039; e su un carro trainato da un paziente ronzino, una pianola meccanica alla signora von Schwarzenhoffen.
+|![Icon](https://guidatv.sky.it/uuid/6c34ac3e-63fd-4610-9bba-36b21de9dd92/cover?md5ChecksumParam=8d42c4a4301ed1880fe406aeb6776ed7)|Blade Runner 2049|20:10:00|23:00:00|I replicanti di nuova generazione si sono integrati nella societa&#039;. Alcuni di essi, come l&#039;agente K, danno la caccia ai vecchi ribelli...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|2022: i sopravvissuti|23:00:00|00:45:00|In un futuro sovrappopolato, gli abitanti si nutrono di cibo sintetico, finche&#039; un detective non ne scopre l&#039;orrenda miscela.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Anica Appuntamento al cinema|00:45:00|00:50:00|Rubrica per la promozione della cultura cinematografica in Italia.
+|![Icon](https://guidatv.sky.it/uuid/fde28644-4d1d-4602-837d-624d7111232b/cover?md5ChecksumParam=e1c921b1664b904a9cae189f71afe90e)|L&#039;angelo del male - Brightburn|00:50:00|02:15:00|E se un bambino di un altro mondo precipitasse sulla Terra, ma invece di diventare un eroe per l&#039;umanita&#039; si rivelasse qualcosa di sinistro?
+|![Icon](https://guidatv.sky.it/uuid/2266dfc7-7757-4043-b58c-7e1adcc3a6cd/cover?md5ChecksumParam=554864002f8655c882cf3f3a4dc7b1d2)|Hours|02:15:00|04:00:00|La costa atlantica degli USA e&#039; sconvolta dall&#039;uragano Katrina. Un padre deve proteggere la sua figlioletta ad ogni costo.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|La scimitarra del saraceno|04:00:00|05:45:00|Capitan Drago sconfigge il pirata Drakut, che tiene prigioniera una bella fanciulla.
+|![Icon](https://guidatv.sky.it/uuid/372c408c-d96e-49a9-a58e-e7c5db12cab9/cover?md5ChecksumParam=399dd930245c7ff2a214e801033f37ed)|Jonathan degli orsi|05:45:00|07:55:00|Allevato nella foresta dagli orsi, Jonathan da grande aiuta una tribu&#039; di pellerossa a difendersi da alcuni speculatori.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Rugantino|07:55:00|09:50:00|Adriano Celentano celebre personaggio della Roma papalina. Il marito della sua amata viene ucciso e la colpa ricade su di lui.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Otzi e il mistero del tempo|09:50:00|11:20:00|Il giovane Kip, prima di lasciare Bolzano, va con gli amici al museo a salutare la mummia Otzi, ma accade una magia: Otzi si risveglia.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Ercole contro i Figli del Sole|11:20:00|12:55:00|Ercole, accorso in aiuto della regina Inca Yamara, spodestata dai Figli del Sole e prossima a un sacrificio estremo, deve sconfiggere Athahualpa.
+|![Icon](https://guidatv.sky.it/uuid/098bd6c1-1a91-4d30-a392-0d6047720398/cover?md5ChecksumParam=115fc2c933ed16a1d838d57b7c5c8793)|Alita - Angelo della battaglia|12:55:00|15:00:00|Alita e&#039; una cyborg decisamente unica: combatte senza paura, ma prova emozioni &#039;molto umane&#039;. Il suo creatore infatti...
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Gli Imperdibili|15:00:00|15:05:00|Backstage, anteprime, eventi e curiosita&#039; dentro lo schermo nel programma che offre informazione e approfondimento sulla programmazione dei canali che compongono il bouquet Rai.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Fai come ti pare|15:05:00|17:05:00|Per guadagnare qualcosa in piu&#039; e riconquistare l&#039;amore della sua vita, un meccanico decide di combattere sul ring da pugile dilettante.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Il massacro di Fort Apache|17:05:00|19:35:00|Un generale vanaglorioso si accanisce sui pellerossa in territorio Apache. La vendetta rossa non tarda ad arrivare.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Annuncio matrimoniale|19:35:00|20:10:00|Stanlio e Ollio, due barbieri, decidono che e&#039; giunto il momento di trovarsi una moglie ricca. La donna che risponde all&#039;annuncio, pero&#039;, ha un suo piano.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|L&#039;acchiappasogni|20:10:00|22:30:00|Quando quattro ragazzini salvano un bambino, Duddits, acquistano alcuni poteri soprannaturali che gli saranno utili anni piu&#039; tardi.
+|![Icon](https://guidatv.sky.it/uuid/DTT_Cover_aylSk7oKf.png)|Under the Skin|22:30:00|00:30:00|Un&#039;aliena si impossessa del corpo di una donna morta. Con la sua bellezza, adesca poveri malcapitati per ucciderli.
+
+
+
+ > epg-it 0.1.0, MatMasIt - Dati epg SKY
